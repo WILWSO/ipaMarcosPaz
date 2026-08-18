@@ -6,8 +6,12 @@ import Ministerios from './components/Ministerios'
 import Eventos from './components/Eventos'
 import Contacto from './components/Contacto'
 import Footer from './components/Footer'
+import AreaPrivada from './components/AreaPrivada'
+import Membresia from './components/Membresia'
 
 export default function App() {
+  if (window.location.pathname === '/area-privada') return <AreaPrivada />
+
   return (
     <>
       <Navbar />
@@ -17,6 +21,7 @@ export default function App() {
         <Horarios />
         <Ministerios />
         <Eventos />
+        <Membresia />
         <Contacto />
       </main>
       <Footer />

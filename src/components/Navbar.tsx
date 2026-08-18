@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { iglesia } from '../data/contenido'
+import { enlaces, iglesia } from '../data/contenido'
 
 const links = [
   { href: '#nosotros', label: 'Nosotros' },
@@ -38,6 +38,15 @@ export default function Navbar() {
               </a>
             </li>
           ))}
+          <li>
+            <a
+              href={enlaces.areaPrivada}
+              rel="nofollow"
+              className="rounded-full bg-brand-700 px-4 py-2 text-sm font-semibold text-white transition hover:bg-brand-800"
+            >
+              Área privada
+            </a>
+          </li>
         </ul>
 
         <button
@@ -66,6 +75,16 @@ export default function Navbar() {
               </a>
             </li>
           ))}
+          <li>
+            <a
+              href={enlaces.areaPrivada}
+              rel="nofollow"
+              onClick={() => setAbierto(false)}
+              className="block py-2 font-semibold text-brand-800"
+            >
+              Área privada
+            </a>
+          </li>
         </ul>
       )}
     </header>

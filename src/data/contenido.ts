@@ -14,6 +14,12 @@ export const iglesia = {
   },
 }
 
+export const enlaces = {
+  areaPrivada: '/api/auth/start',
+  // Formulario público de IglesiasNet: reemplazar por la URL definitiva.
+  solicitudMembresia: 'https://www.iglesianet.org/',
+}
+
 export const horarios = [
   {
     dia: 'Domingo',

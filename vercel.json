@@ -3,5 +3,8 @@
   "framework": "vite",
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
-  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
+  "rewrites": [
+    { "source": "/area-privada/callback", "destination": "/api/auth/callback" },
+    { "source": "/((?!api/).*)", "destination": "/index.html" }
+  ]
 }
