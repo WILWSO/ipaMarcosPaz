@@ -17,7 +17,7 @@ export default function Membresia() {
           rel="noopener noreferrer"
           className="shrink-0 rounded-full bg-accent-500 px-7 py-3 font-semibold text-brand-900 transition hover:bg-accent-400"
         >
-          Solicitud de membresía
+          Solicitud de Membresía y bautismos
         </a>
       </div>
     </section>

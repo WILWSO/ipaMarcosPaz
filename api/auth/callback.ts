@@ -1,6 +1,6 @@
 import { timingSafeEqual } from 'node:crypto'
-import type { VercelRequest, VercelResponse } from '../_http'
-import { clearState, getState, setSession } from '../_session'
+import type { VercelRequest, VercelResponse } from '../_http.js'
+import { clearState, getState, setSession } from '../_session.js'
 
 interface Identity {
   email?: string | null
@@ -28,9 +28,9 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     return reject(res, 400, 'State inválido')
   }
 
-  const centralUrl = process.env.IGLESIANET_URL
-  const clientId = process.env.IPA_CLIENT_ID
-  const redirectUri = process.env.IPA_REDIRECT_URI
+  const centralUrl = process.env.IGLESIANET_URL || 'http://localhost:5173'
+  const clientId = process.env.IPA_CLIENT_ID || '1ipa'
+  const redirectUri = process.env.IPA_REDIRECT_URI || 'http://localhost:3000/api/auth/callback'
   const clientSecret = process.env.IPA_CLIENT_SECRET
   if (!centralUrl || !clientId || !redirectUri || !clientSecret) {
     return reject(res, 500, 'SSO no configurado')

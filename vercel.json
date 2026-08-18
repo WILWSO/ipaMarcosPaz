@@ -4,7 +4,6 @@
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
   "rewrites": [
-    { "source": "/area-privada/callback", "destination": "/api/auth/callback" },
-    { "source": "/((?!api/).*)", "destination": "/index.html" }
+    { "source": "/area-privada/callback", "destination": "/api/auth/callback" }
   ]
 }

@@ -16,8 +16,8 @@ export const iglesia = {
 
 export const enlaces = {
   areaPrivada: '/api/auth/start',
-  // Formulario público de IglesiasNet: reemplazar por la URL definitiva.
-  solicitudMembresia: 'https://www.iglesianet.org/',
+  // Formulario público, sin login, con IPA Marcos Paz preseleccionada.
+  solicitudMembresia: `${import.meta.env.VITE_IGLESIANET_URL ?? 'https://www.iglesianet.org'}/membership-request?client_id=1ipa&tenant=09d5d211-1f6a-46a4-8a17-b5277d017e34`,
 }
 
 export const horarios = [

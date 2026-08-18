@@ -1,5 +1,5 @@
 import { createHmac, timingSafeEqual } from 'node:crypto'
-import { parseCookies, type VercelRequest, type VercelResponse } from './_http'
+import { parseCookies, type VercelRequest, type VercelResponse } from './_http.js'
 
 export interface SiteSession {
   email: string | null
@@ -36,7 +36,8 @@ function attributes(maxAge: number) {
 function appendCookie(res: VercelResponse, value: string) {
   const previous = res.getHeader('Set-Cookie')
   const list = Array.isArray(previous) ? previous : typeof previous === 'string' ? [previous] : []
-  res.setHeader('Set-Cookie', [...list, value])
+  const cookies = [...list, value]
+  res.setHeader('Set-Cookie', cookies.length === 1 ? cookies[0] : cookies)
 }
 
 export function encodeSession(session: SignedSession) {
@@ -70,7 +71,7 @@ export function getSession(req: VercelRequest) {
 }
 
 export function setState(res: VercelResponse, state: string) {
-  appendCookie(res, `${stateCookie}=${encodeURIComponent(state)}; ${attributes(stateMaxAge)}`)
+  res.setHeader('Set-Cookie', `${stateCookie}=${encodeURIComponent(state)}; ${attributes(stateMaxAge)}`)
 }
 
 export function getState(req: VercelRequest) {

@@ -1,5 +1,5 @@
-import type { VercelRequest, VercelResponse } from '../_http'
-import { clearCookies } from '../_session'
+import type { VercelRequest, VercelResponse } from '../_http.js'
+import { clearCookies } from '../_session.js'
 
 export default function handler(_req: VercelRequest, res: VercelResponse) {
   clearCookies(res)

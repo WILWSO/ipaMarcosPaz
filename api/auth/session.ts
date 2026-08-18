@@ -1,5 +1,5 @@
-import type { VercelRequest, VercelResponse } from '../_http'
-import { getSession } from '../_session'
+import type { VercelRequest, VercelResponse } from '../_http.js'
+import { getSession } from '../_session.js'
 
 export default function handler(req: VercelRequest, res: VercelResponse) {
   res.setHeader('Cache-Control', 'no-store')
