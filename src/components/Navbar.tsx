@@ -20,7 +20,7 @@ export default function Navbar() {
           <span
             role="img"
             aria-label="Iglesia Presbiteriana Argentina"
-            className="h-14 w-14 shrink-0 bg-brand-800 [mask-image:url('/ipamp.png')] [mask-position:center] [mask-repeat:no-repeat] [mask-size:contain]"
+            className="h-14 w-14 shrink-0 bg-brand-800 mask-[url('/ipamp.png')] mask-center mask-no-repeat mask-contain"
           />
           <span className="leading-tight">
             <span className="block text-sm font-semibold text-brand-800">
