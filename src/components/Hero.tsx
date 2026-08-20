@@ -11,7 +11,7 @@ export default function Hero() {
           {iglesia.ciudad} &middot; {iglesia.provincia}
         </p>
         <h1 className="mx-auto mt-6 max-w-3xl text-4xl font-semibold leading-tight sm:text-5xl">
-          {iglesia.nombre} de {iglesia.ciudad}
+          {iglesia.nombre}
         </h1>
         <p className="mx-auto mt-6 max-w-2xl text-lg text-brand-100">
           {iglesia.lema}

@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react'
+import { MapPin } from 'lucide-react'
 import { supabase } from '../lib/supabase'
 
 export type Evento = {
@@ -97,8 +98,9 @@ export default function Eventos() {
                 <p className="mt-2 text-sm text-brand-600">{e.descripcion}</p>
               )}
               {e.lugar && (
-                <p className="mt-4 text-sm font-medium text-brand-700">
-                  📍 {e.lugar}
+                <p className="mt-4 flex items-center gap-1.5 text-sm font-medium text-brand-700">
+                  <MapPin className="h-4 w-4 shrink-0 text-accent-600" aria-hidden="true" />
+                  {e.lugar}
                 </p>
               )}
             </article>
