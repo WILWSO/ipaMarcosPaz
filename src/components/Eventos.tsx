@@ -12,17 +12,27 @@ export type Evento = {
 const eventosDemo: Evento[] = [
   {
     id: 'demo-1',
-    titulo: 'Culto de acción de gracias',
-    descripcion: 'Un tiempo especial de adoración junto a toda la congregación.',
-    fecha: new Date(Date.now() + 7 * 86400000).toISOString(),
-    lugar: 'Templo principal',
+    titulo: 'Intensivo del módulo 5 de Catecúmenos',
+    descripcion:
+      'Domingos 6 y 13 de septiembre, de 12:40 a 14:00 hs. Curso para toda la iglesia sobre membresía, derechos y deberes, disciplina, gobierno de la iglesia, oficiales y mayordomía cristiana.',
+    fecha: '2026-09-06T12:40:00-03:00',
+    lugar: 'Iglesia Presbiteriana de Marcos Paz',
   },
   {
     id: 'demo-2',
-    titulo: 'Retiro de jóvenes',
-    descripcion: 'Fin de semana de enseñanza, comunión y descanso.',
-    fecha: new Date(Date.now() + 21 * 86400000).toISOString(),
-    lugar: 'Camping de Marcos Paz',
+    titulo: 'Conmemoración del Día de la Reforma',
+    descripcion:
+      'Encuentro conmemorativo de la Reforma Protestante, de 10:00 a 13:00 hs.',
+    fecha: '2026-10-10T10:00:00-03:00',
+    lugar: 'Iglesia de Capital Federal, Hipólito Yrigoyen 1174',
+  },
+  {
+    id: 'demo-3',
+    titulo: 'Viaje a Brasil - Semana Santa 2027',
+    descripcion:
+      'Comunión con iglesias de cuatro países, con paseo por Paraguay y las Cataratas del Iguazú.',
+    fecha: '2027-03-25T09:00:00-03:00',
+    lugar: 'Brasil, Paraguay y Cataratas del Iguazú',
   },
 ]
 

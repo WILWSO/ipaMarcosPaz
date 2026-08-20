@@ -8,6 +8,7 @@ import Contacto from './components/Contacto'
 import Footer from './components/Footer'
 import AreaPrivada from './components/AreaPrivada'
 import Membresia from './components/Membresia'
+import Recursos from './components/Recursos'
 
 export default function App() {
   if (window.location.pathname === '/area-privada') return <AreaPrivada />
@@ -22,6 +23,7 @@ export default function App() {
         <Ministerios />
         <Eventos />
         <Membresia />
+        <Recursos />
         <Contacto />
       </main>
       <Footer />

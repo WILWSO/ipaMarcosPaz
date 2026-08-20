@@ -1,4 +1,4 @@
-import { iglesia } from '../data/contenido'
+import { enlaces, iglesia } from '../data/contenido'
 
 export default function Hero() {
   return (
@@ -6,7 +6,6 @@ export default function Hero() {
       id="inicio"
       className="relative overflow-hidden bg-brand-800 text-white"
     >
-      <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_right,rgba(216,178,106,0.25),transparent_55%)]" />
       <div className="relative mx-auto max-w-6xl px-4 py-24 text-center sm:py-32">
         <p className="text-sm font-semibold uppercase tracking-[0.3em] text-accent-400">
           {iglesia.ciudad} &middot; {iglesia.provincia}
@@ -29,6 +28,14 @@ export default function Hero() {
             className="rounded-full border border-white/40 px-7 py-3 font-semibold transition hover:bg-white/10"
           >
             Quiero visitarlos
+          </a>
+          <a
+            href={enlaces.solicitudMembresia}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="rounded-full border border-accent-400 px-7 py-3 font-semibold text-accent-400 transition hover:bg-accent-500 hover:text-brand-900"
+          >
+            Solicitar membresía
           </a>
         </div>
       </div>

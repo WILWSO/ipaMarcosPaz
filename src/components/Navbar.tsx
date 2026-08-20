@@ -6,6 +6,7 @@ const links = [
   { href: '#horarios', label: 'Horarios' },
   { href: '#ministerios', label: 'Ministerios' },
   { href: '#eventos', label: 'Eventos' },
+  { href: '#recursos', label: 'Recursos' },
   { href: '#contacto', label: 'Contacto' },
 ]
 
@@ -16,9 +17,11 @@ export default function Navbar() {
     <header className="sticky top-0 z-50 border-b border-brand-100 bg-white/90 backdrop-blur">
       <nav className="mx-auto flex max-w-6xl items-center justify-between px-4 py-3">
         <a href="#inicio" className="flex items-center gap-3">
-          <span className="flex h-10 w-10 items-center justify-center rounded-full bg-brand-700 text-lg font-semibold text-white">
-            IP
-          </span>
+          <span
+            role="img"
+            aria-label="Iglesia Presbiteriana Argentina"
+            className="h-14 w-14 shrink-0 bg-brand-800 [mask-image:url('/ipamp.png')] [mask-position:center] [mask-repeat:no-repeat] [mask-size:contain]"
+          />
           <span className="leading-tight">
             <span className="block text-sm font-semibold text-brand-800">
               {iglesia.nombre}
@@ -46,6 +49,16 @@ export default function Navbar() {
               className="rounded-full bg-brand-700 px-4 py-2 text-sm font-semibold text-white transition hover:bg-brand-800"
             >
               Área privada
+            </a>
+          </li>
+          <li>
+            <a
+              href={enlaces.solicitudMembresia}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="rounded-full border border-accent-500 px-4 py-2 text-sm font-semibold text-brand-800 transition hover:bg-accent-500 hover:text-brand-900"
+            >
+              Solicitar membresía
             </a>
           </li>
         </ul>
@@ -85,6 +98,17 @@ export default function Navbar() {
               className="block py-2 font-semibold text-brand-800"
             >
               Área privada
+            </a>
+          </li>
+          <li>
+            <a
+              href={enlaces.solicitudMembresia}
+              target="_blank"
+              rel="noopener noreferrer"
+              onClick={() => setAbierto(false)}
+              className="block py-2 font-semibold text-accent-600"
+            >
+              Solicitar membresía
             </a>
           </li>
         </ul>

@@ -1,72 +1,89 @@
 export const iglesia = {
-  nombre: 'Iglesia Presbiteriana Argentina',
+  nombre: 'IGLESIA PRESBITERIANA ARGENTINA',
   ciudad: 'Marcos Paz',
   provincia: 'Buenos Aires',
   lema: 'Una comunidad centrada en Cristo, la Palabra y el amor al prójimo.',
-  direccion: 'Av. Presidente Perón 123, Marcos Paz, Buenos Aires',
-  telefono: '+54 9 220 000-0000',
-  email: 'contacto@ipamarcospaz.org',
-  mapsUrl: 'https://www.google.com/maps/search/?api=1&query=Marcos+Paz+Buenos+Aires',
+  direccion: 'Sarmiento 1665, Marcos Paz, Buenos Aires',
+  telefono: '+54 11 2601 1240',
+  email: 'secretaria@ipamarcospaz.org',
+  mapsUrl: 'https://www.google.com/maps/search/?api=1&query=Sarmiento+1665%2C+Marcos+Paz%2C+Buenos+Aires',
   redes: {
     instagram: 'https://instagram.com/',
     facebook: 'https://facebook.com/',
-    youtube: 'https://youtube.com/',
+    youtube: 'https://www.youtube.com/channel/UCs_rRVEdme4E6PLgFNOO86w',
+    editorial: 'https://www.instagram.com/editorialcastillofuerte/',
+    pastor: 'https://www.instagram.com/pastorwiltonsantos/',
   },
 }
 
 export const enlaces = {
   areaPrivada: '/api/auth/start',
+  setres: 'https://setres.org',
+  editorial: 'https://www.instagram.com/editorialcastillofuerte/',
   // Formulario público, sin login, con IPA Marcos Paz preseleccionada.
   solicitudMembresia: `${import.meta.env.VITE_IGLESIANET_URL ?? 'https://www.iglesianet.org'}/membership-request?client_id=1ipa&tenant=09d5d211-1f6a-46a4-8a17-b5277d017e34`,
+}
+
+export const identidad = {
+  logo: '/ipamp.png',
+  mints: '/Mints_wilton.jpg',
+  editorial: '/castillo_fuerte.jpeg',
+  setres: 'https://www.setres.org/logo_dark.png',
 }
 
 export const horarios = [
   {
     dia: 'Domingo',
-    hora: '10:00 hs',
+    hora: '10:30 hs',
     titulo: 'Culto de adoración',
-    detalle: 'Predicación expositiva, alabanza y santa cena mensual.',
-  },
-  {
-    dia: 'Domingo',
-    hora: '11:30 hs',
-    titulo: 'Escuela dominical',
-    detalle: 'Clases para niños, jóvenes y adultos.',
-  },
-  {
-    dia: 'Miércoles',
-    hora: '20:00 hs',
-    titulo: 'Estudio bíblico y oración',
-    detalle: 'Encuentro semanal de estudio de las Escrituras.',
+    detalle: 'Culto general.',
   },
   {
     dia: 'Sábado',
-    hora: '18:00 hs',
-    titulo: 'Reunión de jóvenes',
-    detalle: 'Comunión, formación y actividades para adolescentes y jóvenes.',
+    hora: '10:30 hs',
+    titulo: 'CAFE - Centro de Atención Familiar y Espiritual',
+    detalle:
+      'Compartimos alimentos, ropa y otros recursos, junto con atención médica, psicológica, peluquería y servicios para la comunidad.',
+  },
+  {
+    dia: 'Sábado',
+    hora: '19:30 hs',
+    titulo: 'Conectados',
+    detalle: 'Encuentro de UPA y UPJ para adolescentes y jóvenes.',
+  },
+  {
+    dia: 'Miércoles',
+    hora: '19:30 a 20:30 hs',
+    titulo: 'Oración y enseñanza bíblica',
+    detalle: 'Encuentro semanal de oración y enseñanza bíblica.',
   },
 ]
 
 export const ministerios = [
   {
-    titulo: 'Niños',
+    titulo: 'Conectados',
     descripcion:
-      'Enseñanza bíblica adaptada a cada edad, en un ambiente seguro y alegre.',
+      'UPA - Unión Presbiteriana de Adolescentes. Un espacio de encuentro, amistad y formación para adolescentes.',
   },
   {
-    titulo: 'Jóvenes',
+    titulo: 'UPJ - Unión Presbiteriana de Jóvenes',
     descripcion:
-      'Discipulado, retiros y espacios de amistad para crecer en la fe.',
+      'Discipulado, retiros y espacios de amistad para crecer juntos en la fe.',
   },
   {
-    titulo: 'Matrimonios y familias',
+    titulo: 'CAFE',
+    descripcion:
+      'Centro de Atención Familiar y Espiritual: acompañamiento y servicios para las necesidades de la comunidad.',
+  },
+  {
+    titulo: 'Misiones',
+    descripcion:
+      'Apoyo a la plantación de iglesias y a misioneros dentro y fuera del país.',
+  },
+  {
+    titulo: 'Matrimonios y Familias',
     descripcion:
       'Acompañamiento y formación para hogares que buscan honrar a Dios.',
-  },
-  {
-    titulo: 'Acción social',
-    descripcion:
-      'Servicio a la comunidad de Marcos Paz a través de ayuda concreta.',
   },
   {
     titulo: 'Alabanza',
@@ -74,9 +91,19 @@ export const ministerios = [
       'Equipo de músicos y cantores que sirven en los cultos dominicales.',
   },
   {
-    titulo: 'Misiones',
+    titulo: 'SAF - Sociedad Auxiliadora Femenina',
     descripcion:
-      'Apoyo a plantación de iglesias y misioneros dentro y fuera del país.',
+      'Comunión, acompañamiento y servicio de las mujeres de la iglesia.',
+  },
+  {
+    titulo: 'UPH - Unión Presbiteriana de Hombres',
+    descripcion:
+      'Comunión, formación y servicio de los hombres de la iglesia.',
+  },
+  {
+    titulo: 'UPN - Unión Presbiteriana de Niños y Preadolescentes',
+    descripcion:
+      'Enseñanza bíblica y acompañamiento para niños y preadolescentes.',
   },
 ]
 

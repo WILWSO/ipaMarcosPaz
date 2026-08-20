@@ -38,6 +38,14 @@ export default function Footer() {
           >
             YouTube
           </a>
+          <a
+            href={iglesia.redes.pastor}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:text-accent-400"
+          >
+            Pastor
+          </a>
         </div>
       </div>
       <div className="border-t border-white/10 py-4 text-center text-xs">
