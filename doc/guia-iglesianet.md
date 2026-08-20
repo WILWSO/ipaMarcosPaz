@@ -199,4 +199,41 @@ Crear la pantalla de área privada.
 Configurar el dominio Vercel.
 Ejecutar las pruebas de seguridad.
 Publicar el botón en producción.
-La implementación del sitio debe hacerse en https://github.com/WILWSO/ipaMarcosPaz.git,  
+La implementación del sitio debe hacerse en https://github.com/WILWSO/ipaMarcosPaz.git,
+
+
+
+## Rodando el sistema - funcionó perfectamente el 20/08/2026
+1. Probar localmente
+**Terminal 1: IglesiasNet**
+npm run dev -- --port 5173
+
+**Terminal 2: ipaMarcosPaz**
+npm run dev:vercel
+
+Abrir http://localhost:3000 y pulsar Área privada.
+
+2. Corregir IglesiasNet
+  En IglesiasNet deben verificar:
+    * Que exista el cliente 1ipa.
+    * Que exista el tenant 09d5d211-1f6a-46a4-8a17-b5277d017e34.
+    * Que el tenant esté asociado al cliente 1ipa.
+    * Que esté activo.
+    * Que /membership-request?... devuelva la iglesia en churches, no churches: [].
+
+3. Registrar el callback local
+  Para probar SSO local, IglesiasNet debe aceptar:
+    http://localhost:3000/area-privada/callback
+  En producción debe aceptar:
+    https://www.ipamarcospaz.org/area-privada/callback
+
+4. Verificar producción
+  En Vercel deben existir estas variables privadas:
+    IGLESIANET_URL=https://www.iglesianet.org
+    IPA_CLIENT_ID=1ipa
+    IPA_REDIRECT_URI=https://www.ipamarcospaz.org/area-privada/callback
+    IPA_CLIENT_SECRET=...
+    SESSION_SECRET=...
+
+5. Credenciales
+El error de usuario y contraseña ocurre dentro de IglesiasNet. Hay que confirmar allí que wiltontecnologias sea un correo válido, que el usuario esté activo y restablecer la contraseña si es necesario.

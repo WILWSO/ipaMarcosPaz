@@ -41,7 +41,8 @@ export default function Navbar() {
           <li>
             <a
               href={enlaces.areaPrivada}
-              rel="nofollow"
+              target="_blank"
+              rel="nofollow noopener noreferrer"
               className="rounded-full bg-brand-700 px-4 py-2 text-sm font-semibold text-white transition hover:bg-brand-800"
             >
               Área privada
@@ -78,7 +79,8 @@ export default function Navbar() {
           <li>
             <a
               href={enlaces.areaPrivada}
-              rel="nofollow"
+              target="_blank"
+              rel="nofollow noopener noreferrer"
               onClick={() => setAbierto(false)}
               className="block py-2 font-semibold text-brand-800"
             >

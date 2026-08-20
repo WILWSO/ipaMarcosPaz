@@ -10,6 +10,17 @@ Copy-Item .env.example .env
 npm run dev
 ```
 
+Para probar la autenticacion SSO local, usa Vercel Dev, porque `npm run dev`
+solo ejecuta Vite y no procesa las funciones de `api/`:
+
+```powershell
+npm run dev:vercel
+```
+
+Deja IglesiasNet ejecutandose en `http://localhost:5173` y verifica que
+`.env.local` tenga `IGLESIANET_URL=http://localhost:5173` y
+`IPA_REDIRECT_URI=http://localhost:3000/area-privada/callback`.
+
 ## Supabase
 
 1. Crear un proyecto en [supabase.com](https://supabase.com).
