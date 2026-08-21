@@ -237,3 +237,19 @@ Abrir http://localhost:3000 y pulsar Área privada.
 
 5. Credenciales
 El error de usuario y contraseña ocurre dentro de IglesiasNet. Hay que confirmar allí que wiltontecnologias sea un correo válido, que el usuario esté activo y restablecer la contraseña si es necesario.
+
+## Correcciones
+- 21/08/2026
+  Está pasando 1 cosa que no debería pasar:
+  El enlace del formulario de solicitud de membresia: http://localhost:5173/membership-request?client_id=1ipa&tenant=09d5d211-1f6a-46a4-8a17-b5277d017e34, no abre pre selecionado el tenant con sus congregaciones. necesita cargar el tenant en options del campo "iglesia" del form solicitud de membresía. Además, debe ser publico para el usuario, o sea, cualquier persona que abrir la pagina de ipamarcospaz y quiera ser miembro de la iglesia puede acceder, así como es publico enviar um mensaje en el fomr de la seccion contacto y poblar la tabla mensajes en supabase, tambien debe ser publico rellenar el form solicitud de membresía con pre seleccion del tenant y poblar la tabla membership_request
+
+  Diagnóstico: el bug es de IglesiasNet, no de ipaMarcosPaz. El enlace generado en
+  src/data/contenido.ts ya incluye client_id y tenant correctamente.
+  Falta en IglesiasNet:
+  1. Que /membership-request lea el query param tenant y precargue/filtre las
+     opciones del campo "iglesia" con las congregaciones de ese tenant.
+  2. Que la ruta sea pública (sin login), igual que el patrón usado en
+     Contacto.tsx de este repo: insert público en Supabase con clave anon.
+  3. Policy RLS de insert público en la tabla membership_request (proyecto
+     Supabase de IglesiasNet), análoga a "mensajes_insercion_publica" de
+     supabase/schema.sql.
