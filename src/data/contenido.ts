@@ -28,7 +28,7 @@ export const identidad = {
   logo: '/ipamp.png',
   mints: '/Mints_wilton.jpg',
   editorial: '/castillo_fuerte.jpeg',
-  setres: 'https://www.setres.org/logo_dark.png',
+  setres: '/Setres.svg',
 }
 
 export const horarios = [

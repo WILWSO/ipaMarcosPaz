@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 553.01 611.67">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 8px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        fill: #00428f;
+      }
+
+      .cls-2 {
+        stroke-width: 4px;
+      }
+
+      .cls-4 {
+        font-size: 31.6px;
+      }
+
+      .cls-4, .cls-5 {
+        fill: #fff;
+        font-family: MyriadPro-Bold, 'Myriad Pro';
+        font-weight: 700;
+      }
+
+      .cls-5 {
+        font-size: 55.3px;
+      }
+    </style>
+  </defs>
+  <g id="Logo2">
+    <circle class="cls-2" cx="277.71" cy="294.87" r="254.02"/>
+    <circle class="cls-1" cx="277.71" cy="294.87" r="271.3"/>
+    <g>
+      <path class="cls-3" d="M252.41,275.59c-1.2-1.18-3.76-2.01-5.29-1.57-1.54.45-3.8,2.84-3.62,4.07.66,4.41,1.59,9.02,3.6,12.95,2.47,4.84,6.12,9.08,9.4,13.79,4.91-6.6,1.48-23.75-4.09-29.23Z"/>
+      <path class="cls-3" d="M284.14,306.82c2.82-3.5,6.56-7.25,7.17-11.32,1.14-7.58.33-15.45.33-23.88-8.55,9.28-11.95,19.81-13.81,30.92-.29,1.73.26,4.22,1.41,5.33.72.69,4.03.03,4.9-1.05Z"/>
+      <path class="cls-3" d="M277.67,212.86c2.13,10.96-1.55,19.45-6.12,28.01-1.91,3.58-2.48,8.7-1.67,12.73,1.24,6.23,4.19,12.12,6.42,18.16,7.76-11.4,9.33-48.51,1.37-58.9Z"/>
+      <path class="cls-3" d="M262.51,322.1c-5.57,8.05-6.31,16.09-.74,25.48,8.76-10.83,11.63-30.8,5.91-38.52-1.64,4.3-2.55,9.26-5.17,13.04Z"/>
+      <path class="cls-3" d="M228.16,298.18c-2.97-7.08-4.59-14.73-6.8-22.13-3.8,21.53,5.12,55.32,17.59,66.66,5.01-7.11,4.9-16.77.2-24.53-3.95-6.5-8.05-13.02-10.98-20Z"/>
+      <path class="cls-3" d="M238.46,250.93c-2.27-6.62-5.02-13.07-7.56-19.58-5.38,12.97-3.66,25.59,3.05,38.57,5.13-5.97,6.86-12.12,4.51-18.99Z"/>
+      <path class="cls-3" d="M199.41,295.27c-.34-13.04-.97-25.98,4.83-38.17-13.28,11.69-15.41,27.88-4.83,38.17Z"/>
+      <path class="cls-3" d="M254.55,223.8c1.27-1.65,2.53-4.23,2.13-6.05-1.16-5.25-3.16-10.32-4.82-15.46-.47.07-.95.15-1.42.22-.75,6.34-1.65,12.67-2.17,19.02-.14,1.64.88,3.38,1.37,5.08,1.68-.91,3.85-1.44,4.91-2.82Z"/>
+      <path class="cls-3" d="M197,332.19c-4.71-15.74-9.67-32.37-14.55-48.69-11.44,13.91.51,40.39,14.55,48.69Z"/>
+      <path class="cls-3" d="M208.88,354.35c.35,2.63,3.81,5.56,6.54,6.98,4.22,2.18,9.05,3.18,13.63,4.68.67-.39,1.35-.78,2.02-1.17-6.06-19.48-22.17-34.63-25.71-55.41.38,15.15,1.53,30.09,3.53,44.93Z"/>
+      <path class="cls-3" d="M367.92,303.85c-2.26,8.12-5.71,15.92-8.77,24.21,16.98-16.94,21.52-33.43,13.53-48.66-1.55,8.23-2.55,16.51-4.77,24.45Z"/>
+      <path class="cls-3" d="M338.77,330.36c-4.24,7.81-9.8,14.9-14.52,22.47-1.37,2.19-1.84,4.93-2.98,8.16,4.83-1.72,8.48-3.1,12.18-4.32,9.04-2.97,14.78-9.16,15.43-18.55.73-10.54.17-21.17.17-31.14-3.24,7.49-6.15,15.76-10.28,23.37Z"/>
+      <path class="cls-3" d="M355.6,253v28.46c9.22-9.05,9.18-21.27,0-28.46Z"/>
+      <path class="cls-3" d="M299.85,302.44c-3.12,8.4-6.2,16.41-13.68,22.47-7.94,6.44-9.25,20.18-4.18,28.01,12.66-3.37,25.59-39.69,17.85-50.48Z"/>
+      <path class="cls-3" d="M277.71,105.65c-104.5,0-189.22,84.72-189.22,189.22s84.72,189.22,189.22,189.22,189.22-84.72,189.22-189.22-84.72-189.22-189.22-189.22ZM400.91,343.49c-.86.58-1.84,1.76-1.87,2.69-.2,6.78-5.92,7.14-10.21,9.68-6.97,4.12-13.24,9.39-19.99,13.92-1.43.96-4.24,1.76-5.36,1.02-8.89-5.86-17.49-5.32-26.26.12-4.2,2.6-8.21,2.24-12.58-.41-2.43-1.47-6-2.09-8.83-1.65-4.92.77-9.6,3.54-14.48,3.85-4.83.31-9.78-1.39-16.3-2.48,1,4.24,1.91,8.07,2.91,12.3h-23.66c.68-1.67,1.24-3.18,1.9-4.64,1.64-3.61.56-6.49-2.99-7.71-3.55-1.22-4.86-3.37-5.41-6.88-.72-4.54-3.56-7.06-8.99-7.06,1.27,2.89,2.49,5.16,3.26,7.57,1.25,3.88.22,6.71-4.31,7.19-3.15.34-6.31.53-9.47.72-2.61.16-5.72-.65-7.74.49-7.7,4.36-14.83,1.97-22.5-.07-7.32-1.94-15.21-1.73-22.58-3.55-3.37-.83-6.52-3.86-9-6.59-3.24-3.55-6.51-7.46-8.37-11.81-7.57-17.71-16.47-35.42-7.11-55.35,2.96-6.3,4.88-12.62-.17-20.08,10.37-.14,10.25-9.14,14.35-14.55.93-1.23,2.18-2.35,3.52-3.1,7.08-3.97,14.28-7.73,21.32-11.76,1.01-.58,2.06-2.35,1.93-3.43-.95-8.2,2.86-14.85,6.58-21.56,2.81-5.06,5.68-10.08,8.52-15.11,1.42-2.53,3.04-2.98,6.25-2.56,4.82.63,10.3.57,14.75-1.14,8.78-3.36,17.05-8.05,25.53-12.2h10.09c2.98,1.84,5.77,4.61,9,5.3,4.13.89,8.84.95,12.88-.16,4.87-1.34,8.98-2.01,13.98.06,5.26,2.17,11.19,2.73,16.84,3.91,5.45,1.14,9.18,3.39,9.18,9.96,0,2.33,1.97,5.22,3.89,6.9,4.65,4.07,7.4,8.45,7.11,15-.09,2.06,2.64,4.82,4.76,6.28,4.01,2.77,8.47,4.92,12.83,7.17,3.62,1.87,7.28,3.74,11.08,5.19,7.4,2.82,7.86,4.14,7.85,11.9,0,5.75,1.73,11.49,2.39,17.27.26,2.33-.37,4.75-.43,7.14-.04,1.61-.41,4.15.4,4.69,7.17,4.69,4.88,13.55,9.07,19.76,4.19,6.21,6.13,13.93,9.04,21,1.98,4.81,2.57,9.32-2.57,12.76Z"/>
+      <path class="cls-3" d="M328.28,263.76c-.17,18.03-5.17,33.33-12.33,48.04-.64,1.32-.78,2.87-1.27,4.27-1.31,3.75-.21,6.11,3.25,8.38,1.72,1.13,2.98,4.57,2.7,6.73-.42,3.19-2.41,6.17-3.73,9.24-1.1,2.57-2.19,5.13-3.74,8.76,22.19-13.25,30.59-60.24,15.13-85.43Z"/>
+      <path class="cls-3" d="M314.36,268.93c8.74-6.86,9.34-38.56,1.98-45.21-2.27,7.27-4.52,15.21-7.24,22.98-2.66,7.59-.32,18.39,5.26,22.22Z"/>
+      <path class="cls-3" d="M297.12,363.69c6.51-4.01,7.73-7.21,5.85-16.79-3.07,6.04-7.54,10.15-5.85,16.79Z"/>
+    </g>
+    <text class="cls-5" transform="translate(78.32 258.48) rotate(-77.67)"><tspan x="0" y="0">I</tspan></text>
+    <text class="cls-5" transform="translate(80.7 243.98) rotate(-70.3)"><tspan x="0" y="0">G</tspan></text>
+    <text class="cls-5" transform="translate(93.18 209.89) rotate(-61.25)"><tspan x="0" y="0">L</tspan></text>
+    <text class="cls-5" transform="translate(106.08 186.12) rotate(-53.34)"><tspan x="0" y="0">E</tspan></text>
+    <text class="cls-5" transform="translate(122.87 163.39) rotate(-45.2)"><tspan x="0" y="0">S</tspan></text>
+    <text class="cls-5" transform="translate(143.44 143.14) rotate(-38.91)"><tspan x="0" y="0">I</tspan></text>
+    <text class="cls-5" transform="translate(154.43 133.35) rotate(-31.71)"><tspan x="0" y="0">A</tspan></text>
+    <text class="cls-5" transform="translate(184.71 115.42) rotate(-25.14)"><tspan x="0" y="0"> </tspan></text>
+    <text class="cls-5" transform="translate(193.75 110.52) rotate(-19.16)"><tspan x="0" y="0">P</tspan></text>
+    <text class="cls-5" transform="translate(222.78 100.31) rotate(-10.34)"><tspan x="0" y="0">R</tspan></text>
+    <text class="cls-5" transform="translate(253.73 94.68) rotate(-1.79)"><tspan x="0" y="0">E</tspan></text>
+    <text class="cls-5" transform="translate(282 93.69) rotate(6.45)"><tspan x="0" y="0">S</tspan></text>
+    <text class="cls-5" transform="translate(310.35 96.66) rotate(15.19)"><tspan x="0" y="0">B</tspan></text>
+    <text class="cls-5" transform="translate(341.44 105.58) rotate(21.96)"><tspan x="0" y="0">I</tspan></text>
+    <text class="cls-5" transform="translate(355.32 110.68) rotate(28.27)"><tspan x="0" y="0">T</tspan></text>
+    <text class="cls-5" transform="translate(380.93 124.39) rotate(36.46)"><tspan x="0" y="0">E</tspan></text>
+    <text class="cls-5" transform="translate(403.76 140.98) rotate(45.01)"><tspan x="0" y="0">R</tspan></text>
+    <text class="cls-5" transform="translate(425.88 163.73) rotate(51.7)"><tspan x="0" y="0">I</tspan></text>
+    <text class="cls-5" transform="translate(435.53 174.79) rotate(58.9)"><tspan x="0" y="0">A</tspan></text>
+    <text class="cls-5" transform="translate(453.66 204.42) rotate(69.2)"><tspan x="0" y="0">N</tspan></text>
+    <text class="cls-5" transform="translate(466.7 238.64) rotate(79.34)"><tspan x="0" y="0">A</tspan></text>
+    <g>
+      <text class="cls-4" transform="translate(123.52 314.28) rotate(-94)"><tspan x="0" y="0">S</tspan></text>
+      <text class="cls-4" transform="translate(122.31 298.18) rotate(-87.78)"><tspan x="0" y="0">o</tspan></text>
+      <text class="cls-4" transform="translate(123.15 280.83) rotate(-83.13)"><tspan x="0" y="0">l</tspan></text>
+      <text class="cls-4" transform="translate(123.99 272.91) rotate(-79.24)"><tspan x="0" y="0">a</tspan></text>
+      <text class="cls-4" transform="translate(127.15 257.35) rotate(-74.89)"><tspan x="0" y="0"> </tspan></text>
+      <text class="cls-4" transform="translate(128.43 251.84) rotate(-70.88)"><tspan x="0" y="0">E</tspan></text>
+      <text class="cls-4" transform="translate(133.7 236.71) rotate(-65.53)"><tspan x="0" y="0">s</tspan></text>
+      <text class="cls-4" transform="translate(138.97 225.03) rotate(-60.66)"><tspan x="0" y="0">c</tspan></text>
+      <text class="cls-4" transform="translate(145.54 213.35) rotate(-56.1)"><tspan x="0" y="0">r</tspan></text>
+      <text class="cls-4" transform="translate(151.9 203.95) rotate(-52.5)"><tspan x="0" y="0">i</tspan></text>
+      <text class="cls-4" transform="translate(156.43 197.64) rotate(-47.74)"><tspan x="0" y="0">p</tspan></text>
+      <text class="cls-4" transform="translate(168.58 184.45) rotate(-42.47)"><tspan x="0" y="0">t</tspan></text>
+      <text class="cls-4" transform="translate(176.3 177.12) rotate(-37.31)"><tspan x="0" y="0">u</tspan></text>
+      <text class="cls-4" transform="translate(190.25 166.61) rotate(-32.08)"><tspan x="0" y="0">r</tspan></text>
+      <text class="cls-4" transform="translate(199.3 160.76) rotate(-27.27)"><tspan x="0" y="0">a</tspan></text>
+      <text class="cls-4" transform="translate(213.56 153.58) rotate(-23.3)"><tspan x="0" y="0"> </tspan></text>
+      <text class="cls-4" transform="translate(219.02 151.22) rotate(-21.1)"><tspan x="0" y="0"> </tspan></text>
+      <text class="cls-4" transform="translate(224.61 149.06) rotate(-18.89)"><tspan x="0" y="0"> </tspan></text>
+      <text class="cls-4" transform="translate(230.23 147.12) rotate(-16.69)"><tspan x="0" y="0"> </tspan></text>
+      <text class="cls-4" transform="translate(235.59 145.29) rotate(-12.62)"><tspan x="0" y="0">S</tspan></text>
+      <text class="cls-4" transform="translate(251.34 141.68) rotate(-6.4)"><tspan x="0" y="0">o</tspan></text>
+      <text class="cls-4" transform="translate(268.6 139.91) rotate(-1.71)"><tspan x="0" y="0">l</tspan></text>
+      <text class="cls-4" transform="translate(276.45 139.49) rotate(2.69)"><tspan x="0" y="0">a</tspan></text>
+      <text class="cls-4" transform="translate(292.38 140.39) rotate(6.67)"><tspan x="0" y="0"> </tspan></text>
+      <text class="cls-4" transform="translate(298.04 140.85) rotate(10.61)"><tspan x="0" y="0">F</tspan></text>
+      <text class="cls-4" transform="translate(313.02 143.75) rotate(14.7)"><tspan x="0" y="0">i</tspan></text>
+      <text class="cls-4" transform="translate(320.61 145.49) rotate(19.42)"><tspan x="0" y="0">d</tspan></text>
+      <text class="cls-4" transform="translate(337.31 151.37) rotate(25.58)"><tspan x="0" y="0">e</tspan></text>
+      <text class="cls-4" transform="translate(351.62 158.39) rotate(29.6)"><tspan x="0" y="0"> </tspan></text>
+      <text class="cls-4" transform="translate(356.81 161.34) rotate(31.82)"><tspan x="0" y="0"> </tspan></text>
+      <text class="cls-4" transform="translate(361.89 164.48) rotate(34.05)"><tspan x="0" y="0"> </tspan></text>
+      <text class="cls-4" transform="translate(366.68 167.45) rotate(38.12)"><tspan x="0" y="0">S</tspan></text>
+      <text class="cls-4" transform="translate(379.44 177.36) rotate(44.3)"><tspan x="0" y="0">o</tspan></text>
+      <text class="cls-4" transform="translate(391.76 189.61) rotate(48.94)"><tspan x="0" y="0">l</tspan></text>
+      <text class="cls-4" transform="translate(397.08 195.44) rotate(53.31)"><tspan x="0" y="0">a</tspan></text>
+      <text class="cls-4" transform="translate(406.48 208.32) rotate(57.27)"><tspan x="0" y="0"> </tspan></text>
+      <text class="cls-4" transform="translate(409.76 212.76) rotate(62.06)"><tspan x="0" y="0">G</tspan></text>
+      <text class="cls-4" transform="translate(419.23 231.02) rotate(67.88)"><tspan x="0" y="0">r</tspan></text>
+      <text class="cls-4" transform="translate(423.42 240.94) rotate(72.71)"><tspan x="0" y="0">a</tspan></text>
+      <text class="cls-4" transform="translate(427.99 255.82) rotate(77.54)"><tspan x="0" y="0">t</tspan></text>
+      <text class="cls-4" transform="translate(430.33 266.49) rotate(81.05)"><tspan x="0" y="0">i</tspan></text>
+      <text class="cls-4" transform="translate(431.73 274.23) rotate(85.47)"><tspan x="0" y="0">a</tspan></text>
+      <text class="cls-4" transform="translate(114.85 363.26) rotate(64.52)"><tspan x="0" y="0">S</tspan></text>
+      <text class="cls-4" transform="translate(122.83 379.9) rotate(58.32)"><tspan x="0" y="0">o</tspan></text>
+      <text class="cls-4" transform="translate(133.06 396.04) rotate(53.63)"><tspan x="0" y="0">l</tspan></text>
+      <text class="cls-4" transform="translate(138.59 403.83) rotate(48.96)"><tspan x="0" y="0">o</tspan></text>
+      <text class="cls-4" transform="translate(151.27 418.01) rotate(44.68)"><tspan x="0" y="0"> </tspan></text>
+      <text class="cls-4" transform="translate(156.25 423.22) rotate(40.32)"><tspan x="0" y="0">C</tspan></text>
+      <text class="cls-4" transform="translate(171.47 436.05) rotate(33.92)"><tspan x="0" y="0">h</tspan></text>
+      <text class="cls-4" transform="translate(187.77 446.77) rotate(28.67)"><tspan x="0" y="0">r</tspan></text>
+      <text class="cls-4" transform="translate(198.93 452.79) rotate(25.11)"><tspan x="0" y="0">i</tspan></text>
+      <text class="cls-4" transform="translate(207.4 456.82) rotate(21.27)"><tspan x="0" y="0">s</tspan></text>
+      <text class="cls-4" transform="translate(220.94 462.02) rotate(16.92)"><tspan x="0" y="0">t</tspan></text>
+      <text class="cls-4" transform="translate(232.94 465.79) rotate(11.74)"><tspan x="0" y="0">u</tspan></text>
+      <text class="cls-4" transform="translate(252.02 469.59) rotate(6.18)"><tspan x="0" y="0">s</tspan></text>
+      <text class="cls-4" transform="translate(266.32 471) rotate(2.68)"><tspan x="0" y="0"> </tspan></text>
+      <text class="cls-4" transform="translate(273.13 471.31) rotate(.45)"><tspan x="0" y="0"> </tspan></text>
+      <text class="cls-4" transform="translate(279.9 471.36) rotate(-1.77)"><tspan x="0" y="0"> </tspan></text>
+      <text class="cls-4" transform="translate(286.7 471.14) rotate(-3.99)"><tspan x="0" y="0"> </tspan></text>
+      <text class="cls-4" transform="translate(293.84 470.8) rotate(-8.07)"><tspan x="0" y="0">S</tspan></text>
+      <text class="cls-4" transform="translate(312.12 468.16) rotate(-14.25)"><tspan x="0" y="0">o</tspan></text>
+      <text class="cls-4" transform="translate(330.69 463.27) rotate(-19.66)"><tspan x="0" y="0">l</tspan></text>
+      <text class="cls-4" transform="translate(339.29 460.26) rotate(-21.78)"><tspan x="0" y="0">i</tspan></text>
+      <text class="cls-4" transform="translate(347.76 456.83) rotate(-24.36)"><tspan x="0" y="0"> </tspan></text>
+      <text class="cls-4" transform="translate(354.54 454.09) rotate(-29.26)"><tspan x="0" y="0">D</tspan></text>
+      <text class="cls-4" transform="translate(374.72 442.51) rotate(-36)"><tspan x="0" y="0">e</tspan></text>
+      <text class="cls-4" transform="translate(389.14 432.02) rotate(-42.08)"><tspan x="0" y="0">o</tspan></text>
+      <text class="cls-4" transform="translate(403.08 419.1) rotate(-46.34)"><tspan x="0" y="0"> </tspan></text>
+      <text class="cls-4" transform="translate(408.33 413.99) rotate(-51.18)"><tspan x="0" y="0">G</tspan></text>
+      <text class="cls-4" transform="translate(422.24 396.16) rotate(-56.42)"><tspan x="0" y="0">l</tspan></text>
+      <text class="cls-4" transform="translate(427.64 388.31) rotate(-61.04)"><tspan x="0" y="0">o</tspan></text>
+      <text class="cls-4" transform="translate(436.78 371.41) rotate(-66.24)"><tspan x="0" y="0">r</tspan></text>
+      <text class="cls-4" transform="translate(441.81 359.79) rotate(-69.79)"><tspan x="0" y="0">i</tspan></text>
+      <text class="cls-4" transform="translate(445.2 350.94) rotate(-74.15)"><tspan x="0" y="0">a</tspan></text>
+      <text class="cls-5" transform="translate(120.99 485.44) rotate(34.35)"><tspan x="0" y="0">A</tspan></text>
+      <text class="cls-5" transform="translate(155.95 508.59) rotate(24.94)"><tspan x="0" y="0">R</tspan></text>
+      <text class="cls-5" transform="translate(190.76 524.51) rotate(15.54)"><tspan x="0" y="0">G</tspan></text>
+      <text class="cls-5" transform="translate(232.58 535.35) rotate(6.41)"><tspan x="0" y="0">E</tspan></text>
+      <text class="cls-5" transform="translate(267.52 539.17) rotate(-2.84)"><tspan x="0" y="0">N</tspan></text>
+      <text class="cls-5" transform="translate(311.19 536.22) rotate(-12.17)"><tspan x="0" y="0">T</tspan></text>
+      <text class="cls-5" transform="translate(344.3 528.47) rotate(-18.41)"><tspan x="0" y="0">I</tspan></text>
+      <text class="cls-5" transform="translate(363.61 522.49) rotate(-25.69)"><tspan x="0" y="0">N</tspan></text>
+      <text class="cls-5" transform="translate(403.19 502.77) rotate(-35.75)"><tspan x="0" y="0">A</tspan></text>
+    </g>
+  </g>
+</svg>
