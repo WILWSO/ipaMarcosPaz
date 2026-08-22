@@ -32,9 +32,10 @@ export default function Nosotros() {
         <div className="grid gap-10 lg:grid-cols-[0.8fr_1.5fr] lg:items-start">
           <div>
             <p className="text-sm font-bold uppercase text-service-600">Quiénes somos</p>
-            <h2 className="mt-3 font-['Arial_Narrow','Aptos_Narrow',sans-serif] text-3xl font-bold uppercase text-brand-800">Una iglesia para glorificar a Dios</h2>
+            <h2 className="mt-3 font-['Arial_Narrow','Aptos_Narrow',sans-serif] text-3xl font-bold uppercase text-brand-800">Una iglesia <strong className="font-bold text-service-700">REFORMADA</strong></h2>
             <p className="mt-5 leading-7 text-brand-700">
-            Somos una iglesia plantada por medio del proyecto PIPA de misión brasileña, que se reúne en{' '}
+            Somos una iglesia plantada por medio del <strong className="font-bold text-brand-900">Proyecto PIPA</strong> de misión brasileña en convenio con <strong className="font-bold text-brand-900">APMT</strong> - Agencia 
+            Presbiteriana de Misiones Transculturales de <strong className="font-bold text-brand-900">IPB</strong>, que se reúne en{' '}
             {iglesia.ciudad} para adorar a Dios, escuchar su Palabra y servir a
             la ciudad. Creemos que el evangelio de Jesucristo transforma
             personas, familias y comunidades.
