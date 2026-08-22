@@ -1,6 +1,7 @@
 import { useState, type FormEvent } from 'react'
 import { supabase } from '../lib/supabase'
 import { iglesia } from '../data/contenido'
+import { Mail, MapPin, Phone } from 'lucide-react'
 
 type Estado = 'idle' | 'enviando' | 'ok' | 'error'
 
@@ -48,17 +49,19 @@ export default function Contacto() {
   }
 
   return (
-    <section id="contacto" className="mx-auto max-w-6xl px-4 py-20">
-      <div className="grid gap-12 md:grid-cols-2">
-        <div>
-          <h2 className="text-3xl font-semibold text-brand-800">Contacto</h2>
-          <p className="mt-3 text-brand-600">
+    <section id="contacto" className="bg-white py-16">
+      <div className="mx-auto grid max-w-7xl gap-0 px-4 md:grid-cols-[0.8fr_1.2fr] md:px-6">
+        <div className="bg-brand-800 p-7 text-white md:p-10">
+          <p className="text-sm font-bold uppercase text-service-500">Estamos cerca</p>
+          <h2 className="mt-3 font-['Arial_Narrow','Aptos_Narrow',sans-serif] text-3xl font-bold uppercase">Contacto</h2>
+          <p className="mt-3 text-brand-100">
             Escribinos y nos pondremos en contacto con vos a la brevedad.
           </p>
 
-          <dl className="mt-8 space-y-4 text-brand-700">
-            <div>
-              <dt className="text-xs font-semibold uppercase tracking-widest text-accent-600">
+          <dl className="mt-10 space-y-6">
+            <div className="flex gap-4">
+              <MapPin className="mt-1 shrink-0 text-service-500" aria-hidden="true" />
+              <div><dt className="text-xs font-bold uppercase text-brand-300">
                 Dirección
               </dt>
               <dd>
@@ -66,30 +69,32 @@ export default function Contacto() {
                   href={iglesia.mapsUrl}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="hover:text-accent-600"
+                  className="mt-1 block font-semibold hover:text-service-500"
                 >
                   {iglesia.direccion}
                 </a>
-              </dd>
+              </dd></div>
             </div>
-            <div>
-              <dt className="text-xs font-semibold uppercase tracking-widest text-accent-600">
+            <div className="flex gap-4">
+              <Phone className="mt-1 shrink-0 text-service-500" aria-hidden="true" />
+              <div><dt className="text-xs font-bold uppercase text-brand-300">
                 Teléfono
               </dt>
-              <dd>{iglesia.telefono}</dd>
+              <dd className="mt-1 font-semibold">{iglesia.telefono}</dd></div>
             </div>
-            <div>
-              <dt className="text-xs font-semibold uppercase tracking-widest text-accent-600">
+            <div className="flex gap-4">
+              <Mail className="mt-1 shrink-0 text-service-500" aria-hidden="true" />
+              <div><dt className="text-xs font-bold uppercase text-brand-300">
                 Email
               </dt>
-              <dd>{iglesia.email}</dd>
+              <dd className="mt-1 font-semibold break-all">{iglesia.email}</dd></div>
             </div>
           </dl>
         </div>
 
         <form
           onSubmit={handleSubmit}
-          className="rounded-2xl border border-brand-100 bg-white p-6 shadow-sm"
+          className="border border-brand-100 bg-brand-50 p-7 md:p-10"
         >
           <div className="grid gap-4">
             <label className="text-sm font-medium text-brand-700">
@@ -99,7 +104,7 @@ export default function Contacto() {
                 type="text"
                 required
                 maxLength={120}
-                className="mt-1 w-full rounded-lg border border-brand-200 px-3 py-2 outline-none focus:border-accent-500"
+                className="mt-2 w-full rounded-sm border border-brand-200 bg-white px-3 py-3 outline-none focus:border-service-500"
               />
             </label>
             <label className="text-sm font-medium text-brand-700">
@@ -109,7 +114,7 @@ export default function Contacto() {
                 type="email"
                 required
                 maxLength={160}
-                className="mt-1 w-full rounded-lg border border-brand-200 px-3 py-2 outline-none focus:border-accent-500"
+                className="mt-2 w-full rounded-sm border border-brand-200 bg-white px-3 py-3 outline-none focus:border-service-500"
               />
             </label>
             <label className="text-sm font-medium text-brand-700">
@@ -118,7 +123,7 @@ export default function Contacto() {
                 name="telefono"
                 type="tel"
                 maxLength={40}
-                className="mt-1 w-full rounded-lg border border-brand-200 px-3 py-2 outline-none focus:border-accent-500"
+                className="mt-2 w-full rounded-sm border border-brand-200 bg-white px-3 py-3 outline-none focus:border-service-500"
               />
             </label>
             <label className="text-sm font-medium text-brand-700">
@@ -128,7 +133,7 @@ export default function Contacto() {
                 required
                 rows={4}
                 maxLength={2000}
-                className="mt-1 w-full rounded-lg border border-brand-200 px-3 py-2 outline-none focus:border-accent-500"
+                className="mt-2 w-full rounded-sm border border-brand-200 bg-white px-3 py-3 outline-none focus:border-service-500"
               />
             </label>
           </div>
@@ -136,7 +141,7 @@ export default function Contacto() {
           <button
             type="submit"
             disabled={estado === 'enviando'}
-            className="mt-6 w-full rounded-full bg-brand-700 px-6 py-3 font-semibold text-white transition hover:bg-brand-800 disabled:opacity-60"
+            className="mt-6 w-full rounded-md bg-service-600 px-6 py-3 font-bold uppercase text-white transition hover:bg-service-700 disabled:opacity-60"
           >
             {estado === 'enviando' ? 'Enviando…' : 'Enviar mensaje'}
           </button>

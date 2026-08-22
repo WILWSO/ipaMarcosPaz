@@ -1,32 +1,38 @@
 import { horarios } from '../data/contenido'
+import { CalendarDays, Clock3 } from 'lucide-react'
 
 export default function Horarios() {
   return (
-    <section id="horarios" className="bg-white py-20">
-      <div className="mx-auto max-w-6xl px-4">
-        <h2 className="text-3xl font-semibold text-brand-800">
-          Horarios de reuniones
-        </h2>
-        <p className="mt-3 max-w-2xl text-brand-600">
-          Te esperamos en cualquiera de nuestros encuentros semanales.
-        </p>
+    <section id="horarios" className="bg-brand-900 py-16 text-white">
+      <div className="mx-auto max-w-7xl px-4 md:px-6">
+        <div className="grid gap-8 lg:grid-cols-[0.7fr_1.8fr]">
+          <div>
+            <p className="text-sm font-bold uppercase text-service-500">Nuestra semana</p>
+            <h2 className="mt-3 font-['Arial_Narrow','Aptos_Narrow',sans-serif] text-3xl font-bold uppercase">Horarios de reuniones</h2>
+            <p className="mt-4 max-w-sm leading-7 text-brand-200">Te esperamos en cualquiera de nuestros encuentros semanales. Hay un lugar para vos y tu familia.</p>
+          </div>
 
-        <div className="mt-10 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
-          {horarios.map((h) => (
-            <article
-              key={`${h.dia}-${h.hora}`}
-              className="flex flex-col rounded-2xl border border-brand-100 bg-brand-50 p-6 transition hover:border-accent-400"
-            >
-              <span className="text-xs font-semibold uppercase tracking-widest text-accent-600">
-                {h.dia}
-              </span>
-              <span className="mt-2 text-2xl font-semibold text-brand-800">
-                {h.hora}
-              </span>
-              <h3 className="mt-3 font-medium text-brand-700">{h.titulo}</h3>
-              <p className="mt-2 text-sm text-brand-600">{h.detalle}</p>
-            </article>
-          ))}
+          <div className="grid gap-px overflow-hidden rounded-md bg-white/15 sm:grid-cols-2">
+            {horarios.map((horario) => {
+              const esConectados = horario.titulo === 'Conectados'
+              return (
+              <article key={`${horario.dia}-${horario.hora}`} className="bg-brand-800 p-5 transition hover:bg-brand-700">
+                <div className="flex items-center gap-2 text-sm font-bold uppercase text-service-500"><CalendarDays size={17} aria-hidden="true" />{horario.dia}</div>
+                <div className="mt-3 flex items-center gap-2 text-2xl font-bold"><Clock3 size={21} aria-hidden="true" />{horario.hora}</div>
+                {esConectados ? (
+                  <img
+                    src="/Recurso%202_white.png"
+                    alt="Conectados"
+                    className="mt-4 h-20 w-auto max-w-full object-contain object-left"
+                  />
+                ) : (
+                  <h3 className="mt-3 font-bold text-white">{horario.titulo}</h3>
+                )}
+                <p className="mt-2 text-sm leading-6 text-brand-200">{horario.detalle}</p>
+              </article>
+              )
+            })}
+          </div>
         </div>
       </div>
     </section>

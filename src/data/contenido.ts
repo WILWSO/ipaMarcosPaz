@@ -26,7 +26,7 @@ export const enlaces = {
 
 export const identidad = {
   logo: '/ipamp.png',
-  mints: '/Mints_wilton.jpg',
+  familiaPastoral: '/familia-pastoral-completa.webp',
   editorial: '/castillo_fuerte.jpeg',
   setres: '/Setres.svg',
 }

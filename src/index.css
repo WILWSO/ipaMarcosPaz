@@ -15,6 +15,10 @@
   --color-accent-400: #d8b26a;
   --color-accent-500: #c29a45;
   --color-accent-600: #a37e31;
+
+  --color-service-500: #2ea276;
+  --color-service-600: #238864;
+  --color-service-700: #196d51;
 }
 
 html {
@@ -23,8 +27,23 @@ html {
 
 body {
   margin: 0;
-  background-color: var(--color-brand-50);
+  background-color: #ffffff;
   color: var(--color-brand-900);
-  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  font-family: 'Aptos', 'Segoe UI', sans-serif;
   -webkit-font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3 {
+  text-wrap: balance;
+}
+
+p {
+  text-wrap: pretty;
+}
+
+::selection {
+  background: var(--color-brand-200);
+  color: var(--color-brand-900);
 }

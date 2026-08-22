@@ -1,23 +1,41 @@
 import { ministerios } from '../data/contenido'
+import { Baby, BookOpen, HandHeart, HeartHandshake, House, Megaphone, Music2, Sparkles, Users } from 'lucide-react'
+
+const iconos = [Sparkles, Users, HandHeart, Megaphone, House, Music2, HeartHandshake, Users, Baby]
 
 export default function Ministerios() {
   return (
-    <section id="ministerios" className="mx-auto max-w-6xl px-4 py-20">
-      <h2 className="text-3xl font-semibold text-brand-800">Ministerios</h2>
-      <p className="mt-3 max-w-2xl text-brand-600">
-        Espacios donde crecemos juntos y servimos a nuestra ciudad.
-      </p>
+    <section id="ministerios" className="bg-brand-50 py-16">
+      <div className="mx-auto max-w-7xl px-4 md:px-6">
+        <div className="flex flex-col justify-between gap-5 md:flex-row md:items-end">
+          <div>
+            <p className="text-sm font-bold uppercase text-service-600">Vida en comunidad</p>
+            <h2 className="mt-3 font-['Arial_Narrow','Aptos_Narrow',sans-serif] text-3xl font-bold uppercase text-brand-800">Ministerios</h2>
+          </div>
+          <p className="max-w-xl leading-7 text-brand-600">Espacios donde crecemos juntos, desarrollamos nuestros dones y servimos a nuestra ciudad.</p>
+        </div>
 
-      <div className="mt-10 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-        {ministerios.map((m) => (
-          <article
-            key={m.titulo}
-            className="rounded-2xl border border-brand-100 bg-white p-6 shadow-sm"
-          >
-            <h3 className="text-lg font-semibold text-brand-800">{m.titulo}</h3>
-            <p className="mt-2 text-sm text-brand-600">{m.descripcion}</p>
-          </article>
-        ))}
+        <div className="mt-10 grid gap-px overflow-hidden rounded-md bg-brand-200 sm:grid-cols-2 lg:grid-cols-3">
+          {ministerios.map((ministerio, index) => {
+            const Icono = iconos[index] ?? BookOpen
+            const esConectados = ministerio.titulo === 'Conectados'
+            return (
+              <article key={ministerio.titulo} className="group bg-white p-6 transition hover:bg-brand-800">
+                {esConectados ? (
+                  <img
+                    src="/Conectados.png"
+                    alt="Conectados"
+                    className="h-20 w-auto max-w-full object-contain object-left transition group-hover:invert"
+                  />
+                ) : (
+                  <Icono className="h-9 w-9 text-service-600 transition group-hover:text-service-500" strokeWidth={1.7} aria-hidden="true" />
+                )}
+                {!esConectados && <h3 className="mt-5 text-lg font-bold uppercase text-brand-800 transition group-hover:text-white">{ministerio.titulo}</h3>}
+                <p className="mt-2 text-sm leading-6 text-brand-600 transition group-hover:text-brand-100">{ministerio.descripcion}</p>
+              </article>
+            )
+          })}
+        </div>
       </div>
     </section>
   )

@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { MapPin } from 'lucide-react'
+import { CalendarDays, MapPin } from 'lucide-react'
 import { supabase } from '../lib/supabase'
 
 export type Evento = {
@@ -42,6 +42,8 @@ const formato = new Intl.DateTimeFormat('es-AR', {
   timeStyle: 'short',
 })
 
+const formatoMes = new Intl.DateTimeFormat('es-AR', { month: 'short' })
+
 export default function Eventos() {
   const [eventos, setEventos] = useState<Evento[]>(eventosDemo)
   const [cargando, setCargando] = useState(false)
@@ -70,32 +72,40 @@ export default function Eventos() {
   }, [])
 
   return (
-    <section id="eventos" className="bg-white py-20">
-      <div className="mx-auto max-w-6xl px-4">
-        <h2 className="text-3xl font-semibold text-brand-800">
-          Próximos eventos
-        </h2>
-        <p className="mt-3 max-w-2xl text-brand-600">
+    <section id="eventos" className="bg-white py-16">
+      <div className="mx-auto max-w-7xl px-4 md:px-6">
+        <div className="flex flex-col justify-between gap-5 md:flex-row md:items-end">
+          <div>
+            <p className="flex items-center gap-2 text-sm font-bold uppercase text-service-600"><CalendarDays size={18} aria-hidden="true" />Agenda</p>
+            <h2 className="mt-3 font-['Arial_Narrow','Aptos_Narrow',sans-serif] text-3xl font-bold uppercase text-brand-800">Próximos eventos</h2>
+          </div>
+          <p className="max-w-xl text-brand-600">
           {cargando ? 'Cargando agenda…' : 'Actividades y encuentros de la iglesia.'}
-        </p>
+          </p>
+        </div>
 
         <div className="mt-10 grid gap-5 md:grid-cols-2 lg:grid-cols-3">
-          {eventos.map((e) => (
+          {eventos.map((e) => {
+            const fecha = new Date(e.fecha)
+            return (
             <article
               key={e.id}
-              className="rounded-2xl border border-brand-100 bg-brand-50 p-6"
+              className="border border-brand-100 bg-brand-50 p-6 transition hover:border-brand-300 hover:bg-white hover:shadow-md"
             >
-              <time
-                dateTime={e.fecha}
-                className="text-xs font-semibold uppercase tracking-widest text-accent-600"
-              >
-                {formato.format(new Date(e.fecha))}
-              </time>
-              <h3 className="mt-3 text-lg font-semibold text-brand-800">
+              <div className="flex items-start gap-4">
+                <time dateTime={e.fecha} className="grid w-14 shrink-0 place-items-center bg-brand-800 px-2 py-2 text-center text-white">
+                  <strong className="text-2xl leading-none">{fecha.getDate()}</strong>
+                  <span className="mt-1 text-xs font-bold uppercase">{formatoMes.format(fecha)}</span>
+                </time>
+                <div>
+                  <p className="text-xs font-bold uppercase text-service-600">{formato.format(fecha)}</p>
+                  <h3 className="mt-2 text-lg font-bold text-brand-800">
                 {e.titulo}
-              </h3>
+                  </h3>
+                </div>
+              </div>
               {e.descripcion && (
-                <p className="mt-2 text-sm text-brand-600">{e.descripcion}</p>
+                <p className="mt-5 text-sm leading-6 text-brand-600">{e.descripcion}</p>
               )}
               {e.lugar && (
                 <p className="mt-4 flex items-center gap-1.5 text-sm font-medium text-brand-700">
@@ -104,7 +114,8 @@ export default function Eventos() {
                 </p>
               )}
             </article>
-          ))}
+            )
+          })}
         </div>
       </div>
     </section>
