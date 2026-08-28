@@ -29,7 +29,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
   }
 
   const centralUrl = process.env.IGLESIANET_URL || 'http://localhost:5173'
-  const clientId = process.env.IPA_CLIENT_ID || '1ipa'
+  const clientId = process.env.IPA_CLIENT_ID || 'ipamarcospaz'
   const redirectUri = process.env.IPA_REDIRECT_URI || 'http://localhost:3000/api/auth/callback'
   const clientSecret = process.env.IPA_CLIENT_SECRET
   if (!centralUrl || !clientId || !redirectUri || !clientSecret) {

@@ -13,13 +13,13 @@ Antes de modificar el sitio, el sistema central debe exigir autenticación del c
 Actualmente /auth/token acepta:
     {
   "code": "...",
-  "client_id": "1ipa",
+  "client_id": "ipamarcospaz",
   "redirect_uri": "..."
     }
 Debe exigir también:
     {
   "code": "...",
-  "client_id": "1ipa",
+  "client_id": "ipamarcospaz",
   "redirect_uri": "...",
   "client_secret": "..."
     }   
@@ -32,7 +32,7 @@ Nunca debe enviarse al navegador.
 3. Variables de entorno en ipaMarcosPaz
 Crear variables privadas en Vercel:
     IGLESIANET_URL=https://www.iglesianet.org
-    IPA_CLIENT_ID=1ipa
+    IPA_CLIENT_ID=ipamarcospaz
     IPA_REDIRECT_URI=https://www.ipamarcospaz.org/area-privada/callback
     IPA_CLIENT_SECRET=secreto-privado-del-cliente
     SESSION_SECRET=secreto-privado-de-sesion
@@ -55,7 +55,7 @@ SameSite=Lax
 expiración corta
 Redirigir a:
   https://www.iglesianet.org/auth/authorize
-    ?client_id=1ipa
+    ?client_id=ipamarcospaz
     &redirect_uri=https%3A%2F%2Fwww.ipamarcospaz.org%2Farea-privada%2Fcallback
     &state=STATE_GENERADO
 
@@ -69,7 +69,7 @@ Agregar un enlace:
     </a>
 
 No debe apuntar directamente a: 
-    /auth/authorize?client_id=1ipa
+    /auth/authorize?client_id=ipamarcospaz
 
 porque el sitio necesita generar y guardar state en el backend.
 
@@ -86,7 +86,7 @@ https://www.iglesianet.org/auth/token
 
 {
   "code": "...",
-  "client_id": "1ipa",
+  "client_id": "ipamarcospaz",
   "redirect_uri": "https://www.ipamarcospaz.org/area-privada/callback",
   "client_secret": "..."
 }
@@ -114,7 +114,7 @@ Debe leer la cookie de sesión HttpOnly y devolver únicamente datos seguros:
 {
   "authenticated": true,
   "email": "...",
-  "client_id": "1ipa",
+  "client_id": "ipamarcospaz",
   "tenant_id": "...",
   "role": "Administrador_institucion"
 }
@@ -137,13 +137,13 @@ También debe configurarse: https://www.ipamarcospaz.org
 como dominio de producción.
 
 11. Configuración de Supabase Auth
-En el proyecto Supabase de 1ipa, debe estar permitido exactamente: https://www.ipamarcospaz.org/area-privada/callback
+En el proyecto Supabase de ipamarcospaz, debe estar permitido exactamente: https://www.ipamarcospaz.org/area-privada/callback
 
 No usar comodines como: *
 
-12. Registro central de 1ipa
+12. Registro central de ipamarcospaz
 En IglesiasNet debe existir:
-client_id: 1ipa
+client_id: ipamarcospaz
 country_code: ar
 hostname: www.ipamarcospaz.org
 redirect_uri: https://www.ipamarcospaz.org/area-privada/callback
@@ -188,7 +188,7 @@ Resultado esperado: Redirección al login
 Orden correcto
 Rotar secretos expuestos.
 Mejorar /auth/token para exigir client_secret.
-Registrar el secreto de 1ipa en IglesiasNet.
+Registrar el secreto de ipamarcospaz en IglesiasNet.
 Crear variables privadas en Vercel.
 Crear api/auth/start.ts.
 Agregar el botón en Navbar.tsx.
@@ -215,9 +215,9 @@ Abrir http://localhost:3000 y pulsar Área privada.
 
 2. Corregir IglesiasNet
   En IglesiasNet deben verificar:
-    * Que exista el cliente 1ipa.
+    * Que exista el cliente ipamarcospaz.
     * Que exista el tenant 09d5d211-1f6a-46a4-8a17-b5277d017e34.
-    * Que el tenant esté asociado al cliente 1ipa.
+    * Que el tenant esté asociado al cliente ipamarcospaz.
     * Que esté activo.
     * Que /membership-request?... devuelva la iglesia en churches, no churches: [].
 
@@ -230,7 +230,7 @@ Abrir http://localhost:3000 y pulsar Área privada.
 4. Verificar producción
   En Vercel deben existir estas variables privadas:
     IGLESIANET_URL=https://www.iglesianet.org
-    IPA_CLIENT_ID=1ipa
+    IPA_CLIENT_ID=ipamarcospaz
     IPA_REDIRECT_URI=https://www.ipamarcospaz.org/area-privada/callback
     IPA_CLIENT_SECRET=...
     SESSION_SECRET=...
@@ -241,7 +241,7 @@ El error de usuario y contraseña ocurre dentro de IglesiasNet. Hay que confirma
 ## Correcciones
 - 21/08/2026
   Está pasando 1 cosa que no debería pasar:
-  El enlace del formulario de solicitud de membresia: http://localhost:5173/membership-request?client_id=1ipa&tenant=09d5d211-1f6a-46a4-8a17-b5277d017e34, no abre pre selecionado el tenant con sus congregaciones. necesita cargar el tenant en options del campo "iglesia" del form solicitud de membresía. Además, debe ser publico para el usuario, o sea, cualquier persona que abrir la pagina de ipamarcospaz y quiera ser miembro de la iglesia puede acceder, así como es publico enviar um mensaje en el fomr de la seccion contacto y poblar la tabla mensajes en supabase, tambien debe ser publico rellenar el form solicitud de membresía con pre seleccion del tenant y poblar la tabla membership_request
+  El enlace del formulario de solicitud de membresia: http://localhost:5173/membership-request?client_id=ipamarcospaz&tenant=09d5d211-1f6a-46a4-8a17-b5277d017e34, no abre pre selecionado el tenant con sus congregaciones. necesita cargar el tenant en options del campo "iglesia" del form solicitud de membresía. Además, debe ser publico para el usuario, o sea, cualquier persona que abrir la pagina de ipamarcospaz y quiera ser miembro de la iglesia puede acceder, así como es publico enviar um mensaje en el fomr de la seccion contacto y poblar la tabla mensajes en supabase, tambien debe ser publico rellenar el form solicitud de membresía con pre seleccion del tenant y poblar la tabla membership_request
 
   Diagnóstico: el bug es de IglesiasNet, no de ipaMarcosPaz. El enlace generado en
   src/data/contenido.ts ya incluye client_id y tenant correctamente.

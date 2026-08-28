@@ -7,7 +7,7 @@ export default function handler(_req: VercelRequest, res: VercelResponse) {
     (value || fallback).replace(/[\u0000-\u001f\u007f]/g, '').trim()
   const centralUrl = clean(process.env.IGLESIANET_URL, 'http://localhost:5173').replace(/\/$/, '')
   const redirectUri = clean(process.env.IPA_REDIRECT_URI, 'http://localhost:3000/api/auth/callback')
-  const clientId = clean(process.env.IPA_CLIENT_ID, '1ipa')
+  const clientId = clean(process.env.IPA_CLIENT_ID, 'ipamarcospaz')
   res.setHeader('Cache-Control', 'no-store')
   if (!centralUrl || !redirectUri || !clientId) {
     return res.status(500).json({ error: 'SSO no configurado' })

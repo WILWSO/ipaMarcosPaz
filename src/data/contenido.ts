@@ -21,7 +21,7 @@ export const enlaces = {
   setres: 'https://setres.org',
   editorial: 'https://www.instagram.com/editorialcastillofuerte/',
   // Formulario público, sin login, con IPA Marcos Paz preseleccionada.
-  solicitudMembresia: `${import.meta.env.VITE_IGLESIANET_URL ?? 'https://www.iglesianet.org'}/membership-request?client_id=1ipa&tenant=09d5d211-1f6a-46a4-8a17-b5277d017e34`,
+  solicitudMembresia: `${import.meta.env.VITE_IGLESIANET_URL ?? 'https://www.iglesianet.org'}/membership-request?client_id=ipamarcospaz&tenant=09d5d211-1f6a-46a4-8a17-b5277d017e34`,
 }
 
 export const identidad = {
