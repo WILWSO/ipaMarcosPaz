@@ -5,8 +5,11 @@ import { setState } from '../_session.js'
 export default function handler(_req: VercelRequest, res: VercelResponse) {
   const clean = (value: string | undefined, fallback: string) =>
     (value || fallback).replace(/[\u0000-\u001f\u007f]/g, '').trim()
-  const centralUrl = clean(process.env.IGLESIANET_URL, 'http://localhost:5173').replace(/\/$/, '')
-  const redirectUri = clean(process.env.IPA_REDIRECT_URI, 'http://localhost:3000/api/auth/callback')
+  const centralUrl = clean(process.env.IGLESIANET_URL, 'https://www.iglesianet.org').replace(/\/$/, '')
+  const redirectUri = clean(
+    process.env.IPA_REDIRECT_URI,
+    'https://www.ipamarcospaz.org/area-privada/callback',
+  )
   const clientId = clean(process.env.IPA_CLIENT_ID, 'ipamarcospaz')
   res.setHeader('Cache-Control', 'no-store')
   if (!centralUrl || !redirectUri || !clientId) {

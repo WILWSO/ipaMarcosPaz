@@ -28,9 +28,10 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     return reject(res, 400, 'State inválido')
   }
 
-  const centralUrl = process.env.IGLESIANET_URL || 'http://localhost:5173'
+  const centralUrl = process.env.IGLESIANET_URL || 'https://www.iglesianet.org'
   const clientId = process.env.IPA_CLIENT_ID || 'ipamarcospaz'
-  const redirectUri = process.env.IPA_REDIRECT_URI || 'http://localhost:3000/api/auth/callback'
+  const redirectUri =
+    process.env.IPA_REDIRECT_URI || 'https://www.ipamarcospaz.org/area-privada/callback'
   const clientSecret = process.env.IPA_CLIENT_SECRET
   if (!centralUrl || !clientId || !redirectUri || !clientSecret) {
     return reject(res, 500, 'SSO no configurado')
