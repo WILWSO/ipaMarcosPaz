@@ -17,7 +17,7 @@ export const iglesia = {
 }
 
 export const enlaces = {
-  areaPrivada: '/api/auth/start',
+  areaPrivada: `${import.meta.env.VITE_IGLESIANET_URL ?? 'https://www.iglesianet.org'}/i/ipamarcospaz`,
   setres: 'https://setres.org',
   editorial: 'https://www.instagram.com/editorialcastillofuerte/',
   // Formulario público, sin login, con IPA Marcos Paz preseleccionada.
