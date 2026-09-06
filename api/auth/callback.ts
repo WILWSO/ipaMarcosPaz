@@ -58,5 +58,5 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     tenant_id: identity.tenant_id ?? null,
     role: identity.role ?? null,
   })
-  res.status(302).setHeader('Location', '/area-privada').end()
+  res.status(302).setHeader('Location', '/').end()
 }
