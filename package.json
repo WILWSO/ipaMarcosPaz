@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite",
     "dev:vercel": "node scripts/dev-vercel.mjs",
-    "build": "tsc -b && vite build",
+    "build:consulta": "node scripts/build-consulta.mjs",
+    "build": "npm run build:consulta && tsc -b && vite build",
     "lint": "oxlint",
     "preview": "vite preview"
   },

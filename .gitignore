@@ -30,3 +30,6 @@ dist-ssr
 .vercel
 
 supabase/.temp/
+
+# Consulta Presbiteriana compilada (la genera npm run build:consulta)
+public/consulta-presbiteriana/

@@ -1,15 +1,25 @@
 import { useState } from 'react'
-import { Menu, X } from 'lucide-react'
+import { ArrowUpRight, Menu, X } from 'lucide-react'
 import { enlaces, iglesia } from '../data/contenido'
 
-const links = [
+type EnlaceMenu = { href: string; label: string; titulo?: string; externo?: boolean }
+
+const links: EnlaceMenu[] = [
   { href: '#nosotros', label: 'Quiénes somos' },
   { href: '#fe', label: 'Nuestra fe' },
   { href: '#ministerios', label: 'Ministerios' },
   { href: '#eventos', label: 'Actividades' },
   { href: '#recursos', label: 'Recursos' },
+  {
+    href: enlaces.consultaPresbiteriana,
+    label: 'Consulta',
+    titulo: 'Consulta Presbiteriana: Manual 2025 y Digesto 2026 (se abre en una pestaña nueva)',
+    externo: true,
+  },
   { href: '#contacto', label: 'Contacto' },
 ]
+
+const pestanaNueva = { target: '_blank', rel: 'noopener noreferrer' }
 
 export default function Navbar() {
   const [abierto, setAbierto] = useState(false)
@@ -27,14 +37,17 @@ export default function Navbar() {
           </span>
         </a>
 
-        <ul className="hidden items-center gap-4 lg:flex">
+        <ul className="hidden items-center gap-4 lg:flex xl:gap-3">
           {links.map((l) => (
             <li key={l.href}>
               <a
                 href={l.href}
-                className="border-b-2 border-transparent py-2 text-xs font-bold uppercase text-brand-800 transition hover:border-brand-700"
+                title={l.titulo}
+                {...(l.externo ? pestanaNueva : {})}
+                className="inline-flex items-center gap-0.5 whitespace-nowrap border-b-2 border-transparent py-2 text-xs font-bold uppercase text-brand-800 transition hover:border-brand-700"
               >
                 {l.label}
+                {l.externo && <ArrowUpRight aria-hidden="true" className="h-3 w-3" />}
               </a>
             </li>
           ))}
@@ -74,10 +87,13 @@ export default function Navbar() {
             <li key={l.href}>
               <a
                 href={l.href}
+                title={l.titulo}
+                {...(l.externo ? pestanaNueva : {})}
                 onClick={() => setAbierto(false)}
-                className="block border-b border-brand-100 py-3 text-sm font-bold uppercase text-brand-800 last:border-0"
+                className="flex items-center gap-1 border-b border-brand-100 py-3 text-sm font-bold uppercase text-brand-800 last:border-0"
               >
                 {l.label}
+                {l.externo && <ArrowUpRight aria-hidden="true" className="h-4 w-4" />}
               </a>
             </li>
           ))}

@@ -4,6 +4,7 @@
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
   "rewrites": [
-    { "source": "/area-privada/callback", "destination": "/api/auth/callback" }
+    { "source": "/area-privada/callback", "destination": "/api/auth/callback" },
+    { "source": "/consulta-presbiteriana", "destination": "/consulta-presbiteriana/index.html" }
   ]
 }
