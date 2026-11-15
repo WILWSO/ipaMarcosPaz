@@ -1,0 +1,25 @@
+{
+  "criterion": "Texto portugués idéntico al previamente cotejado, salvo número inicial de artículo y espacios; numeración inicial ajustada; remisiones interiores conservadas",
+  "reusedFrom": {
+    "RI-PRE-art-9": "RI-SC-art-9",
+    "RI-PRE-art-15": "RI-SIN-art-15",
+    "RI-PRE-art-16": "RI-SIN-art-16",
+    "RI-PRE-art-18": "RI-SC-art-18",
+    "RI-PRE-art-20": "RI-SC-art-20",
+    "RI-PRE-art-23": "RI-SIN-art-23",
+    "RI-PRE-art-25": "RI-SC-art-25",
+    "RI-PRE-art-26": "RI-SC-art-26",
+    "RI-PRE-art-28": "RI-SC-art-29",
+    "RI-PRE-art-29": "RI-SC-art-30",
+    "RI-PRE-art-42": "RI-SIN-art-43",
+    "RI-PRE-art-46": "RI-SC-art-44",
+    "RI-PRE-art-55": "RI-SIN-art-56",
+    "RI-PRE-art-77": "RI-SC-art-59",
+    "RI-PRE-art-86": "RI-SIN-art-88",
+    "RI-PRE-art-96": "RI-SC-art-79",
+    "RI-PRE-art-97": "RI-SC-art-80",
+    "RI-PRE-art-99": "RI-SC-art-82",
+    "RI-PRE-nota-1": "RI-SC-nota-1",
+    "RI-PRE-nota-2": "RI-SIN-nota-2"
+  }
+}

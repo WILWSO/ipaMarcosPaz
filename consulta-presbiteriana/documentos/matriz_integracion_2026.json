@@ -1,0 +1,3933 @@
+{
+  "progress": {
+    "reviewedDecisions": 398,
+    "totalDecisions": 398,
+    "reviewedIds": [
+      "SC-2026-CCI",
+      "SC-2026-CXXIII",
+      "SC-2026-CLXXXI",
+      "SC-2026-CLIV",
+      "SC-2026-CCXXXIX",
+      "SC-2026-CCVI",
+      "SC-2026-CCIII",
+      "SC-2026-CIX",
+      "CE-2026-CXXXIV",
+      "CE-2026-CIII",
+      "SC-2026-CCXLI",
+      "SC-2026-CCXL",
+      "SC-2026-CCXXXVIII",
+      "SC-2026-CCXXXVII",
+      "SC-2026-CCXXXVI",
+      "SC-2026-CCXXXV",
+      "SC-2026-CCXXXIV",
+      "SC-2026-CCXXXIII",
+      "SC-2026-CCXXXII",
+      "SC-2026-CCXXXI",
+      "SC-2026-CCXXX",
+      "SC-2026-CCXXIX",
+      "SC-2026-CCXXVIII",
+      "SC-2026-CCXXVI",
+      "SC-2026-CCXXV",
+      "SC-2026-CCXXIV",
+      "SC-2026-CCXXIII",
+      "SC-2026-CCXXII",
+      "SC-2026-CCXXVII",
+      "CE-2026-CII",
+      "SC-2026-CCXXI",
+      "SC-2026-CCXX",
+      "SC-2026-CCXIX",
+      "SC-2026-CCXVIII",
+      "SC-2026-CCXVII",
+      "SC-2026-CCXVI",
+      "SC-2026-CCXV",
+      "SC-2026-CCXIV",
+      "SC-2026-CCXIII",
+      "SC-2026-CCXII",
+      "SC-2026-CCXI",
+      "SC-2026-CCX",
+      "SC-2026-CCIX",
+      "SC-2026-CCVIII",
+      "SC-2026-CCVII",
+      "SC-2026-CCV",
+      "SC-2026-CCIV",
+      "SC-2026-CCII",
+      "SC-2026-CC",
+      "SC-2026-CXCIX",
+      "SC-2026-CXCVIII",
+      "SC-2026-CXCVII",
+      "SC-2026-CXCVI",
+      "SC-2026-CXCV",
+      "SC-2026-CXCIV",
+      "SC-2026-CXCIII",
+      "SC-2026-CXCII",
+      "SC-2026-CXCI",
+      "SC-2026-CXC",
+      "SC-2026-CLXXXIX",
+      "SC-2026-CLXXXVIII",
+      "SC-2026-CLXXXVII",
+      "SC-2026-CLXXXVI",
+      "SC-2026-CLXXXV",
+      "SC-2026-CLXXXIV",
+      "SC-2026-CLXXXIII",
+      "SC-2026-CLXXXII",
+      "SC-2026-CLXXX",
+      "SC-2026-CLXXIX",
+      "SC-2026-CLXXVIII",
+      "SC-2026-CLXXVII",
+      "SC-2026-CLXXVI",
+      "SC-2026-CLXXV",
+      "SC-2026-CLXXIV",
+      "SC-2026-CLXXIII",
+      "SC-2026-CLXXII",
+      "SC-2026-CLXXI",
+      "SC-2026-CLXX",
+      "SC-2026-CLXIX",
+      "SC-2026-CLXVIII",
+      "SC-2026-CLXVII",
+      "SC-2026-CLXVI",
+      "SC-2026-CLXV",
+      "SC-2026-CLXIV",
+      "SC-2026-CLXIII",
+      "SC-2026-CLXII",
+      "SC-2026-CLXI",
+      "SC-2026-CLX",
+      "SC-2026-CLIX",
+      "SC-2026-CLVIII",
+      "SC-2026-CLVII",
+      "SC-2026-CLVI",
+      "SC-2026-CLV",
+      "SC-2026-CLIII",
+      "SC-2026-CLII",
+      "SC-2026-CLI",
+      "SC-2026-CL",
+      "SC-2026-CXLIX",
+      "SC-2026-CXLVIII",
+      "SC-2026-CXLVII",
+      "SC-2026-CXLVI",
+      "SC-2026-CXLV",
+      "SC-2026-CXLIV",
+      "SC-2026-CXLIII",
+      "SC-2026-CXLII",
+      "SC-2026-CXLI",
+      "SC-2026-CXL",
+      "SC-2026-CXXXIX",
+      "SC-2026-CXXXVIII",
+      "SC-2026-CXXXVII",
+      "SC-2026-CXXXVI",
+      "SC-2026-CXXXV",
+      "SC-2026-CXXXIV",
+      "SC-2026-CXXXIII",
+      "SC-2026-CXXXII",
+      "SC-2026-CXXXI",
+      "SC-2026-CXXX",
+      "SC-2026-CXXIX",
+      "SC-2026-CXXVIII",
+      "SC-2026-CXXVII",
+      "SC-2026-CXXVI",
+      "SC-2026-CXXV",
+      "SC-2026-CXXIV",
+      "SC-2026-CXXII",
+      "SC-2026-CXXI",
+      "SC-2026-CXX",
+      "SC-2026-CXIX",
+      "SC-2026-CXVIII",
+      "SC-2026-CXVII",
+      "SC-2026-CXVI",
+      "SC-2026-CXV",
+      "SC-2026-CXIV",
+      "SC-2026-CXIII",
+      "SC-2026-CXII",
+      "SC-2026-CXI",
+      "SC-2026-CX",
+      "SC-2026-CVIII",
+      "SC-2026-CVII",
+      "SC-2026-CVI",
+      "SC-2026-CV",
+      "SC-2026-CIV",
+      "SC-2026-CIII",
+      "SC-2026-CII",
+      "SC-2026-CI",
+      "SC-2026-C",
+      "SC-2026-XCIX",
+      "SC-2026-XCVIII",
+      "SC-2026-XCVII",
+      "SC-2026-XCVI",
+      "SC-2026-XCV",
+      "SC-2026-XCIV",
+      "SC-2026-XCIII",
+      "SC-2026-XCII",
+      "SC-2026-XCI",
+      "SC-2026-XC",
+      "SC-2026-LXXXIX",
+      "SC-2026-LXXXVIII",
+      "SC-2026-LXXXVII",
+      "SC-2026-LXXXVI",
+      "SC-2026-LXXXV",
+      "SC-2026-LXXXIV",
+      "SC-2026-LXXXIII",
+      "SC-2026-LXXXII",
+      "SC-2026-LXXXI",
+      "SC-2026-LXXX",
+      "SC-2026-LXXIX",
+      "SC-2026-LXXVIII",
+      "SC-2026-LXXVII",
+      "SC-2026-LXXVI",
+      "SC-2026-LXXV",
+      "SC-2026-LXXIV",
+      "SC-2026-LXXIII",
+      "SC-2026-LXXII",
+      "SC-2026-LXXI",
+      "SC-2026-LXX",
+      "SC-2026-LXIX",
+      "SC-2026-LXVIII",
+      "SC-2026-LXVII",
+      "SC-2026-LXVI",
+      "SC-2026-LXV",
+      "SC-2026-LXIV",
+      "SC-2026-LXIII",
+      "SC-2026-LXII",
+      "SC-2026-LXI",
+      "SC-2026-LX",
+      "SC-2026-LIX",
+      "SC-2026-LVIII",
+      "SC-2026-LVII",
+      "SC-2026-LVI",
+      "SC-2026-LV",
+      "SC-2026-LIV",
+      "SC-2026-LIII",
+      "SC-2026-LII",
+      "SC-2026-LI",
+      "SC-2026-L",
+      "SC-2026-XLIX",
+      "SC-2026-XLVIII",
+      "SC-2026-XLVII",
+      "SC-2026-XLVI",
+      "SC-2026-XLV",
+      "SC-2026-XLIV",
+      "SC-2026-XLIII",
+      "SC-2026-XLII",
+      "SC-2026-XLI",
+      "SC-2026-XL",
+      "SC-2026-XXXIX",
+      "SC-2026-XXXVIII",
+      "SC-2026-XXXVII",
+      "SC-2026-XXXVI",
+      "SC-2026-XXXV",
+      "SC-2026-XXXIV",
+      "SC-2026-XXXIII",
+      "SC-2026-XXXII",
+      "SC-2026-XXXI",
+      "SC-2026-XXX",
+      "SC-2026-XXIX",
+      "SC-2026-XXVIII",
+      "SC-2026-XXVII",
+      "SC-2026-XXVI",
+      "SC-2026-XXV",
+      "SC-2026-XXIV",
+      "SC-2026-XXIII",
+      "SC-2026-XXII",
+      "SC-2026-XXI",
+      "SC-2026-XX",
+      "SC-2026-XIX",
+      "SC-2026-XVIII",
+      "SC-2026-XVII",
+      "SC-2026-XVI",
+      "SC-2026-XV",
+      "SC-2026-XIV",
+      "SC-2026-XIII",
+      "SC-2026-XII",
+      "SC-2026-XI",
+      "SC-2026-X",
+      "SC-2026-IX",
+      "SC-2026-VIII",
+      "SC-2026-VII",
+      "SC-2026-VI",
+      "SC-2026-V",
+      "SC-2026-IV",
+      "CE-2026-CLXIII",
+      "CE-2026-CLXII",
+      "CE-2026-CLXI",
+      "CE-2026-CLX",
+      "CE-2026-CLIX",
+      "CE-2026-CLVIII",
+      "CE-2026-CLVII",
+      "CE-2026-CLVI",
+      "CE-2026-CLV",
+      "CE-2026-CLIV",
+      "CE-2026-CLIII",
+      "CE-2026-CLII",
+      "CE-2026-CLI",
+      "CE-2026-CL",
+      "CE-2026-CXLIX",
+      "CE-2026-CXLVIII",
+      "CE-2026-CXLVII",
+      "CE-2026-CXLVI",
+      "CE-2026-CXLV",
+      "CE-2026-CXLIV",
+      "CE-2026-CXLIII",
+      "CE-2026-CXLII",
+      "CE-2026-CXLI",
+      "CE-2026-CXL",
+      "CE-2026-CXXXIX",
+      "CE-2026-CXXXVIII",
+      "CE-2026-CXXXVII",
+      "CE-2026-CXXXVI",
+      "CE-2026-CXXXV",
+      "CE-2026-CXXXIII",
+      "CE-2026-CXXXII",
+      "CE-2026-CXXXI",
+      "CE-2026-CXXX",
+      "CE-2026-CXXIX",
+      "CE-2026-CXXVIII",
+      "CE-2026-CXXVII",
+      "CE-2026-CXXVI",
+      "CE-2026-CXXV",
+      "CE-2026-CXXIV",
+      "CE-2026-CXXIII",
+      "CE-2026-CXXII",
+      "CE-2026-CXXI",
+      "CE-2026-CXX",
+      "CE-2026-CXIX",
+      "CE-2026-CXVIII",
+      "CE-2026-CXVII",
+      "CE-2026-CXVI",
+      "CE-2026-CXV",
+      "CE-2026-CXIV",
+      "CE-2026-CXIII",
+      "CE-2026-CXII",
+      "CE-2026-CXI",
+      "CE-2026-CX",
+      "CE-2026-CIX",
+      "CE-2026-CVIII",
+      "CE-2026-CVII",
+      "CE-2026-CVI",
+      "CE-2026-CV",
+      "CE-2026-CIV",
+      "CE-2026-CI",
+      "CE-2026-C",
+      "CE-2026-XCIX",
+      "CE-2026-XCVIII",
+      "CE-2026-XCVII",
+      "CE-2026-XCVI",
+      "CE-2026-XCV",
+      "CE-2026-XCIV",
+      "CE-2026-XCIII",
+      "CE-2026-XCII",
+      "CE-2026-XCI",
+      "CE-2026-XC",
+      "CE-2026-LXXXIX",
+      "CE-2026-LXXXVIII",
+      "CE-2026-LXXXVII",
+      "CE-2026-LXXXVI",
+      "CE-2026-LXXXV",
+      "CE-2026-LXXXIV",
+      "CE-2026-LXXXIII",
+      "CE-2026-LXXXII",
+      "CE-2026-LXXXI",
+      "CE-2026-LXXX",
+      "CE-2026-LXXIX",
+      "CE-2026-LXXVIII",
+      "CE-2026-LXXVII",
+      "CE-2026-LXXVI",
+      "CE-2026-LXXV",
+      "CE-2026-LXXIV",
+      "CE-2026-LXXIII",
+      "CE-2026-LXXII",
+      "CE-2026-LXXI",
+      "CE-2026-LXX",
+      "CE-2026-LXIX",
+      "CE-2026-LXVIII",
+      "CE-2026-LXVII",
+      "CE-2026-LXVI",
+      "CE-2026-LXV",
+      "CE-2026-LXIV",
+      "CE-2026-LXIII",
+      "CE-2026-LXII",
+      "CE-2026-LXI",
+      "CE-2026-LX",
+      "CE-2026-LIX",
+      "CE-2026-LVIII",
+      "CE-2026-LVII",
+      "CE-2026-LVI",
+      "CE-2026-LV",
+      "CE-2026-LIV",
+      "CE-2026-LIII",
+      "CE-2026-LII",
+      "CE-2026-LI",
+      "CE-2026-L",
+      "CE-2026-XLIX",
+      "CE-2026-XLVIII",
+      "CE-2026-XLVII",
+      "CE-2026-XLVI",
+      "CE-2026-XLV",
+      "CE-2026-XLIV",
+      "CE-2026-XLIII",
+      "CE-2026-XLII",
+      "CE-2026-XLI",
+      "CE-2026-XL",
+      "CE-2026-XXXIX",
+      "CE-2026-XXXVIII",
+      "CE-2026-XXXVII",
+      "CE-2026-XXXVI",
+      "CE-2026-XXXV",
+      "CE-2026-XXXIV",
+      "CE-2026-XXXIII",
+      "CE-2026-XXXII",
+      "CE-2026-XXXI",
+      "CE-2026-XXX",
+      "CE-2026-XXIX",
+      "CE-2026-XXVIII",
+      "CE-2026-XXVII",
+      "CE-2026-XXVI",
+      "CE-2026-XXV",
+      "CE-2026-XXIV",
+      "CE-2026-XXIII",
+      "CE-2026-XXII",
+      "CE-2026-XXI",
+      "CE-2026-XX",
+      "CE-2026-XIX",
+      "CE-2026-XVIII",
+      "CE-2026-XVII",
+      "CE-2026-XVI",
+      "CE-2026-XV",
+      "CE-2026-XIV",
+      "CE-2026-XIII",
+      "CE-2026-XII",
+      "CE-2026-XI",
+      "CE-2026-X",
+      "CE-2026-IX",
+      "CE-2026-VIII",
+      "CE-2026-VII",
+      "CE-2026-VI",
+      "CE-2026-V",
+      "CE-2026-IV"
+    ],
+    "pendingDecisions": 0,
+    "pendingIds": [],
+    "nextId": null,
+    "reviewComplete": true,
+    "integrationComplete": false,
+    "reviewDate": "2026-10-14",
+    "externalCertification": false,
+    "scope": "Efectos según los PDF suministrados; no acredita hechos posteriores ni aprobación oficial.",
+    "textPatches": {
+      "constitutionalAmendments": 6,
+      "additionalClauseRepeals": 1,
+      "additionalCaputReplacements": 1
+    },
+    "revokedDecisions": [
+      "CE-2026-CXIX"
+    ]
+  },
+  "decisions": [
+    {
+      "source": "SC-2026-CCXLI",
+      "pages": [
+        1
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CCXLI"
+    },
+    {
+      "source": "SC-2026-CCXL",
+      "pages": [
+        1,
+        2,
+        3
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CCXL"
+    },
+    {
+      "source": "SC-2026-CCXXXIX",
+      "pages": [
+        3
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CCXXXIX"
+    },
+    {
+      "source": "SC-2026-CCXXXVIII",
+      "pages": [
+        3,
+        4
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CCXXXVIII"
+    },
+    {
+      "source": "SC-2026-CCXXXVII",
+      "pages": [
+        4
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CCXXXVII"
+    },
+    {
+      "source": "SC-2026-CCXXXVI",
+      "pages": [
+        4
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CCXXXVI"
+    },
+    {
+      "source": "SC-2026-CCXXXV",
+      "pages": [
+        5
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CCXXXV"
+    },
+    {
+      "source": "SC-2026-CCXXXIV",
+      "pages": [
+        5
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CCXXXIV"
+    },
+    {
+      "source": "SC-2026-CCXXXIII",
+      "pages": [
+        5
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CCXXXIII"
+    },
+    {
+      "source": "SC-2026-CCXXXII",
+      "pages": [
+        5,
+        6
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CCXXXII"
+    },
+    {
+      "source": "SC-2026-CCXXXI",
+      "pages": [
+        6,
+        7
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CCXXXI"
+    },
+    {
+      "source": "SC-2026-CCXXX",
+      "pages": [
+        7
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CCXXX"
+    },
+    {
+      "source": "SC-2026-CCXXIX",
+      "pages": [
+        7
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CCXXIX"
+    },
+    {
+      "source": "SC-2026-CCXXVIII",
+      "pages": [
+        7,
+        8
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CCXXVIII"
+    },
+    {
+      "source": "SC-2026-CCXXVII",
+      "pages": [
+        8
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CCXXVII"
+    },
+    {
+      "source": "SC-2026-CCXXVI",
+      "pages": [
+        8
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CCXXVI"
+    },
+    {
+      "source": "SC-2026-CCXXV",
+      "pages": [
+        8,
+        9
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CCXXV"
+    },
+    {
+      "source": "SC-2026-CCXXIV",
+      "pages": [
+        9
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CCXXIV"
+    },
+    {
+      "source": "SC-2026-CCXXIII",
+      "pages": [
+        9
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CCXXIII"
+    },
+    {
+      "source": "SC-2026-CCXXII",
+      "pages": [
+        9,
+        10
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CCXXII"
+    },
+    {
+      "source": "SC-2026-CCXXI",
+      "pages": [
+        10
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CCXXI"
+    },
+    {
+      "source": "SC-2026-CCXX",
+      "pages": [
+        10
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CCXX"
+    },
+    {
+      "source": "SC-2026-CCXIX",
+      "pages": [
+        10,
+        11
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CCXIX"
+    },
+    {
+      "source": "SC-2026-CCXVIII",
+      "pages": [
+        11
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CCXVIII"
+    },
+    {
+      "source": "SC-2026-CCXVII",
+      "pages": [
+        11
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CCXVII"
+    },
+    {
+      "source": "SC-2026-CCXVI",
+      "pages": [
+        11,
+        12
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CCXVI"
+    },
+    {
+      "source": "SC-2026-CCXV",
+      "pages": [
+        12
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CCXV"
+    },
+    {
+      "source": "SC-2026-CCXIV",
+      "pages": [
+        12
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CCXIV"
+    },
+    {
+      "source": "SC-2026-CCXIII",
+      "pages": [
+        12,
+        13
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CCXIII"
+    },
+    {
+      "source": "SC-2026-CCXII",
+      "pages": [
+        13
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CCXII"
+    },
+    {
+      "source": "SC-2026-CCXI",
+      "pages": [
+        13
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CCXI"
+    },
+    {
+      "source": "SC-2026-CCX",
+      "pages": [
+        13,
+        14
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CCX"
+    },
+    {
+      "source": "SC-2026-CCIX",
+      "pages": [
+        14
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CCIX"
+    },
+    {
+      "source": "SC-2026-CCVIII",
+      "pages": [
+        14,
+        15,
+        16
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CCVIII"
+    },
+    {
+      "source": "SC-2026-CCVII",
+      "pages": [
+        16,
+        17,
+        18
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CCVII"
+    },
+    {
+      "source": "SC-2026-CCVI",
+      "pages": [
+        18,
+        19
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CCVI"
+    },
+    {
+      "source": "SC-2026-CCV",
+      "pages": [
+        19,
+        20,
+        21
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CCV"
+    },
+    {
+      "source": "SC-2026-CCIV",
+      "pages": [
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CCIV"
+    },
+    {
+      "source": "SC-2026-CCIII",
+      "pages": [
+        25,
+        26,
+        27
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CCIII"
+    },
+    {
+      "source": "SC-2026-CCII",
+      "pages": [
+        27
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CCII"
+    },
+    {
+      "source": "SC-2026-CCI",
+      "pages": [
+        27,
+        28
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CCI"
+    },
+    {
+      "source": "SC-2026-CC",
+      "pages": [
+        29
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CC"
+    },
+    {
+      "source": "SC-2026-CXCIX",
+      "pages": [
+        29
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXCIX"
+    },
+    {
+      "source": "SC-2026-CXCVIII",
+      "pages": [
+        29
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXCVIII"
+    },
+    {
+      "source": "SC-2026-CXCVII",
+      "pages": [
+        29
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXCVII"
+    },
+    {
+      "source": "SC-2026-CXCVI",
+      "pages": [
+        30
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXCVI"
+    },
+    {
+      "source": "SC-2026-CXCV",
+      "pages": [
+        30
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXCV"
+    },
+    {
+      "source": "SC-2026-CXCIV",
+      "pages": [
+        30
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXCIV"
+    },
+    {
+      "source": "SC-2026-CXCIII",
+      "pages": [
+        30
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXCIII"
+    },
+    {
+      "source": "SC-2026-CXCII",
+      "pages": [
+        31
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXCII"
+    },
+    {
+      "source": "SC-2026-CXCI",
+      "pages": [
+        31
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXCI"
+    },
+    {
+      "source": "SC-2026-CXC",
+      "pages": [
+        31,
+        32
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXC"
+    },
+    {
+      "source": "SC-2026-CLXXXIX",
+      "pages": [
+        32,
+        33
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CLXXXIX"
+    },
+    {
+      "source": "SC-2026-CLXXXVIII",
+      "pages": [
+        33,
+        34
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CLXXXVIII"
+    },
+    {
+      "source": "SC-2026-CLXXXVII",
+      "pages": [
+        34,
+        35
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CLXXXVII"
+    },
+    {
+      "source": "SC-2026-CLXXXVI",
+      "pages": [
+        35,
+        36
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CLXXXVI"
+    },
+    {
+      "source": "SC-2026-CLXXXV",
+      "pages": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CLXXXV"
+    },
+    {
+      "source": "SC-2026-CLXXXIV",
+      "pages": [
+        40
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CLXXXIV"
+    },
+    {
+      "source": "SC-2026-CLXXXIII",
+      "pages": [
+        40,
+        41
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CLXXXIII"
+    },
+    {
+      "source": "SC-2026-CLXXXII",
+      "pages": [
+        41,
+        42,
+        43
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CLXXXII"
+    },
+    {
+      "source": "SC-2026-CLXXXI",
+      "pages": [
+        43
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CLXXXI"
+    },
+    {
+      "source": "SC-2026-CLXXX",
+      "pages": [
+        43,
+        44
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CLXXX"
+    },
+    {
+      "source": "SC-2026-CLXXIX",
+      "pages": [
+        44
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CLXXIX"
+    },
+    {
+      "source": "SC-2026-CLXXVIII",
+      "pages": [
+        44,
+        45,
+        46,
+        47,
+        48,
+        49
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CLXXVIII"
+    },
+    {
+      "source": "SC-2026-CLXXVII",
+      "pages": [
+        49,
+        50
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CLXXVII"
+    },
+    {
+      "source": "SC-2026-CLXXVI",
+      "pages": [
+        50,
+        51
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CLXXVI"
+    },
+    {
+      "source": "SC-2026-CLXXV",
+      "pages": [
+        51,
+        52
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CLXXV"
+    },
+    {
+      "source": "SC-2026-CLXXIV",
+      "pages": [
+        52,
+        53,
+        54
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CLXXIV"
+    },
+    {
+      "source": "SC-2026-CLXXIII",
+      "pages": [
+        54,
+        55
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CLXXIII"
+    },
+    {
+      "source": "SC-2026-CLXXII",
+      "pages": [
+        55,
+        56
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CLXXII"
+    },
+    {
+      "source": "SC-2026-CLXXI",
+      "pages": [
+        56,
+        57
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CLXXI"
+    },
+    {
+      "source": "SC-2026-CLXX",
+      "pages": [
+        57,
+        58
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CLXX"
+    },
+    {
+      "source": "SC-2026-CLXIX",
+      "pages": [
+        58,
+        59
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CLXIX"
+    },
+    {
+      "source": "SC-2026-CLXVIII",
+      "pages": [
+        59,
+        60
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CLXVIII"
+    },
+    {
+      "source": "SC-2026-CLXVII",
+      "pages": [
+        60,
+        61,
+        62
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CLXVII"
+    },
+    {
+      "source": "SC-2026-CLXVI",
+      "pages": [
+        62,
+        63,
+        64
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CLXVI"
+    },
+    {
+      "source": "SC-2026-CLXV",
+      "pages": [
+        64,
+        65
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CLXV"
+    },
+    {
+      "source": "SC-2026-CLXIV",
+      "pages": [
+        65,
+        66
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CLXIV"
+    },
+    {
+      "source": "SC-2026-CLXIII",
+      "pages": [
+        66,
+        67
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CLXIII"
+    },
+    {
+      "source": "SC-2026-CLXII",
+      "pages": [
+        67
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CLXII"
+    },
+    {
+      "source": "SC-2026-CLXI",
+      "pages": [
+        67,
+        68
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CLXI"
+    },
+    {
+      "source": "SC-2026-CLX",
+      "pages": [
+        68,
+        69
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CLX"
+    },
+    {
+      "source": "SC-2026-CLIX",
+      "pages": [
+        69
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CLIX"
+    },
+    {
+      "source": "SC-2026-CLVIII",
+      "pages": [
+        70
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CLVIII"
+    },
+    {
+      "source": "SC-2026-CLVII",
+      "pages": [
+        70
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CLVII"
+    },
+    {
+      "source": "SC-2026-CLVI",
+      "pages": [
+        71
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CLVI"
+    },
+    {
+      "source": "SC-2026-CLV",
+      "pages": [
+        71,
+        72
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CLV"
+    },
+    {
+      "source": "SC-2026-CLIV",
+      "pages": [
+        72,
+        73
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CLIV"
+    },
+    {
+      "source": "SC-2026-CLIII",
+      "pages": [
+        73,
+        74,
+        75,
+        76,
+        77
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CLIII"
+    },
+    {
+      "source": "SC-2026-CLII",
+      "pages": [
+        77,
+        78
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CLII"
+    },
+    {
+      "source": "SC-2026-CLI",
+      "pages": [
+        78,
+        79,
+        80
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CLI"
+    },
+    {
+      "source": "SC-2026-CL",
+      "pages": [
+        80,
+        81
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CL"
+    },
+    {
+      "source": "SC-2026-CXLIX",
+      "pages": [
+        81,
+        82
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXLIX"
+    },
+    {
+      "source": "SC-2026-CXLVIII",
+      "pages": [
+        82
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXLVIII"
+    },
+    {
+      "source": "SC-2026-CXLVII",
+      "pages": [
+        82,
+        83,
+        84
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXLVII"
+    },
+    {
+      "source": "SC-2026-CXLVI",
+      "pages": [
+        84,
+        85
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXLVI"
+    },
+    {
+      "source": "SC-2026-CXLV",
+      "pages": [
+        85,
+        86
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXLV"
+    },
+    {
+      "source": "SC-2026-CXLIV",
+      "pages": [
+        86,
+        87
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXLIV"
+    },
+    {
+      "source": "SC-2026-CXLIII",
+      "pages": [
+        87,
+        88,
+        89
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXLIII"
+    },
+    {
+      "source": "SC-2026-CXLII",
+      "pages": [
+        89,
+        90,
+        91
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXLII"
+    },
+    {
+      "source": "SC-2026-CXLI",
+      "pages": [
+        91,
+        92,
+        93
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXLI"
+    },
+    {
+      "source": "SC-2026-CXL",
+      "pages": [
+        93,
+        94
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXL"
+    },
+    {
+      "source": "SC-2026-CXXXIX",
+      "pages": [
+        94,
+        95
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXXXIX"
+    },
+    {
+      "source": "SC-2026-CXXXVIII",
+      "pages": [
+        95,
+        96
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXXXVIII"
+    },
+    {
+      "source": "SC-2026-CXXXVII",
+      "pages": [
+        96,
+        97,
+        98
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXXXVII"
+    },
+    {
+      "source": "SC-2026-CXXXVI",
+      "pages": [
+        98,
+        99
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXXXVI"
+    },
+    {
+      "source": "SC-2026-CXXXV",
+      "pages": [
+        99,
+        100,
+        101
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXXXV"
+    },
+    {
+      "source": "SC-2026-CXXXIV",
+      "pages": [
+        101,
+        102
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXXXIV"
+    },
+    {
+      "source": "SC-2026-CXXXIII",
+      "pages": [
+        102,
+        103
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXXXIII"
+    },
+    {
+      "source": "SC-2026-CXXXII",
+      "pages": [
+        103,
+        104
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXXXII"
+    },
+    {
+      "source": "SC-2026-CXXXI",
+      "pages": [
+        104,
+        105
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXXXI"
+    },
+    {
+      "source": "SC-2026-CXXX",
+      "pages": [
+        105,
+        106
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXXX"
+    },
+    {
+      "source": "SC-2026-CXXIX",
+      "pages": [
+        106,
+        107
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXXIX"
+    },
+    {
+      "source": "SC-2026-CXXVIII",
+      "pages": [
+        107,
+        108
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXXVIII"
+    },
+    {
+      "source": "SC-2026-CXXVII",
+      "pages": [
+        108,
+        109
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXXVII"
+    },
+    {
+      "source": "SC-2026-CXXVI",
+      "pages": [
+        109,
+        110,
+        111,
+        112,
+        113
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXXVI"
+    },
+    {
+      "source": "SC-2026-CXXV",
+      "pages": [
+        113
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXXV"
+    },
+    {
+      "source": "SC-2026-CXXIV",
+      "pages": [
+        113,
+        114
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXXIV"
+    },
+    {
+      "source": "SC-2026-CXXIII",
+      "pages": [
+        114,
+        115,
+        116
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXXIII"
+    },
+    {
+      "source": "SC-2026-CXXII",
+      "pages": [
+        116,
+        117,
+        118
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXXII"
+    },
+    {
+      "source": "SC-2026-CXXI",
+      "pages": [
+        118,
+        119,
+        120
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXXI"
+    },
+    {
+      "source": "SC-2026-CXX",
+      "pages": [
+        120,
+        121,
+        122
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXX"
+    },
+    {
+      "source": "SC-2026-CXIX",
+      "pages": [
+        122,
+        123
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXIX"
+    },
+    {
+      "source": "SC-2026-CXVIII",
+      "pages": [
+        123,
+        124
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXVIII"
+    },
+    {
+      "source": "SC-2026-CXVII",
+      "pages": [
+        124,
+        125
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXVII"
+    },
+    {
+      "source": "SC-2026-CXVI",
+      "pages": [
+        125,
+        126
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXVI"
+    },
+    {
+      "source": "SC-2026-CXV",
+      "pages": [
+        126,
+        127,
+        128
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXV"
+    },
+    {
+      "source": "SC-2026-CXIV",
+      "pages": [
+        128
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXIV"
+    },
+    {
+      "source": "SC-2026-CXIII",
+      "pages": [
+        128,
+        129
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXIII"
+    },
+    {
+      "source": "SC-2026-CXII",
+      "pages": [
+        129
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXII"
+    },
+    {
+      "source": "SC-2026-CXI",
+      "pages": [
+        129,
+        130
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CXI"
+    },
+    {
+      "source": "SC-2026-CX",
+      "pages": [
+        130,
+        131
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CX"
+    },
+    {
+      "source": "SC-2026-CIX",
+      "pages": [
+        131,
+        132,
+        133,
+        134,
+        135
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CIX"
+    },
+    {
+      "source": "SC-2026-CVIII",
+      "pages": [
+        135,
+        136
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CVIII"
+    },
+    {
+      "source": "SC-2026-CVII",
+      "pages": [
+        136
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CVII"
+    },
+    {
+      "source": "SC-2026-CVI",
+      "pages": [
+        136,
+        137
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CVI"
+    },
+    {
+      "source": "SC-2026-CV",
+      "pages": [
+        137,
+        138
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CV"
+    },
+    {
+      "source": "SC-2026-CIV",
+      "pages": [
+        138,
+        139
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CIV"
+    },
+    {
+      "source": "SC-2026-CIII",
+      "pages": [
+        139,
+        140
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CIII"
+    },
+    {
+      "source": "SC-2026-CII",
+      "pages": [
+        140,
+        141
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CII"
+    },
+    {
+      "source": "SC-2026-CI",
+      "pages": [
+        141,
+        142
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-CI"
+    },
+    {
+      "source": "SC-2026-C",
+      "pages": [
+        142,
+        143
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-C"
+    },
+    {
+      "source": "SC-2026-XCIX",
+      "pages": [
+        143,
+        144
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XCIX"
+    },
+    {
+      "source": "SC-2026-XCVIII",
+      "pages": [
+        145
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XCVIII"
+    },
+    {
+      "source": "SC-2026-XCVII",
+      "pages": [
+        146
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XCVII"
+    },
+    {
+      "source": "SC-2026-XCVI",
+      "pages": [
+        146,
+        147
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XCVI"
+    },
+    {
+      "source": "SC-2026-XCV",
+      "pages": [
+        147,
+        148
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XCV"
+    },
+    {
+      "source": "SC-2026-XCIV",
+      "pages": [
+        148,
+        149,
+        150
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XCIV"
+    },
+    {
+      "source": "SC-2026-XCIII",
+      "pages": [
+        150,
+        151
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XCIII"
+    },
+    {
+      "source": "SC-2026-XCII",
+      "pages": [
+        151
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XCII"
+    },
+    {
+      "source": "SC-2026-XCI",
+      "pages": [
+        151,
+        152
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XCI"
+    },
+    {
+      "source": "SC-2026-XC",
+      "pages": [
+        152
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XC"
+    },
+    {
+      "source": "SC-2026-LXXXIX",
+      "pages": [
+        152,
+        153
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-LXXXIX"
+    },
+    {
+      "source": "SC-2026-LXXXVIII",
+      "pages": [
+        153
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-LXXXVIII"
+    },
+    {
+      "source": "SC-2026-LXXXVII",
+      "pages": [
+        153
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-LXXXVII"
+    },
+    {
+      "source": "SC-2026-LXXXVI",
+      "pages": [
+        153,
+        154
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-LXXXVI"
+    },
+    {
+      "source": "SC-2026-LXXXV",
+      "pages": [
+        154
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-LXXXV"
+    },
+    {
+      "source": "SC-2026-LXXXIV",
+      "pages": [
+        154,
+        155
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-LXXXIV"
+    },
+    {
+      "source": "SC-2026-LXXXIII",
+      "pages": [
+        155,
+        156
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-LXXXIII"
+    },
+    {
+      "source": "SC-2026-LXXXII",
+      "pages": [
+        156,
+        157
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-LXXXII"
+    },
+    {
+      "source": "SC-2026-LXXXI",
+      "pages": [
+        157,
+        158
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-LXXXI"
+    },
+    {
+      "source": "SC-2026-LXXX",
+      "pages": [
+        158,
+        159
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-LXXX"
+    },
+    {
+      "source": "SC-2026-LXXIX",
+      "pages": [
+        159,
+        160
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-LXXIX"
+    },
+    {
+      "source": "SC-2026-LXXVIII",
+      "pages": [
+        160,
+        161,
+        162,
+        163
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-LXXVIII"
+    },
+    {
+      "source": "SC-2026-LXXVII",
+      "pages": [
+        163,
+        164,
+        165
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-LXXVII"
+    },
+    {
+      "source": "SC-2026-LXXVI",
+      "pages": [
+        165,
+        166,
+        167
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-LXXVI"
+    },
+    {
+      "source": "SC-2026-LXXV",
+      "pages": [
+        167,
+        168,
+        169
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-LXXV"
+    },
+    {
+      "source": "SC-2026-LXXIV",
+      "pages": [
+        169
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-LXXIV"
+    },
+    {
+      "source": "SC-2026-LXXIII",
+      "pages": [
+        170
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-LXXIII"
+    },
+    {
+      "source": "SC-2026-LXXII",
+      "pages": [
+        170,
+        171
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-LXXII"
+    },
+    {
+      "source": "SC-2026-LXXI",
+      "pages": [
+        171,
+        172
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-LXXI"
+    },
+    {
+      "source": "SC-2026-LXX",
+      "pages": [
+        172,
+        173
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-LXX"
+    },
+    {
+      "source": "SC-2026-LXIX",
+      "pages": [
+        173,
+        174,
+        175
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-LXIX"
+    },
+    {
+      "source": "SC-2026-LXVIII",
+      "pages": [
+        175,
+        176
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-LXVIII"
+    },
+    {
+      "source": "SC-2026-LXVII",
+      "pages": [
+        176,
+        177
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-LXVII"
+    },
+    {
+      "source": "SC-2026-LXVI",
+      "pages": [
+        177,
+        178
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-LXVI"
+    },
+    {
+      "source": "SC-2026-LXV",
+      "pages": [
+        178
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-LXV"
+    },
+    {
+      "source": "SC-2026-LXIV",
+      "pages": [
+        178,
+        179
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-LXIV"
+    },
+    {
+      "source": "SC-2026-LXIII",
+      "pages": [
+        179
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-LXIII"
+    },
+    {
+      "source": "SC-2026-LXII",
+      "pages": [
+        179,
+        180
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-LXII"
+    },
+    {
+      "source": "SC-2026-LXI",
+      "pages": [
+        180,
+        181
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-LXI"
+    },
+    {
+      "source": "SC-2026-LX",
+      "pages": [
+        181,
+        182
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-LX"
+    },
+    {
+      "source": "SC-2026-LIX",
+      "pages": [
+        183,
+        184
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-LIX"
+    },
+    {
+      "source": "SC-2026-LVIII",
+      "pages": [
+        184,
+        185
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-LVIII"
+    },
+    {
+      "source": "SC-2026-LVII",
+      "pages": [
+        185,
+        186
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-LVII"
+    },
+    {
+      "source": "SC-2026-LVI",
+      "pages": [
+        186,
+        187
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-LVI"
+    },
+    {
+      "source": "SC-2026-LV",
+      "pages": [
+        187,
+        188
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-LV"
+    },
+    {
+      "source": "SC-2026-LIV",
+      "pages": [
+        188,
+        189,
+        190
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-LIV"
+    },
+    {
+      "source": "SC-2026-LIII",
+      "pages": [
+        190,
+        191
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-LIII"
+    },
+    {
+      "source": "SC-2026-LII",
+      "pages": [
+        191,
+        192
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-LII"
+    },
+    {
+      "source": "SC-2026-LI",
+      "pages": [
+        192,
+        193,
+        194
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-LI"
+    },
+    {
+      "source": "SC-2026-L",
+      "pages": [
+        194,
+        195
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-L"
+    },
+    {
+      "source": "SC-2026-XLIX",
+      "pages": [
+        195,
+        196
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XLIX"
+    },
+    {
+      "source": "SC-2026-XLVIII",
+      "pages": [
+        196,
+        197
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XLVIII"
+    },
+    {
+      "source": "SC-2026-XLVII",
+      "pages": [
+        197,
+        198
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XLVII"
+    },
+    {
+      "source": "SC-2026-XLVI",
+      "pages": [
+        198,
+        199,
+        200
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XLVI"
+    },
+    {
+      "source": "SC-2026-XLV",
+      "pages": [
+        200,
+        201
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XLV"
+    },
+    {
+      "source": "SC-2026-XLIV",
+      "pages": [
+        201,
+        202
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XLIV"
+    },
+    {
+      "source": "SC-2026-XLIII",
+      "pages": [
+        203
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XLIII"
+    },
+    {
+      "source": "SC-2026-XLII",
+      "pages": [
+        203,
+        204,
+        205
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XLII"
+    },
+    {
+      "source": "SC-2026-XLI",
+      "pages": [
+        205,
+        206
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XLI"
+    },
+    {
+      "source": "SC-2026-XL",
+      "pages": [
+        206,
+        207
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XL"
+    },
+    {
+      "source": "SC-2026-XXXIX",
+      "pages": [
+        207,
+        208
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XXXIX"
+    },
+    {
+      "source": "SC-2026-XXXVIII",
+      "pages": [
+        208,
+        209
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XXXVIII"
+    },
+    {
+      "source": "SC-2026-XXXVII",
+      "pages": [
+        209,
+        210
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XXXVII"
+    },
+    {
+      "source": "SC-2026-XXXVI",
+      "pages": [
+        210,
+        211
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XXXVI"
+    },
+    {
+      "source": "SC-2026-XXXV",
+      "pages": [
+        211,
+        212
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XXXV"
+    },
+    {
+      "source": "SC-2026-XXXIV",
+      "pages": [
+        212,
+        213
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XXXIV"
+    },
+    {
+      "source": "SC-2026-XXXIII",
+      "pages": [
+        213,
+        214
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XXXIII"
+    },
+    {
+      "source": "SC-2026-XXXII",
+      "pages": [
+        214
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XXXII"
+    },
+    {
+      "source": "SC-2026-XXXI",
+      "pages": [
+        215,
+        216
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XXXI"
+    },
+    {
+      "source": "SC-2026-XXX",
+      "pages": [
+        216,
+        217
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XXX"
+    },
+    {
+      "source": "SC-2026-XXIX",
+      "pages": [
+        217,
+        218
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XXIX"
+    },
+    {
+      "source": "SC-2026-XXVIII",
+      "pages": [
+        218
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XXVIII"
+    },
+    {
+      "source": "SC-2026-XXVII",
+      "pages": [
+        219
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XXVII"
+    },
+    {
+      "source": "SC-2026-XXVI",
+      "pages": [
+        219,
+        220
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XXVI"
+    },
+    {
+      "source": "SC-2026-XXV",
+      "pages": [
+        220
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XXV"
+    },
+    {
+      "source": "SC-2026-XXIV",
+      "pages": [
+        220,
+        221,
+        222
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XXIV"
+    },
+    {
+      "source": "SC-2026-XXIII",
+      "pages": [
+        223,
+        224,
+        225,
+        226
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XXIII"
+    },
+    {
+      "source": "SC-2026-XXII",
+      "pages": [
+        226,
+        227,
+        228
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XXII"
+    },
+    {
+      "source": "SC-2026-XXI",
+      "pages": [
+        228,
+        229
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XXI"
+    },
+    {
+      "source": "SC-2026-XX",
+      "pages": [
+        229,
+        230
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XX"
+    },
+    {
+      "source": "SC-2026-XIX",
+      "pages": [
+        230,
+        231,
+        232
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XIX"
+    },
+    {
+      "source": "SC-2026-XVIII",
+      "pages": [
+        232,
+        233
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XVIII"
+    },
+    {
+      "source": "SC-2026-XVII",
+      "pages": [
+        233,
+        234,
+        235
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XVII"
+    },
+    {
+      "source": "SC-2026-XVI",
+      "pages": [
+        235
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XVI"
+    },
+    {
+      "source": "SC-2026-XV",
+      "pages": [
+        235,
+        236
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XV"
+    },
+    {
+      "source": "SC-2026-XIV",
+      "pages": [
+        236,
+        237,
+        238
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XIV"
+    },
+    {
+      "source": "SC-2026-XIII",
+      "pages": [
+        238
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XIII"
+    },
+    {
+      "source": "SC-2026-XII",
+      "pages": [
+        238,
+        239
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XII"
+    },
+    {
+      "source": "SC-2026-XI",
+      "pages": [
+        239,
+        240
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-XI"
+    },
+    {
+      "source": "SC-2026-X",
+      "pages": [
+        240,
+        241,
+        242,
+        243
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-X"
+    },
+    {
+      "source": "SC-2026-IX",
+      "pages": [
+        243,
+        244,
+        245
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-IX"
+    },
+    {
+      "source": "SC-2026-VIII",
+      "pages": [
+        245,
+        246,
+        247
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-VIII"
+    },
+    {
+      "source": "SC-2026-VII",
+      "pages": [
+        247,
+        248,
+        249
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-VII"
+    },
+    {
+      "source": "SC-2026-VI",
+      "pages": [
+        249,
+        250,
+        251
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-VI"
+    },
+    {
+      "source": "SC-2026-V",
+      "pages": [
+        251
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-V"
+    },
+    {
+      "source": "SC-2026-IV",
+      "pages": [
+        251,
+        252
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-SC-2026-IV"
+    },
+    {
+      "source": "CE-2026-CLXIII",
+      "pages": [
+        252,
+        253
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CLXIII"
+    },
+    {
+      "source": "CE-2026-CLXII",
+      "pages": [
+        253
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CLXII"
+    },
+    {
+      "source": "CE-2026-CLXI",
+      "pages": [
+        253,
+        254
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CLXI"
+    },
+    {
+      "source": "CE-2026-CLX",
+      "pages": [
+        254
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CLX"
+    },
+    {
+      "source": "CE-2026-CLIX",
+      "pages": [
+        254,
+        255
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CLIX"
+    },
+    {
+      "source": "CE-2026-CLVIII",
+      "pages": [
+        255
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CLVIII"
+    },
+    {
+      "source": "CE-2026-CLVII",
+      "pages": [
+        255,
+        256
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CLVII"
+    },
+    {
+      "source": "CE-2026-CLVI",
+      "pages": [
+        256
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CLVI"
+    },
+    {
+      "source": "CE-2026-CLV",
+      "pages": [
+        256,
+        257
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CLV"
+    },
+    {
+      "source": "CE-2026-CLIV",
+      "pages": [
+        257
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CLIV"
+    },
+    {
+      "source": "CE-2026-CLIII",
+      "pages": [
+        257,
+        258
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CLIII"
+    },
+    {
+      "source": "CE-2026-CLII",
+      "pages": [
+        258
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CLII"
+    },
+    {
+      "source": "CE-2026-CLI",
+      "pages": [
+        258
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CLI"
+    },
+    {
+      "source": "CE-2026-CL",
+      "pages": [
+        258,
+        259
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CL"
+    },
+    {
+      "source": "CE-2026-CXLIX",
+      "pages": [
+        259
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CXLIX"
+    },
+    {
+      "source": "CE-2026-CXLVIII",
+      "pages": [
+        259
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CXLVIII"
+    },
+    {
+      "source": "CE-2026-CXLVII",
+      "pages": [
+        259,
+        260
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CXLVII"
+    },
+    {
+      "source": "CE-2026-CXLVI",
+      "pages": [
+        260
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CXLVI"
+    },
+    {
+      "source": "CE-2026-CXLV",
+      "pages": [
+        260
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CXLV"
+    },
+    {
+      "source": "CE-2026-CXLIV",
+      "pages": [
+        260,
+        261
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CXLIV"
+    },
+    {
+      "source": "CE-2026-CXLIII",
+      "pages": [
+        261
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CXLIII"
+    },
+    {
+      "source": "CE-2026-CXLII",
+      "pages": [
+        261,
+        262
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CXLII"
+    },
+    {
+      "source": "CE-2026-CXLI",
+      "pages": [
+        262,
+        263,
+        264,
+        265,
+        266,
+        267,
+        268,
+        269,
+        270,
+        271,
+        272
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CXLI"
+    },
+    {
+      "source": "CE-2026-CXL",
+      "pages": [
+        273
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CXL"
+    },
+    {
+      "source": "CE-2026-CXXXIX",
+      "pages": [
+        273,
+        274
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CXXXIX"
+    },
+    {
+      "source": "CE-2026-CXXXVIII",
+      "pages": [
+        274,
+        275
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CXXXVIII"
+    },
+    {
+      "source": "CE-2026-CXXXVII",
+      "pages": [
+        275,
+        276
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CXXXVII"
+    },
+    {
+      "source": "CE-2026-CXXXVI",
+      "pages": [
+        276,
+        277,
+        278
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CXXXVI"
+    },
+    {
+      "source": "CE-2026-CXXXV",
+      "pages": [
+        278,
+        279,
+        280
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CXXXV"
+    },
+    {
+      "source": "CE-2026-CXXXIV",
+      "pages": [
+        280,
+        281,
+        282
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CXXXIV"
+    },
+    {
+      "source": "CE-2026-CXXXIII",
+      "pages": [
+        282
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CXXXIII"
+    },
+    {
+      "source": "CE-2026-CXXXII",
+      "pages": [
+        282,
+        283
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CXXXII"
+    },
+    {
+      "source": "CE-2026-CXXXI",
+      "pages": [
+        283
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CXXXI"
+    },
+    {
+      "source": "CE-2026-CXXX",
+      "pages": [
+        283
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CXXX"
+    },
+    {
+      "source": "CE-2026-CXXIX",
+      "pages": [
+        284,
+        285,
+        286,
+        287
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CXXIX"
+    },
+    {
+      "source": "CE-2026-CXXVIII",
+      "pages": [
+        287
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CXXVIII"
+    },
+    {
+      "source": "CE-2026-CXXVII",
+      "pages": [
+        287,
+        288,
+        289
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CXXVII"
+    },
+    {
+      "source": "CE-2026-CXXVI",
+      "pages": [
+        289
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CXXVI"
+    },
+    {
+      "source": "CE-2026-CXXV",
+      "pages": [
+        289
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CXXV"
+    },
+    {
+      "source": "CE-2026-CXXIV",
+      "pages": [
+        289
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CXXIV"
+    },
+    {
+      "source": "CE-2026-CXXIII",
+      "pages": [
+        290
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CXXIII"
+    },
+    {
+      "source": "CE-2026-CXXII",
+      "pages": [
+        290,
+        291
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CXXII"
+    },
+    {
+      "source": "CE-2026-CXXI",
+      "pages": [
+        291,
+        292
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CXXI"
+    },
+    {
+      "source": "CE-2026-CXX",
+      "pages": [
+        292,
+        293
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CXX"
+    },
+    {
+      "source": "CE-2026-CXIX",
+      "pages": [
+        293,
+        294
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CXIX"
+    },
+    {
+      "source": "CE-2026-CXVIII",
+      "pages": [
+        294,
+        295,
+        296
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CXVIII"
+    },
+    {
+      "source": "CE-2026-CXVII",
+      "pages": [
+        296
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CXVII"
+    },
+    {
+      "source": "CE-2026-CXVI",
+      "pages": [
+        296,
+        297
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CXVI"
+    },
+    {
+      "source": "CE-2026-CXV",
+      "pages": [
+        297,
+        298
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CXV"
+    },
+    {
+      "source": "CE-2026-CXIV",
+      "pages": [
+        298
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CXIV"
+    },
+    {
+      "source": "CE-2026-CXIII",
+      "pages": [
+        298,
+        299
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CXIII"
+    },
+    {
+      "source": "CE-2026-CXII",
+      "pages": [
+        299
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CXII"
+    },
+    {
+      "source": "CE-2026-CXI",
+      "pages": [
+        299,
+        300
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CXI"
+    },
+    {
+      "source": "CE-2026-CX",
+      "pages": [
+        300
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CX"
+    },
+    {
+      "source": "CE-2026-CIX",
+      "pages": [
+        300
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CIX"
+    },
+    {
+      "source": "CE-2026-CVIII",
+      "pages": [
+        300,
+        301
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CVIII"
+    },
+    {
+      "source": "CE-2026-CVII",
+      "pages": [
+        301
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CVII"
+    },
+    {
+      "source": "CE-2026-CVI",
+      "pages": [
+        301
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CVI"
+    },
+    {
+      "source": "CE-2026-CV",
+      "pages": [
+        302
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CV"
+    },
+    {
+      "source": "CE-2026-CIV",
+      "pages": [
+        302,
+        303,
+        304
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CIV"
+    },
+    {
+      "source": "CE-2026-CIII",
+      "pages": [
+        304,
+        305
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CIII"
+    },
+    {
+      "source": "CE-2026-CII",
+      "pages": [
+        305,
+        306
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CII"
+    },
+    {
+      "source": "CE-2026-CI",
+      "pages": [
+        307
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-CI"
+    },
+    {
+      "source": "CE-2026-C",
+      "pages": [
+        307
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-C"
+    },
+    {
+      "source": "CE-2026-XCIX",
+      "pages": [
+        307
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XCIX"
+    },
+    {
+      "source": "CE-2026-XCVIII",
+      "pages": [
+        307
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XCVIII"
+    },
+    {
+      "source": "CE-2026-XCVII",
+      "pages": [
+        308
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XCVII"
+    },
+    {
+      "source": "CE-2026-XCVI",
+      "pages": [
+        308
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XCVI"
+    },
+    {
+      "source": "CE-2026-XCV",
+      "pages": [
+        308
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XCV"
+    },
+    {
+      "source": "CE-2026-XCIV",
+      "pages": [
+        308
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XCIV"
+    },
+    {
+      "source": "CE-2026-XCIII",
+      "pages": [
+        308,
+        309
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XCIII"
+    },
+    {
+      "source": "CE-2026-XCII",
+      "pages": [
+        309
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XCII"
+    },
+    {
+      "source": "CE-2026-XCI",
+      "pages": [
+        309
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XCI"
+    },
+    {
+      "source": "CE-2026-XC",
+      "pages": [
+        309
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XC"
+    },
+    {
+      "source": "CE-2026-LXXXIX",
+      "pages": [
+        310
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-LXXXIX"
+    },
+    {
+      "source": "CE-2026-LXXXVIII",
+      "pages": [
+        310
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-LXXXVIII"
+    },
+    {
+      "source": "CE-2026-LXXXVII",
+      "pages": [
+        310,
+        311
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-LXXXVII"
+    },
+    {
+      "source": "CE-2026-LXXXVI",
+      "pages": [
+        311
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-LXXXVI"
+    },
+    {
+      "source": "CE-2026-LXXXV",
+      "pages": [
+        311
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-LXXXV"
+    },
+    {
+      "source": "CE-2026-LXXXIV",
+      "pages": [
+        311,
+        312
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-LXXXIV"
+    },
+    {
+      "source": "CE-2026-LXXXIII",
+      "pages": [
+        312,
+        313,
+        314
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-LXXXIII"
+    },
+    {
+      "source": "CE-2026-LXXXII",
+      "pages": [
+        314
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-LXXXII"
+    },
+    {
+      "source": "CE-2026-LXXXI",
+      "pages": [
+        315,
+        316
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-LXXXI"
+    },
+    {
+      "source": "CE-2026-LXXX",
+      "pages": [
+        316,
+        317
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-LXXX"
+    },
+    {
+      "source": "CE-2026-LXXIX",
+      "pages": [
+        317
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-LXXIX"
+    },
+    {
+      "source": "CE-2026-LXXVIII",
+      "pages": [
+        317,
+        318
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-LXXVIII"
+    },
+    {
+      "source": "CE-2026-LXXVII",
+      "pages": [
+        318
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-LXXVII"
+    },
+    {
+      "source": "CE-2026-LXXVI",
+      "pages": [
+        318,
+        319
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-LXXVI"
+    },
+    {
+      "source": "CE-2026-LXXV",
+      "pages": [
+        319
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-LXXV"
+    },
+    {
+      "source": "CE-2026-LXXIV",
+      "pages": [
+        319
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-LXXIV"
+    },
+    {
+      "source": "CE-2026-LXXIII",
+      "pages": [
+        319
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-LXXIII"
+    },
+    {
+      "source": "CE-2026-LXXII",
+      "pages": [
+        320
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-LXXII"
+    },
+    {
+      "source": "CE-2026-LXXI",
+      "pages": [
+        320
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-LXXI"
+    },
+    {
+      "source": "CE-2026-LXX",
+      "pages": [
+        320
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-LXX"
+    },
+    {
+      "source": "CE-2026-LXIX",
+      "pages": [
+        321
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-LXIX"
+    },
+    {
+      "source": "CE-2026-LXVIII",
+      "pages": [
+        321
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-LXVIII"
+    },
+    {
+      "source": "CE-2026-LXVII",
+      "pages": [
+        321
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-LXVII"
+    },
+    {
+      "source": "CE-2026-LXVI",
+      "pages": [
+        321,
+        322
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-LXVI"
+    },
+    {
+      "source": "CE-2026-LXV",
+      "pages": [
+        322
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-LXV"
+    },
+    {
+      "source": "CE-2026-LXIV",
+      "pages": [
+        322,
+        323
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-LXIV"
+    },
+    {
+      "source": "CE-2026-LXIII",
+      "pages": [
+        323,
+        324,
+        325
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-LXIII"
+    },
+    {
+      "source": "CE-2026-LXII",
+      "pages": [
+        325,
+        326
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-LXII"
+    },
+    {
+      "source": "CE-2026-LXI",
+      "pages": [
+        326,
+        327
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-LXI"
+    },
+    {
+      "source": "CE-2026-LX",
+      "pages": [
+        327
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-LX"
+    },
+    {
+      "source": "CE-2026-LIX",
+      "pages": [
+        328
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-LIX"
+    },
+    {
+      "source": "CE-2026-LVIII",
+      "pages": [
+        328
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-LVIII"
+    },
+    {
+      "source": "CE-2026-LVII",
+      "pages": [
+        329
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-LVII"
+    },
+    {
+      "source": "CE-2026-LVI",
+      "pages": [
+        329
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-LVI"
+    },
+    {
+      "source": "CE-2026-LV",
+      "pages": [
+        329,
+        330
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-LV"
+    },
+    {
+      "source": "CE-2026-LIV",
+      "pages": [
+        330
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-LIV"
+    },
+    {
+      "source": "CE-2026-LIII",
+      "pages": [
+        330,
+        331
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-LIII"
+    },
+    {
+      "source": "CE-2026-LII",
+      "pages": [
+        331
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-LII"
+    },
+    {
+      "source": "CE-2026-LI",
+      "pages": [
+        331,
+        332
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-LI"
+    },
+    {
+      "source": "CE-2026-L",
+      "pages": [
+        332
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-L"
+    },
+    {
+      "source": "CE-2026-XLIX",
+      "pages": [
+        332,
+        333
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XLIX"
+    },
+    {
+      "source": "CE-2026-XLVIII",
+      "pages": [
+        333
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XLVIII"
+    },
+    {
+      "source": "CE-2026-XLVII",
+      "pages": [
+        333,
+        334
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XLVII"
+    },
+    {
+      "source": "CE-2026-XLVI",
+      "pages": [
+        334
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XLVI"
+    },
+    {
+      "source": "CE-2026-XLV",
+      "pages": [
+        334,
+        335
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XLV"
+    },
+    {
+      "source": "CE-2026-XLIV",
+      "pages": [
+        335
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XLIV"
+    },
+    {
+      "source": "CE-2026-XLIII",
+      "pages": [
+        336
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XLIII"
+    },
+    {
+      "source": "CE-2026-XLII",
+      "pages": [
+        336
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XLII"
+    },
+    {
+      "source": "CE-2026-XLI",
+      "pages": [
+        337
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XLI"
+    },
+    {
+      "source": "CE-2026-XL",
+      "pages": [
+        337,
+        338
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XL"
+    },
+    {
+      "source": "CE-2026-XXXIX",
+      "pages": [
+        338
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XXXIX"
+    },
+    {
+      "source": "CE-2026-XXXVIII",
+      "pages": [
+        338,
+        339
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XXXVIII"
+    },
+    {
+      "source": "CE-2026-XXXVII",
+      "pages": [
+        339
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XXXVII"
+    },
+    {
+      "source": "CE-2026-XXXVI",
+      "pages": [
+        339,
+        340
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XXXVI"
+    },
+    {
+      "source": "CE-2026-XXXV",
+      "pages": [
+        340
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XXXV"
+    },
+    {
+      "source": "CE-2026-XXXIV",
+      "pages": [
+        340,
+        341
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XXXIV"
+    },
+    {
+      "source": "CE-2026-XXXIII",
+      "pages": [
+        341
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XXXIII"
+    },
+    {
+      "source": "CE-2026-XXXII",
+      "pages": [
+        341,
+        342
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XXXII"
+    },
+    {
+      "source": "CE-2026-XXXI",
+      "pages": [
+        342
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XXXI"
+    },
+    {
+      "source": "CE-2026-XXX",
+      "pages": [
+        342,
+        343
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XXX"
+    },
+    {
+      "source": "CE-2026-XXIX",
+      "pages": [
+        343
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XXIX"
+    },
+    {
+      "source": "CE-2026-XXVIII",
+      "pages": [
+        343,
+        344
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XXVIII"
+    },
+    {
+      "source": "CE-2026-XXVII",
+      "pages": [
+        344
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XXVII"
+    },
+    {
+      "source": "CE-2026-XXVI",
+      "pages": [
+        344,
+        345
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XXVI"
+    },
+    {
+      "source": "CE-2026-XXV",
+      "pages": [
+        345
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XXV"
+    },
+    {
+      "source": "CE-2026-XXIV",
+      "pages": [
+        345,
+        346
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XXIV"
+    },
+    {
+      "source": "CE-2026-XXIII",
+      "pages": [
+        346
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XXIII"
+    },
+    {
+      "source": "CE-2026-XXII",
+      "pages": [
+        346,
+        347
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XXII"
+    },
+    {
+      "source": "CE-2026-XXI",
+      "pages": [
+        347
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XXI"
+    },
+    {
+      "source": "CE-2026-XX",
+      "pages": [
+        347,
+        348
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XX"
+    },
+    {
+      "source": "CE-2026-XIX",
+      "pages": [
+        348
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XIX"
+    },
+    {
+      "source": "CE-2026-XVIII",
+      "pages": [
+        348,
+        349
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XVIII"
+    },
+    {
+      "source": "CE-2026-XVII",
+      "pages": [
+        349
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XVII"
+    },
+    {
+      "source": "CE-2026-XVI",
+      "pages": [
+        349,
+        350
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XVI"
+    },
+    {
+      "source": "CE-2026-XV",
+      "pages": [
+        350
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XV"
+    },
+    {
+      "source": "CE-2026-XIV",
+      "pages": [
+        350,
+        351
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XIV"
+    },
+    {
+      "source": "CE-2026-XIII",
+      "pages": [
+        351
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XIII"
+    },
+    {
+      "source": "CE-2026-XII",
+      "pages": [
+        351,
+        352
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XII"
+    },
+    {
+      "source": "CE-2026-XI",
+      "pages": [
+        352
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-XI"
+    },
+    {
+      "source": "CE-2026-X",
+      "pages": [
+        352,
+        353
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-X"
+    },
+    {
+      "source": "CE-2026-IX",
+      "pages": [
+        353
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-IX"
+    },
+    {
+      "source": "CE-2026-VIII",
+      "pages": [
+        353
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-VIII"
+    },
+    {
+      "source": "CE-2026-VII",
+      "pages": [
+        353,
+        354
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-VII"
+    },
+    {
+      "source": "CE-2026-VI",
+      "pages": [
+        354
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-VI"
+    },
+    {
+      "source": "CE-2026-V",
+      "pages": [
+        354,
+        355
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-V"
+    },
+    {
+      "source": "CE-2026-IV",
+      "pages": [
+        355
+      ],
+      "status": "cotejado-efectos",
+      "effectId": "EF-CE-2026-IV"
+    }
+  ]
+}

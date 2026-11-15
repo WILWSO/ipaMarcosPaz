@@ -1,0 +1,51 @@
+[
+  {
+    "article": 1,
+    "labelPt": "CAPÍTULO I",
+    "titlePt": "DO REGULAMENTO E DOS OBJETIVOS",
+    "labelEs": "Capítulo I",
+    "titleEs": "Del reglamento y los objetivos"
+  },
+  {
+    "article": 2,
+    "labelPt": "CAPÍTULO II",
+    "titlePt": "DO LIVRO DE ATAS",
+    "labelEs": "Capítulo II",
+    "titleEs": "Del libro de actas"
+  },
+  {
+    "article": 5,
+    "labelPt": "Seção I",
+    "titlePt": "Do Livro Manuscrito",
+    "labelEs": "Sección I",
+    "titleEs": "Del libro manuscrito"
+  },
+  {
+    "article": 6,
+    "labelPt": "Seção II",
+    "titlePt": "Do Livro Digital",
+    "labelEs": "Sección II",
+    "titleEs": "Del libro digital"
+  },
+  {
+    "article": 10,
+    "labelPt": "CAPÍTULO III",
+    "titlePt": "DO CONTEÚDO DAS ATAS",
+    "labelEs": "Capítulo III",
+    "titleEs": "Del contenido de las actas"
+  },
+  {
+    "article": 13,
+    "labelPt": "CAPÍTULO IV",
+    "titlePt": "DO MODO CORRETO DE LAVRAR AS ATAS",
+    "labelEs": "Capítulo IV",
+    "titleEs": "De la forma correcta de redactar las actas"
+  },
+  {
+    "article": 21,
+    "labelPt": "CAPÍTULO V",
+    "titlePt": "DISPOSIÇÕES FINAIS",
+    "labelEs": "Capítulo V",
+    "titleEs": "Disposiciones finales"
+  }
+]

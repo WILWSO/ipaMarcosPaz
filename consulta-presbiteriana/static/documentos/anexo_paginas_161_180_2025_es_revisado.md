@@ -1,0 +1,387 @@
+# Anexo cotejado: páginas 161–180
+
+> Traducción no oficial. Lote cotejado: 161–180; avance acumulado: 180/560 páginas, 380 pendientes. Índice de la Constitución completo. La nota 37 y el artículo 22 del Código de Disciplina continúan en 181. Conservados los límites y referencias del impreso histórico de 2025.
+
+## Observaciones editoriales
+
+- Páginas 161–163: se conserva el orden portugués del índice, las referencias «12 § 2º», «113 d 114» y «consejos superiores», y el marcador «§ §».
+- Páginas 164 y 166: páginas sin texto; página 165: separador del Código de Disciplina.
+- Página 167: «investidos» reproduce correctamente «investidos»; se corrige «invertidos» de la traducción automática.
+- Página 172, nota 18: conservada la repetición sobre exoneración administrativa y no punitiva.
+- Página 173, artículo 12: conservado «esta Constitución» del original dentro del Código de Disciplina.
+- Página 174, nota 22: conservada la referencia Marcos 12:7.
+- Páginas 174–175, nota 25: cita histórica de CE–2021 sobre secreto y comunicación a autoridades, reproducida como texto documental, sin comprobar vigencia jurídica actual.
+- Páginas 177–178, notas 31 y 33: conservado «hasta cinco (5)» del impreso sobre quórum.
+- Páginas 179–180, nota 37: la resolución 001/2021 queda completa; la 002/2021 continúa en 181 y la nota no se declara completa. El texto principal del artículo 22 también continúa en 181.
+
+## Continuaciones
+
+| Nota CD | Páginas | Estado |
+| --- | --- | --- |
+| 5 | 168–169 | Completa |
+| 14 | 171–172 | Completa |
+| 25 | 174–175 | Completa |
+| 26 | 175–176 | Completa |
+| 32 | 177–178 | Completa |
+| 37 | 179–181 | Pendiente de continuación |
+
+## Índice por página
+
+[161](#anexo-pagina-161) · [162](#anexo-pagina-162) · [163](#anexo-pagina-163) · [164](#anexo-pagina-164) · [165](#anexo-pagina-165) · [166](#anexo-pagina-166) · [167](#anexo-pagina-167) · [168](#anexo-pagina-168) · [169](#anexo-pagina-169) · [170](#anexo-pagina-170) · [171](#anexo-pagina-171) · [172](#anexo-pagina-172) · [173](#anexo-pagina-173) · [174](#anexo-pagina-174) · [175](#anexo-pagina-175) · [176](#anexo-pagina-176) · [177](#anexo-pagina-177) · [178](#anexo-pagina-178) · [179](#anexo-pagina-179) · [180](#anexo-pagina-180)
+
+<a id="anexo-pagina-161"></a>
+
+## Página PDF 161
+
+161 CONSTITUCIÓN
+
+Concilio de un manual de: 143 a; en vigor hasta que se promulguen los principios de: 152.
+Miembros – de la Iglesia Presbiteriana de Brasil: 11; comulgantes y no comulgantes: 12 y 13; privilegios y derechos de los: 13 y sus párrafos; que pueden ser elegidos: 13 y § 1º; que pueden comulgar y bautizar a sus hijos: 13 § 3º; deberes de los... de la iglesia: 14; pérdida de los privilegios y derechos de: 15; admisión de los privilegios y derechos de... comulgantes: 16 y 83 b; admisión de... no comulgantes: 17 y 83 b; transferencia de... comulgantes: 18; transferencia de... no comulgantes: 19 párrafo único; jurisdicción sobre... transferidos: 22; facultad de rechazar... transferidos: 22 § 1º; baja de... comulgantes: 23; baja de... no comulgantes: 24; límite de edad para los... no comulgantes: 24 c; de concilios: 66; disciplina de los... de la iglesia: 83 c.
+Ministros del Evangelio – jurisdicción eclesiástica del: 27 § 2º, 38, 88 e; funciones exclusivas del: 31; definición de: 30; títulos que la Escritura da al: 30 párrafo único; cualificación del: 32; admisión, transferencia, disciplina y jubilación de: 88 c; designación de... para iglesias vacantes: 88 d; cómo puede ser designado el: 33, 34; sustento de los: 35; atribuciones de los: 36; designación de... para otras funciones: 37, 88 d; informe del... al Presbiterio: 38, 88 g; despojamiento sin censura: 42 y 148; licencia para tratamiento de salud: 41; vacaciones del: 40; licencia para atender intereses particulares: 42; despojamiento de: 48; licencia para trabajar fuera de la Iglesia Presbiteriana: 43; transferencia de: 45 y §§; transferencia de ministros con licencia para atender intereses particulares: 45 § 2º; admisión de... que venga de otro Presbiterio: 46; admisión de... que venga de otra comunidad evangélica: 47 y 132 párrafo único; jubilación de: 49 y §§, 149, 88 c, y 97 e; derecho a voto del... jubilado: 49 § 5º; concesión de licencia a: 88 b; relación con las iglesias y congregaciones: 88 b; compromiso del: 132 y párrafo único; designación de: 133; invitación a un pastor que esté al servicio de otra iglesia: 134, 135 y párrafo único, 136 y 137; disolución de las relaciones de Pastor Efectivo: 138.
+Misionero – definición de: 33 § 4º; atribuciones para organizar iglesias o congregaciones: 34 e; sustento de: 35 in fine.
+Juventud – orientación y supervisión del trabajo de la: 83 h, 36 d, 94 c y 97 l.
+Mujeres – facultad para designar... para ciertos servicios: 83 x.
+Oficiales – cómo se clasifican: 25; tiempo de ejercicio de los: 25 § 1º, 54; quienes pueden votar y ser elegidos para: 13 § 1º y 2º, 25 § 2º, 112; plazo para ejercer el cargo de: 12 § 2º; de concilios y las iglesias: 26; concilios de los que son miembros los: 27; libertad para aceptar o no un cargo u oficio: 29; imposibilidad de ejercer simultáneamente dos oficios: 29; elección de: 83 d, 50, 53, 54 § 1º, 110, 111 y párrafo único, 112, 113 d 114; ordenación
+
+<a id="anexo-pagina-162"></a>
+
+## Página PDF 162
+
+162 MANUAL PRESBITERIANO
+
+e instalación de: 83 d, 109 y §§ 1º, 2º y 3º; quién debe exigir que los... de la iglesia cumplan su deber: 83 i; convocatoria de asamblea para la elección de: 111; determinación del número de... que deben ser elegidos: 111.
+Oficio – admisión a cualquiera: 28 y 109; acumulación de: 29; libertad para aceptar o no un: 29; condiciones para el ejercicio de... en la iglesia: 109.
+Ordenación – definición de: 109 § 1º; debe ser únicamente para un cargo definido: 109 § 3º; de un licenciado, al Ministerio: 127, 130, 131 y párrafo único; pruebas de... de ministro: 128, 129; aplazamiento de la: 131 y párrafo único; de oficiales: 83 d, 109 y §§ 1º y 3º, 113 y 114.
+Presupuesto – de una iglesia local: 9º § 1º d, e.
+Pastor – elección de: 9º § 1º a, 88 h, 34 a, 83 e; informe de los actos pastorales al Consejo: 36 párrafo único; exoneración de: 9º § 1º b; emérito: 9 § 1º g, 44 y párrafo único; atribuciones del: 36; efectivo: 33 § 1º, 34 a, b, 138; sustento de: 35; auxiliar: 33 § 2º, 34 c; evangelista: 33 § 3º, 34 d; designación de: 34, 133; licencia para que el... se ausente de su campo: 39; invitación a un... que esté al servicio de otra iglesia: 134, 135 y párrafo único, 136, 137; disolución de las relaciones de... efectivo: 138.
+Persona jurídica – organización de una congregación como: 6º, párrafo único; lo mismo de una iglesia: 6º, 9º § 1º c.
+Punto de predicación – qué es un: 4º § 2º; quién puede establecer uno: 83 r.
+Toma de posesión – de pastores efectivos: 34 a, b, 88 h; de Pastor Auxiliar: 34 c; de Pastor Evangelista: 34 d.
+Plazo – para que alguien ejerza un cargo electivo después de su recepción como miembro: 13 § 2º; de validez de la carta de transferencia: 21; para la inscripción de un miembro en una lista separada: 23 § 2º; para la exclusión de un miembro: 23 § 2º; para la designación de un ministro elegido: 33 § 1º; del mandato de un pastor efectivo elegido: 34 a; superior a 10 días, necesidad de licencia del Consejo para la ausencia del pastor: 39; para la licencia de un ministro con remuneración íntegra: 41; para el mandato de un presbítero o diácono: 54; que debe preceder a la nueva elección para el presbiterado o diaconado: 54 § 1º; para la cesación del mandato de un oficial por ausencia: 56 d; para el recurso contra un acto de un concilio: 64; intervalo máximo entre reuniones del Consejo: 81 a; para instruir a la iglesia en caso de elecciones de oficiales: 111 párrafo único; de prueba de los dones del licenciado: 124; renovación del... para la ordenación del licenciado: 131;
+Presbiterio – organización, disciplina, fusión, división y disolución de: 94 a; Mesa del: 67; reunión del: 73; definición de: 85; quórum del: 86; constitución de un: 87; funciones exclusivas de un: 88; deber del... respecto de las órdenes de los concilios superiores: 88 m; visitas del... a las iglesias: 88 n; representación del... en el Sínodo: 89; lo mismo en el Supremo Concilio: 90; secretarios de causa del: 106 y § §.
+
+<a id="anexo-pagina-163"></a>
+
+## Página PDF 163
+
+163 CONSTITUCIÓN
+
+Presbítero – plazo para ejercer el cargo: 12 § 2º; definición de deberes y funciones del: 50 y 51; autoridad del... en los concilios: 52, 67 § 4º; período de ejercicio del cargo de: 54; elección de: 50 y 54 § 1º, 83 d, 110, 111 y párrafo único, 112, 113 y 114; en disponibilidad: 54 § 2º; cualificaciones del: 55; término de las funciones de: 56; emérito: 57; representante de la iglesia en el Presbiterio: 85 párrafo único; ordenación e instalación de: 113, 114.
+Presidente – cuando sea presbítero: 67 § 4º.
+Protesta – contra la resolución de un concilio: 65 y §§ 2º y 3º; derecho de un concilio ante una: 65 § 3º in fine.
+Cuestiones – nuevas o controvertidas: 71.
+Recurso – contra los actos de un concilio: 64 y párrafo único.
+Reforma – de la Constitución, la Confesión de Fe y los Catecismos Mayor y Breve: 139 y párrafo único, 141, 142.
+Reglamento interno – modelo de... para los concilios: 143 c.
+Informe – de los actos pastorales al Consejo: 36, párrafo único; del ministro al Presbiterio: 38, 88 g; del ministro con licencia para trabajar fuera de la Iglesia Presbiteriana: 43; del Consejo a la iglesia: 83 m; de la iglesia al Presbiterio: 68, 88 g; del Presbiterio al Sínodo y del Sínodo al Supremo Concilio: 68 in fine: 94 g.
+Representantes – en una reunión extraordinaria de un concilio: 74 § 2º; legal de la iglesia: 80; de la iglesia ante el Presbiterio: 83 t, 85 párrafo único; ante los concilios superiores: 88 p, 89 y 90; diputado elegido por el Presbiterio para la representación en el SC/IPB: 95; composición de... para la elaboración, decreto y promulgación y enmiendas: 140 d.
+Resoluciones – de los consejos superiores: 83 v, 70 e in fine; de cuestiones nuevas o controvertidas: 71.
+Restauración de miembros – 16 f.
+Reunión – ordinaria del Presbiterio, Sínodo y Supremo Concilio: 73; extraordinaria de los concilios: 74 y §§.
+Lista de miembros – quién debe organizar y mantener al día la: 83 l.
+Sacramentos – quién puede administrar los: 31 a.
+Santa Cena – quién puede administrar la: 31 a.
+Secretarías generales – del Supremo Concilio: 106.
+
+<a id="anexo-pagina-164"></a>
+
+## Página PDF 164
+
+[Página sin texto.]
+
+<a id="anexo-pagina-165"></a>
+
+## Página PDF 165
+
+CÓDIGO DE DISCIPLINA
+
+<a id="anexo-pagina-166"></a>
+
+## Página PDF 166
+
+[Página sin texto.]
+
+<a id="anexo-pagina-167"></a>
+
+## Página PDF 167
+
+PREÁMBULO
+
+En nombre del Padre, y del Hijo, y del Espíritu Santo, nosotros, legítimos representantes de la Iglesia Presbiteriana de Brasil, reunidos en Supremo Concilio, en el año de 1951, investidos de toda la autoridad para cumplir las resoluciones de las legislaturas de 1946 y de 1950, con toda la confianza en la bendición de Dios, nuestro Padre, y con el propósito de ejercer la justicia, mantener la paz, sostener la disciplina, preservar la unidad y promover la edificación de la iglesia de Cristo, decretamos y promulgamos, para gloria de Dios Altísimo, el siguiente Código de Disciplina.[1]
+
+1 Texto promulgado el 13 de febrero de 1951 (SC – 1951 – DOC. XLII). De acuerdo con la resolución CE – 1952 – DOC. LVI – “Códigos y Siglas de las Organizaciones de la IPB”, se definieron expresamente las abreviaturas de los cuerpos normativos eclesiásticos. Al Código de Disciplina le correspondió la sigla CD.
+
+<a id="anexo-pagina-168"></a>
+
+## Página PDF 168
+
+168 MANUAL PRESBITERIANO
+
+CAPÍTULO I
+NATURALEZA Y FINALIDAD
+
+Art. 1º La iglesia reconoce el foro íntimo de la conciencia, que escapa a su jurisdicción, y de la cual sólo Dios es juez; pero reconoce también el foro externo que está sujeto a su vigilancia y observación.
+
+Art. 2º Disciplina eclesiástica es el ejercicio de la jurisdicción espiritual de la iglesia sobre sus miembros, aplicada de acuerdo con la Palabra de Dios.[2]
+Párrafo único. Toda disciplina tiene por objeto edificar al pueblo de Dios, corregir escándalos, errores o faltas, promover el honor de Dios, la gloria de Nuestro Señor Jesucristo y el propio bien de los culpables.[3]
+
+Art. 3º Los miembros no comulgantes y otros menores bajo la guarda de personas creyentes reciben los cuidados espirituales de la iglesia, pero quedan bajo la responsabilidad directa e inmediata de dichas personas, que deben velar por su vida física, intelectual, moral y espiritual.[4]
+
+CAPÍTULO II
+FALTAS
+
+Art. 4º Falta es todo aquello que, en la doctrina y la práctica de los miembros y concilios de la iglesia, no sea conforme a las enseñanzas de la Sagrada Escritura, o transgreda y perjudique la paz, la unidad, la pureza, el orden y la buena administración de la comunidad cristiana.[5]
+
+2 Art. 4º, párrafo único.
+
+3 Art. 46, letra “a”, y art. 53.
+
+4 Art. 3º CE – 2017 – DOC. CXXV: “Consulta sobre cómo debe proceder el consejo de la iglesia en el caso de miembros comulgantes que son menores de edad civil y no tienen padres o responsables en la iglesia: Considerando: 1) Que la materia ya fue examinada por la CE/IPB; 2) Lo previsto por la CI/IPB sobre la recepción de miembros comulgantes menores. La CE-SC/IPB – 2017 resuelve: 1. Tomar conocimiento; 2. Reafirmar la resolución establecida en CE – 2003 – DOC. XII; 3. Respecto de la conducción del proceso disciplinario en tales casos, aclarar que seguirá los trámites establecidos en el CD/IPB; 4. Respecto de la posibilidad de recibir como miembro comulgante a un menor de edad sin que tenga adultos responsables de él en la iglesia, aclarar que no hay impedimento bíblico ni constitucional para tal recepción”.
+
+5 CE – 2003 – DOC. IX: “[...] cumplimiento de las promesas hechas por los Oficiales de la IPB en su ordenación y durante el ejercicio de su oficio. El Supremo Concilio resuelve: Reafirmar que las promesas hechas en la ordenación de los oficiales son permanentes
+
+<a id="anexo-pagina-169"></a>
+
+## Página PDF 169
+
+169 CÓDIGO DE DISCIPLINA
+
+Párrafo único. Ningún tribunal eclesiástico podrá considerar como falta, ni admitir como materia de acusación, aquello que no pueda probarse como tal por la Escritura, según la interpretación de los Símbolos de la Iglesia (CI, art. 1º).[6]
+
+Art. 5º La omisión de los deberes establecidos en el art. 3º constituye una falta susceptible de pena.
+
+Art. 6º Las faltas son de acción o de omisión, es decir, la práctica de actos pecaminosos o la abstención de deberes cristianos; o, asimismo, la situación ilícita.
+Párrafo único. Las faltas son personales si afectan a individuos; generales, si afectan a la colectividad; públicas, si se hacen notorias; veladas, cuando son desconocidas por la comunidad.
+
+Art. 7º Los concilios incurren en falta cuando:
+a) toman cualquier decisión doctrinal o constitucional que se aparta flagrantemente de los principios fundamentales adoptados por la iglesia;
+
+y esenciales en el ejercicio del presbiterado. Si algún oficial modifica sus convicciones respecto de estos votos, deberán aplicarse las penas previstas en el art. 9º del CD-IPB, en consonancia con el art. 56, letras “c” y “d”, de la CI/IPB. Los Concilios no pueden optar por cumplir o no lo que dispone el art. 42 del CD-IPB, en consonancia con el art. 4º, párrafo único, del CD-IPB”. SC - 2022 - DOC. XV – “PROPUESTA DE REVOCACIÓN DE LA RESOLUCIÓN SC - 2002 - DOC. XI. MIEMBROS Y OFICIALES QUE RECURRAN AL PODER JUDICIAL SIN OBSERVAR LO DISPUESTO EN I CORINTIOS 6:1-8. MEDIDAS PROCEDENTES. POSICIÓN DEL SC/IPB. NECESIDAD DE REVISAR LA RESOLUCIÓN SC - 2002 - DOC. XI PARA ESTABLECER UNA ORIENTACIÓN CLARA SOBRE LA MATERIA – [...] El SC/IPB - 2022 resuelve: [...] 4. ACOGER PARCIALMENTE LA PROPUESTA para revisar la resolución SC - 2002 - DOC. XI y establecer la siguiente orientación para la materia, con carácter normativo, en el ámbito de los concilios e iglesias bajo la jurisdicción del SC/IPB: a) por deber de obediencia a las Sagradas Escrituras y en cumplimiento de los votos que hacen al adherirse a la IPB, se orienta a los oficiales y miembros de esta denominación, así como a sus concilios, a no acudir al Poder Judicial para resolver controversias que pudieran surgir entre ellos, debiendo antes solicitar y esperar la decisión en el ámbito eclesiástico, valiéndose de los medios y recursos propios de este, en cumplimiento del precepto imperativo de 1 Co. 6:1-8; b) incurren en falta, conforme a los arts. 4º y 7º del CD, el miembro u oficial, así como la iglesia o concilio, que acudan al Poder Judicial para resolver litigios entre ellos antes de agotar los medios y recursos propios de la jurisdicción eclesiástica; c) en situaciones excepcionales en las que la naturaleza de la ofensa, aunque sujeta a la jurisdicción eclesiástica, también exija el uso de la fuerza estatal para el cumplimiento de la ley, podrá llamarse a la autoridad pública a intervenir, por tener la prerrogativa del uso de la espada (CFW, cap. XXIII, sección I, Rm. 13:1-4 y 1 Pe. 2:13,14); d) quedan sujetos a disciplina eclesiástica los miembros de iglesia, oficiales y concilios de la IPB que litiguen entre sí ante el Poder Judicial sobre cuestiones que puedan resolverse en el ámbito eclesiástico.”
+
+6 Art. 2º, caput, del CD y art. 69, de la CI/IPB.
+
+<a id="anexo-pagina-170"></a>
+
+## Página PDF 170
+
+170 MANUAL PRESBITERIANO
+
+b) proceden con evidente injusticia, incumpliendo una disposición procesal importante o aplicando una pena manifiestamente desproporcionada respecto de la falta;[7]
+c) persisten deliberadamente en desobedecer las observaciones que, sin carácter disciplinario, haga el concilio superior en el examen periódico del libro de actas;
+d) se vuelven negligentes en el cumplimiento de sus deberes, comprometiendo el prestigio de la iglesia o el buen orden del trabajo;
+e) adoptan cualquier medida que comprometa la paz, la unidad, la pureza y el progreso de la iglesia.[8]
+
+CAPÍTULO III
+PENAS
+
+Art. 8º No habrá pena, sin que haya sentencia eclesiástica, dictada por un concilio competente, después de un proceso regular.[9]
+
+7 CE - 2021 - DOC. CLXXXI: [CONSULTA] “[...] Falta comprobada por el Consejo. Hecho delictivo. [...] ‘Si se comprueba la culpabilidad del miembro conforme a las evidencias y a los hechos investigados, ¿debe el Consejo mantener las sanciones exclusivamente dentro de los límites de la disciplina eclesiástica (CD/IPB)?’. Respuesta: El consejo de la iglesia, en el ejercicio de su función judicial, deberá limitarse a aplicar las sanciones previstas en el CD y no podrá excederlas bajo ninguna circunstancia, so pena de incurrir en falta y quedar sujeto a censura eclesiástica. . [CONSULTA] ‘Comprobada la culpabilidad del miembro y aplicada la pena conforme al CD/IPB, ¿puede (o debe) impedirse al miembro bajo disciplina (suspendido de la comunión) que frecuente los espacios de culto y convivencia de la iglesia donde, teóricamente, se encuentran sus ‘víctimas’ [...], como medida de protección que prohíbe acercarse a la víctima y tener contacto con ella, no prevista en el CD/IPB?’. Respuesta: La medida de protección en ciertas situaciones, como la referida en la consulta, así como muchas otras medidas en tantos otros casos que no involucran delitos tipificados en la legislación penal, puede adoptarse como parte del acompañamiento pastoral del condenado, sin que ello constituya una pena. Es semejante a lo que se hace con la persona dependiente de sustancias: apartarla de la droga es una medida para protegerla del pecado que tenazmente la asedia.” SUMARIO Nº 26 DEL TR-SC/IPB. EXIGENCIA DE REGULARIDAD FORMAL DEL PROCESO. La exigencia de regularidad procesal a los órganos juzgadores es consecuencia de lo previsto en la letra “b” del art. 7º del CD. (TR-SC/IPB, fallo colegiado de 24/02/2023, Juez Ponente Emmanuel Augusto de Oliveira Carlos).
+
+8 SC - 2022 - DOC. XV – “[...] incurren en falta, conforme a los arts. 4º y 7º del CD, el miembro u oficial, así como la iglesia o concilio, que acudan al Poder Judicial para resolver litigios entre ellos antes de agotar los medios y recursos propios de la jurisdicción eclesiástica”. Consultar la nota completa relativa al art. 4º.
+
+9 Art. 16.
+
+<a id="anexo-pagina-171"></a>
+
+## Página PDF 171
+
+171 CÓDIGO DE DISCIPLINA
+
+Art. 9º Los concilios solo pueden aplicar las penas de:[10]
+a) amonestación, que consiste en llamar al orden al culpable, verbalmente o por escrito, de manera reservada,[11] exhortándolo a corregirse;
+b) suspensión, que, respecto de los miembros de la iglesia, consiste en impedirles la comunión; respecto de los oficiales, consiste en impedirles el ejercicio de su oficio y, si corresponde, la comunión de la iglesia.[12] La suspensión debe aplicarse cuando el crédito de la religión, el honor de Cristo y el bien del infractor lo exijan,[13] incluso después de que este haya dado satisfacción al tribunal. Se aplica por tiempo indeterminado, hasta que el infractor dé prueba de su arrepentimiento o hasta que su conducta muestre la necesidad de imponerle otra pena más severa;[14]
+
+10 CE – 2003 – DOC. IX: “[...] El Supremo Concilio resuelve: Reafirmar que las promesas hechas en la ordenación de los oficiales son permanentes y esenciales en el ejercicio del presbiterado. Si algún oficial modifica sus convicciones respecto de estos votos, deberán aplicarse las penas previstas en el art. 9º del CD/IPB, en consonancia con el art. 56, letras “c” y “d”, de la CI/IPB. Los Concilios no pueden optar por cumplir o no lo que dispone el art. 42 del CD/IPB, en consonancia con el art. 4º, párrafo único, del CD/IPB”.
+
+11 Art. 14, letra “a”.
+
+12 Art. 134, letra “c”, del CD; arts. 9º, 13 y 15 de la CI/IPB. SC – 1954 – DOC. XCVII: “[...] La suspensión de la comunión implica la suspensión del ejercicio del cargo, pero no el despojamiento, si el tribunal no ha aplicado esta última pena [...]”. Apartamiento preventivo: art. 16, párrafo único.
+
+13 Arts. 2º, 14, letra “a”, y 70, letra “b”, de la CI/IPB.
+
+14 SC – 1966 – DOC. LXXVIII: “[...] que no existe contradicción entre la letra “b” del art. 9º y la letra “a” del art. 134, ambos del Código de Disciplina, sino simplemente una omisión en la primera disposición citada. El CD, en su art. 9º, letra “b”, no impide a los Tribunales o al Consejo aplicar la pena de suspensión por tiempo indeterminado”. SUMARIO Nº 09 DEL TR-SC/IPB. SOLICITUD DE RESTAURACIÓN. DENEGACIÓN. FALTA DE PRUEBA SUFICIENTE DE ARREPENTIMIENTO. AUMENTO DE LA PENA. INICIATIVA EX OFFICIO DEL TRIBUNAL. POSIBILIDAD. GARANTÍA DE CONTRADICCIÓN. LIBRE CONVICCIÓN FUNDAMENTADA. INTERPRETACIÓN DEL ART. 9º, LETRA “B”, IN FINE, EN RELACIÓN CON EL ART. 134, PÁRRAFO ÚNICO, DEL CÓDIGO DE DISCIPLINA. Aunque el proceso disciplinario originario, conforme al principio dispositivo, exige que se inste al tribunal competente mediante queja del ofendido, denuncia de un tercero o autodenuncia del infractor, el proceso de restauración puede iniciarse de oficio o a solicitud de la persona disciplinada (interpretación del art. 134, letras “a” y “b”, del CD). El agravamiento de la pena, en caso de suspensión de un miembro de una iglesia local o de un concilio (ministro), puede producirse independientemente de una nueva queja o denuncia. Corresponde al tribunal competente, en el ejercicio de su libre convicción fundamentada, al examinar la solicitud de restauración en un procedimiento regular que
+
+<a id="anexo-pagina-172"></a>
+
+## Página PDF 172
+
+172 MANUAL PRESBITERIANO
+
+c) exclusión,[15] que consiste en separar al infractor de la comunión de la iglesia. Esta pena solo puede imponerse cuando el infractor se muestra incorregible y contumaz;
+d) deposición[16] es la destitución de un ministro[17], presbítero o diácono de su oficio.[18]
+
+garantice a la persona disciplinada el derecho a aportar todas las pruebas a su alcance, aumentar de oficio la pena impuesta en el proceso originario, conforme al art. 9º, letra “b”, in fine, en relación con el art. 134, párrafo único, del Código de Disciplina”, una vez comprobada la falta de prueba suficiente de arrepentimiento de la persona disciplinada. (TR-SC/IPB, fallo colegiado de 18/03/2021, Juez Ponente Presb. George Almeida). CE – 1982 – DOC. LXII: “[...] la Comisión Ejecutiva del Supremo Concilio resuelve: 1) Informar que no hay imprecisión en los textos examinados, sino que se necesita una visión de conjunto de la legislación existente para interpretar correctamente la ley. 2) La pena por plazo determinado o indeterminado depende del caso concreto y queda a criterio del tribunal, en el uso de su buen sentido”. CE – 1996 – DOC. CVI: “[...] Considerando: a) Que el artículo citado también se refiere a la disciplina de Oficiales. b) Que el artículo nº 25, en relación con el art. 30 de la CI/IPB, aclara que los oficiales de la Iglesia son pastores, presbíteros y diáconos; la CE-SC/IPB resuelve: [...] que el artículo en cuestión del Código de Disciplina de la IPB también se aplica a los ministros presbiterianos.” CE – 2009 – DOC. CXXVIII: “[...] 1. Revocar la decisión CE-SC/IPB – 2008-153, por entender que no es deber del Presbiterio aprobar una asignación para el sustento pastoral de un ministro bajo disciplina, en los términos del art. 9º, letra “b”, del CD-IPB; 2. Recomendar a los Presbiterios que, cuando sea posible, analicen con gracia y misericordia la situación económica de la persona sancionada”.
+
+15 Art. 23, letra “a”, de la CI/IPB. CE – 2025 – DOC. CXLIV: “...la exclusión del ministro no elimina su legitimación para recurrir la decisión que le impuso esta pena, dada su condición de parte en el respectivo proceso”.
+
+16 Art. 48, letra “a”, y artículo 56, letra “c”, de la CI/IPB.
+
+17 SC - 1986 - DOC. XXXIX: “[...] Consulta del Presbiterio Serrano sobre DESPOJAMIENTO DE UN MINISTRO POR DEPOSICIÓN. El Supremo Concilio resuelve: 1) Considerar que el asunto está definido en el art. 48, letra “a”, de la CI/IPB y en el art. 9º, letra “d”, del CD; 2) Que el Ministro despojado por deposición sigue siendo miembro de una Iglesia, salvo que se le aplique el art. 9º, letra “c”, del CD de la IPB.”
+
+18 SC – 1998 – DOC. XCVI: “[...] La letra c del art. 48 de la CI trata única y exclusivamente de la exoneración administrativa de ministros que hayan estado bajo licencia para tratar asuntos particulares, es decir, ajenos al ministerio eclesial y pastoral, durante dos años consecutivos. Si el obrero no vuelve a sus funciones, conforme a lo que dispone y exige la CI, se le aplica la citada disposición en relación con el 42. La exoneración, como establece la propia ley, es administrativa y no punitiva, como establece la propia ley, es administrativa y no punitiva, a diferencia del caso del art. 9º, letra “d”, del Código de Disciplina. Cuando el caso está comprendido en esta disposición penal, al infractor no se le aplica lo dispuesto en el § 1º del art. 48 de la CI (SC-86-43). [...] La deposición de la que habla la letra “c” [Art. 56, letra “c”, de la CI] solo puede producirse mediante un proceso disciplinario (CD, art. 9-d)”.
+
+<a id="anexo-pagina-173"></a>
+
+## Página PDF 173
+
+173 CÓDIGO DE DISCIPLINA
+
+Art. 10. Los concilios superiores solo pueden aplicar a los inferiores las siguientes penas: reprensión, interdicción y disolución;
+a) reprensión es la reprobación formal de faltas o irregularidades, con orden terminante de que sean corregidas;
+b) interdicción es la pena que determina la privación temporal de las actividades del concilio;
+c) disolución es la pena que extingue el concilio.
+§ 1º En los casos de interdicción o disolución del Consejo o del Presbiterio deberá haber recurso de oficio ante el concilio inmediatamente superior.
+§ 2º Las penas aplicadas a un concilio no afectan individualmente a sus miembros, cuya responsabilidad personal podrá ser determinada por los concilios competentes.[19]
+§ 3º Cualquiera de los miembros del concilio sujeto a interdicción o disuelto podrá recurrir la decisión ante el concilio inmediatamente superior al que dictó la sentencia.
+
+Art. 11. Aplicadas las penas previstas en las letras “b” y “c” del artículo anterior, el concilio superior, por medio de su Comisión Ejecutiva, tomará las medidas necesarias para continuar los trabajos correspondientes al concilio disciplinado.
+
+Art. 12. En el juicio de los concilios, deben observarse, en lo que les sea aplicable, las disposiciones generales de proceso adoptadas en esta Constitución.[20]
+
+Art. 13. Las penas deben ser proporcionales a las faltas, atendiendo, no obstante, a las circunstancias atenuantes y agravantes, a juicio del tribunal, así como a la graduación establecida en los arts. 9º y 10.[21]
+§ 1º Son atenuantes:
+a) poca experiencia religiosa;
+b) relativa ignorancia de las doctrinas evangélicas;
+c) influencia del medio;
+d) buen comportamiento anterior;
+e) asiduidad en los servicios divinos;
+f) colaboración en las actividades de la iglesia;
+g) humildad;
+h) deseo manifiesto de corregirse;
+i) ausencia de malas intenciones;
+j) confesión voluntaria.
+
+19 Arts. 19 a 22.
+
+20 Art.135.
+
+21 SUMARIO Nº 34 DEL TR-SC/IPB. PROCESO DISCIPLINARIO. DETERMINACIÓN DE LA PENA. La determinación de la pena debe hacerse considerando el artículo 13 y §§ del CD, teniendo en cuenta los atenuantes y agravantes, pero se realiza “a juicio” del Tribunal. (TR-SC/IPB, fallo colegiado de 24/02/2023, Juez Ponente Rev. Dilsilei Martins Monteiro).
+
+<a id="anexo-pagina-174"></a>
+
+## Página PDF 174
+
+174 MANUAL PRESBITERIANO
+
+§ 2º Son agravantes:
+a) experiencia religiosa;
+b) relativo conocimiento de las doctrinas evangélicas;
+c) buena influencia del medio;
+d) malos precedentes;
+e) ausencia a los cultos;
+f) arrogancia y desobediencia;
+g) no reconocimiento de la falta.
+
+Art. 14. Los concilios deberán notificar a los culpables las penas impuestas:[22]
+a) por faltas no públicas, ante el tribunal o en privado;[23]
+b) por faltas públicas, casos en los que, además de la notificación personal,[24] se informará a la iglesia.[25]
+
+22 CE – 2003 – DOC. XII: “[...] consulta del Presbiterio de Campinas sobre cómo proceder respecto de la divulgación pública de una pena impuesta a un miembro comulgante de la Iglesia que es menor de edad, en razón del Estatuto del Niño y del Adolescente (Ley 8069, de 13/07/1990). Considerando: 1) Que el miembro profeso, aunque sea menor, tiene privilegios y está sujeto a deberes para con la IPB; 2) Que las penas aplicables a los miembros de la IPB no son semejantes a las leyes civiles o penales de los hombres, ni dependen de ellas; 3) Que, sin embargo, la prudencia y el respeto por la ley de los hombres son recomendaciones de la Palabra de Dios, conforme a Marcos 12:7; Romanos 13:1-7; 4) Que, a la luz del art. 15 del CD/IPB, debe haber prudencia, discreción y caridad al aplicar la pena, con el fin de despertar arrepentimiento en el culpable y simpatía de la Iglesia; 5) Que, a la luz de la ley 8069 – Estatuto del Niño y del Adolescente, art. 18, debe protegerse al niño y al adolescente de cualquier trato vejatorio o humillante, y quien infrinja dicha ley queda sujeto a multa y prisión (arts. 243 y 232). El Supremo Concilio resuelve: Recomendar a los Consejos de las Iglesias que, al aplicar penas eclesiásticas a miembros profesos que sean menores de edad, lo hagan por escrito y de manera reservada, enviando correspondencia al responsable del menor e informando a la Congregación sobre la disciplina sin mencionar nombres, limitándose sucintamente a los hechos”.
+
+23 Ibidem.
+
+24 Art. 96.
+
+25 CE - 2021 - DOC. CLXXXI: “[...] Falta comprobada por el Consejo. Hecho delictivo. Comunicación a las autoridades competentes. Restricción legal. Deber de secreto eclesiástico. Considerando: 1. Que se trata de una consulta sobre la actitud que debe tener el consejo de una iglesia ante las autoridades del Estado cuando toma conocimiento de un hecho delictivo investigado en el ámbito eclesiástico; 2. Que el objeto de la consulta reviste especial importancia y gravedad; 3. Que, aunque se formula a partir de un caso concreto, la consulta suscita una respuesta en términos generales, que ciertamente servirá para orientar la tramitación de otros casos en situación semejante; 4. Que corresponde al SC/IPB y, en los intervalos entre sus reuniones, a su Comisión Ejecutiva resolver en última instancia las dudas y cuestiones que lleguen legalmente desde los concilios inferiores (art. 97, letra “c”, en relación con el art. 102, caput, de la CI/IPB), la CE-SC/IPB - 2021 RESUELVE: [...] III) responder las preguntas de la consulta de la siguiente manera: [CONSULTA] ‘¿Debe el Consejo, como institución eclesial y bajo riesgo de ser acusado de
+
+<a id="anexo-pagina-175"></a>
+
+## Página PDF 175
+
+175 CÓDIGO DE DISCIPLINA
+
+Párrafo único. En caso de disciplina de un ministro, también se notificará inmediatamente la pena a la Secretaría Ejecutiva del Supremo Concilio.[26]
+
+encubrimiento o connivencia, comunicar inmediatamente el hecho a las autoridades competentes?’. Respuesta: La jurisdicción eclesiástica y la jurisdicción penal del Estado son independientes. Cada una tiene su esfera de actuación, en la que realiza su propósito y encuentra sus límites. Una no puede someter a la otra para ponerla a su servicio. En este sentido, al tomar conocimiento de faltas tipificadas como delito según la ley penal del Estado, el consejo tiene el deber de investigar y juzgar el caso con el propósito de despertar el arrepentimiento del culpable y la simpatía de la iglesia, aplicando la disciplina conforme a la ley penal eclesiástica, exclusivamente sobre la base de parámetros bíblicos. Considerando que la actividad judicial del tribunal eclesiástico es eminentemente ministerial, en la medida en que cumple un mandato de Cristo al aplicar la disciplina para la pureza de Su iglesia, los hechos que los miembros de ese órgano conocen por razón de dicho ministerio, en rigor, no deben revelarse, pues de lo contrario podrían incurrir en el delito de “Violación del secreto profesional”, tipificado en el art. 154 del Código Penal: “Revelar alguien, sin justa causa, un secreto que conoce por razón de su función, ministerio, oficio o profesión, y cuya revelación pueda causar daño a otra persona”. También por ello, el Código de Procedimiento Penal, en su art. 207, dispone: “Se prohíbe declarar a las personas que, por razón de su función, ministerio, oficio o profesión, deban guardar secreto, salvo que, liberadas de esa obligación por la parte interesada, quieran prestar testimonio”. De modo que ni el órgano eclesiástico ni sus miembros individualmente, en su condición de ministros de Cristo, están obligados a comunicar a la autoridad pública un caso juzgado por el tribunal eclesiástico, aunque involucre un tipo penal según la ley del Estado. Así, es razonable responder al consultante que el consejo de la iglesia, como órgano eclesiástico y ministerial, no tiene el deber legal de comunicar inmediatamente el caso a la autoridad estatal y no podrá ser acusado de connivencia o encubrimiento por ese solo motivo. Corresponde entonces a la víctima o al tercero que tome conocimiento del hecho efectuar esa comunicación, conforme a la respuesta a la pregunta 145 del Catecismo Mayor, y al consejo orientarlos para que adopten las medidas pertinentes [...].”
+
+26 CE – 2009 – DOC. CXXVIII: “[...] salario de un pastor bajo disciplina por tiempo indeterminado. Considerando: 1. Que la CE-SC/IPB recibió una consulta en 2008 [...] 2. Que el SC y la CE siempre se han preocupado por el sustento pastoral de los ministros pertenecientes a la IPB, y existen numerosas decisiones que establecen pautas y condiciones de sustento mínimo; 3. Que la CI/IPB establece que todo lo relativo a los pastores es competencia exclusiva del Presbiterio en los términos del artículo 88, letras “a”, “b”, “c”, “d” y “e”; 4. Que, en las designaciones enumeradas en los artículos 33, 34 y 35 de la CI/IPB, las condiciones de sustento se definen constitucionalmente o mediante decisión del presbiterio; 5. Que, en los casos previstos de licencia de un ministro, esas mismas condiciones también están previstas en los términos de los artículos 41, 42 y 43 de la CI/IPB; 6. Que el fin de toda disciplina, entre otros, es la restauración del infractor, y debe existir siempre una intención curativa y restauradora y, principalmente, compasión cristiana; 7. Que la CI/IPB no obliga expresamente, en sus artículos, a sostener a la persona sancionada (deber legal); 8. Que las Sagradas Escrituras exhortan, a la luz de Isaías 42:3, Gálatas 6:2 y Hebreos 12:12-13, a cuidar de los más débiles. La CE-SC/IPB – 2009 resuelve: 1. Revocar la decisión CE-SC/IPB – 2008-153, por entender que no es deber del Presbiterio
+
+<a id="anexo-pagina-176"></a>
+
+## Página PDF 176
+
+176 MANUAL PRESBITERIANO
+
+Art. 15. Toda pena debe aplicarse con prudencia, discreción y caridad, con el fin de despertar arrepentimiento en el culpable y simpatía de la iglesia.[27]
+
+Art. 16. No se dictará ninguna sentencia sin que se haya garantizado al acusado el derecho a defenderse.[28]
+Párrafo único. Cuando sean graves y notorios los hechos alegados contra el acusado, este podrá, preventivamente,[29] a juicio del tribunal, ser apartado de los privilegios de la iglesia y, si se trata de un oficial, también del ejercicio del cargo, hasta que se esclarezca definitivamente la verdad.
+
+Art. 17. Solo podrá iniciarse un proceso dentro del período de un año contado desde que se tuvo conocimiento de la falta.[30]
+Párrafo único. Transcurridos dos años desde que ocurrió la falta, no se iniciará un proceso bajo ninguna circunstancia.
+
+aprobar una asignación para el sustento pastoral de un ministro bajo disciplina, en los términos del art. 9º, letra “b”, del CD/IPB; 2. Recomendar a los Presbiterios que, cuando sea posible, analicen con gracia y misericordia la situación económica de la persona sancionada”.
+
+27 Art. 53.
+
+28 Art. 8º. SUMARIO Nº 30 DEL TR-SC/IPB. RESTRICCIÓN DEL DERECHO DE DEFENSA. INEXISTENCIA. La denegación de solicitudes formuladas por una parte mediante una decisión fundamentada y conforme a los preceptos legales no constituye una violación del principio de contradicción. (TR-SC/IPB, fallo colegiado de 24/02/2023, Juez Ponente Rev. Victor Alexandre Nascimento Ximenes).
+
+29 CE – 2012 – DOC. CLXIV: “3. Respecto de la consulta 2 sobre el art. 16 del CD/IPB —alegaciones de prohibición de orar en público para un ministro apartado preventivamente—, declarar que el apartamiento preventivo dictado en los términos del párrafo único del art. 16 del CD/IPB no impide la oración pública cuando se la solicita. Asimismo, respecto del uso de la palabra, ‘declarar’ que, por ser este uso un privilegio del pastor, el pastor apartado queda impedido de ejercer cualquier modalidad de ministración de las Sagradas Escrituras”.
+
+30 SUMARIO Nº 24 DEL TR-SC/IPB. ART. 17 Y PÁRRAFO ÚNICO DEL CD. PRESCRIPCIÓN Y CADUCIDAD. EXAMEN PREVIO AL INICIO DEL PROCESO. El caput del artículo establece el plazo para presentar la queja o denuncia contado desde el conocimiento de la falta. El párrafo único limita la presentación de la denuncia o queja a partir de la consumación de la falta. (TR-SC/IPB, fallo colegiado de 24/02/2023, Juez Ponente Emmanuel Augusto de Oliveira Carlos). SUMARIO Nº 25 DEL TR-SC/IPB. DETERMINACIÓN PRECISA DEL TIEMPO, LUGAR Y NATURALEZA DE LA FALTA PARA POSIBILITAR EL ANÁLISIS DE LA PRESCRIPCIÓN Y LA CADUCIDAD. La determinación precisa del tiempo, lugar y naturaleza de la falta es imperativa y debe declararse, so pena de violar el art. 55, con el riesgo de imposibilitar el análisis de la prescripción y la caducidad previstas en el art. 17 y su párrafo único del CD. (TR-SC/IPB, fallo colegiado de 24/02/2023, Juez Ponente Emmanuel Augusto de Oliveira Carlos).
+
+<a id="anexo-pagina-177"></a>
+
+## Página PDF 177
+
+177 CÓDIGO DE DISCIPLINA
+
+CAPÍTULO IV
+TRIBUNALES
+
+Art. 18. Los concilios convocados para fines judiciales funcionan como tribunales.[31]
+
+Art. 19. Corresponde al Consejo procesar y juzgar en primera instancia a los miembros y oficiales de la iglesia.[32]
+
+31 SC – 2022 – DOC. CCIX – Aprueba un nuevo RI-SC y nuevos modelos de RI-Sínodo y RI-Presbiterio, en los que la PARTE ESPECIAL se destina al funcionamiento de los tribunales eclesiásticos del SC/IPB, de los sínodos y de los presbiterios. SC – 1954 – DOC. XCIII: “[...] de acuerdo con el art. 18 del Código de Disciplina, ‘los concilios convocados para fines judiciales funcionan como tribunales’, por lo que esta declaración deberá constar en acta, y el Consejo no deberá incluir asuntos extrajudiciales en el orden del día de esas reuniones.” CE – 1990 – DOC. XXXVIII: “El Consejo de la Iglesia funciona como tribunal en cualquier tipo de proceso, de acuerdo con el artículo 18 del Código de Disciplina [...]”. CE – 2013 – DOC. CCXX: “Consulta sobre Jueces ausentes en el Tribunal. Considerando: 1. Que nuestro Código de Disciplina fue elaborado en oración por juristas competentes; 2. Que la consulta procede del Presbiterio Vale do Paraíba y fue remitida por el Sínodo Vale do Paraíba; 3. Que la consulta se aplica a los Tribunales de los Presbiterios y Consejos, donde todos los miembros del Concilio son Jueces. La CE-SC/IPB – 2013 resuelve: 1. Recordar al Presbiterio consultante, por medio del Sínodo Vale do Paraíba, que el quórum del Tribunal es el mismo que el del Presbiterio: arts. 85 y 86 de la CI/IPB; por lo tanto, puede funcionar con hasta cinco (5) Jueces, tres (3) pastores y dos (2) presbíteros. 2. Respecto de los Jueces que faltan, es decir, los ausentes, puede y debe instárselos a comparecer ante el Tribunal, so pena de juzgar sin conocimiento de la causa, lo que es lamentable”.
+
+32 Art. 83, letra “c”, de la CI/IPB. El art. 51 del nuevo Modelo de Estatuto para el Presbiterio, aprobado por la CE-SC/IPB – 2017 – DOC. CL con poderes delegados por la resolución SC-E – 2014 – DOC. CXXXV, dispone: “Cuando la falta haya sido cometida por un miembro de una Congregación mantenida por el Presbiterio, este designará, de entre sus miembros, un ministro y cuatro presbíteros para que ejerzan la función de Tribunal Eclesiástico en primera instancia; cabrá recurso contra la decisión ante el Pleno del Concilio.” SC – 2018 – DOC. CXLIX: “Propuesta de resolución para revocar las resoluciones SC/IPB – 2006 – DOC. CXLII y SC/IPB – 2010 – DOC. CL: Considerando: 1) Que el modelo de Estatuto de Presbiterio fue aprobado por la CE-SC/IPB en 2017; 2) Que el nuevo modelo de Estatuto de Presbiterio dispone en su art. 51: ‘Cuando la falta haya sido cometida por un miembro de una Congregación mantenida por el Presbiterio, este designará, de entre sus miembros, un ministro y cuatro presbíteros para que ejerzan la función de Tribunal Eclesiástico en primera instancia; cabrá recurso ante el Pleno del Concilio’, el SC/IPB – 2018 resuelve: 1. Tomar conocimiento; 2. Reafirmar el contenido del art. 51 del nuevo Modelo de Estatuto de Presbiterio aprobado por la CE-SC/IPB
+
+<a id="anexo-pagina-178"></a>
+
+## Página PDF 178
+
+178 MANUAL PRESBITERIANO
+
+Art. 20. Corresponde al Presbiterio:[33]
+I – procesar y juzgar en primera instancia:
+a) a los ministros;
+b) a los consejos;
+II – tramitar y juzgar, como recurso ordinario, las apelaciones de las sentencias de los consejos.
+
+Art. 21. Corresponde al Sínodo procesar y juzgar en primera instancia a los presbiterios.[34]
+Párrafo único. Habrá en el Sínodo un tribunal de recursos, al que corresponde juzgar los recursos ordinarios contra las sentencias de los presbiterios dictadas en los casos de las letras “a” y “b” del apartado I del art. 20.[35]
+
+en 2017; 3. REVOCAR las resoluciones SC/IPB – 2006 – DOC. CXLII y SC/IPB – 2010 – DOC. CL”.
+
+33 Art. 86 de la CI/IPB. Arts. 58 a 92 del modelo de RI-Presbiterio. CE – 2013 – DOC. CCXX: “Remisión de consulta sobre Jueces ausentes en el Tribunal: Considerando: 1. Que nuestro Código de Disciplina fue elaborado en oración por juristas competentes; 2. Que la consulta procede del Presbiterio Vale do Paraíba y fue remitida por el Sínodo Vale do Paraíba; 3. Que la consulta se aplica a los Tribunales de los Presbiterios y Consejos, donde todos los miembros del Concilio son Jueces. La CE-SC/IPB – 2013 resuelve: 1. Recordar al Presbiterio consultante, por medio del Sínodo Vale do Paraíba, que el quórum del Tribunal es el mismo que el del Presbiterio: arts. 85 y 86 de la CI/IPB; por lo tanto, puede funcionar con hasta cinco (5) Jueces, tres (3) pastores y dos (2) presbíteros; 2. Respecto de los Jueces que faltan, es decir, los ausentes, puede y debe instárselos a comparecer ante el Tribunal, so pena de juzgar sin conocimiento de la causa, lo que es lamentable”.
+
+34 Arts. 59 a 80 del modelo de RI-Sínodo.
+
+35 Art. 81 a 89 del modelo de RI-Sínodo. SUMARIO Nº 04 DEL TR-SC/IPB. PROCESO DISCIPLINARIO. DECISIÓN DEL TRIBUNAL DEL SÍNODO QUE RECOMIENDA CONVOCAR UNA REUNIÓN DEL PRESBITERIO PARA APROBAR UNA ASIGNACIÓN DESTINADA AL SUSTENTO DEL MINISTRO BAJO DISCIPLINA. INCOMPETENCIA DEL ÓRGANO JUDICIAL PARA DELIBERAR SOBRE UNA MATERIA DE COMPETENCIA DEL CONCILIO INFERIOR, PROPIA DE UN PROCESO ADMINISTRATIVO. INEFICACIA DE LA RECOMENDACIÓN. El tribunal eclesiástico del sínodo excede su función eclesiástica al hacer recomendaciones que, en rigor, darían respaldo a la decisión equivocada de restaurar directamente a la persona sancionada. Tanto la restauración como la aprobación de una asignación para el sustento del ministro son medidas de competencia del presbiterio; el sínodo —nunca su tribunal— solo puede pronunciarse cuando se lo inste en una demanda propia, separada del proceso disciplinario. Esto significa que la evaluación de la oportunidad y conveniencia de brindar ayuda económica al ministro bajo disciplina, como acto de misericordia y no como obligación legal —que no existe, conforme a la resolución CE – 2009 – DOC. CXXVIII—, pertenece a la esfera de competencia y al criterio del presbiterio. (TR-SC/IPB, fallo colegiado de 26/11/2021, Juez Ponente Presb. George Almeida).
+
+<a id="anexo-pagina-179"></a>
+
+## Página PDF 179
+
+179 CÓDIGO DE DISCIPLINA
+
+Art. 22. Corresponde exclusivamente al Supremo Concilio procesar y juzgar a los sínodos.[36]
+Párrafo único. Habrá en el Supremo Concilio un tribunal de recursos[37], al que corresponde:
+
+36 Arts. 49 a 66 del RI-SC.
+
+37 Arts. 67 a 77 del RI-SC. SC - 2022 - DOC. CXXVI – [...] Informe cuatrienal del Tribunal de Recursos del Supremo Concilio. Considerando: 1. Que, en los términos del art. 22, párrafo único, del CD, corresponde al Tribunal de Recursos del Supremo Concilio de la Iglesia Presbiteriana tramitar y juzgar los recursos extraordinarios contra las sentencias finales de los Presbiterios (art. 20, inciso II, del CD) y contra las sentencias finales de los tribunales de los Sínodos (párrafo único del art. 21 del CD); 2. Que el Tribunal de Recursos del Supremo Concilio, como Comisión Permanente, en los términos del art. 99 de la CI/IPB, puede dictar Resoluciones Normativas para reglamentar sus trabajos, sometiéndolas a la aprobación del SC/IPB; 3. Que los archivos digitales para la formación, el envío y la recepción de documentos y procesos son hoy una realidad presente en la sociedad y en la propia IPB, sin que haya impedimento para que el Tribunal de Recursos del Supremo Concilio también adopte esta práctica, a fin de facilitar a todos los miembros de los tribunales el acceso al contenido de los fallos y al voto emitido por el Ponente del recurso interpuesto; 4. Que el proceso digitalizado permitirá a todos los juzgadores disponer simultáneamente de más tiempo para el análisis, facilitando la formación de la convicción de los jueces de los tribunales, especialmente por la complejidad de la materia recursiva. También permitirá abreviar la duración de las reuniones del Tribunal, lo que reducirá sus costos, además de que el conocimiento anticipado del expediente y de los votos de los jueces, especialmente del voto del ponente, permite una mejor dinámica de las sesiones antes de proclamar el resultado de los fallos; 5. Que es imprescindible y necesario catalogar los fallos colegiados del Tribunal de Recursos del Supremo Concilio para crear un repertorio jurisprudencial con los sumarios de los fallos dictados, que servirán de modelo para futuros fallos y contribuirán a la estabilidad de las decisiones en el ámbito eclesiástico. El SC/IPB - 2022 resuelve: 1. Aprobar el Informe [...]; 2. Aprobar la aplicación y el uso de la Resolución Normativa TR-SC/IPB N. 001/2021, que dispone sobre el acceso a los expedientes mediante archivos que contienen documentos y votos digitalizados anticipados, utilizando así las herramientas digitales modernas y permitiendo el acceso simultáneo de todos los involucrados e interesados al contenido de la materia juzgada; 3. Aprobar el uso y la aplicación de la Resolución Normativa TR-SC/IPB n. 002/2021, que dispone sobre la introducción de sumarios en los fallos colegiados y los medios de divulgación exclusivamente del contenido de estos sumarios, que se divulgarán sin mencionar el proceso ni las partes involucradas y se destinarán a la investigación. También servirán de orientación para las decisiones de los tribunales inferiores, evitando la repetición de casos sobre materias cuyo criterio ya esté consolidado en la Corte Mayor de nuestra Iglesia”.
+
+Resolución Normativa TR-SC/IPB nº 001/2021 – Dispone sobre la disponibilidad de expedientes digitalizados y la anticipación de votos. EL TRIBUNAL DE RECURSOS DEL 
+
+<a id="anexo-pagina-180"></a>
+
+## Página PDF 180
+
+180 MANUAL PRESBITERIANO
+
+SUPREMO CONCILIO DE LA IGLESIA PRESBITERIANA DE BRASIL (TR-SC/IPB), reunido a los 26 días del mes de noviembre de 2021, a las 14 horas, en el auditorio del Centro Histórico del Instituto Presbiteriano Mackenzie, situado en Rua da Consolação, nº 930, Consolação, São Paulo, bajo la Presidencia del Presb. Jayro Boy de Vasconcelos Júnior, con la presencia de los demás miembros: Rev. Jorge Correa dos Santos Filho (Secretario), Rev. Manoel Seixas (titular), Rev. Lucas Ribeiro da Silva (titular), Presb. George Santos Almeida (titular), Presb. Paulo Joaquim Martins Ferraz (suplente) y Rev. Jabis Ipólito de Campos Júnior (suplente); CONSIDERANDO que los procesos que debe examinar el TR-SC/IPB son complejos y, por tanto, requieren tiempo para analizar la causa y formar la convicción de cada juez; CONSIDERANDO que, a diferencia de la época en que se promulgó el CD, actualmente contamos con herramientas digitales que permiten compartir los expedientes en formato digital para que todos los miembros del Tribunal puedan examinarlos; CONSIDERANDO que las reuniones del Tribunal son costosas y que abreviar su duración favorece la reducción de costos; CONSIDERANDO que el conocimiento anticipado del expediente y de los votos de los jueces, sobre todo del voto del ponente, permite una mejor dinámica de la sesión de juicio, sin perjuicio de que las posiciones puedan modificarse durante ella antes de proclamar el resultado, conforme al principio bíblico de Pv. 11:14; CONSIDERANDO que las herramientas digitales modernas posibilitan una comunicación fácil y segura, lo que aconseja utilizarlas para convocar a los jueces y notificar a las partes y sus representantes; CONSIDERANDO que, por la necesaria reserva exigida a los miembros del Tribunal, resulta más adecuado restringir el grupo de WhatsApp a los integrantes del órgano, titulares y suplentes. RESUELVE, por unanimidad: 1. De ahora en adelante, los expedientes serán digitalizados y compartidos con todos los jueces; 2. El voto del ponente se pondrá a disposición hasta 5 (cinco) días antes de la sesión de juicio; 3. Los demás jueces podrán poner a disposición sus votos, concordantes o discrepantes, antes de la sesión de juicio; 4. El expediente y los votos se compartirán en un entorno electrónico exclusivo de los miembros del TR-SC/IPB, quedando desde ya autorizado el uso del grupo de WhatsApp y del correo electrónico, u otros medios que ofrezcan seguridad; 5. Preferentemente, la convocatoria de los jueces y la notificación de las partes y sus representantes se efectuarán electrónicamente, dejando constancia mediante certificaciones en el expediente; 6. De ahora en adelante, el grupo de WhatsApp del TR-SC/IPB se restringirá a los miembros del Órgano, titulares y suplentes, a quienes se exigirá secreto absoluto sobre la información y los documentos a los que tengan acceso; 7. Esta resolución entra en vigor en esta fecha, y una copia quedará archivada en una carpeta propia de la Secretaría del Tribunal.
+
+RESOLUCIÓN NORMATIVA TR-SC/IPB Nº 002/2021 – Dispone sobre la introducción de sumarios en los fallos colegiados y los medios de divulgación de su contenido para investigación. EL TRIBUNAL DE RECURSOS DEL SUPREMO CONCILIO DE LA IGLESIA PRESBITERIANA DE BRASIL (TR-SC/IPB), reunido a los 26 días del mes de noviembre de 2021, a las 14 horas, en el auditorio del Centro Histórico del Instituto Presbiteriano Mackenzie, situado en Rua da Consolação, nº 930, Consolação, São Paulo, bajo la Presidencia del Presb. Jayro Boy de Vasconcelos Júnior, con la presencia de los demás miembros: Rev. Jorge Correa dos Santos Filho (Secretario), Rev. Manoel Seixas (titular), Rev. Lucas Ribeiro da Silva (titular), Presb. George Santos Almeida (titular), Presb. Paulo Joaquim Martins Ferraz (suplente) y Rev. Jabis Ipólito de Campos Júnior

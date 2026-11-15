@@ -1,0 +1,20 @@
+{
+  "reviewedIds": [
+    "EST-IPB-art-34",
+    "EST-IPB-art-36"
+  ],
+  "replacements": {
+    "EST-IPB-art-34": [
+      [
+        "simplemente Comité Ejecutivo",
+        "simplemente Comisión Ejecutiva"
+      ]
+    ],
+    "EST-IPB-art-36": [
+      [
+        "Corresponderá al Comité Ejecutivo:",
+        "Corresponde a la Comisión Ejecutiva:"
+      ]
+    ]
+  }
+}

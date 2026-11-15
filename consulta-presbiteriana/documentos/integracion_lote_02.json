@@ -1,0 +1,28 @@
+{
+  "ids": [
+    "SC-2026-CCXLI",
+    "SC-2026-CCXL",
+    "SC-2026-CCXXXVIII",
+    "SC-2026-CCXXXVII",
+    "SC-2026-CCXXXVI",
+    "SC-2026-CCXXXV",
+    "SC-2026-CCXXXIV",
+    "SC-2026-CCXXXIII",
+    "SC-2026-CCXXXII",
+    "SC-2026-CCXXXI",
+    "SC-2026-CCXXX",
+    "SC-2026-CCXXIX",
+    "SC-2026-CCXXVIII",
+    "SC-2026-CCXXVI",
+    "SC-2026-CCXXV",
+    "SC-2026-CCXXIV",
+    "SC-2026-CCXXIII",
+    "SC-2026-CCXXII",
+    "SC-2026-CCXXVII",
+    "CE-2026-CII"
+  ],
+  "reviewedDecisionsAfterBatch": 30,
+  "pendingDecisionsAfterBatch": 368,
+  "nextId": "SC-2026-CCXXI",
+  "reviewDate": "2026-10-12"
+}

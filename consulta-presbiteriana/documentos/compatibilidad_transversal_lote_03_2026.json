@@ -1,0 +1,702 @@
+{
+  "batch": 3,
+  "date": "2026-10-14",
+  "reviewedNotes": 30,
+  "items": [
+    {
+      "id": "CI-nota-21",
+      "targets": [
+        "CI-art-88"
+      ],
+      "parents": [
+        "CI-art-4"
+      ],
+      "classification": "alinea-no-modificada",
+      "findingEs": "La resolución de 1996 trata de organizar iglesias bajo la alínea f y distingue Junta de Misiones de concilio. EC8 cambia sólo a; no transfiere por esta reforma a la Junta la competencia de organizar o jurisdicionar iglesias.",
+      "findingPt": "A resolução de 1996 trata da organização de igrejas sob a alínea f e distingue Junta de Missões de concílio. EC8 altera apenas a; não transfere por essa alteração à Junta a competência de organizar ou jurisdicionar igrejas.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "25e445ff82d0ab4c5ee55a01e982da66a590a9807bfe1519f57e6b22ca83d256",
+      "translationHash": "94dfe3d13b274882108d50894844e4207fde914f5932d83465a2b313e8e5e587",
+      "pages": [
+        20
+      ],
+      "scope": "Cotejo de la relación con reformas y aclaraciones identificadas, no certificación general de vigencia ni de legislación civil."
+    },
+    {
+      "id": "CI-nota-28",
+      "targets": [
+        "CI-art-84"
+      ],
+      "parents": [
+        "CI-art-8"
+      ],
+      "classification": "remision-de-rango-con-articulo-modificado",
+      "findingEs": "El rango CI75–84 incluye art.84. Al consultar esa parte del rango debe mostrarse EC7: hasta cinco años y uno o más tesoreros. La remisión amplia no modifica automáticamente los demás artículos del rango.",
+      "findingPt": "O intervalo CI75–84 inclui art.84. Ao consultar essa parte do intervalo, apresentar EC7: até cinco anos e um ou mais tesoureiros. A remissão ampla não altera automaticamente os demais artigos do intervalo.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "35a214f3eb62fcddaa8c09d67cd13634fc73adf94933c3993c675966920d3f98",
+      "translationHash": "35a214f3eb62fcddaa8c09d67cd13634fc73adf94933c3993c675966920d3f98",
+      "pages": [
+        23
+      ],
+      "scope": "Cotejo de la relación con reformas y aclaraciones identificadas, no certificación general de vigencia ni de legislación civil."
+    },
+    {
+      "id": "CI-nota-35",
+      "targets": [
+        "CI-art-88"
+      ],
+      "parents": [
+        "CI-art-9"
+      ],
+      "classification": "referencia-general-con-alcance-limitado",
+      "findingEs": "La resolución CE2000-CLVI distingue elección por asamblea y designación presbiterial. EC8 cambia la alínea a sobre candidatos, no aprueba nuevas reglas de elección pastoral. En la nota 35 se conservan además las reglas históricas de asamblea abierta, electrónica e híbrida sin declararlas sustituidas por EC8.",
+      "findingPt": "A resolução CE2000-CLVI distingue eleição pela assembleia e designação presbiterial. EC8 altera a alínea a sobre candidatos, não aprova novas regras de eleição pastoral. Na nota 35 são conservadas também as regras históricas de assembleia aberta, eletrônica e híbrida sem declará-las substituídas por EC8.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "3b95eb88bb5efc07e6d37ad1abac41b89cdd3809559b62dcf3d6b630a3b2f266",
+      "translationHash": "26bbfcaab0159b8c2675ac108388699031d9e84587f0d67a730db115e2f3cc06",
+      "pages": [
+        24,
+        25,
+        26
+      ],
+      "scope": "Cotejo de la relación con reformas y aclaraciones identificadas, no certificación general de vigencia ni de legislación civil."
+    },
+    {
+      "id": "CI-nota-114",
+      "targets": [
+        "CI-art-88"
+      ],
+      "parents": [
+        "CI-art-33"
+      ],
+      "classification": "referencia-general-con-alcance-limitado",
+      "findingEs": "La resolución CE2000-CLVI distingue elección por asamblea y designación presbiterial. EC8 cambia la alínea a sobre candidatos, no aprueba nuevas reglas de elección pastoral. En la nota 35 se conservan además las reglas históricas de asamblea abierta, electrónica e híbrida sin declararlas sustituidas por EC8.",
+      "findingPt": "A resolução CE2000-CLVI distingue eleição pela assembleia e designação presbiterial. EC8 altera a alínea a sobre candidatos, não aprova novas regras de eleição pastoral. Na nota 35 são conservadas também as regras históricas de assembleia aberta, eletrônica e híbrida sem declará-las substituídas por EC8.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "b1dfe5c09ce478475ec1a4e84a5a30a49453b6e6d1e3a9d12a89e38ae1d8e041",
+      "translationHash": "0501da4a0ee9d92c4d3d286693f6885525855fe6e06ebb73c98ecb6e8ce11e5a",
+      "pages": [
+        57
+      ],
+      "scope": "Cotejo de la relación con reformas y aclaraciones identificadas, no certificación general de vigencia ni de legislación civil."
+    },
+    {
+      "id": "CI-nota-115",
+      "targets": [
+        "CI-art-88"
+      ],
+      "parents": [
+        "CI-art-33"
+      ],
+      "classification": "alinea-no-modificada",
+      "findingEs": "La alínea h sobre legalidad y conveniencia de elecciones permanece. EC8 no sustituye la distinción de pastor elegido/designado, las condiciones del pleito ni el régimen de pluralidad de pastores descrito por las resoluciones históricas. Las menciones a CI8 tampoco corresponden a RI-CE8.",
+      "findingPt": "Permanece a alínea h sobre legalidade e conveniência de eleições. EC8 não substitui a distinção de pastor eleito/designado, condições do pleito nem regime de pluralidade de pastores descrito pelas resoluções históricas. Menções a CI8 tampouco correspondem a RI-CE8.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "fc768d27466aaf19d361b36c567a5c0099d853f9c6f02b044202ad3105e05e02",
+      "translationHash": "2d696de580a0ae3a01a0e2058df50bf8af8db6ee2bfededf840c8d28865c191e",
+      "pages": [
+        57,
+        58
+      ],
+      "scope": "Cotejo de la relación con reformas y aclaraciones identificadas, no certificación general de vigencia ni de legislación civil."
+    },
+    {
+      "id": "CI-nota-118",
+      "targets": [
+        "CI-art-88"
+      ],
+      "parents": [
+        "CI-art-34"
+      ],
+      "classification": "alinea-no-modificada",
+      "findingEs": "La alínea h sobre legalidad y conveniencia de elecciones permanece. EC8 no sustituye la distinción de pastor elegido/designado, las condiciones del pleito ni el régimen de pluralidad de pastores descrito por las resoluciones históricas. Las menciones a CI8 tampoco corresponden a RI-CE8.",
+      "findingPt": "Permanece a alínea h sobre legalidade e conveniência de eleições. EC8 não substitui a distinção de pastor eleito/designado, condições do pleito nem regime de pluralidade de pastores descrito pelas resoluções históricas. Menções a CI8 tampouco correspondem a RI-CE8.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "4eba544d6549c62c543391ace7d9b1ca0b9928fe7735ffd7c671df66892f1a8a",
+      "translationHash": "dc77da8df1e9240c8199b3710004abf570f3384eb86ca436a06891aeef4ca2c2",
+      "pages": [
+        59,
+        60
+      ],
+      "scope": "Cotejo de la relación con reformas y aclaraciones identificadas, no certificación general de vigencia ni de legislación civil."
+    },
+    {
+      "id": "CI-nota-124",
+      "targets": [
+        "CI-art-88"
+      ],
+      "parents": [
+        "CI-art-35"
+      ],
+      "classification": "referencia-general-sin-actualizacion-fiscal",
+      "findingEs": "La remisión general a art.88 acompaña deberes históricos de acompañamiento pastoral y fiscal. EC8 no actualiza tasas, topes, recibos, INSS ni impuesto sobre la renta. Las cifras y opiniones civiles de 2014/2019 se atribuyen a esas resoluciones; este cotejo no las valida como legislación actual.",
+      "findingPt": "A remissão geral ao art.88 acompanha deveres históricos de acompanhamento pastoral e fiscal. EC8 não atualiza alíquotas, tetos, recibos, INSS nem imposto de renda. Números e opiniões civis de 2014/2019 são atribuídos a essas resoluções; este cotejo não os valida como legislação atual.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "4acdb999631e5f76dac32535c5f9537c40d057fc52363d855dccceab59030a6c",
+      "translationHash": "c0223b918045fe9fc113746f939ff94b5f3f55d7d8b4c54f6db165252a3f6966",
+      "pages": [
+        62,
+        63
+      ],
+      "scope": "Cotejo de la relación con reformas y aclaraciones identificadas, no certificación general de vigencia ni de legislación civil."
+    },
+    {
+      "id": "CI-nota-125",
+      "targets": [
+        "CI-art-88"
+      ],
+      "parents": [
+        "CI-art-35"
+      ],
+      "classification": "nota-mixta-con-aclaracion-posterior",
+      "findingEs": "EC8 no sustituye las alíneas b/d/e/g/n citadas sobre ministros sin campo. La nota reúne sustento, disciplina, licencias, contribuciones y cifras de épocas distintas. El pasaje CE2009-CXXIX sobre sustento debe leerse junto con CE2026-CIV, que distingue afastamento de deposición: el dispositivo permite deliberar sobre sustento/ayuda, no impone pago universal ni ayuda obligatoria hasta un año. CIV menciona DOC.128 y DOC.129 en tramos distintos; no se normalizan esas referencias ni se declara revocada toda la nota. No se actualizan importes o legislación fiscal.",
+      "findingPt": "EC8 não substitui as alíneas b/d/e/g/n citadas sobre ministros sem campo. A nota reúne sustento, disciplina, licenças, contribuições e números de épocas distintas. Ler a passagem CE2009-CXXIX sobre sustento com CE2026-CIV, que distingue afastamento e deposição: o dispositivo permite deliberar sobre sustento/ajuda, não impõe pagamento universal nem ajuda obrigatória até um ano. CIV menciona DOC.128 e DOC.129 em trechos distintos; não normalizar referências nem declarar toda a nota revogada. Não atualizar valores ou legislação fiscal.",
+      "sources": [
+        "SC-2026-CCI",
+        "CE-2026-CIV"
+      ],
+      "originalHash": "e62e1473815a8166e2491b2286120c9e60a218f6ecb727b2e2ea709e7cace491",
+      "translationHash": "6ef0dbbae635e331332b7de1442f421f5e12978ca5238a0220c6632fd346833c",
+      "pages": [
+        63,
+        64,
+        65,
+        66
+      ],
+      "scope": "Cotejo de la relación con reformas y aclaraciones identificadas, no certificación general de vigencia ni de legislación civil."
+    },
+    {
+      "id": "CI-nota-132",
+      "targets": [
+        "CI-art-88"
+      ],
+      "parents": [
+        "CI-art-38"
+      ],
+      "classification": "alinea-no-modificada",
+      "findingEs": "La remisión corresponde a alínea g, conservada. La referencia a ATAS art.12 §2 no es ATAS art.3; la corrección de términos sin numeración no sustituye automáticamente el art.12.",
+      "findingPt": "A remissão corresponde à alínea g, conservada. A referência a ATAS art.12 §2 não é ATAS art.3; a correção dos termos sem numeração não substitui automaticamente o art.12.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "3c8270b85163111810f112092970c7e3d1aa8dd679612e77a231694f6d87f046",
+      "translationHash": "77439d6d3d2e9e0b04a2128b782d3a36d7282243e1718fea68905a7e64f683e7",
+      "pages": [
+        67
+      ],
+      "scope": "Cotejo de la relación con reformas y aclaraciones identificadas, no certificación general de vigencia ni de legislación civil."
+    },
+    {
+      "id": "CI-nota-173",
+      "targets": [
+        "CI-art-88"
+      ],
+      "parents": [
+        "CI-art-61"
+      ],
+      "classification": "referencia-general-con-alcance-limitado",
+      "findingEs": "La referencia a art.88 no especifica alínea. Consultar la a con EC8 y conservar las restantes; no interpretar la remisión general como sustitución de todo el art.88 ni de CI83/94/97.",
+      "findingPt": "A referência ao art.88 não especifica alínea. Consultar a alínea a com EC8 e conservar as demais; não interpretar remissão geral como substituição de todo o art.88 nem de CI83/94/97.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "e1ad36ed73408df23b61fe816a5ecd8cabf5cef9fab996ba4547b13e4eb248a3",
+      "translationHash": "0b3ef14beaf37f4a0110c099c0e4b5c0e8ce0f3b13469998cbc8edbde7367161",
+      "pages": [
+        85
+      ],
+      "scope": "Cotejo de la relación con reformas y aclaraciones identificadas, no certificación general de vigencia ni de legislación civil."
+    },
+    {
+      "id": "CI-nota-174",
+      "targets": [
+        "CI-art-88"
+      ],
+      "parents": [
+        "CI-art-61"
+      ],
+      "classification": "alineas-no-modificadas",
+      "findingEs": "La lista f/g/h/i/j/n queda fuera del segmento a sustituido por EC8. Se conserva la referencia, sin certificar por ello vigencia general de todos los artículos citados.",
+      "findingPt": "A lista f/g/h/i/j/n está fora do segmento a substituído pela EC8. Conservada a referência, sem certificar por isso vigência geral de todos os artigos citados.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "ee6735677a3b22b5382997df19ceba5b294eed536ed35808611b8ebb4c9813fe",
+      "translationHash": "3dc62f2d7de7e3313c7a3f1fff224426d9075aa7a57ab9f1efa93755ab15b5ba",
+      "pages": [
+        85
+      ],
+      "scope": "Cotejo de la relación con reformas y aclaraciones identificadas, no certificación general de vigencia ni de legislación civil."
+    },
+    {
+      "id": "CI-nota-193",
+      "targets": [
+        "CI-art-27",
+        "CI-art-88"
+      ],
+      "parents": [
+        "CI-art-68"
+      ],
+      "classification": "nota-mixta-de-credenciales-y-representacion",
+      "findingEs": "EC3 no sustituye §1 de CI27 ni los requisitos documentales de CI68. EC8 no modifica la alínea j de CI88. Conservar las diferencias de la nota entre credenciales, libros/informes, contribuciones y reuniones ordinarias/extraordinarias; CE2025-CXXI limita la exigencia documental a la reunión de examen. No convertir la nueva categoría ex officio sin voto en dispensa general de credenciales o en prohibición por deudas.",
+      "findingPt": "EC3 não substitui §1 de CI27 nem requisitos documentais de CI68. EC8 não altera a alínea j de CI88. Conservar as distinções da nota entre credenciais, livros/relatórios, contribuições e reuniões ordinárias/extraordinárias; CE2025-CXXI limita a exigência documental à reunião de exame. Não transformar a nova categoria ex officio sem voto em dispensa geral de credenciais nem em proibição por dívidas.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "2753c8cace82f9959fc1e62187543d8fbdca56833f729a0589f720d523354711",
+      "translationHash": "0adc929fa8ab845d8ae791bdf46662da5c3b7b4f1f1f6d1fbc9724fd3cb75cf2",
+      "pages": [
+        95,
+        96,
+        97
+      ],
+      "scope": "Cotejo de la relación con reformas y aclaraciones identificadas, no certificación general de vigencia ni de legislación civil."
+    },
+    {
+      "id": "CI-nota-197",
+      "targets": [
+        "CI-art-88",
+        "CI-art-27"
+      ],
+      "parents": [
+        "CI-art-70"
+      ],
+      "classification": "representacion-con-lectura-conjunta",
+      "findingEs": "La remisión a CI88 p se conserva por EC8. El derecho de asiento de los representantes descrito en 2021 debe distinguirse de la nueva categoría ex officio sin voto de EC3: no todos los presentes son representantes, ni toda membresía conciliar equivale a representación electa. No se crean reglas nuevas sobre gastos de traslado.",
+      "findingPt": "A remissão a CI88 p é conservada pela EC8. Distinguir o direito de assento dos representantes descrito em 2021 da nova categoria ex officio sem voto da EC3: nem todos os presentes são representantes, nem toda membresia conciliar equivale à representação eleita. Não criar novas regras sobre despesas de traslado.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "28a3ff5a6990fa27d0d7f893ee99e4fe0ab481947d74bf0db19e050f5969e156",
+      "translationHash": "6ace56403df5d9dda4080a793cf8c6366a5ae241623fdd54e4a40d211a104b1d",
+      "pages": [
+        98
+      ],
+      "scope": "Cotejo de la relación con reformas y aclaraciones identificadas, no certificación general de vigencia ni de legislación civil."
+    },
+    {
+      "id": "CI-nota-204",
+      "targets": [
+        "CI-art-64"
+      ],
+      "parents": [
+        "CI-art-70"
+      ],
+      "classification": "lectura-complementaria-requerida",
+      "findingEs": "La respuesta de 2002 remite al art.64 sin reproducir un plazo. Leer esa remisión con EC6: 90 días para recurrir y 30 desde recepción por el concilio para elevar. Se conserva la expresión histórica discrepante ex nunc / hasta su raíz; esta enmienda no corrige la nulidad, la presidencia o el término latino citados en otros puntos.",
+      "findingPt": "A resposta de 2002 remete ao art.64 sem reproduzir prazo. Ler a remissão com EC6: 90 dias para recorrer e 30 desde recebimento pelo concílio para subir. Conservada a expressão histórica discrepante ex nunc / até sua raiz; essa emenda não corrige nulidade, presidência nem termo latino citado em outros pontos.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "2a8d02ab598024ef5b0dc65fc42a4a3b23d3c894af31d274932a48658d94319e",
+      "translationHash": "a04e9400fb2eae81fa391d17d892d96c5d624929cf0dd81102021289bd5e65d8",
+      "pages": [
+        99,
+        100
+      ],
+      "scope": "Cotejo de la relación con reformas y aclaraciones identificadas, no certificación general de vigencia ni de legislación civil."
+    },
+    {
+      "id": "CI-nota-271",
+      "targets": [
+        "CI-art-88"
+      ],
+      "parents": [
+        "CI-art-91"
+      ],
+      "classification": "alinea-no-modificada-con-aclaracion-posterior",
+      "findingEs": "EC8 no modifica alínea l. La nota distingue trabajos presbiteriales y de iglesias locales, regiones y límites definidos por órganos distintos; conserva un anteproyecto pendiente en 2023. CE2026-CXXXVIII exige observar la comunicación formal anticipada de CE2022-CXXXI item05 y continuar diálogo/parcerias. No convertir esa comunicación en autorización previa general no formulada por el dispositivo, ni afirmar que el anteproyecto territorial quedó aprobado.",
+      "findingPt": "EC8 não altera a alínea l. A nota distingue trabalhos presbiteriais e de igrejas locais, regiões e limites definidos por órgãos distintos; conserva anteprojeto pendente em 2023. CE2026-CXXXVIII exige observar comunicação formal antecipada de CE2022-CXXXI item05 e continuar diálogo/parcerias. Não transformar essa comunicação em autorização prévia geral não formulada no dispositivo, nem afirmar que o anteprojeto territorial foi aprovado.",
+      "sources": [
+        "SC-2026-CCI",
+        "CE-2026-CXXXVIII"
+      ],
+      "originalHash": "eec3c0d58da9dfc49b2a74225a9e5da6326d2f10a8d1ec518a51db9a91b98e5e",
+      "translationHash": "26e34b18f8564d99bfe74eb510273993b5b5056e5cda53585972e99e5eb86278",
+      "pages": [
+        124,
+        125,
+        126
+      ],
+      "scope": "Cotejo de la relación con reformas y aclaraciones identificadas, no certificación general de vigencia ni de legislación civil."
+    },
+    {
+      "id": "CI-nota-275",
+      "targets": [
+        "CI-art-88"
+      ],
+      "parents": [
+        "CI-art-94"
+      ],
+      "classification": "alinea-no-modificada",
+      "findingEs": "La remisión final dice alínea f y trata transferencia de iglesias entre presbiterios/sínodos. EC8 sustituye a, sobre candidatos: no fusionar transferencia de iglesia, ministro y candidato ni deducir de ella una carta común para los tres casos.",
+      "findingPt": "A remissão final diz alínea f e trata transferência de igrejas entre presbitérios/sínodos. EC8 substitui a, sobre candidatos: não fundir transferência de igreja, ministro e candidato nem deduzir dela uma carta comum aos três casos.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "382826971a33696efcfd105acb872b297c74f0b240a405a97247497ef83d86d2",
+      "translationHash": "dbd91a802c0cdfc06befaf30da00feed33277174299952b3db1ab106d5027029",
+      "pages": [
+        126,
+        127
+      ],
+      "scope": "Cotejo de la relación con reformas y aclaraciones identificadas, no certificación general de vigencia ni de legislación civil."
+    },
+    {
+      "id": "CI-nota-283",
+      "targets": [
+        "CI-art-88",
+        "CI-art-27"
+      ],
+      "parents": [
+        "CI-art-95"
+      ],
+      "classification": "representacion-con-lectura-conjunta",
+      "findingEs": "La alínea p de CI88 y CI90 conservan su texto. Leer elección de representantes junto a EC3: miembro efectivo elegido representante es distinto del ex officio presente sin voto; no reformar p por inferencia.",
+      "findingPt": "A alínea p de CI88 e CI90 conservam seus textos. Ler eleição de representantes com EC3: membro efetivo eleito representante é distinto do ex officio presente sem voto; não alterar p por inferência.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "19abe3776762e610b58d09fd9370ee2cad2d4e8ca06ab5f81ef555933641ef0f",
+      "translationHash": "6c5d8e61b3ca490bc7fb2bd07207ed3db919121e431b1d9c42718a03c5d252f9",
+      "pages": [
+        128
+      ],
+      "scope": "Cotejo de la relación con reformas y aclaraciones identificadas, no certificación general de vigencia ni de legislación civil."
+    },
+    {
+      "id": "CI-nota-287",
+      "targets": [
+        "CI-art-88"
+      ],
+      "parents": [
+        "CI-art-97"
+      ],
+      "classification": "alinea-no-modificada",
+      "findingEs": "CI88 j permanece. La propuesta de bajar la contribución de 10% a 5% fue rechazada en el texto histórico; EC8 no la convierte en reforma aprobada ni establece un porcentaje nuevo.",
+      "findingPt": "CI88 j permanece. A proposta de reduzir a contribuição de 10% para 5% foi rejeitada no texto histórico; EC8 não a transforma em alteração aprovada nem fixa novo percentual.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "07d98260ea7b07bfc9bde914e621249337ee8cef986adb9120fcfc5986f1995b",
+      "translationHash": "731b71b810e93366e58af9f80a7397857cb45efeedb8b36e5a59d2d7aa7b747e",
+      "pages": [
+        129
+      ],
+      "scope": "Cotejo de la relación con reformas y aclaraciones identificadas, no certificación general de vigencia ni de legislación civil."
+    },
+    {
+      "id": "CI-nota-293",
+      "targets": [
+        "CI-art-27",
+        "CI-art-54"
+      ],
+      "parents": [
+        "CI-art-98"
+      ],
+      "classification": "comisiones-y-disponibilidad-con-regimenes-distintos",
+      "findingEs": "Las remisiones a CI27 §1 y composición de comisiones permanecen; EC3 cambia sólo el caput. EC5 agrega permiso al diácono disponible para reunión de Junta Diaconal por invitación y sin voto, no para integrar automáticamente comisiones eclesiásticas ni para ocupar cargos conciliares. Las restricciones históricas del presbítero disponible se conservan con su propio alcance.",
+      "findingPt": "Permanecem remissões a CI27 §1 e composição de comissões; EC3 altera apenas o caput. EC5 acrescenta permissão ao diácono disponível para reunião da Junta Diaconal mediante convite e sem voto, não para integrar automaticamente comissões eclesiásticas nem ocupar cargos conciliares. Conservadas restrições históricas do presbítero disponível com seu próprio alcance.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "87800ffe91c6fed02d42e673f3aa04a2b33592c7bab5b0eed90774c6f2b91b79",
+      "translationHash": "c67b9785c2f425854fc26c888aeabb1b2aec597f2ce47a31b226310e42d7fab3",
+      "pages": [
+        130
+      ],
+      "scope": "Cotejo de la relación con reformas y aclaraciones identificadas, no certificación general de vigencia ni de legislación civil."
+    },
+    {
+      "id": "CI-nota-297",
+      "targets": [
+        "CI-art-27"
+      ],
+      "parents": [
+        "CI-art-101"
+      ],
+      "classification": "jubilacion-con-regimen-especifico",
+      "findingEs": "La remisión a CI27 §1 permanece. La nota trata ministro jubilado y excepciones de voto de CI49 §5 para Secretario-Executivo/Tesoureiro. EC3 distingue membresía efectiva y ex officio, pero no sustituye textualmente CI49: conservar esas excepciones históricas y confirmar su compatibilidad cuando el ministro no sea representante. No deducir voto general del mero encargo ni dar por resuelta esa lectura conjunta.",
+      "findingPt": "A remissão a CI27 §1 permanece. A nota trata ministro jubilado e exceções de voto de CI49 §5 para Secretário-Executivo/Tesoureiro. EC3 distingue membresia efetiva e ex officio, mas não substitui textualmente CI49: conservar essas exceções históricas e confirmar sua compatibilidade quando o ministro não for representante. Não deduzir voto geral do simples encargo nem considerar resolvida essa leitura conjunta.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "d500298d247677c7e017519a82e1ec06e65e3570c83181923a595547cc13e57c",
+      "translationHash": "7b7b75df09207ee35d37f555f87a65b710257077aa70a682291b336f4f4e4ca8",
+      "pages": [
+        132
+      ],
+      "scope": "Cotejo de la relación con reformas y aclaraciones identificadas, no certificación general de vigencia ni de legislación civil."
+    },
+    {
+      "id": "CI-nota-328",
+      "targets": [
+        "CI-art-88"
+      ],
+      "parents": [
+        "CI-art-116"
+      ],
+      "classification": "candidatura-con-remision-actualizada",
+      "findingEs": "La remisión a alínea a debe mostrar EC8, incluido cassar candidaturas. Los pasajes sobre sustento de seminarista, presencia en reuniones y Manual del Candidato no quedan sustituidos por esa sola enmienda. No confundir candidato presente con miembro/representante con voto.",
+      "findingPt": "A remissão à alínea a deve apresentar EC8, inclusive cassar candidaturas. Passagens sobre sustento de seminarista, presença em reuniões e Manual do Candidato não são substituídas por essa simples emenda. Não confundir candidato presente com membro/representante com voto.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "1b25a521f5d6c39965eac131c7a6a11692df454fc478488e6af6df2538bf0492",
+      "translationHash": "c93df3f2300eaefa1bead9e92e6df9ac0f5b10063341f93349e5264546040702",
+      "pages": [
+        143
+      ],
+      "scope": "Cotejo de la relación con reformas y aclaraciones identificadas, no certificación general de vigencia ni de legislación civil."
+    },
+    {
+      "id": "CI-nota-333",
+      "targets": [
+        "CI-art-88"
+      ],
+      "parents": [
+        "CI-art-119"
+      ],
+      "classification": "candidatura-con-aclaracion-posterior",
+      "findingEs": "La nota de CI125 remite a alínea a actualizada por EC8. CE2026-CXII distingue transferencia conciliar del candidato/licenciado de carta común de membresía de iglesia. Su considerando reproduce la antigua enumeración con disciplinar; no reintroducir esa palabra en el inciso promulgado por EC8 ni alterar el permiso de CI125 por inferencia.",
+      "findingPt": "A nota de CI125 remete à alínea a atualizada pela EC8. CE2026-CXII distingue transferência conciliar de candidato/licenciado de carta comum de membresia de igreja. Seu considerando reproduz a antiga enumeração com disciplinar; não reintroduzir a palavra na alínea promulgada pela EC8 nem alterar a permissão de CI125 por inferência.",
+      "sources": [
+        "SC-2026-CCI",
+        "CE-2026-CXII"
+      ],
+      "originalHash": "47285ff47921badf67e482ca83b0de941747d05ba19474c4cc41a45ce07ddc64",
+      "translationHash": "3e61c6f4528b75b21f0ce50fc19536d4a13c9721b82bd8081dade4c4552c2ad1",
+      "pages": [
+        147
+      ],
+      "scope": "Cotejo de la relación con reformas y aclaraciones identificadas, no certificación general de vigencia ni de legislación civil."
+    },
+    {
+      "id": "CI-nota-341",
+      "targets": [
+        "CI-art-88"
+      ],
+      "parents": [
+        "CI-art-127"
+      ],
+      "classification": "nota-mixta-con-remision-actualizada",
+      "findingEs": "La remisión a a se actualiza mediante EC8, pero el excerto CE2012-CCV sobre pastor sem campo es un antecedente sobre ministros. No deducir que EC8 redefine por sí sola campo pastoral o sustento, ni equiparar automáticamente candidatura y ministerio ordenado.",
+      "findingPt": "A remissão a a é atualizada pela EC8, mas o excerto CE2012-CCV sobre pastor sem campo é antecedente sobre ministros. Não deduzir que EC8 redefine, por si só, campo pastoral ou sustento, nem equiparar automaticamente candidatura e ministério ordenado.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "551774075131482b6b5a0e60b4779a08bf5003c2a071b84891100e4c27687f62",
+      "translationHash": "84c15d1094daba0b2c561fd64958661aff642126399d498bf3fc8658f01defb7",
+      "pages": [
+        149
+      ],
+      "scope": "Cotejo de la relación con reformas y aclaraciones identificadas, no certificación general de vigencia ni de legislación civil."
+    },
+    {
+      "id": "CI-nota-350",
+      "targets": [
+        "CI-art-88"
+      ],
+      "parents": [
+        "CI-art-136"
+      ],
+      "classification": "candidatura-con-remision-actualizada",
+      "findingEs": "La remisión a a debe mostrar la nueva enumeración de EC8. La misma nota remite a CI45, que no fue sustituido; no extender la nueva facultad sobre candidaturas a cualquier transferencia de ministro ya ordenado.",
+      "findingPt": "A remissão a a deve apresentar a nova enumeração da EC8. A mesma nota remete a CI45, não substituído; não estender a nova faculdade sobre candidaturas a qualquer transferência de ministro já ordenado.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "a6e5c463c7c3ae7b2df5494fe7718faec2130463b241030bbe02c9635b87437a",
+      "translationHash": "cc840a47c9308ac875a0d278d3c5a39b57b2ffcad58cd12590e5a6c808c5776d",
+      "pages": [
+        151
+      ],
+      "scope": "Cotejo de la relación con reformas y aclaraciones identificadas, no certificación general de vigencia ni de legislación civil."
+    },
+    {
+      "id": "CD-nota-26",
+      "targets": [
+        "CI-art-88"
+      ],
+      "parents": [
+        "CD-art-14"
+      ],
+      "classification": "nota-mixta-con-aclaracion-posterior",
+      "findingEs": "La cita de alíneas a/b/c/d/e de CI88 se conserva como antecedente; EC8 sólo sustituye a, referida a candidatos. La decisión histórica CE2009-CXXVIII sobre sustento debe leerse con CE2026-CIV, que reafirma 2009 sólo en lo compatible y distingue afastamento/deposición con deliberación sobre condiciones y ayuda por plazo razonable. No imponer pago obligatorio durante toda pena, ayuda automática hasta un año ni revivir íntegramente CE2008-CLIII.",
+      "findingPt": "A citação das alíneas a/b/c/d/e de CI88 é conservada como antecedente; EC8 só substitui a, referente a candidatos. Ler a decisão histórica CE2009-CXXVIII sobre sustento com CE2026-CIV, que reafirma 2009 apenas no que for compatível e distingue afastamento/deposição com deliberação sobre condições e ajuda por prazo razoável. Não impor pagamento obrigatório durante toda pena, ajuda automática até um ano nem reviver integralmente CE2008-CLIII.",
+      "sources": [
+        "SC-2026-CCI",
+        "CE-2026-CIV"
+      ],
+      "originalHash": "b2a828dd3e3df199eccac65d1a3a268685eaae7c655e45f7089624a4f1ba03cb",
+      "translationHash": "92c157f40d6561e830125fa714ea83a38225c17c214506cde806ce36a3c42779",
+      "pages": [
+        175,
+        176
+      ],
+      "scope": "Cotejo de la relación con reformas y aclaraciones identificadas, no certificación general de vigencia ni de legislación civil."
+    },
+    {
+      "id": "EST-IPB-nota-3",
+      "targets": [
+        "CI-art-88",
+        "CI-art-27"
+      ],
+      "parents": [
+        "EST-IPB-art-3"
+      ],
+      "classification": "representacion-con-lectura-conjunta",
+      "findingEs": "La remisión a CI88 p no fue sustituida por EC8. Su lectura sobre representación debe distinguir con EC3 miembros efectivos y ex officio presentes sin voto; no reformar el Estatuto IPB por esa sola remisión.",
+      "findingPt": "A remissão a CI88 p não foi substituída pela EC8. Na leitura sobre representação, distinguir com EC3 membros efetivos e ex officio presentes sem voto; não alterar o Estatuto IPB pela simples remissão.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "4775ba6cbfecf6157e267c799c5c723bdbd450f020bb73f8bb8744cc1f7e9568",
+      "translationHash": "68d35bec03e7e09b55bddd3d18d7a7f1e22a2b2d13f67999210d5587da606081",
+      "pages": [
+        270
+      ],
+      "scope": "Cotejo de la relación con reformas y aclaraciones identificadas, no certificación general de vigencia ni de legislación civil."
+    },
+    {
+      "id": "EST-PRE-nota-24",
+      "targets": [
+        "CI-art-27"
+      ],
+      "parents": [
+        "EST-PRE-art-11"
+      ],
+      "classification": "remision-de-rango-con-articulo-modificado",
+      "findingEs": "El rango 27–30 CI incluye el caput modificado por EC3 y los §§1–2 conservados. No trasladar membresía del concilio al rol de iglesia local ni sustituir todo el rango.",
+      "findingPt": "O intervalo 27–30 CI inclui o caput alterado pela EC3 e os §§1–2 conservados. Não transferir membresia do concílio para o rol de igreja local nem substituir todo o intervalo.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "d7d661942cb04e7063e5d250f9975009374abd0c791a546df9e031617b623634",
+      "translationHash": "c261a6376d9b2d8a11b83854b45bd08db79806249fa7deb4dcbe97de00d12bc4",
+      "pages": [
+        426
+      ],
+      "scope": "Cotejo de la relación con reformas y aclaraciones identificadas, no certificación general de vigencia ni de legislación civil."
+    },
+    {
+      "id": "EST-PRE-nota-61",
+      "targets": [
+        "CI-art-88"
+      ],
+      "parents": [
+        "EST-PRE-art-22"
+      ],
+      "classification": "referencia-general-con-alcance-limitado",
+      "findingEs": "La referencia combina CI70 y CI88. Debe abrir a con EC8 y conservar las demás alíneas; no atribuir una reforma completa del modelo estatutario ni de CI70.",
+      "findingPt": "A referência combina CI70 e CI88. Apresentar a alínea a com EC8 e conservar as demais; não atribuir alteração integral do modelo estatutário nem de CI70.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "f1cd8ac75cf37d7a05fda8cd483a8fa6031bcbe5b86c8b46b45aad1fd0014612",
+      "translationHash": "d3ff79c5f8fea7c931f17e6b125d24561f7623608e7b69779dc28a58bfac0b51",
+      "pages": [
+        431
+      ],
+      "scope": "Cotejo de la relación con reformas y aclaraciones identificadas, no certificación general de vigencia ni de legislación civil."
+    },
+    {
+      "id": "EST-PRE-nota-94",
+      "targets": [
+        "CI-art-88"
+      ],
+      "parents": [
+        "EST-PRE-art-27"
+      ],
+      "classification": "alinea-no-modificada",
+      "findingEs": "La remisión es a CI88 j, conservada por EC8. No se aprueba por esta enmienda un porcentaje o un nuevo régimen financiero del modelo presbiterial.",
+      "findingPt": "A remissão é a CI88 j, conservada pela EC8. Essa emenda não aprova percentual nem novo regime financeiro do modelo presbiterial.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "30d3ee2d72d035630f184c0868407107ccb560115eac7a576703d1c801c7e031",
+      "translationHash": "22c4da7011cfa2f682d19202b02f7f5ba334b9f38d9cd4f19109db7e4b12970a",
+      "pages": [
+        438
+      ],
+      "scope": "Cotejo de la relación con reformas y aclaraciones identificadas, no certificación general de vigencia ni de legislación civil."
+    },
+    {
+      "id": "EST-IG-nota-70",
+      "targets": [
+        "CI-art-88"
+      ],
+      "parents": [
+        "EST-IG-art-30"
+      ],
+      "classification": "referencia-general-con-alcance-limitado",
+      "findingEs": "La nota combina CI88 con normas de elección/ordenación y PL26–30. La remisión general incluye a modificada, sin sustituir las otras alíneas. PL27 es de Liturgia, no CI27; no convertir la coincidencia del rango litúrgico en reforma de representación.",
+      "findingPt": "A nota combina CI88 com normas de eleição/ordenação e PL26–30. A remissão geral inclui a alínea a alterada, sem substituir as demais. PL27 é de Liturgia, não CI27; não transformar a coincidência do intervalo litúrgico em alteração de representação.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "81edf6abffe1d27a3be077330ab7600144eb7bc376a5d56bddebca1e0e400e0a",
+      "translationHash": "727d512c4185d7c38bbac1abf8e282bdd960e3ebb8396f816fa5d13b763163ee",
+      "pages": [
+        523
+      ],
+      "scope": "Cotejo de la relación con reformas y aclaraciones identificadas, no certificación general de vigencia ni de legislación civil."
+    }
+  ],
+  "reformProvenance": {
+    "SC-2026-CCI": {
+      "originalHash": "9a14825cd6b834a4646d6cbd96c45504452c5707d108045a39f1a9b30fd714cd",
+      "translationHash": "5f6c503c43bde2d72e770c8929f6168531cd4ccc1d6dc7e74be10da89735370e",
+      "pages": [
+        27,
+        28
+      ]
+    },
+    "CE-2026-CIV": {
+      "originalHash": "00dd6567a0dd99a6688a52292f03fb9519b9d58bf36e2f60e9f58f394816a8b7",
+      "translationHash": "2d00423df3428da28b504ccf6178e16d541c9c7a271cf513a8db643a3e6dfd88",
+      "pages": [
+        302,
+        303,
+        304
+      ]
+    },
+    "CE-2026-CXII": {
+      "originalHash": "998e2321ba53dfcf637f35451d078bd513cdf9a3d53e820b9fb41b3b67f3a005",
+      "translationHash": "33b1409b36e6535e335c927c0e432e4205cdd4c0114469d98361aadddea1e631",
+      "pages": [
+        299
+      ]
+    },
+    "CE-2026-CXXXVIII": {
+      "originalHash": "0bd4825e4a251c48de1c223d577e2ad3c23709157c3b427ac5d6cf83bcdec84f",
+      "translationHash": "350ec6fa8331186c4018f8313560e53a297b29aa42c601a9c023e495baf2166e",
+      "pages": [
+        274,
+        275
+      ]
+    }
+  },
+  "globalCompatibilityReviewComplete": false,
+  "officialApproval": false,
+  "externalCertification": false,
+  "sourcePDFSHA256": {
+    "manual": "2d8b728004e32995ee5f1600a7e4e0da94a7124e253bf1fac5322a2b93a083a3",
+    "digesto": "e82955017938a555ab31a699d125b48fdfce686dd03d69b7b8dbbad1b03c2482"
+  }
+}

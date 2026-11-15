@@ -1,0 +1,303 @@
+{
+  "coverageComplete": true,
+  "linguisticReviewComplete": false,
+  "pages": 560,
+  "manualUnits": 1774,
+  "assistantTranslatedUnits": 1774,
+  "automaticUnits": 0,
+  "modelSHA256": "12e74294cd3d5b6d5ce940eb5a2ed8cc135a0cb4e12c358c9f9514b38325224a",
+  "sourceMarkdownSHA256": "8dfe35eb3608a49f45bda1cec15cf48afb9b512110a26f2a1a4317fd1b5d87a7",
+  "issuesForReview": [],
+  "elapsedSeconds": 4,
+  "referencePreservation": "Numeración y referencias protegidas; no equivale a revisión semántica.",
+  "targetedTerminologyCorrections": [
+    {
+      "sourceExcerpt": "Art. 25. Os suplentes dos juízes, eleitos em número igual a estes, e na mesma ocasião, substituirão os efetivos, em caso de falta, impedimento ou suspeição.",
+      "before": "Art. 25. Los suplentes de los jueces, elegidos en número igual a estos, y en la misma ocasión, reemplazarán los efectivos, en caso de falta, impedimento o sospecha.",
+      "after": "Art. 25. Los suplentes de los jueces, elegidos en número igual a estos, y en la misma ocasión, reemplazarán los efectivos, en caso de falta, impedimento o recusación."
+    },
+    {
+      "sourceExcerpt": "Art. 27. Qualquer das partes sob processo poderá arguir suspeição contra juízes do tribunal,[40] devendo este decidir imediatamente se procede ou não o alegado.",
+      "before": "Art. 27. Cualquiera de las partes bajo el proceso podrá arguir supeción contra jueces del tribunal,[40] debiendo decidir inmediatamente si procede o no lo alegado.\na) en la negativa, el tribunal prose",
+      "after": "Art. 27. Cualquiera de las partes bajo el proceso podrá arguir recusación contra jueces del tribunal,[40] debiendo decidir inmediatamente si procede o no lo alegado.\na) en la negativa, el tribunal pro"
+    },
+    {
+      "sourceExcerpt": "Art. 29. A alegação de suspeição será apresentada logo de início na primeira audiência a que o faltoso comparecer.[44]\nParágrafo único. A suspeição não poderá s",
+      "before": "Art. 29. La alegación de sospecha de sospecha se presentará en la primera audiencia a la que el faltoso comparezca.[44]\nPárrafo único. La sospecha no puede ser declarada ni reconocida cuando la parte ",
+      "after": "Art. 29. La alegación de recusación de recusación se presentará en la primera audiencia a la que el faltoso comparezca.[44]\nPárrafo único. La recusación no puede ser declarada ni reconocida cuando la "
+    },
+    {
+      "sourceExcerpt": "Art. 32. Se o juiz reconhecer a suspeição, não funcionará no processo. Não aceitando a suspeição, dará a sua resposta dentro de vinte e quatro horas, podendo ju",
+      "before": "Art. 32. Si el juez reconoce la sospecha, no funcionará en el proceso. No aceptando la sospecha, dará su respuesta dentro de veinte y cuatro horas, pudiendo juntar prueba documental y ofrecer testigos",
+      "after": "Art. 32. Si el juez reconoce la recusación, no funcionará en el proceso. No aceptando la recusación, dará su respuesta dentro de veinte y cuatro horas, pudiendo juntar prueba documental y ofrecer test"
+    },
+    {
+      "sourceExcerpt": "Art. 33. Julgada procedente a suspeição, o juiz não mais funcionará. Rejeitada, evidenciando-se segunda intenção ou má-fé do que levantou a suspeição, constará ",
+      "before": "Art. 33. Julgada procedente de supeción, el juez no funcionará más. Rejeitada, evidenciando segunda intención o mala fe de lo que levantó la sospecha, constará de la decisión esa circunstancia.",
+      "after": "Art. 33. Julgada procedente de recusación, el juez no funcionará más. Rejeitada, evidenciando segunda intención o mala fe de lo que levantó la recusación, constará de la decisión esa circunstancia."
+    },
+    {
+      "sourceExcerpt": "Art. 34. Se a suspeição for levantada contra o tribunal e este não a reconhecer, dará a sua resposta dentro de dez dias, podendo instruí-la com documentos ou of",
+      "before": "Art. 34. Si la sospecha se levanta contra el tribunal y no la reconoce, dará su respuesta dentro de diez días, pudiendo instruirla con documentos o ofrecer testigos, siendo pronto el proceso remetido ",
+      "after": "Art. 34. Si la recusación se levanta contra el tribunal y no la reconoce, dará su respuesta dentro de diez días, pudiendo instruirla con documentos o ofrecer testigos, siendo pronto el proceso remetid"
+    },
+    {
+      "sourceExcerpt": "Art. 36. No caso de suspeição contra vários juízes do tribunal, reconhecida pelos próprios juízes deste ou por decisão judicial, serão eles substituídos pelos j",
+      "before": "Art. 36. En el caso de sospecha contra varios jueces del tribunal, reconocido por los propios jueces de este o por decisión judicial, serán sustituidos por los jueces suplentes para completar el quóru",
+      "after": "Art. 36. En el caso de recusación contra varios jueces del tribunal, reconocido por los propios jueces de este o por decisión judicial, serán sustituidos por los jueces suplentes para completar el quó"
+    },
+    {
+      "sourceExcerpt": "Art. 84. A citação é a chamada do acusado ao tribunal para em hora, data e lugar determinados, ser interrogado, defender-se e acompanhar o processo até final, s",
+      "before": "Art. 84. La cita es la llamada del acusado al tribunal para en hora, fecha y lugar determinados, ser interrogado, defenderse y acompañar el proceso hasta final, bajo pena de ser juzgado a la revelia.[",
+      "after": "Art. 84. La cita es la llamada del acusado al tribunal para en hora, fecha y lugar determinados, ser interrogado, defenderse y acompañar el proceso hasta final, bajo pena de ser juzgado en rebeldía.[7"
+    },
+    {
+      "sourceExcerpt": "Art. 86. O mandado de citação será subscrito pelo Secretário e assinado pelo Presidente e conterá:\na) nome do Presidente do tribunal;\nb) nome do acusado, residê",
+      "before": "Art. 86. La orden de cita será firmada por el Secretario y firmado por el Presidente y contendrá:\na) nombre del Presidente del tribunal;\nb) nombre del acusado, residencia y lugar donde trabaja, y si e",
+      "after": "Art. 86. La orden de cita será firmada por el Secretario y firmado por el Presidente y contendrá:\na) nombre del Presidente del tribunal;\nb) nombre del acusado, residencia y lugar donde trabaja, y si e"
+    },
+    {
+      "sourceExcerpt": "Art. 91. O edital conterá:\na) a expressão “Edital de citação de Fulano pelo prazo de vinte dias”;\nb) o nome do Presidente do tribunal;\nc) a expressão “Faz saber",
+      "before": "Art. 91. El edital contendrá:\na) la expresión “Edital de citación de Fulano por el plazo de veinte días”;\nb) el nombre del Presidente del tribunal;\nc) la expresión “Faz saber a Fulano (cuaificación) q",
+      "after": "Art. 91. El edital contendrá:\na) la expresión “Edital de citación de Fulano por el plazo de veinte días”;\nb) el nombre del Presidente del tribunal;\nc) la expresión “Faz saber a Fulano (cuaificación) q"
+    },
+    {
+      "sourceExcerpt": "Art. 116. Caberá apelação da sentença que absolver ou condenar o acusado ou anular o processo.\nParágrafo único. A apelação não terá efeito suspensivo.",
+      "before": "Art. 116. Caberá pedir la sentencia que absolución o condenar al acusado o anular el proceso.\nPárrafo único. La apelación no tendrá efecto suspensivo.",
+      "after": "Art. 116. Cabrá apelación contra la sentencia que absuelva o condene al acusado o anule el proceso.\nPárrafo único. La apelación no tendrá efecto suspensivo."
+    },
+    {
+      "sourceExcerpt": "Art. 50. Compete ao Tribunal Pleno do Supremo Concílio:\nI - processar e julgar, originariamente:\na) as queixas ou denúncias contra os sínodos;\nb) as exceções de",
+      "before": "Art. 50. Corresponde al Tribunal Pleno del Supremo Concilio:\nI - procesar y juzgar, originariamente:\na) las denuncias o denuncias contra los sínodos;\nb) las excepciones de sospecha opuestas contra sus",
+      "after": "Art. 50. Corresponde al Tribunal Pleno del Supremo Concilio:\nI - procesar y juzgar, originariamente:\na) las denuncias o denuncias contra los sínodos;\nb) las excepciones de recusación opuestas contra s"
+    },
+    {
+      "sourceExcerpt": "Art. 52.  O membro do Tribunal deve espontaneamente declarar-se suspeito, abstendo-se de funcionar no processo quando:\nI - enquadrar-se em uma das condições pre",
+      "before": "Art. 52.  El miembro del Tribunal deberá declararse sospechoso espontáneamente y abstenerse de funcionar en el procedimiento cuando:\nI - se encuadra en una de las condiciones previstas en el artículo ",
+      "after": "Art. 52.  El miembro del Tribunal deberá declararse sospechoso espontáneamente y abstenerse de funcionar en el procedimiento cuando:\nI - se encuadra en una de las condiciones previstas en el artículo "
+    },
+    {
+      "sourceExcerpt": "Art. 72.  O membro do Tribunal deve espontaneamente declarar-se suspeito, abstendo-se de funcionar no processo quando:\nI - enquadrar-se em uma das condições pre",
+      "before": "Art. 72.  El miembro del Tribunal deberá declararse sospechoso espontáneamente y abstenerse de funcionar en el procedimiento cuando:\nI - se encuadra en una de las condiciones previstas en el artículo ",
+      "after": "Art. 72.  El miembro del Tribunal deberá declararse sospechoso espontáneamente y abstenerse de funcionar en el procedimiento cuando:\nI - se encuadra en una de las condiciones previstas en el artículo "
+    },
+    {
+      "sourceExcerpt": "Art. 76. Decorrido o prazo para contrarrazões, com ou sem estas, os autos serão conclusos ao relator, com tempo suficiente para analisar o processo e elaborar s",
+      "before": "Art. 76. Tras el plazo para las contrarrasiones, con o sin estas, los autos seránclusos al ponente, con tiempo suficiente para analizar el proceso y elaborar su informe.\n§ 1º Volviendo a los autos al ",
+      "after": "Art. 76. Tras el plazo para las contrarrasiones, con o sin estas, los autos seránclusos al ponente, con tiempo suficiente para analizar el proceso y elaborar su informe.\n§ 1º Volviendo a los autos al "
+    },
+    {
+      "sourceExcerpt": "Art. 60. Compete ao Tribunal Pleno do Sínodo:\nI - processar e julgar, originariamente:\na) as queixas ou denúncias contra os presbitérios sob sua jurisdição;\nb) ",
+      "before": "Art. 60. Corresponde al Tribunal Pleno del Sínodo:\nI - procesar y juzgar, originariamente:\na) las denuncias o denuncias contra los presbiterios bajo su jurisdicción;\nb) las excepciones de sospecha opu",
+      "after": "Art. 60. Corresponde al Tribunal Pleno del Sínodo:\nI - procesar y juzgar, originariamente:\na) las denuncias o denuncias contra los presbiterios bajo su jurisdicción;\nb) las excepciones de recusación o"
+    },
+    {
+      "sourceExcerpt": "Art. 62. O membro do Tribunal deve espontaneamente declarar-se suspeito, abstendo-se de funcionar no processo quando:\nI - enquadrar-se em uma das condições prev",
+      "before": "Art. 62. El miembro del Tribunal deberá declararse sospechoso espontáneamente y abstenerse de funcionar en el procedimiento cuando:\nI - se encuadra en una de las condiciones previstas en el artículo 2",
+      "after": "Art. 62. El miembro del Tribunal deberá declararse sospechoso espontáneamente y abstenerse de funcionar en el procedimiento cuando:\nI - se encuadra en una de las condiciones previstas en el artículo 2"
+    },
+    {
+      "sourceExcerpt": "Art. 72. Findo o prazo para alegações finais, com ou sem elas, o Presidente despachará os autos ao relator para que este, no prazo de cinco dias, apresente o re",
+      "before": "Art. 72. Fiendo el plazo para alegaciones finales, con o sin ellas, el Presidente enviará los autos al ponente para que éste, en un plazo de cinco días, presente el informe del procedimiento.\n§ 1º El ",
+      "after": "Art. 72. Fiendo el plazo para alegaciones finales, con o sin ellas, el Presidente enviará los autos al ponente para que éste, en un plazo de cinco días, presente el informe del procedimiento.\n§ 1º El "
+    },
+    {
+      "sourceExcerpt": "Art. 85. Recebidos os autos, o Presidente nomeará relator para, no prazo de cinco dias, apresentar relatório escrito.\n§ 1º O relator poderá suspender a eficácia",
+      "before": "Art. 85. Recibidos los autos, el Presidente nombrará ponente para, en un plazo de cinco días, presentar un informe escrito.\n§ 1º El ponente podrá suspender la eficacia de la decisión recorrida si la p",
+      "after": "Art. 85. Recibidos los autos, el Presidente nombrará ponente para, en un plazo de cinco días, presentar un informe escrito.\n§ 1º El ponente podrá suspender la eficacia de la decisión recorrida si la p"
+    },
+    {
+      "sourceExcerpt": "Art. 90. Em qualquer processo eclesiástico, de natureza administrativa, o Sínodo poderá constituir procurador. Tratando-se de processo judicial eclesiástico, o ",
+      "before": "Art. 90. En cualquier proceso eclesiástico, de naturaleza administrativa, el Sínodo podrá constituir fiscal. Se trata de un proceso judicial eclesiástico, el Sínodo será necesariamente representado po",
+      "after": "Art. 90. En cualquier proceso eclesiástico, de naturaleza administrativa, el Sínodo podrá constituir fiscal. Se trata de un proceso judicial eclesiástico, el Sínodo será necesariamente representado po"
+    },
+    {
+      "sourceExcerpt": "Art. 22. Compete ao Plenário do Presbitério:[61]\nI – dar testemunho contra erros de doutrina e prática;\nII – exigir obediência aos preceitos de Nosso Senhor Jes",
+      "before": "Art. 22. Compete al Plenario del Presbiterio:[61]\nI – dar testimonio contra errores de doctrina y práctica;\nII – exigir obediencia a los preceptos de Nuestro Señor Jesucristo, conforme la Palabra de D",
+      "after": "Art. 22. Compete al Plenario del Presbiterio:[61]\nI – dar testimonio contra errores de doctrina y práctica;\nII – exigir obediencia a los preceptos de Nuestro Señor Jesucristo, conforme la Palabra de D"
+    },
+    {
+      "sourceExcerpt": "Art. 59. Compete ao Presbitério, convocado para fins judiciários:\nI - processar e julgar, originariamente:\na) as queixas ou denúncias contra ministros sob sua j",
+      "before": "Art. 59. Compete al Presbiterio, convocado para fines judiciales:\nI - procesar y juzgar, originariamente:\na) las denuncias o denuncias contra ministros bajo su jurisdicción;\nb) las denuncias o denunci",
+      "after": "Art. 59. Compete al Presbiterio, convocado para fines judiciales:\nI - procesar y juzgar, originariamente:\na) las denuncias o denuncias contra ministros bajo su jurisdicción;\nb) las denuncias o denunci"
+    },
+    {
+      "sourceExcerpt": "Art. 60. O Presbitério poderá ser convocado para fins judiciários, passando a funcionar como Tribunal Eclesiástico, após regular instalação.\n§ 1º O procedimento",
+      "before": "Art. 60. El Presbiterio puede ser convocado para fines judiciales, pasando a funcionar como Tribunal Eclesiástico, después de regular instalación.\n§ 1º El procedimiento de instalación y funcionamiento",
+      "after": "Art. 60. El Presbiterio puede ser convocado para fines judiciales, pasando a funcionar como Tribunal Eclesiástico, después de regular instalación.\n§ 1º El procedimiento de instalación y funcionamiento"
+    },
+    {
+      "sourceExcerpt": "Art. 61.  O membro do Tribunal deve espontaneamente declarar-se suspeito, abstendo-se de funcionar no processo quando:\nI - enquadrar-se em uma das condições pre",
+      "before": "Art. 61.  El miembro del Tribunal deberá declararse sospechoso espontáneamente y abstenerse de funcionar en el procedimiento cuando:\nI - se encuadra en una de las condiciones previstas en el artículo ",
+      "after": "Art. 61.  El miembro del Tribunal deberá declararse sospechoso espontáneamente y abstenerse de funcionar en el procedimiento cuando:\nI - se encuadra en una de las condiciones previstas en el artículo "
+    },
+    {
+      "sourceExcerpt": "Art. 78. Findo o prazo para alegações finais, com ou sem elas, o Presidente despachará os autos ao Relator para que este, no prazo de cinco dias, apresente o re",
+      "before": "Art. 78. Fiendo el plazo para alegaciones finales, con o sin ellas, el Presidente enviará los autos al ponente para que éste, en un plazo de cinco días, presente el informe del procedimiento.\n§ 1º Tra",
+      "after": "Art. 78. Fiendo el plazo para alegaciones finales, con o sin ellas, el Presidente enviará los autos al ponente para que éste, en un plazo de cinco días, presente el informe del procedimiento.\n§ 1º Tra"
+    },
+    {
+      "sourceExcerpt": "Art. 93. Em qualquer processo eclesiástico, de natureza administrativa ou disciplinar, o Presbitério poderá constituir procurador para a defesa de seus interess",
+      "before": "Art. 93. En cualquier proceso eclesiástico, de naturaleza administrativa o disciplinaria, el Presbiterio podrá constituir fiscal para la defensa de sus intereses ante los concilios y tribunales eclesi",
+      "after": "Art. 93. En cualquier proceso eclesiástico, de naturaleza administrativa o disciplinaria, el Presbiterio podrá constituir fiscal para la defensa de sus intereses ante los concilios y tribunales eclesi"
+    },
+    {
+      "sourceExcerpt": "Art. 26, § 7º, do Modelo de Estatuto para o Presbitério: “A eleição dos membros da Mesa Diretora será procedida para cada cargo, separadamente, na seguinte orde",
+      "before": "Art. 26, § 7º, del Modelo de Estatuto para el Presbiterio: “La elección de los miembros de la Mesa Directora se efectuará por separado en el siguiente orden: Presidente, Vicepresidente, Secretario-Exe",
+      "after": "Art. 26, § 7º, del Modelo de Estatuto para el Presbiterio: “La elección de los miembros de la Mesa Directora se efectuará por separado en el siguiente orden: Presidente, Vicepresidente, Secretario-Exe"
+    },
+    {
+      "sourceExcerpt": "EMENTA Nº 19 DO TR-SC/IPB. MOMENTO PRÓPRIO PARA ARGUIR A SUSPEIÇÃO DE JUÍZES. SUSPEIÇÃO. MOMENTO PRÓPRIO PARA SER ARGUI- DA. PRECLUSÃO. O art. 29, do CD, define",
+      "before": "EMENTA No 19 DEL TR-SC/IPB. MOMENTO PROPRIO PARA ARGUIR A SUSPECIÓN DE JUÍZES. SUSPECIÓN. MOMENTO PROPRIO PARA SER ARGUI-D. PRECLUSIÓN. El art. 29 del CD define claramente el momento para la arguición",
+      "after": "EMENTA No 19 DEL TR-SC/IPB. MOMENTO PROPRIO PARA ARGUIR A SUSPECIÓN DE JUÍZES. SUSPECIÓN. MOMENTO PROPRIO PARA SER ARGUI-D. PRECLUSIÓN. El art. 29 del CD define claramente el momento para la arguición"
+    },
+    {
+      "sourceExcerpt": "CE – 2012 – DOC. CLXV: “Consulta sobre preenchimento de quórum: A CE-SC/ IPB – 2012 resolve: 1. Declarar ao Sínodo Tropical que no caso de falta do quórum do Pr",
+      "before": "CE – 2012 – DOC. CLXV: “Consulta sobre llenado de quórum: La CE-SC/ IPB – 2012 resuelve: 1. Declarar al Sínodo Tropical que en el caso de falta del quórum del Presbiterio Metropolitano de Belém, el pá",
+      "after": "CE – 2012 – DOC. CLXV: “Consulta sobre llenado de quórum: La CE-SC/ IPB – 2012 resuelve: 1. Declarar al Sínodo Tropical que en el caso de falta del quórum del Presbiterio Metropolitano de Belém, el pá"
+    },
+    {
+      "sourceExcerpt": "EMENTA Nº 12 DO TR-SC/IPB. PERDÃO CONCEDIDO PELA OFENDIDA AO OFENSOR E POR ESTE ACEITO DURANTE O PROCEDIMENTO SUASÓ- RIO. INAPTIDÃO PARA INIBIR A INSTAURAÇÃO DO",
+      "before": "EMENTA En el 12 DEL TR-SC/IPB. PERDIÓN CONCEDIDO POR LA OFENDIDA AL OFENSOR Y POR ESTE ACEITO DURANTE EL PROCEDIMIENTO SUSÓ-RIO. INAPTIDIÓN PARA INIBIR LA INSTAUACIÓN DEL PROCEDIMIENTO DISCIPLI-NAR. D",
+      "after": "EMENTA En el 12 DEL TR-SC/IPB. PERDIÓN CONCEDIDO POR LA OFENDIDA AL OFENSOR Y POR ESTE ACEITO DURANTE EL PROCEDIMIENTO SUSÓ-RIO. INAPTIDIÓN PARA INIBIR LA INSTAUACIÓN DEL PROCEDIMIENTO DISCIPLI-NAR. D"
+    },
+    {
+      "sourceExcerpt": "                                   CódigoCódigo dede DisciplinaDisciplina   215215\n\nInterdição – pena de: 10 b.\nInterrogatório – designação de: 54; perguntas do",
+      "before": "CódigoCódigo dede DisciplinaDisciplina 215215\n\nInterdición – pena de: 10 b.\nInterrogatorio – designación de: 54; preguntas del: 68; más de un acu-\nsado: 68 párrafo único; reducción de la finalización ",
+      "after": "CódigoCódigo dede DisciplinaDisciplina 215215\n\nInterdición – pena de: 10 b.\nInterrogatorio – designación de: 54; preguntas del: 68; más de un acu-\nsado: 68 párrafo único; reducción de la finalización "
+    },
+    {
+      "sourceExcerpt": "\n9090  MANUALMANUAL PRESBITERIANOPRESBITERIANO\n\n   Parágrafo único. O disposto na alínea “b” deste artigo não se aplica aos\nconselhos.\n   Art. 67. A Mesa do Pre",
+      "before": "9090 MANUALMANUAL PRESBITERIANOPRESBITERIANO\n\nPárrafo único. Las disposiciones de este artículo en la letra «b» no se aplican a los consejos.\nArt. 67. La Mesa del Presbiterio, del Sínodo o del Supremo",
+      "after": "9090 MANUALMANUAL PRESBITERIANOPRESBITERIANO\n\nPárrafo único. Las disposiciones de este artículo en la letra «b» no se aplican a los consejos.\nArt. 67. La Mesa del Presbiterio, del Sínodo o del Supremo"
+    },
+    {
+      "sourceExcerpt": "\n                                            ConstituiçãoConstituição   115115\n\n                   Seção 3ª\n                        Presbitério\n\n   Art. 85. O P",
+      "before": "ConstituciónConstitución 115115\n\nSección 3ªa Presbiterio\n\nArt. 85. El Presbiterio248 es el concilio constituido de todos los ministros y presbíteros representantes de iglesias de una región249 determi",
+      "after": "ConstituciónConstitución 115115\n\nSección 3ªa Presbiterio\n\nArt. 85. El Presbiterio248 es el concilio constituido de todos los ministros y presbíteros representantes de iglesias de una región249 determi"
+    },
+    {
+      "sourceExcerpt": "\n182182  MANUALMANUAL PRESBITERIANOPRESBITERIANO\n\n   Art. 24. Os tribunais de recursos, do Sínodo e do Supremo Concílio,\ncompor-se-ão de sete membros, sendo qua",
+      "before": "182182 MANUALMANUAL PRESBITERIANOPRESBITERIANO\n\nArt. 24. Los tribunales de recursos, del Sínodo y del Supremo Concilio, se compondrán de siete miembros, siendo cuatro ministros y tres presbíteros.\nPár",
+      "after": "182182 MANUALMANUAL PRESBITERIANOPRESBITERIANO\n\nArt. 24. Los tribunales de recursos, del Sínodo y del Supremo Concilio, se compondrán de siete miembros, siendo cuatro ministros y tres presbíteros.\nPár"
+    },
+    {
+      "sourceExcerpt": "\n                                   CódigoCódigo dede DisciplinaDisciplina   183183\n\n   e) se houver manifestado a estranhos a sua opinião sobre o mérito da cau",
+      "before": "CódigoCódigo dede DisciplinaDisciplina 183183\n\ne) Si se ha manifestado a extraños su opinión sobre el mérito de la causa o si se ha dado cuenta de las sesiones del tribunal sin previo consentimiento d",
+      "after": "CódigoCódigo dede DisciplinaDisciplina 183183\n\ne) Si se ha manifestado a extraños su opinión sobre el mérito de la causa o si se ha dado cuenta de las sesiones del tribunal sin previo consentimiento d"
+    },
+    {
+      "sourceExcerpt": "\n184184  MANUALMANUAL PRESBITERIANOPRESBITERIANO\n\nnão reconhecer a suspeição, dará a sua resposta dentro de dez dias, e serão\nconvocados os juízes suplentes do ",
+      "before": "184184 MANUALMANUAL PRESBITERIANOPRESBITERIANO\n\nNo reconocer la sospecha, dará su respuesta dentro de diez días, y serán convocados los jueces suplentes del mismo tribunal para juzgarla.\nArt. 35. El p",
+      "after": "184184 MANUALMANUAL PRESBITERIANOPRESBITERIANO\n\nNo reconocer la recusación, dará su respuesta dentro de diez días, y serán convocados los jueces suplentes del mismo tribunal para juzgarla.\nArt. 35. El"
+    },
+    {
+      "sourceExcerpt": "\n188188  MANUALMANUAL PRESBITERIANOPRESBITERIANO\n\n\n\n\n  EMENTA Nº 13 DO TR-SC/IPB. PROCEDIMENTO SUASÓRIO. O procedimento\nsuasório, previsto no artigo 43, do CD, ",
+      "before": "188188 MANUALMANUAL PRESBITERIANOPRESBITERIANO\n\nEMENTA No 13 DEL TR-SC/IPB. PROCEDIMIENTO SUSÓRIO. El procedimiento susorio, previsto en el artículo 43 del CD, es regla pétrea y debe ser ejercitado an",
+      "after": "188188 MANUALMANUAL PRESBITERIANOPRESBITERIANO\n\nEMENTA No 13 DEL TR-SC/IPB. PROCEDIMIENTO SUSÓRIO. El procedimiento susorio, previsto en el artículo 43 del CD, es regla pétrea y debe ser ejercitado an"
+    },
+    {
+      "sourceExcerpt": "\n196196  MANUALMANUAL PRESBITERIANOPRESBITERIANO\n\n   Art. 82. A acareação será admitida:\n   a) entre acusados;\n   b) entre acusados e testemunhas;\n   c) entre t",
+      "before": "196196 MANUALMANUAL PRESBITERIANOPRESBITERIANO\n\nArt. 82. Se admitirá la acareación:\na) entre acusados;\nb) entre acusados y testigos;\nc) entre testigos;\nd) entre ofendido y acusado.\nPárrafo único. Los ",
+      "after": "196196 MANUALMANUAL PRESBITERIANOPRESBITERIANO\n\nArt. 82. Se admitirá la acareación:\na) entre acusados;\nb) entre acusados y testigos;\nc) entre testigos;\nd) entre ofendido y acusado.\nPárrafo único. Los "
+    },
+    {
+      "sourceExcerpt": "\n                                   CódigoCódigo dede DisciplinaDisciplina   197197\n\n   Art. 86. O mandado de citação será subscrito pelo Secretário e assinado\n",
+      "before": "CódigoCódigo dede DisciplinaDisciplina 197197\n\nArt. 86. La orden de cita será firmada por el Secretario y firmado por el Presidente y contendrá:\na) nombre del Presidente del tribunal;\nb) nombre del ac",
+      "after": "CódigoCódigo dede DisciplinaDisciplina 197197\n\nArt. 86. La orden de cita será firmada por el Secretario y firmado por el Presidente y contendrá:\na) nombre del Presidente del tribunal;\nb) nombre del ac"
+    },
+    {
+      "sourceExcerpt": "\n                                  CódigoCódigo dede DisciplinaDisciplina  203203\n\n               CAPÍTULO VII\n          DOS RECURSOS EM GERAL\n\n                ",
+      "before": "CódigoCódigo dede DisciplinaDisciplina 203203\n\nCAPÍTULO VII DE LOS RECURSOS EN GENERAL\n\nSección 1ªa Naturaleza de los recursos\n\nArt. 113. Por el recurso, el vencido provoca un nuevo examen de la causa",
+      "after": "CódigoCódigo dede DisciplinaDisciplina 203203\n\nCAPÍTULO VII DE LOS RECURSOS EN GENERAL\n\nSección 1ªa Naturaleza de los recursos\n\nArt. 113. Por el recurso, el vencido provoca un nuevo examen de la causa"
+    },
+    {
+      "sourceExcerpt": "\n                                   CódigoCódigo dede DisciplinaDisciplina   215215\n\nInterdição – pena de: 10 b.\nInterrogatório – designação de: 54; perguntas d",
+      "before": "CódigoCódigo dede DisciplinaDisciplina 215215\n\nInterdición – pena de: 10 b. Interrogatorio - designación de: 54; preguntas del: 68; de un acusado más de un acusado: 68 párrafo único; reducción del tér",
+      "after": "CódigoCódigo dede DisciplinaDisciplina 215215\n\nInterdición – pena de: 10 b. Interrogatorio - designación de: 54; preguntas del: 68; de un acusado más de un acusado: 68 párrafo único; reducción del tér"
+    },
+    {
+      "sourceExcerpt": "\n              PARTE ESPECIAL\n\n                  LIVRO I\n           DO TRIBUNAL PLENO\n\n                  TÍTULO I\n      DA COMPOSIÇÃO E DA COMPETÊNCIA\n         ",
+      "before": "PARTE ESPECIAL\n\nLIVRO I DEL TRIBUNAL PLENO\n\nTÍTULO I DE LA COMPOSICIÓN Y DE LA COMPETENCIA DEL TRIBUNAL PLENO\n\nCAPÍTULO I DE LA COMPOSICIÓN\n\nArt. 49. El Tribunal Pleno del Supremo Concilio está compue",
+      "after": "PARTE ESPECIAL\n\nLIVRO I DEL TRIBUNAL PLENO\n\nTÍTULO I DE LA COMPOSICIÓN Y DE LA COMPETENCIA DEL TRIBUNAL PLENO\n\nCAPÍTULO I DE LA COMPOSICIÓN\n\nArt. 49. El Tribunal Pleno del Supremo Concilio está compue"
+    },
+    {
+      "sourceExcerpt": "\n                  TÍTULO II\n          DO FUNCIONAMENTO\n\n                CAPÍTULO I\n       DA CONVOCAÇÃO, DA INSTALAÇÃO\n        E DO QUÓRUM DE FUNCIONAMENTO\n\n  ",
+      "before": "TÍTULO II DEL FUNCIONAMIENTO\n\nCAPÍTULO I DE LA CONVOCACIÓN, DE LA INSTALACIÓN Y DEL QUÓRUM DE FUNCIONAMIENTO\n\nArt. 51. El Concilio Supremo, en su composición plena, podrá ser convocado para fines judi",
+      "after": "TÍTULO II DEL FUNCIONAMIENTO\n\nCAPÍTULO I DE LA CONVOCACIÓN, DE LA INSTALACIÓN Y DEL QUÓRUM DE FUNCIONAMIENTO\n\nArt. 51. El Concilio Supremo, en su composición plena, podrá ser convocado para fines judi"
+    },
+    {
+      "sourceExcerpt": "\n                  RegimentoRegimento InternoInterno dodo SupremoSupremo ConcílioConcílio   327327\n\naplicando-se, no que couber, as disposições relativas ao pro",
+      "before": "RegimientoRegimiento internoInterno dodo SupremoSupremo ConcilioConcilio 327327\n\nEn lo que se refiere a la couber, las disposiciones relativas al procesamiento y al juicio de los recursos por el Tribu",
+      "after": "RegimientoRegimiento internoInterno dodo SupremoSupremo ConcilioConcilio 327327\n\nEn lo que se refiere a la couber, las disposiciones relativas al procesamiento y al juicio de los recursos por el Tribu"
+    },
+    {
+      "sourceExcerpt": "\n330330  MANUALMANUAL PRESBITERIANOPRESBITERIANO\n\ndano grave, de difícil ou impossível reparação, e ficar demonstrada a pro-\nbabilidade de provimento do recurso",
+      "before": "330330 MANUALMANUAL PRESBITERIANOPRESBITERIANO\n\ndaño grave, difícil o imposible reparación, y se ha demostrado la probabilidad de provimiento del recurso.\n\nCAPÍTULO III DEL JULGAMIENTO\n\nArt. 76. Tras ",
+      "after": "330330 MANUALMANUAL PRESBITERIANOPRESBITERIANO\n\ndaño grave, difícil o imposible reparación, y se ha demostrado la probabilidad de provimiento del recurso.\n\nCAPÍTULO III DEL JULGAMIENTO\n\nArt. 76. Tras "
+    },
+    {
+      "sourceExcerpt": "\n              PARTE ESPECIAL\n\n                  LIVRO I\n           DO TRIBUNAL PLENO\n\n                  TÍTULO I\n      DA COMPOSIÇÃO E DA COMPETÊNCIA\n         ",
+      "before": "PARTE ESPECIAL\n\nLIVRO I DEL TRIBUNAL PLENO\n\nTÍTULO I DE LA COMPOSICIÓN Y DE LA COMPETENCIA DEL TRIBUNAL PLENO\n\nCAPÍTULO I DE LA COMPOSICIÓN\n\nArt. 59. El Tribunal Pleno del Sínodo está compuesto de tod",
+      "after": "PARTE ESPECIAL\n\nLIVRO I DEL TRIBUNAL PLENO\n\nTÍTULO I DE LA COMPOSICIÓN Y DE LA COMPETENCIA DEL TRIBUNAL PLENO\n\nCAPÍTULO I DE LA COMPOSICIÓN\n\nArt. 59. El Tribunal Pleno del Sínodo está compuesto de tod"
+    },
+    {
+      "sourceExcerpt": "\n                  TÍTULO II\n          DO FUNCIONAMENTO\n\n                CAPÍTULO I\n      DA CONVOCAÇÃO, DA INSTALAÇÃO E\n      DO QUÓRUM DE FUNCIONAMENTO\n\n   Ar",
+      "before": "TÍTULO II DEL FUNCIONAMIENTO\n\nCAPÍTULO I DE LA CONVOCACIÓN, DE LA INSTALACIÓN Y DEL QUÓRUM DE FUNCIONAMIENTO\n\nArt. 61. El Sínodo, en su composición plena, podrá ser convocado para fines judiciales, pa",
+      "after": "TÍTULO II DEL FUNCIONAMIENTO\n\nCAPÍTULO I DE LA CONVOCACIÓN, DE LA INSTALACIÓN Y DEL QUÓRUM DE FUNCIONAMIENTO\n\nArt. 61. El Sínodo, en su composición plena, podrá ser convocado para fines judiciales, pa"
+    },
+    {
+      "sourceExcerpt": "\n                  MODELOMODELO DEDE REGIMENTOREGIMENTO INTERNOINTERNO –– SÍNODOSÍNODO  405405\n\n   § 1º O relator deverá disponibilizar o relatório aos demais j",
+      "before": "MODELOMODELO DEDE REGIMIENTO INTERNOINTERNO – – SÍNODOSÍNODO 405405\n\n§ 1º El ponente deberá facilitar el informe a los demás jueces hasta cinco días antes de la sesión del Tribunal, y al Secretario re",
+      "after": "MODELOMODELO DEDE REGIMIENTO INTERNOINTERNO – – SÍNODOSÍNODO 405405\n\n§ 1º El ponente deberá facilitar el informe a los demás jueces hasta cinco días antes de la sesión del Tribunal, y al Secretario re"
+    },
+    {
+      "sourceExcerpt": "\n                  MODELOMODELO DEDE REGIMENTOREGIMENTO INTERNOINTERNO –– SÍNODOSÍNODO   413413\n\n                   Seção II\n      Do Funcionamento em Meio Elet",
+      "before": "MODELOMODELO DEDE REGIÓN INTERNOINTERNO – – SÍNODOSÍNODO 413413\n\nSección II Funcionamiento en Medio Electrónico\n\nArt. 84. En caso de dificultad para reunirse presencialmente, el Tribunal podrá funcion",
+      "after": "MODELOMODELO DEDE REGIÓN INTERNOINTERNO – – SÍNODOSÍNODO 413413\n\nSección II Funcionamiento en Medio Electrónico\n\nArt. 84. En caso de dificultad para reunirse presencialmente, el Tribunal podrá funcion"
+    },
+    {
+      "sourceExcerpt": "\n           PARTE COMPLEMENTAR\n\n                LIVRO ÚNICO\n\n                  TÍTULO I\n    DO CONCÍLIO COMO PARTE EM PROCESSO\n         ADMINISTRATIVO OU DISCIP",
+      "before": "PARTE COMPLEMENTAR\n\nLIVRO ÚNICO\n\nTÍTULO I DEL CONCÍLIO CÓMO PARTE EN EL PROCEDIMIENTO ADMINISTRATIVO O DISCIPLINAR\n\nCAPÍTULO I DE LA REPRESENTACIÓN LEGAL\n\nArt. 90. En cualquier proceso eclesiástico, d",
+      "after": "PARTE COMPLEMENTAR\n\nLIVRO ÚNICO\n\nTÍTULO I DEL CONCÍLIO CÓMO PARTE EN EL PROCEDIMIENTO ADMINISTRATIVO O DISCIPLINAR\n\nCAPÍTULO I DE LA REPRESENTACIÓN LEGAL\n\nArt. 90. En cualquier proceso eclesiástico, d"
+    },
+    {
+      "sourceExcerpt": "\n432432  MANUALMANUAL PRESBITERIANOPRESBITERIANO\n\n   XII – visitar as igrejas, com o fim de investigar e corrigir quaisquer males\nque nelas se tenham suscitado;",
+      "before": "432432 MANUALMANUAL PRESBITERIANOPRESBITERIANO\n\nXII – visitar las iglesias con el fin de investigar y corregir cualquier daño que se haya suscitado en ellas; XIII – proponer al Sínodo y al Supremo Con",
+      "after": "432432 MANUALMANUAL PRESBITERIANOPRESBITERIANO\n\nXII – visitar las iglesias con el fin de investigar y corregir cualquier daño que se haya suscitado en ellas; XIII – proponer al Sínodo y al Supremo Con"
+    },
+    {
+      "sourceExcerpt": "\n              PARTE ESPECIAL\n\n                  LIVRO I\n         DO TRIBUNAL ECLESIÁSTICO\n\n                  TÍTULO I\n      DA COMPOSIÇÃO E DA COMPETÊNCIA\n\n   ",
+      "before": "PARTE ESPECIAL\n\nLIVRO I DEL TRIBUNAL ECLESIÁSTICO\n\nTÍTULO I DE LA COMPOSICIÓN Y DE LA COMPETENCIA\n\nCAPÍTULO I DE LA COMPOSICIÓN\n\nArt. 58. El Tribunal de Presbiterio está compuesto de todos los miembro",
+      "after": "PARTE ESPECIAL\n\nLIVRO I DEL TRIBUNAL ECLESIÁSTICO\n\nTÍTULO I DE LA COMPOSICIÓN Y DE LA COMPETENCIA\n\nCAPÍTULO I DE LA COMPOSICIÓN\n\nArt. 58. El Tribunal de Presbiterio está compuesto de todos los miembro"
+    },
+    {
+      "sourceExcerpt": "\n                  TÍTULO II\n          DO FUNCIONAMENTO\n\n                CAPÍTULO I\n      DA CONVOCAÇÃO, DA INSTALAÇÃO E\n      DO QUÓRUM DE FUNCIONAMENTO\n\n   Ar",
+      "before": "TÍTULO II DEL FUNCIONAMIENTO\n\nCAPÍTULO I DE LA CONVOCACIÓN, DE LA INSTALACIÓN Y DEL QUÓRUM DE FUNCIONAMIENTO\n\nArt. 60. El Presbiterio puede ser convocado para fines judiciales, pasando a funcionar com",
+      "after": "TÍTULO II DEL FUNCIONAMIENTO\n\nCAPÍTULO I DE LA CONVOCACIÓN, DE LA INSTALACIÓN Y DEL QUÓRUM DE FUNCIONAMIENTO\n\nArt. 60. El Presbiterio puede ser convocado para fines judiciales, pasando a funcionar com"
+    },
+    {
+      "sourceExcerpt": "\n              MODELOMODELO DEDE REGIMENTOREGIMENTO INTERNOINTERNO –– PRESBITÉRIOPRESBITÉRIO  489489\n\n   § 1º Se não houver declaração espontânea de suspeição, ",
+      "before": "MODELOMODELO DEDE REGIÓN INTERNOINTERNO – – PRESBITÉRIOPRESBITÉRIO 489489\n\n§ 1º Si no hay una declaración espontánea de sospecha, cualquiera de las partes podrá presentarla en la primera oportunidad e",
+      "after": "MODELOMODELO DEDE REGIÓN INTERNOINTERNO – – PRESBITÉRIOPRESBITÉRIO 489489\n\n§ 1º Si no hay una declaración espontánea de recusación, cualquiera de las partes podrá presentarla en la primera oportunidad"
+    },
+    {
+      "sourceExcerpt": "\n              MODELOMODELO DEDE REGIMENTOREGIMENTO INTERNOINTERNO –– PRESBITÉRIOPRESBITÉRIO  495495\n\n                   Seção IX\n              Do Julgamento\n\n ",
+      "before": "MODELOMODELO DEDE REGIMIENTO INTERNOINTERNO – – PRESBITÉRIOPRESBITÉRIO 495495\n\nSección IX Del Juicio\n\nArt. 78. Fiendo el plazo para alegaciones finales, con o sin ellas, el Presidente enviará los auto",
+      "after": "MODELOMODELO DEDE REGIMIENTO INTERNOINTERNO – – PRESBITÉRIOPRESBITÉRIO 495495\n\nSección IX Del Juicio\n\nArt. 78. Fiendo el plazo para alegaciones finales, con o sin ellas, el Presidente enviará los auto"
+    },
+    {
+      "sourceExcerpt": "\n           PARTE COMPLEMENTAR\n\n                LIVRO ÚNICO\n\n                  TÍTULO I\n    DO CONCÍLIO COMO PARTE EM PROCESSO\n         ADMINISTRATIVO OU DISCIP",
+      "before": "PARTE COMPLEMENTAR\n\nLIVRO ÚNICO\n\nTÍTULO I DEL CONCÍLIO CÓMO PARTE EN EL PROCEDIMIENTO ADMINISTRATIVO O DISCIPLINAR\n\nCAPÍTULO I DE LA REPRESENTACIÓN LEGAL\n\nArt. 93. En cualquier proceso eclesiástico, d",
+      "after": "PARTE COMPLEMENTAR\n\nLIVRO ÚNICO\n\nTÍTULO I DEL CONCÍLIO CÓMO PARTE EN EL PROCEDIMIENTO ADMINISTRATIVO O DISCIPLINAR\n\nCAPÍTULO I DE LA REPRESENTACIÓN LEGAL\n\nArt. 93. En cualquier proceso eclesiástico, d"
+    }
+  ],
+  "sourcePDFSHA256": "2d8b728004e32995ee5f1600a7e4e0da94a7124e253bf1fac5322a2b93a083a3",
+  "qualityStatus": "Borrador automático con cobertura integral. No se ha completado la revisión lingüística o jurídica integral.",
+  "emptySourceUnits": 19,
+  "lengthReviewScope": "Las incidencias registradas durante la traducción por lotes no constituyen una auditoría lingüística completa; la reconstrucción final reutilizó la caché.",
+  "comparativelyReviewedUnits": 1774,
+  "approvedAsDefinitiveSource": false,
+  "pageAnnexComparedPages": 560,
+  "pageAnnexAutomaticPages": 0
+}

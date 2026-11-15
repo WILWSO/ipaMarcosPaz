@@ -1,0 +1,1990 @@
+{
+  "contents": [
+    {
+      "page": 5,
+      "titlePt": "CONSTITUIÇÃO",
+      "targetPage": 13,
+      "titleEs": "CONSTITUCIÓN"
+    },
+    {
+      "page": 5,
+      "titlePt": "PREÂMBULO",
+      "targetPage": 15,
+      "titleEs": "PREÁMBULO"
+    },
+    {
+      "page": 5,
+      "titlePt": "CAPÍTULO I – NATUREZA, GOVERNO E FINS DA IGREJA",
+      "targetPage": 16,
+      "titleEs": "CAPÍTULO I – NATURALEZA, GOBIERNO Y FINES DE LA IGLESIA"
+    },
+    {
+      "page": 5,
+      "titlePt": "CAPÍTULO II – ORGANIZAÇÃO DAS COMUNIDADES LOCAIS",
+      "targetPage": 17,
+      "titleEs": "CAPÍTULO II – ORGANIZACIÓN DE LAS COMUNIDADES LOCALES"
+    },
+    {
+      "page": 5,
+      "titlePt": "CAPÍTULO III – MEMBROS DA IGREJA",
+      "targetPage": 28,
+      "titleEs": "CAPÍTULO III – MIEMBROS DE LA IGLESIA"
+    },
+    {
+      "page": 5,
+      "titlePt": "CAPÍTULO IV – OFICIAIS",
+      "targetPage": 47,
+      "titleEs": "CAPÍTULO IV – OFICIALES"
+    },
+    {
+      "page": 5,
+      "titlePt": "CAPÍTULO V – CONCÍLIOS",
+      "targetPage": 85,
+      "titleEs": "CAPÍTULO V – CONCILIOS"
+    },
+    {
+      "page": 5,
+      "titlePt": "CAPÍTULO VI – COMISSÕES E OUTRAS ORGANIZAÇÕES",
+      "targetPage": 130,
+      "titleEs": "CAPÍTULO VI – COMISIONES Y OTRAS ORGANIZACIONES"
+    },
+    {
+      "page": 5,
+      "titlePt": "CAPÍTULO VII – ORDENS DA IGREJA",
+      "targetPage": 136,
+      "titleEs": "CAPÍTULO VII – ÓRDENES DE LA IGLESIA"
+    },
+    {
+      "page": 5,
+      "titlePt": "DISPOSIÇÕES GERAIS",
+      "targetPage": 153,
+      "titleEs": "DISPOSICIONES GENERALES"
+    },
+    {
+      "page": 5,
+      "titlePt": "DISPOSIÇÕES TRANSITÓRIAS",
+      "targetPage": 156,
+      "titleEs": "DISPOSICIONES TRANSITORIAS"
+    },
+    {
+      "page": 5,
+      "titlePt": "ÍNDICE REMISSIVO DA CONSTITUIÇÃO",
+      "targetPage": 157,
+      "titleEs": "ÍNDICE REMISIVO DE LA CONSTITUCIÓN"
+    },
+    {
+      "page": 5,
+      "titlePt": "CÓDIGO DE DISCIPLINA",
+      "targetPage": 165,
+      "titleEs": "CÓDIGO DE DISCIPLINA"
+    },
+    {
+      "page": 5,
+      "titlePt": "PREÂMBULO",
+      "targetPage": 167,
+      "titleEs": "PREÁMBULO"
+    },
+    {
+      "page": 5,
+      "titlePt": "CAPÍTULO I – NATUREZA E FINALIDADE",
+      "targetPage": 168,
+      "titleEs": "CAPÍTULO I – NATURALEZA Y FINALIDAD"
+    },
+    {
+      "page": 5,
+      "titlePt": "CAPÍTULO II – FALTAS",
+      "targetPage": 168,
+      "titleEs": "CAPÍTULO II – FALTAS"
+    },
+    {
+      "page": 5,
+      "titlePt": "CAPÍTULO III – PENALIDADES",
+      "targetPage": 170,
+      "titleEs": "CAPÍTULO III – PENAS"
+    },
+    {
+      "page": 5,
+      "titlePt": "CAPÍTULO IV – TRIBUNAIS",
+      "targetPage": 177,
+      "titleEs": "CAPÍTULO IV – TRIBUNALES"
+    },
+    {
+      "page": 5,
+      "titlePt": "CAPÍTULO V – DA SUSPEIÇÃO E DA INCOMPETÊNCIA",
+      "targetPage": 182,
+      "titleEs": "CAPÍTULO V – DE LA RECUSACIÓN Y DE LA INCOMPETENCIA"
+    },
+    {
+      "page": 5,
+      "titlePt": "CAPÍTULO VI – PROCESSO",
+      "targetPage": 185,
+      "titleEs": "CAPÍTULO VI – PROCESO"
+    },
+    {
+      "page": 5,
+      "titlePt": "CAPÍTULO VII – DOS RECURSOS EM GERAL",
+      "targetPage": 203,
+      "titleEs": "CAPÍTULO VII – DE LOS RECURSOS EN GENERAL"
+    },
+    {
+      "page": 5,
+      "titlePt": "CAPÍTULO VIII – DA EXECUÇÃO",
+      "targetPage": 208,
+      "titleEs": "CAPÍTULO VIII – DE LA EJECUCIÓN"
+    },
+    {
+      "page": 5,
+      "titlePt": "CAPÍTULO IX – DA RESTAURAÇÃO",
+      "targetPage": 208,
+      "titleEs": "CAPÍTULO IX – DE LA RESTAURACIÓN"
+    },
+    {
+      "page": 5,
+      "titlePt": "DISPOSIÇÕES FINAIS",
+      "targetPage": 212,
+      "titleEs": "DISPOSICIONES FINALES"
+    },
+    {
+      "page": 5,
+      "titlePt": "ÍNDICE REMISSIVO DO CÓDIGO DE DISCIPLINA",
+      "targetPage": 213,
+      "titleEs": "ÍNDICE REMISIVO DEL CÓDIGO DE DISCIPLINA"
+    },
+    {
+      "page": 5,
+      "titlePt": "PRINCÍPIOS DE LITURGIA",
+      "targetPage": 219,
+      "titleEs": "PRINCIPIOS DE LITURGIA"
+    },
+    {
+      "page": 5,
+      "titlePt": "PREÂMBULO",
+      "targetPage": 221,
+      "titleEs": "PREÁMBULO"
+    },
+    {
+      "page": 5,
+      "titlePt": "CAPÍTULO I – O DIA DO SENHOR",
+      "targetPage": 222,
+      "titleEs": "CAPÍTULO I – EL DÍA DEL SEÑOR"
+    },
+    {
+      "page": 5,
+      "titlePt": "CAPÍTULO II – O TEMPLO",
+      "targetPage": 225,
+      "titleEs": "CAPÍTULO II – EL TEMPLO"
+    },
+    {
+      "page": 5,
+      "titlePt": "CAPÍTULO III – CULTO PÚBLICO",
+      "targetPage": 226,
+      "titleEs": "CAPÍTULO III – CULTO PÚBLICO"
+    },
+    {
+      "page": 5,
+      "titlePt": "CAPÍTULO IV – CULTO INDIVIDUAL E DOMÉSTICO",
+      "targetPage": 238,
+      "titleEs": "CAPÍTULO IV – CULTO INDIVIDUAL Y DOMÉSTICO"
+    },
+    {
+      "page": 5,
+      "titlePt": "CAPÍTULO V – BATISMO DE CRIANÇAS",
+      "targetPage": 238,
+      "titleEs": "CAPÍTULO V – BAUTISMO DE NIÑOS"
+    },
+    {
+      "page": 5,
+      "titlePt": "CAPÍTULO VI – PROFISSÃO DE FÉ E ADMISSÃO À PLENA COMUNHÃO COM A IGREJA",
+      "targetPage": 243,
+      "titleEs": "CAPÍTULO VI – PROFESIÓN DE FE Y ADMISIÓN A LA PLENA COMUNIÓN CON LA IGLESIA"
+    },
+    {
+      "page": 5,
+      "titlePt": "CAPÍTULO VII – ADMINISTRAÇÃO DA CEIA DO SENHOR",
+      "targetPage": 243,
+      "titleEs": "CAPÍTULO VII – ADMINISTRACIÓN DE LA CENA DEL SEÑOR"
+    },
+    {
+      "page": 5,
+      "titlePt": "CAPÍTULO VIII – BÊNÇÃO MATRIMONIAL",
+      "targetPage": 247,
+      "titleEs": "CAPÍTULO VIII – BENDICIÓN MATRIMONIAL"
+    },
+    {
+      "page": 5,
+      "titlePt": "CAPÍTULO IX – VISITAÇÃO AOS ENFERMOS",
+      "targetPage": 253,
+      "titleEs": "CAPÍTULO IX – VISITACIÓN A LOS ENFERMOS"
+    },
+    {
+      "page": 5,
+      "titlePt": "CAPÍTULO X – FUNERAIS",
+      "targetPage": 254,
+      "titleEs": "CAPÍTULO X – FUNERALES"
+    },
+    {
+      "page": 5,
+      "titlePt": "CAPÍTULO XI – JEJUM E AÇÕES DE GRAÇAS",
+      "targetPage": 255,
+      "titleEs": "CAPÍTULO XI – AYUNO Y ACCIONES DE GRACIAS"
+    },
+    {
+      "page": 5,
+      "titlePt": "CAPÍTULO XII – ORDENAÇÃO E INSTALAÇÃO DE PRESBÍTEROS E DIÁCONOS",
+      "targetPage": 256,
+      "titleEs": "CAPÍTULO XII – ORDENACIÓN E INSTALACIÓN DE PRESBÍTEROS Y DIÁCONOS"
+    },
+    {
+      "page": 5,
+      "titlePt": "CAPÍTULO XIII – LICENCIATURA DE CANDIDATOS AO SANTO MINISTÉRIO",
+      "targetPage": 259,
+      "titleEs": "CAPÍTULO XIII – LICENCIATURA DE CANDIDATOS AL SANTO MINISTERIO"
+    },
+    {
+      "page": 5,
+      "titlePt": "CAPÍTULO XIV – ORDENAÇÃO DE MINISTROS",
+      "targetPage": 259,
+      "titleEs": "CAPÍTULO XIV – ORDENACIÓN DE MINISTROS"
+    },
+    {
+      "page": 5,
+      "titlePt": "CAPÍTULO XV – POSSE E INSTALAÇÃO DE PASTORES",
+      "targetPage": 260,
+      "titleEs": "CAPÍTULO XV – TOMA DE POSESIÓN E INSTALACIÓN DE PASTORES"
+    },
+    {
+      "page": 5,
+      "titlePt": "CAPÍTULO XVI – ORGANIZAÇÃO DA IGREJA LOCAL",
+      "targetPage": 260,
+      "titleEs": "CAPÍTULO XVI – ORGANIZACIÓN DE LA IGLESIA LOCAL"
+    },
+    {
+      "page": 5,
+      "titlePt": "CAPÍTULO XVII – DISPOSIÇÃO GERAL",
+      "targetPage": 264,
+      "titleEs": "CAPÍTULO XVII – DISPOSICIÓN GENERAL"
+    },
+    {
+      "page": 5,
+      "titlePt": "ÍNDICE REMISSIVO DOS PRINCÍPIOS DE LITURGIA",
+      "targetPage": 265,
+      "titleEs": "ÍNDICE REMISIVO DE LOS PRINCIPIOS DE LITURGIA"
+    },
+    {
+      "page": 6,
+      "titlePt": "ESTATUTO DA IPB",
+      "targetPage": 267,
+      "titleEs": "ESTATUTO DE LA IPB"
+    },
+    {
+      "page": 6,
+      "titlePt": "ESTATUTO DA IGREJA PRESBITERIANA DO BRASIL",
+      "targetPage": 269,
+      "titleEs": "ESTATUTO DE LA IGLESIA PRESBITERIANA DE BRASIL"
+    },
+    {
+      "page": 6,
+      "titlePt": "CAPÍTULO I – DA DENOMINAÇÃO, SEDE, CONSTITUIÇÃO, DURAÇÃO E FINALIDADE",
+      "targetPage": 269,
+      "titleEs": "CAPÍTULO I – DE LA DENOMINACIÓN, SEDE, CONSTITUCIÓN, DURACIÓN Y FINALIDAD"
+    },
+    {
+      "page": 6,
+      "titlePt": "CAPÍTULO II – DA IDENTIDADE DE DOUTRINA, LITURGIA, GOVERNO E DISCIPLINA",
+      "targetPage": 270,
+      "titleEs": "CAPÍTULO II – DE LA IDENTIDAD DE DOCTRINA, LITURGIA, GOBIERNO Y DISCIPLINA"
+    },
+    {
+      "page": 6,
+      "titlePt": "CAPÍTULO III – DOS ÓRGÃOS DELIBERATIVOS",
+      "targetPage": 270,
+      "titleEs": "CAPÍTULO III – DE LOS ÓRGANOS DELIBERATIVOS"
+    },
+    {
+      "page": 6,
+      "titlePt": "CAPÍTULO IV – DO SUPREMO CONCÍLIO",
+      "targetPage": 271,
+      "titleEs": "CAPÍTULO IV – DEL SUPREMO CONCILIO"
+    },
+    {
+      "page": 6,
+      "titlePt": "CAPÍTULO V – DA COMPETÊNCIA DO SUPREMO CONCÍLIO",
+      "targetPage": 273,
+      "titleEs": "CAPÍTULO V – DE LA COMPETENCIA DEL SUPREMO CONCILIO"
+    },
+    {
+      "page": 6,
+      "titlePt": "CAPÍTULO VI – DA MESA DIRETORA DO SUPREMO CONCÍLIO",
+      "targetPage": 274,
+      "titleEs": "CAPÍTULO VI – DE LA MESA DIRECTIVA DEL SUPREMO CONCILIO"
+    },
+    {
+      "page": 6,
+      "titlePt": "CAPÍTULO VII – DAS REUNIÕES DO SUPREMO CONCÍLIO",
+      "targetPage": 281,
+      "titleEs": "CAPÍTULO VII – DE LAS REUNIONES DEL SUPREMO CONCILIO"
+    },
+    {
+      "page": 6,
+      "titlePt": "CAPÍTULO VIII – DA COMISSÃO EXECUTIVA",
+      "targetPage": 282,
+      "titleEs": "CAPÍTULO VIII – DE LA COMISIÓN EJECUTIVA"
+    },
+    {
+      "page": 6,
+      "titlePt": "CAPÍTULO IX – DOS BENS E FONTES DE RECURSOS PARA MANUTENÇÃO DA IGREJA",
+      "targetPage": 284,
+      "titleEs": "CAPÍTULO IX – DE LOS BIENES Y FUENTES DE RECURSOS PARA EL MANTENIMIENTO DE LA IGLESIA"
+    },
+    {
+      "page": 6,
+      "titlePt": "CAPÍTULO X – DA GESTÃO PATRIMONIAL, ECONÔMICA E FINANCEIRA",
+      "targetPage": 285,
+      "titleEs": "CAPÍTULO X – DE LA GESTIÓN PATRIMONIAL, ECONÓMICA Y FINANCIERA"
+    },
+    {
+      "page": 6,
+      "titlePt": "CAPÍTULO XI – DA DISSOLUÇÃO E DA LIQUIDAÇÃO",
+      "targetPage": 286,
+      "titleEs": "CAPÍTULO XI – DE LA DISOLUCIÓN Y DE LA LIQUIDACIÓN"
+    },
+    {
+      "page": 6,
+      "titlePt": "CAPÍTULO XII – DAS DISPOSIÇÕES FINAIS",
+      "targetPage": 286,
+      "titleEs": "CAPÍTULO XII – DE LAS DISPOSICIONES FINALES"
+    },
+    {
+      "page": 6,
+      "titlePt": "REGIMENTO INTERNO DO SUPREMO CONCÍLIO",
+      "targetPage": 287,
+      "titleEs": "REGLAMENTO INTERNO DEL SUPREMO CONCILIO"
+    },
+    {
+      "page": 6,
+      "titlePt": "REGIMENTO INTERNO DO SUPREMO CONCÍLIO DA IGREJA PRESBITERIANA DO BRASIL (RI-SC)",
+      "targetPage": 289,
+      "titleEs": "REGLAMENTO INTERNO DEL SUPREMO CONCILIO DE LA IGLESIA PRESBITERIANA DE BRASIL (RI-SC)"
+    },
+    {
+      "page": 6,
+      "titlePt": "PARTE GERAL",
+      "targetPage": 289,
+      "titleEs": "PARTE GENERAL"
+    },
+    {
+      "page": 6,
+      "titlePt": "LIVRO ÚNICO – DO SUPREMO CONCÍLIO",
+      "targetPage": 289,
+      "titleEs": "LIBRO ÚNICO – DEL SUPREMO CONCILIO"
+    },
+    {
+      "page": 6,
+      "titlePt": "TÍTULO I – DA ESTRUTURA ORGÂNICA E DO FUNCIONAMENTO DO CONCÍLIO",
+      "targetPage": 289,
+      "titleEs": "TÍTULO I – DE LA ESTRUCTURA ORGÁNICA Y DEL FUNCIONAMIENTO DEL CONCILIO"
+    },
+    {
+      "page": 6,
+      "titlePt": "CAPÍTULO I – DA COMPOSIÇÃO, DA JURISDIÇÃO E DOS ÓRGÃOS DELIBERATIVOS",
+      "targetPage": 289,
+      "titleEs": "CAPÍTULO I – DE LA COMPOSICIÓN, LA JURISDICCIÓN Y LOS ÓRGANOS DELIBERATIVOS"
+    },
+    {
+      "page": 6,
+      "titlePt": "CAPÍTULO II – DAS REUNIÕES ORDINÁRIAS E EXTRAORDINÁRIAS",
+      "targetPage": 290,
+      "titleEs": "CAPÍTULO II – DE LAS REUNIONES ORDINARIAS Y EXTRAORDINARIAS"
+    },
+    {
+      "page": 6,
+      "titlePt": "CAPÍTULO III – DA SESSÃO PREPARATÓRIA",
+      "targetPage": 291,
+      "titleEs": "CAPÍTULO III – DE LA SESIÓN PREPARATORIA"
+    },
+    {
+      "page": 6,
+      "titlePt": "CAPÍTULO IV – DAS SESSÕES REGULARES",
+      "targetPage": 294,
+      "titleEs": "CAPÍTULO IV – DE LAS SESIONES REGULARES"
+    },
+    {
+      "page": 6,
+      "titlePt": "CAPÍTULO V – DA ORDEM PARLAMENTAR",
+      "targetPage": 297,
+      "titleEs": "CAPÍTULO V – DEL ORDEN PARLAMENTARIO"
+    },
+    {
+      "page": 6,
+      "titlePt": "CAPÍTULO VI – DAS PROPOSTAS",
+      "targetPage": 298,
+      "titleEs": "CAPÍTULO VI – DE LAS PROPUESTAS"
+    },
+    {
+      "page": 6,
+      "titlePt": "CAPÍTULO VII – DAS COMISSÕES TEMPORÁRIAS",
+      "targetPage": 298,
+      "titleEs": "CAPÍTULO VII – DE LAS COMISIONES TEMPORALES"
+    },
+    {
+      "page": 6,
+      "titlePt": "CAPÍTULO VIII – DA DISCUSSÃO",
+      "targetPage": 300,
+      "titleEs": "CAPÍTULO VIII – DE LA DISCUSIÓN"
+    },
+    {
+      "page": 6,
+      "titlePt": "CAPÍTULO IX – DA VOTAÇÃO",
+      "targetPage": 301,
+      "titleEs": "CAPÍTULO IX – DE LA VOTACIÓN"
+    },
+    {
+      "page": 6,
+      "titlePt": "CAPÍTULO X – DAS COMISSÕES PLENÁRIAS",
+      "targetPage": 302,
+      "titleEs": "CAPÍTULO X – DE LAS COMISIONES PLENARIAS"
+    },
+    {
+      "page": 6,
+      "titlePt": "CAPÍTULO XI – DAS SESSÕES PRIVATIVAS E INTERLOCUTÓRIAS",
+      "targetPage": 303,
+      "titleEs": "CAPÍTULO XI – DE LAS SESIONES PRIVADAS E INTERLOCUTORIAS"
+    },
+    {
+      "page": 6,
+      "titlePt": "CAPÍTULO XII – DAS DELIBERAÇÕES POR MEIO ELETRÔNICO",
+      "targetPage": 303,
+      "titleEs": "CAPÍTULO XII – DE LAS DELIBERACIONES POR MEDIOS ELECTRÓNICOS"
+    },
+    {
+      "page": 6,
+      "titlePt": "CAPÍTULO XIII – DO FUNCIONAMENTO DO CONCÍLIO NOS INTERREGNOS",
+      "targetPage": 303,
+      "titleEs": "CAPÍTULO XIII – DEL FUNCIONAMIENTO DEL CONCILIO EN LOS INTERREGNOS"
+    },
+    {
+      "page": 6,
+      "titlePt": "TÍTULO II – DA MESA DIRETORA DO SUPREMO CONCÍLIO",
+      "targetPage": 305,
+      "titleEs": "TÍTULO II – DE LA MESA DIRECTIVA DEL SUPREMO CONCILIO"
+    },
+    {
+      "page": 6,
+      "titlePt": "CAPÍTULO I – DA COMPOSIÇÃO, DO MANDATO E DO FUNCIONAMENTO",
+      "targetPage": 305,
+      "titleEs": "CAPÍTULO I – DE LA COMPOSICIÓN, EL MANDATO Y EL FUNCIONAMIENTO"
+    },
+    {
+      "page": 6,
+      "titlePt": "CAPÍTULO II – DAS ATRIBUIÇÕES DOS MEMBROS",
+      "targetPage": 305,
+      "titleEs": "CAPÍTULO II – DE LAS ATRIBUCIONES DE LOS MIEMBROS"
+    },
+    {
+      "page": 6,
+      "titlePt": "TÍTULO III – DAS COMISSÕES ECLESIÁSTICAS, DAS SECRETARIAS DE TRABALHOS ESPECIAIS, DOS ENCARGOS ESPECÍFICOS E DA CONSULTORIA TÉCNICA",
+      "targetPage": 312,
+      "titleEs": "TÍTULO III – DE LAS COMISIONES ECLESIÁSTICAS, LAS SECRETARÍAS DE TRABAJOS ESPECIALES, LOS ENCARGOS ESPECÍFICOS Y EL ASESORAMIENTO TÉCNICO"
+    },
+    {
+      "page": 6,
+      "titlePt": "CAPÍTULO I – DAS COMISSÕES ECLESIÁSTICAS",
+      "targetPage": 312,
+      "titleEs": "CAPÍTULO I – DE LAS COMISIONES ECLESIÁSTICAS"
+    },
+    {
+      "page": 6,
+      "titlePt": "CAPÍTULO II – DAS SECRETARIAS DE TRABALHOS ESPECIAIS",
+      "targetPage": 313,
+      "titleEs": "CAPÍTULO II – DE LAS SECRETARÍAS DE TRABAJOS ESPECIALES"
+    },
+    {
+      "page": 6,
+      "titlePt": "CAPÍTULO III – DAS PESSOAS NOMEADAS PARA ENCARGOS ESPECÍFICOS E DOS SERVIÇOS DE CONSULTORIA TÉCNICA",
+      "targetPage": 315,
+      "titleEs": "CAPÍTULO III – DE LAS PERSONAS NOMBRADAS PARA ENCARGOS ESPECÍFICOS Y DE LOS SERVICIOS DE ASESORAMIENTO TÉCNICO"
+    },
+    {
+      "page": 6,
+      "titlePt": "PARTE ESPECIAL",
+      "targetPage": 316,
+      "titleEs": "PARTE ESPECIAL"
+    },
+    {
+      "page": 6,
+      "titlePt": "LIVRO I – DO TRIBUNAL PLENO",
+      "targetPage": 316,
+      "titleEs": "LIBRO I – DEL TRIBUNAL PLENO"
+    },
+    {
+      "page": 7,
+      "titlePt": "TÍTULO I – DA COMPOSIÇÃO E DA COMPETÊNCIA DO TRIBUNAL PLENO",
+      "targetPage": 316,
+      "titleEs": "TÍTULO I – DE LA COMPOSICIÓN Y DE LA COMPETENCIA DEL TRIBUNAL PLENO"
+    },
+    {
+      "page": 7,
+      "titlePt": "CAPÍTULO I – DA COMPOSIÇÃO",
+      "targetPage": 316,
+      "titleEs": "CAPÍTULO I – DE LA COMPOSICIÓN"
+    },
+    {
+      "page": 7,
+      "titlePt": "CAPÍTULO II – DA COMPETÊNCIA",
+      "targetPage": 316,
+      "titleEs": "CAPÍTULO II – DE LA COMPETENCIA"
+    },
+    {
+      "page": 7,
+      "titlePt": "TÍTULO II – DO FUNCIONAMENTO",
+      "targetPage": 317,
+      "titleEs": "TÍTULO II – DEL FUNCIONAMIENTO"
+    },
+    {
+      "page": 7,
+      "titlePt": "CAPÍTULO I – DA CONVOCAÇÃO, DA INSTALAÇÃO E DO QUÓRUM DE FUNCIONAMENTO",
+      "targetPage": 317,
+      "titleEs": "CAPÍTULO I – DE LA CONVOCATORIA, LA INSTALACIÓN Y EL QUÓRUM DE FUNCIONAMIENTO"
+    },
+    {
+      "page": 7,
+      "titlePt": "CAPÍTULO II – DO INCIDENTE DE SUSPEIÇÃO",
+      "targetPage": 317,
+      "titleEs": "CAPÍTULO II – DEL INCIDENTE DE RECUSACIÓN"
+    },
+    {
+      "page": 7,
+      "titlePt": "CAPÍTULO III – DO PROCURADOR",
+      "targetPage": 318,
+      "titleEs": "CAPÍTULO III – DEL APODERADO"
+    },
+    {
+      "page": 7,
+      "titlePt": "CAPÍTULO IV – DA INSTAURAÇÃO E DA INSTRUÇÃO DO PROCESSO",
+      "targetPage": 318,
+      "titleEs": "CAPÍTULO IV – DEL INICIO Y DE LA INSTRUCCIÓN DEL PROCESO"
+    },
+    {
+      "page": 7,
+      "titlePt": "CAPÍTULO V – DO JULGAMENTO",
+      "targetPage": 321,
+      "titleEs": "CAPÍTULO V – DEL JUICIO"
+    },
+    {
+      "page": 7,
+      "titlePt": "CAPÍTULO VI – DO INCIDENTE DE ESCLARECIMENTO",
+      "targetPage": 322,
+      "titleEs": "CAPÍTULO VI – DEL INCIDENTE DE ACLARACIÓN"
+    },
+    {
+      "page": 7,
+      "titlePt": "CAPÍTULO VII – DO PROCEDIMENTO PARA MAJORAÇÃO DA PENA",
+      "targetPage": 323,
+      "titleEs": "CAPÍTULO VII – DEL PROCEDIMIENTO PARA LA AGRAVACIÓN DE LA PENA"
+    },
+    {
+      "page": 7,
+      "titlePt": "CAPÍTULO VIII – DO EXAME DOS AUTOS NA SECRETARIA DO TRIBUNAL",
+      "targetPage": 323,
+      "titleEs": "CAPÍTULO VIII – DEL EXAMEN DE LOS AUTOS EN LA SECRETARÍA DEL TRIBUNAL"
+    },
+    {
+      "page": 7,
+      "titlePt": "CAPÍTULO IX – DO LIVRO DE ATAS DO TRIBUNAL PLENO",
+      "targetPage": 324,
+      "titleEs": "CAPÍTULO IX – DEL LIBRO DE ACTAS DEL TRIBUNAL PLENO"
+    },
+    {
+      "page": 7,
+      "titlePt": "LIVRO II – DO TRIBUNAL DE RECURSOS",
+      "targetPage": 325,
+      "titleEs": "LIBRO II – DEL TRIBUNAL DE RECURSOS"
+    },
+    {
+      "page": 7,
+      "titlePt": "TÍTULO I – DA COMPOSIÇÃO, DA COMPETÊNCIA E DO FUNCIONAMENTO",
+      "targetPage": 325,
+      "titleEs": "TÍTULO I – DE LA COMPOSICIÓN, LA COMPETENCIA Y EL FUNCIONAMIENTO"
+    },
+    {
+      "page": 7,
+      "titlePt": "CAPÍTULO I – DA COMPOSIÇÃO",
+      "targetPage": 325,
+      "titleEs": "CAPÍTULO I – DE LA COMPOSICIÓN"
+    },
+    {
+      "page": 7,
+      "titlePt": "CAPÍTULO II – DA COMPETÊNCIA",
+      "targetPage": 326,
+      "titleEs": "CAPÍTULO II – DE LA COMPETENCIA"
+    },
+    {
+      "page": 7,
+      "titlePt": "CAPÍTULO III – DO FUNCIONAMENTO",
+      "targetPage": 326,
+      "titleEs": "CAPÍTULO III – DEL FUNCIONAMIENTO"
+    },
+    {
+      "page": 7,
+      "titlePt": "TÍTULO II – DO RECURSO EXTRAORDINÁRIO",
+      "targetPage": 329,
+      "titleEs": "TÍTULO II – DEL RECURSO EXTRAORDINARIO"
+    },
+    {
+      "page": 7,
+      "titlePt": "CAPÍTULO I – DO PROCESSAMENTO E DO EXAME DE ADMISSIBILIDADE",
+      "targetPage": 329,
+      "titleEs": "CAPÍTULO I – DE LA TRAMITACIÓN Y DEL EXAMEN DE ADMISIBILIDAD"
+    },
+    {
+      "page": 7,
+      "titlePt": "CAPÍTULO II – DA SUSPENSÃO DOS EFEITOS DA DECISÃO RECORRIDA",
+      "targetPage": 329,
+      "titleEs": "CAPÍTULO II – DE LA SUSPENSIÓN DE LOS EFECTOS DE LA DECISIÓN RECURRIDA"
+    },
+    {
+      "page": 7,
+      "titlePt": "CAPÍTULO III – DO JULGAMENTO",
+      "targetPage": 330,
+      "titleEs": "CAPÍTULO III – DEL JUICIO"
+    },
+    {
+      "page": 7,
+      "titlePt": "CAPÍTULO IV – DO INCIDENTE DE ESCLARECIMENTO",
+      "targetPage": 331,
+      "titleEs": "CAPÍTULO IV – DEL INCIDENTE DE ACLARACIÓN"
+    },
+    {
+      "page": 7,
+      "titlePt": "PARTE COMPLEMENTAR",
+      "targetPage": 333,
+      "titleEs": "PARTE COMPLEMENTARIA"
+    },
+    {
+      "page": 7,
+      "titlePt": "LIVRO ÚNICO",
+      "targetPage": 333,
+      "titleEs": "LIBRO ÚNICO"
+    },
+    {
+      "page": 7,
+      "titlePt": "TÍTULO I – DOS PRAZOS E DAS NULIDADES PROCESSUAIS",
+      "targetPage": 333,
+      "titleEs": "TÍTULO I – DE LOS PLAZOS Y DE LAS NULIDADES PROCESALES"
+    },
+    {
+      "page": 7,
+      "titlePt": "CAPÍTULO I – DOS PRAZOS PROCESSUAIS",
+      "targetPage": 333,
+      "titleEs": "CAPÍTULO I – DE LOS PLAZOS PROCESALES"
+    },
+    {
+      "page": 7,
+      "titlePt": "CAPÍTULO II – DAS NULIDADES PROCESSUAIS",
+      "targetPage": 333,
+      "titleEs": "CAPÍTULO II – DE LAS NULIDADES PROCESALES"
+    },
+    {
+      "page": 7,
+      "titlePt": "TÍTULO II – DAS DISPOSIÇÕES FINAIS",
+      "targetPage": 334,
+      "titleEs": "TÍTULO II – DE LAS DISPOSICIONES FINALES"
+    },
+    {
+      "page": 7,
+      "titlePt": "CAPÍTULO I – DA SUBMISSÃO BÍBLICA, CONFESSIONAL E CONSTITUCIONAL",
+      "targetPage": 334,
+      "titleEs": "CAPÍTULO I – DE LA SUJECIÓN BÍBLICA, CONFESIONAL Y CONSTITUCIONAL"
+    },
+    {
+      "page": 7,
+      "titlePt": "CAPÍTULO II – DA VIGÊNCIA E DA ALTERAÇÃO DO REGIMENTO",
+      "targetPage": 334,
+      "titleEs": "CAPÍTULO II – DE LA VIGENCIA Y DE LA MODIFICACIÓN DEL REGLAMENTO"
+    },
+    {
+      "page": 7,
+      "titlePt": "CAPÍTULO III – DA SOLUÇÃO DOS CASOS OMISSOS",
+      "targetPage": 334,
+      "titleEs": "CAPÍTULO III – DE LA RESOLUCIÓN DE LOS CASOS NO PREVISTOS"
+    },
+    {
+      "page": 7,
+      "titlePt": "REGIMENTO INTERNO DA COMISSÃO EXECUTIVA DO SUPREMO CONCÍLIO",
+      "targetPage": 335,
+      "titleEs": "REGLAMENTO INTERNO DE LA COMISIÓN EJECUTIVA DEL SUPREMO CONCILIO"
+    },
+    {
+      "page": 7,
+      "titlePt": "REGIMENTO INTERNO DA COMISSÃO EXECUTIVA DO SUPREMO CONCÍLIO DA IGREJA PRESBITERIANA DO BRASIL (RI-CE)",
+      "targetPage": 337,
+      "titleEs": "REGLAMENTO INTERNO DE LA COMISIÓN EJECUTIVA DEL SUPREMO CONCILIO DE LA IGLESIA PRESBITERIANA DE BRASIL (RI-CE)"
+    },
+    {
+      "page": 7,
+      "titlePt": "TÍTULO I – DA COMISSÃO EXECUTIVA",
+      "targetPage": 337,
+      "titleEs": "TÍTULO I – DE LA COMISIÓN EJECUTIVA"
+    },
+    {
+      "page": 7,
+      "titlePt": "CAPÍTULO I – DA REGÊNCIA LEGAL",
+      "targetPage": 337,
+      "titleEs": "CAPÍTULO I – DEL RÉGIMEN LEGAL"
+    },
+    {
+      "page": 7,
+      "titlePt": "CAPÍTULO II – DA COMPOSIÇÃO",
+      "targetPage": 337,
+      "titleEs": "CAPÍTULO II – DE LA COMPOSICIÓN"
+    },
+    {
+      "page": 7,
+      "titlePt": "CAPÍTULO III – DA MESA DIRETORA",
+      "targetPage": 338,
+      "titleEs": "CAPÍTULO III – DE LA MESA DIRECTIVA"
+    },
+    {
+      "page": 7,
+      "titlePt": "CAPÍTULO IV – DA COMPETÊNCIA",
+      "targetPage": 344,
+      "titleEs": "CAPÍTULO IV – DE LA COMPETENCIA"
+    },
+    {
+      "page": 7,
+      "titlePt": "CAPÍTULO V – DAS VEDAÇÕES",
+      "targetPage": 346,
+      "titleEs": "CAPÍTULO V – DE LAS PROHIBICIONES"
+    },
+    {
+      "page": 7,
+      "titlePt": "TÍTULO II – DO FUNCIONAMENTO",
+      "targetPage": 347,
+      "titleEs": "TÍTULO II – DEL FUNCIONAMIENTO"
+    },
+    {
+      "page": 7,
+      "titlePt": "CAPÍTULO I – DAS REUNIÕES",
+      "targetPage": 347,
+      "titleEs": "CAPÍTULO I – DE LAS REUNIONES"
+    },
+    {
+      "page": 7,
+      "titlePt": "CAPÍTULO II – DAS SUBCOMISSÕES",
+      "targetPage": 349,
+      "titleEs": "CAPÍTULO II – DE LAS SUBCOMISIONES"
+    },
+    {
+      "page": 7,
+      "titlePt": "CAPÍTULO III – DO ASSENTO E DO USO DA PALAVRA PELOS RELATORES DE COMISSÕES, SECRETÁRIOS DE CAUSAS E REPRESENTANTES DE ÓRGÃOS DA IPB",
+      "targetPage": 350,
+      "titleEs": "CAPÍTULO III – DEL ASIENTO Y DEL USO DE LA PALABRA POR LOS PONENTES DE COMISIONES, SECRETARIOS DE CAUSAS Y REPRESENTANTES DE ÓRGANOS DE LA IPB"
+    },
+    {
+      "page": 8,
+      "titlePt": "CAPÍTULO IV – DAS SUBCOMISSÕES NOMEADAS PARA O EXAME DE DOCUMENTOS DESTINADOS ÀS REUNIÕES DO SUPREMO CONCÍLIO",
+      "targetPage": 351,
+      "titleEs": "CAPÍTULO IV – DE LAS SUBCOMISIONES NOMBRADAS PARA EL EXAMEN DE DOCUMENTOS DESTINADOS A LAS REUNIONES DEL SUPREMO CONCILIO"
+    },
+    {
+      "page": 8,
+      "titlePt": "CAPÍTULO V – DAS REUNIÕES E VOTAÇÕES POR MEIO ELETRÔNICO",
+      "targetPage": 351,
+      "titleEs": "CAPÍTULO V – DE LAS REUNIONES Y VOTACIONES POR MEDIOS ELECTRÓNICOS"
+    },
+    {
+      "page": 8,
+      "titlePt": "CAPÍTULO VI – DO EXAME DOS LIVROS DA TESOURARIA E DAS MEDIDAS DE CARÁTER ECONÔMICO E FINANCEIRO NOS INTERREGNOS",
+      "targetPage": 352,
+      "titleEs": "CAPÍTULO VI – DEL EXAMEN DE LOS LIBROS DE TESORERÍA Y DE LAS MEDIDAS DE CARÁCTER ECONÓMICO Y FINANCIERO EN LOS INTERREGNOS"
+    },
+    {
+      "page": 8,
+      "titlePt": "TÍTULO III – DAS DISPOSIÇÕES FINAIS",
+      "targetPage": 353,
+      "titleEs": "TÍTULO III – DE LAS DISPOSICIONES FINALES"
+    },
+    {
+      "page": 8,
+      "titlePt": "MODELO DE ESTATUTO – SÍNODO",
+      "targetPage": 355,
+      "titleEs": "MODELO DE ESTATUTO – SÍNODO"
+    },
+    {
+      "page": 8,
+      "titlePt": "ESTATUTO",
+      "targetPage": 357,
+      "titleEs": "ESTATUTO"
+    },
+    {
+      "page": 8,
+      "titlePt": "CAPÍTULO I – DA DENOMINAÇÃO, SEDE, FINS E DURAÇÃO",
+      "targetPage": 357,
+      "titleEs": "CAPÍTULO I – DE LA DENOMINACIÓN, SEDE, FINES Y DURACIÓN"
+    },
+    {
+      "page": 8,
+      "titlePt": "CAPÍTULO II – DOS MEMBROS",
+      "targetPage": 358,
+      "titleEs": "CAPÍTULO II – DE LOS MIEMBROS"
+    },
+    {
+      "page": 8,
+      "titlePt": "CAPÍTULO III – DOS BENS, DIREITOS E OBRIGAÇÕES",
+      "targetPage": 359,
+      "titleEs": "CAPÍTULO III – DE LOS BIENES, DERECHOS Y OBLIGACIONES"
+    },
+    {
+      "page": 8,
+      "titlePt": "CAPÍTULO IV – DA ADMINISTRAÇÃO, DA REPRESENTAÇÃO E DAS REUNIÕES",
+      "targetPage": 359,
+      "titleEs": "CAPÍTULO IV – DE LA ADMINISTRACIÓN, LA REPRESENTACIÓN Y LAS REUNIONES"
+    },
+    {
+      "page": 8,
+      "titlePt": "CAPÍTULO V – DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+      "targetPage": 364,
+      "titleEs": "CAPÍTULO V – DE LAS DISPOSICIONES FINALES Y TRANSITORIAS"
+    },
+    {
+      "page": 8,
+      "titlePt": "MODELO DE REGIMENTO INTERNO – SÍNODO",
+      "targetPage": 367,
+      "titleEs": "MODELO DE REGLAMENTO INTERNO – SÍNODO"
+    },
+    {
+      "page": 8,
+      "titlePt": "PARTE GERAL",
+      "targetPage": 369,
+      "titleEs": "PARTE GENERAL"
+    },
+    {
+      "page": 8,
+      "titlePt": "LIVRO I – DO SÍNODO",
+      "targetPage": 369,
+      "titleEs": "LIBRO I – DEL SÍNODO"
+    },
+    {
+      "page": 8,
+      "titlePt": "TÍTULO I – DA ESTRUTURA ORGÂNICA E DO FUNCIONAMENTO DO CONCÍLIO",
+      "targetPage": 369,
+      "titleEs": "TÍTULO I – DE LA ESTRUCTURA ORGÁNICA Y DEL FUNCIONAMIENTO DEL CONCILIO"
+    },
+    {
+      "page": 8,
+      "titlePt": "CAPÍTULO I – DA COMPOSIÇÃO, DA JURISDIÇÃO E DOS ÓRGÃOS DELIBERATIVOS",
+      "targetPage": 369,
+      "titleEs": "CAPÍTULO I – DE LA COMPOSICIÓN, LA JURISDICCIÓN Y LOS ÓRGANOS DELIBERATIVOS"
+    },
+    {
+      "page": 8,
+      "titlePt": "CAPÍTULO II – DAS REUNIÕES ORDINÁRIAS E EXTRAORDINÁRIAS",
+      "targetPage": 370,
+      "titleEs": "CAPÍTULO II – DE LAS REUNIONES ORDINARIAS Y EXTRAORDINARIAS"
+    },
+    {
+      "page": 8,
+      "titlePt": "CAPÍTULO III – DA SESSÃO PREPARATÓRIA",
+      "targetPage": 370,
+      "titleEs": "CAPÍTULO III – DE LA SESIÓN PREPARATORIA"
+    },
+    {
+      "page": 8,
+      "titlePt": "CAPÍTULO IV – DAS SESSÕES REGULARES",
+      "targetPage": 373,
+      "titleEs": "CAPÍTULO IV – DE LAS SESIONES REGULARES"
+    },
+    {
+      "page": 8,
+      "titlePt": "CAPÍTULO V – DA ORDEM PARLAMENTAR",
+      "targetPage": 375,
+      "titleEs": "CAPÍTULO V – DEL ORDEN PARLAMENTARIO"
+    },
+    {
+      "page": 8,
+      "titlePt": "CAPÍTULO VI – DAS PROPOSTAS",
+      "targetPage": 376,
+      "titleEs": "CAPÍTULO VI – DE LAS PROPUESTAS"
+    },
+    {
+      "page": 8,
+      "titlePt": "CAPÍTULO VII – DAS COMISSÕES TEMPORÁRIAS",
+      "targetPage": 377,
+      "titleEs": "CAPÍTULO VII – DE LAS COMISIONES TEMPORALES"
+    },
+    {
+      "page": 8,
+      "titlePt": "CAPÍTULO VIII – DA DISCUSSÃO",
+      "targetPage": 378,
+      "titleEs": "CAPÍTULO VIII – DE LA DISCUSIÓN"
+    },
+    {
+      "page": 8,
+      "titlePt": "CAPÍTULO IX – DA VOTAÇÃO",
+      "targetPage": 379,
+      "titleEs": "CAPÍTULO IX – DE LA VOTACIÓN"
+    },
+    {
+      "page": 8,
+      "titlePt": "CAPÍTULO X – DAS SESSÕES PRIVATIVAS E INTERLOCUTÓRIAS",
+      "targetPage": 380,
+      "titleEs": "CAPÍTULO X – DE LAS SESIONES PRIVADAS E INTERLOCUTORIAS"
+    },
+    {
+      "page": 8,
+      "titlePt": "CAPÍTULO XI – DAS REUNIÕES EM AMBIENTE ELETRÔNICO",
+      "targetPage": 380,
+      "titleEs": "CAPÍTULO XI – DE LAS REUNIONES EN ENTORNO ELECTRÓNICO"
+    },
+    {
+      "page": 8,
+      "titlePt": "TÍTULO II – DA COMISSÃO EXECUTIVA",
+      "targetPage": 381,
+      "titleEs": "TÍTULO II – DE LA COMISIÓN EJECUTIVA"
+    },
+    {
+      "page": 8,
+      "titlePt": "CAPÍTULO I – DA COMPOSIÇÃO, DA COMPETÊNCIA E DO QUÓRUM DE FUNCIONAMENTO",
+      "targetPage": 381,
+      "titleEs": "CAPÍTULO I – DE LA COMPOSICIÓN, LA COMPETENCIA Y EL QUÓRUM DE FUNCIONAMIENTO"
+    },
+    {
+      "page": 8,
+      "titlePt": "CAPÍTULO II – DAS ATRIBUIÇÕES DOS MEMBROS DA MESA DIRETORA",
+      "targetPage": 382,
+      "titleEs": "CAPÍTULO II – DE LAS ATRIBUCIONES DE LOS MIEMBROS DE LA MESA DIRECTIVA"
+    },
+    {
+      "page": 8,
+      "titlePt": "CAPÍTULO III – DAS REUNIÕES DA COMISSÃO EXECUTIVA",
+      "targetPage": 387,
+      "titleEs": "CAPÍTULO III – DE LAS REUNIONES DE LA COMISIÓN EJECUTIVA"
+    },
+    {
+      "page": 8,
+      "titlePt": "TÍTULO III – DA ESTRUTURA E DA ATIVIDADE DE DIVERSOS ORGANISMOS INTERNOS E DE PESSOAS A SERVIÇO DO CONCÍLIO",
+      "targetPage": 389,
+      "titleEs": "TÍTULO III – DE LA ESTRUCTURA Y LA ACTIVIDAD DE DIVERSOS ORGANISMOS INTERNOS Y DE PERSONAS AL SERVICIO DEL CONCILIO"
+    },
+    {
+      "page": 8,
+      "titlePt": "CAPÍTULO I – DO CONSELHO FISCAL",
+      "targetPage": 389,
+      "titleEs": "CAPÍTULO I – DEL CONSEJO FISCAL"
+    },
+    {
+      "page": 8,
+      "titlePt": "CAPÍTULO II – DAS COMISSÕES ECLESIÁSTICAS",
+      "targetPage": 390,
+      "titleEs": "CAPÍTULO II – DE LAS COMISIONES ECLESIÁSTICAS"
+    },
+    {
+      "page": 8,
+      "titlePt": "CAPÍTULO III – DAS SECRETARIAS DE TRABALHOS ESPECIAIS",
+      "targetPage": 391,
+      "titleEs": "CAPÍTULO III – DE LAS SECRETARÍAS DE TRABAJOS ESPECIALES"
+    },
+    {
+      "page": 8,
+      "titlePt": "CAPÍTULO IV – DAS PESSOAS NOMEADAS PARA ENCARGOS ESPECÍFICOS E DOS SERVIÇOS DE CONSULTORIA TÉCNICA",
+      "targetPage": 394,
+      "titleEs": "CAPÍTULO IV – DE LAS PERSONAS NOMBRADAS PARA ENCARGOS ESPECÍFICOS Y DE LOS SERVICIOS DE ASESORAMIENTO TÉCNICO"
+    },
+    {
+      "page": 8,
+      "titlePt": "LIVRO II – DAS PROVIDÊNCIAS QUE ANTECEDEM A INSTAURAÇÃO DO PROCESSO DISCIPLINAR E DO PROCEDIMENTO PRELIMINAR PARA APURAÇÃO DE NOTÍCIA DE FATO GRAVE DE FONTE DESCONHECIDA",
+      "targetPage": 395,
+      "titleEs": "LIBRO II – DE LAS MEDIDAS PREVIAS AL INICIO DEL PROCESO DISCIPLINARIO Y DEL PROCEDIMIENTO PRELIMINAR PARA INVESTIGAR NOTICIAS DE HECHOS GRAVES DE FUENTE DESCONOCIDA"
+    },
+    {
+      "page": 8,
+      "titlePt": "TÍTULO I – DAS PROVIDÊNCIAS QUE ANTECEDEM A INSTAURAÇÃO DO PROCESSO DISCIPLINAR",
+      "targetPage": 395,
+      "titleEs": "TÍTULO I – DE LAS MEDIDAS PREVIAS AL INICIO DEL PROCESO DISCIPLINARIO"
+    },
+    {
+      "page": 8,
+      "titlePt": "CAPÍTULO I – DA COMUNICAÇÃO DE FALTA DISCIPLINAR",
+      "targetPage": 395,
+      "titleEs": "CAPÍTULO I – DE LA COMUNICACIÓN DE FALTAS DISCIPLINARIAS"
+    },
+    {
+      "page": 9,
+      "titlePt": "CAPÍTULO II – DO EXAME DE ADMISSIBILIDADE DA QUEIXA OU DENÚNCIA E DO PROCEDIMENTO SUASÓRIO",
+      "targetPage": 395,
+      "titleEs": "CAPÍTULO II – DEL EXAMEN DE ADMISIBILIDAD DE LA QUEJA O DENUNCIA Y DEL PROCEDIMIENTO PERSUASIVO"
+    },
+    {
+      "page": 9,
+      "titlePt": "TÍTULO II – DO PROCEDIMENTO PRELIMINAR PARA APURAÇÃO DE NOTÍCIA DE FATO GRAVE DE FONTE DESCONHECIDA",
+      "targetPage": 397,
+      "titleEs": "TÍTULO II – DEL PROCEDIMIENTO PRELIMINAR PARA INVESTIGAR NOTICIAS DE HECHOS GRAVES DE FUENTE DESCONOCIDA"
+    },
+    {
+      "page": 9,
+      "titlePt": "CAPÍTULO I – DA SINDICÂNCIA",
+      "targetPage": 397,
+      "titleEs": "CAPÍTULO I – DE LA INVESTIGACIÓN PRELIMINAR"
+    },
+    {
+      "page": 9,
+      "titlePt": "CAPÍTULO II – DO RELATÓRIO",
+      "targetPage": 397,
+      "titleEs": "CAPÍTULO II – DEL INFORME"
+    },
+    {
+      "page": 9,
+      "titlePt": "LIVRO III – DO RECURSO ADMINISTRATIVO",
+      "targetPage": 398,
+      "titleEs": "LIBRO III – DEL RECURSO ADMINISTRATIVO"
+    },
+    {
+      "page": 9,
+      "titlePt": "TÍTULO ÚNICO – DOS RECURSOS CONTRA DECISÕES DO PLENÁRIO E DA COMISSÃO EXECUTIVA",
+      "targetPage": 398,
+      "titleEs": "TÍTULO ÚNICO – DE LOS RECURSOS CONTRA DECISIONES DEL PLENARIO Y DE LA COMISIÓN EJECUTIVA"
+    },
+    {
+      "page": 9,
+      "titlePt": "CAPÍTULO I – DO RECURSO CONTRA DECISÃO DO PLENÁRIO",
+      "targetPage": 398,
+      "titleEs": "CAPÍTULO I – DEL RECURSO CONTRA DECISIONES DEL PLENARIO"
+    },
+    {
+      "page": 9,
+      "titlePt": "CAPÍTULO II – DO RECURSO CONTRA DECISÃO DA COMISSÃO EXECUTIVA",
+      "targetPage": 399,
+      "titleEs": "CAPÍTULO II – DEL RECURSO CONTRA DECISIONES DE LA COMISIÓN EJECUTIVA"
+    },
+    {
+      "page": 9,
+      "titlePt": "PARTE ESPECIAL",
+      "targetPage": 400,
+      "titleEs": "PARTE ESPECIAL"
+    },
+    {
+      "page": 9,
+      "titlePt": "LIVRO I – DO TRIBUNAL PLENO",
+      "targetPage": 400,
+      "titleEs": "LIBRO I – DEL TRIBUNAL PLENO"
+    },
+    {
+      "page": 9,
+      "titlePt": "TÍTULO I – DA COMPOSIÇÃO E DA COMPETÊNCIA DO TRIBUNAL PLENO",
+      "targetPage": 400,
+      "titleEs": "TÍTULO I – DE LA COMPOSICIÓN Y DE LA COMPETENCIA DEL TRIBUNAL PLENO"
+    },
+    {
+      "page": 9,
+      "titlePt": "CAPÍTULO I – DA COMPOSIÇÃO",
+      "targetPage": 400,
+      "titleEs": "CAPÍTULO I – DE LA COMPOSICIÓN"
+    },
+    {
+      "page": 9,
+      "titlePt": "CAPÍTULO II – DA COMPETÊNCIA",
+      "targetPage": 400,
+      "titleEs": "CAPÍTULO II – DE LA COMPETENCIA"
+    },
+    {
+      "page": 9,
+      "titlePt": "TÍTULO II – DO FUNCIONAMENTO",
+      "targetPage": 401,
+      "titleEs": "TÍTULO II – DEL FUNCIONAMIENTO"
+    },
+    {
+      "page": 9,
+      "titlePt": "CAPÍTULO I – DA CONVOCAÇÃO, DA INSTALAÇÃO E DO QUÓRUM DE FUNCIONAMENTO",
+      "targetPage": 401,
+      "titleEs": "CAPÍTULO I – DE LA CONVOCATORIA, LA INSTALACIÓN Y EL QUÓRUM DE FUNCIONAMIENTO"
+    },
+    {
+      "page": 9,
+      "titlePt": "CAPÍTULO II – DO INCIDENTE DE SUSPEIÇÃO",
+      "targetPage": 401,
+      "titleEs": "CAPÍTULO II – DEL INCIDENTE DE RECUSACIÓN"
+    },
+    {
+      "page": 9,
+      "titlePt": "CAPÍTULO III – DO INCIDENTE DE INCOMPETÊNCIA",
+      "targetPage": 402,
+      "titleEs": "CAPÍTULO III – DEL INCIDENTE DE INCOMPETENCIA"
+    },
+    {
+      "page": 9,
+      "titlePt": "CAPÍTULO IV – DO PROCURADOR",
+      "targetPage": 402,
+      "titleEs": "CAPÍTULO IV – DEL APODERADO"
+    },
+    {
+      "page": 9,
+      "titlePt": "CAPÍTULO V – DA INSTAURAÇÃO DO PROCESSO",
+      "targetPage": 403,
+      "titleEs": "CAPÍTULO V – DEL INICIO DEL PROCESO"
+    },
+    {
+      "page": 9,
+      "titlePt": "CAPÍTULO VI – DA INTERDIÇÃO PREVENTIVA",
+      "targetPage": 403,
+      "titleEs": "CAPÍTULO VI – DE LA INTERDICCIÓN PREVENTIVA"
+    },
+    {
+      "page": 9,
+      "titlePt": "CAPÍTULO VII – DO PROCEDIMENTO RELATIVO À DEFESA, À INSTRUÇÃO E AO JULGAMENTO",
+      "targetPage": 403,
+      "titleEs": "CAPÍTULO VII – DEL PROCEDIMIENTO RELATIVO A LA DEFENSA, LA INSTRUCCIÓN Y EL JUICIO"
+    },
+    {
+      "page": 9,
+      "titlePt": "TÍTULO III – DAS DISPOSIÇÕES COMPLEMENTARES",
+      "targetPage": 407,
+      "titleEs": "TÍTULO III – DE LAS DISPOSICIONES COMPLEMENTARIAS"
+    },
+    {
+      "page": 9,
+      "titlePt": "CAPÍTULO I – DA CIÊNCIA DO JULGAMENTO E DO PRAZO PARA RECURSO",
+      "targetPage": 407,
+      "titleEs": "CAPÍTULO I – DE LA NOTIFICACIÓN DEL FALLO Y DEL PLAZO PARA RECURRIR"
+    },
+    {
+      "page": 9,
+      "titlePt": "CAPÍTULO II – DO INCIDENTE DE ESCLARECIMENTO",
+      "targetPage": 407,
+      "titleEs": "CAPÍTULO II – DEL INCIDENTE DE ACLARACIÓN"
+    },
+    {
+      "page": 9,
+      "titlePt": "CAPÍTULO III – DA ADMISSIBILIDADE E REMESSA DO RECURSO",
+      "targetPage": 408,
+      "titleEs": "CAPÍTULO III – DE LA ADMISIBILIDAD Y REMISIÓN DEL RECURSO"
+    },
+    {
+      "page": 9,
+      "titlePt": "CAPÍTULO IV – DO CUMPRIMENTO DA SENTENÇA",
+      "targetPage": 409,
+      "titleEs": "CAPÍTULO IV – DEL CUMPLIMIENTO DE LA SENTENCIA"
+    },
+    {
+      "page": 9,
+      "titlePt": "CAPÍTULO V – DO PROCEDIMENTO PARA MAJORAÇÃO DA PENA",
+      "targetPage": 409,
+      "titleEs": "CAPÍTULO V – DEL PROCEDIMIENTO PARA LA AGRAVACIÓN DE LA PENA"
+    },
+    {
+      "page": 9,
+      "titlePt": "CAPÍTULO VI – DO EXAME DOS AUTOS NA SECRETARIA DO TRIBUNAL PLENO",
+      "targetPage": 409,
+      "titleEs": "CAPÍTULO VI – DEL EXAMEN DE LOS AUTOS EN LA SECRETARÍA DEL TRIBUNAL PLENO"
+    },
+    {
+      "page": 9,
+      "titlePt": "CAPÍTULO VII – DO LIVRO DE ATAS DO TRIBUNAL PLENO",
+      "targetPage": 410,
+      "titleEs": "CAPÍTULO VII – DEL LIBRO DE ACTAS DEL TRIBUNAL PLENO"
+    },
+    {
+      "page": 9,
+      "titlePt": "LIVRO II – DO TRIBUNAL DE RECURSOS",
+      "targetPage": 411,
+      "titleEs": "LIBRO II – DEL TRIBUNAL DE RECURSOS"
+    },
+    {
+      "page": 9,
+      "titlePt": "TÍTULO I – DA COMPOSIÇÃO, DA COMPETÊNCIA E DO FUNCIONAMENTO",
+      "targetPage": 411,
+      "titleEs": "TÍTULO I – DE LA COMPOSICIÓN, LA COMPETENCIA Y EL FUNCIONAMIENTO"
+    },
+    {
+      "page": 9,
+      "titlePt": "CAPÍTULO I – DA COMPOSIÇÃO",
+      "targetPage": 411,
+      "titleEs": "CAPÍTULO I – DE LA COMPOSICIÓN"
+    },
+    {
+      "page": 9,
+      "titlePt": "CAPÍTULO II – DA COMPETÊNCIA",
+      "targetPage": 412,
+      "titleEs": "CAPÍTULO II – DE LA COMPETENCIA"
+    },
+    {
+      "page": 9,
+      "titlePt": "CAPÍTULO III – DO FUNCIONAMENTO",
+      "targetPage": 412,
+      "titleEs": "CAPÍTULO III – DEL FUNCIONAMIENTO"
+    },
+    {
+      "page": 9,
+      "titlePt": "TÍTULO II – DAS DISPOSIÇÕES COMPLEMENTARES",
+      "targetPage": 415,
+      "titleEs": "TÍTULO II – DE LAS DISPOSICIONES COMPLEMENTARIAS"
+    },
+    {
+      "page": 9,
+      "titlePt": "CAPÍTULO I – DA ADMISSIBILIDADE E REMESSA DO RECURSO",
+      "targetPage": 415,
+      "titleEs": "CAPÍTULO I – DE LA ADMISIBILIDAD Y REMISIÓN DEL RECURSO"
+    },
+    {
+      "page": 9,
+      "titlePt": "CAPÍTULO II – DO CUMPRIMENTO DA SENTENÇA OU DO ACÓRDÃO",
+      "targetPage": 415,
+      "titleEs": "CAPÍTULO II – DEL CUMPLIMIENTO DE LA SENTENCIA O DE LA RESOLUCIÓN COLEGIADA"
+    },
+    {
+      "page": 9,
+      "titlePt": "PARTE COMPLEMENTAR",
+      "targetPage": 416,
+      "titleEs": "PARTE COMPLEMENTARIA"
+    },
+    {
+      "page": 9,
+      "titlePt": "LIVRO ÚNICO",
+      "targetPage": 416,
+      "titleEs": "LIBRO ÚNICO"
+    },
+    {
+      "page": 9,
+      "titlePt": "TÍTULO I – DO CONCÍLIO COMO PARTE EM PROCESSO ADMINISTRATIVO OU DISCIPLINAR",
+      "targetPage": 416,
+      "titleEs": "TÍTULO I – DEL CONCILIO COMO PARTE EN PROCESOS ADMINISTRATIVOS O DISCIPLINARIOS"
+    },
+    {
+      "page": 9,
+      "titlePt": "CAPÍTULO I – DA REPRESENTAÇÃO LEGAL",
+      "targetPage": 416,
+      "titleEs": "CAPÍTULO I – DE LA REPRESENTACIÓN LEGAL"
+    },
+    {
+      "page": 9,
+      "titlePt": "CAPÍTULO II – DO DEVER DE INFORMAÇÃO",
+      "targetPage": 416,
+      "titleEs": "CAPÍTULO II – DEL DEBER DE INFORMAR"
+    },
+    {
+      "page": 9,
+      "titlePt": "TÍTULO II – DOS PRAZOS E DAS NULIDADES PROCESSUAIS",
+      "targetPage": 417,
+      "titleEs": "TÍTULO II – DE LOS PLAZOS Y DE LAS NULIDADES PROCESALES"
+    },
+    {
+      "page": 9,
+      "titlePt": "CAPÍTULO I – DOS PRAZOS PROCESSUAIS",
+      "targetPage": 417,
+      "titleEs": "CAPÍTULO I – DE LOS PLAZOS PROCESALES"
+    },
+    {
+      "page": 10,
+      "titlePt": "CAPÍTULO II – DAS NULIDADES PROCESSUAIS",
+      "targetPage": 417,
+      "titleEs": "CAPÍTULO II – DE LAS NULIDADES PROCESALES"
+    },
+    {
+      "page": 10,
+      "titlePt": "TÍTULO III – DAS DISPOSIÇÕES FINAIS",
+      "targetPage": 418,
+      "titleEs": "TÍTULO III – DE LAS DISPOSICIONES FINALES"
+    },
+    {
+      "page": 10,
+      "titlePt": "CAPÍTULO I – DA SUBMISSÃO BÍBLICA, CONFESSIONAL E CONSTITUCIONAL",
+      "targetPage": 418,
+      "titleEs": "CAPÍTULO I – DE LA SUJECIÓN BÍBLICA, CONFESIONAL Y CONSTITUCIONAL"
+    },
+    {
+      "page": 10,
+      "titlePt": "CAPÍTULO II – DA VIGÊNCIA E DA ALTERAÇÃO DO REGIMENTO",
+      "targetPage": 418,
+      "titleEs": "CAPÍTULO II – DE LA VIGENCIA Y DE LA MODIFICACIÓN DEL REGLAMENTO"
+    },
+    {
+      "page": 10,
+      "titlePt": "CAPÍTULO III – DA SOLUÇÃO DOS CASOS OMISSOS",
+      "targetPage": 418,
+      "titleEs": "CAPÍTULO III – DE LA RESOLUCIÓN DE LOS CASOS NO PREVISTOS"
+    },
+    {
+      "page": 10,
+      "titlePt": "MODELO DE ESTATUTO – PRESBITÉRIO",
+      "targetPage": 419,
+      "titleEs": "MODELO DE ESTATUTO – PRESBITERIO"
+    },
+    {
+      "page": 10,
+      "titlePt": "CAPÍTULO I – DENOMINAÇÃO, SEDE, FINS E DURAÇÃO",
+      "targetPage": 421,
+      "titleEs": "CAPÍTULO I – DENOMINACIÓN, SEDE, FINES Y DURACIÓN"
+    },
+    {
+      "page": 10,
+      "titlePt": "CAPÍTULO II – FILIAÇÃO ECLESIÁSTICA, IDENTIDADE CONFESSIONAL E FORMA DE GOVERNO",
+      "targetPage": 422,
+      "titleEs": "CAPÍTULO II – AFILIACIÓN ECLESIÁSTICA, IDENTIDAD CONFESIONAL Y FORMA DE GOBIERNO"
+    },
+    {
+      "page": 10,
+      "titlePt": "CAPÍTULO III – CLASSIFICAÇÃO, DIREITOS, DEVERES, ADMISSÃO, TRANSFERÊNCIA E EXCLUSÃO DE MEMBROS",
+      "targetPage": 423,
+      "titleEs": "CAPÍTULO III – CLASIFICACIÓN, DERECHOS, DEBERES, ADMISIÓN, TRANSFERENCIA Y EXCLUSIÓN DE MIEMBROS"
+    },
+    {
+      "page": 10,
+      "titlePt": "CAPÍTULO IV – CONSTITUIÇÃO E FUNCIONAMENTO DOS ÓRGÃOS DELIBERATIVOS",
+      "targetPage": 430,
+      "titleEs": "CAPÍTULO IV – CONSTITUCIÓN Y FUNCIONAMIENTO DE LOS ÓRGANOS DELIBERATIVOS"
+    },
+    {
+      "page": 10,
+      "titlePt": "CAPÍTULO V – ADMINISTRAÇÃO CIVIL E REPRESENTAÇÃO",
+      "targetPage": 442,
+      "titleEs": "CAPÍTULO V – ADMINISTRACIÓN CIVIL Y REPRESENTACIÓN"
+    },
+    {
+      "page": 10,
+      "titlePt": "CAPÍTULO VI – BENS E FONTES DE RECURSOS PARA MANUTENÇÃO DO PRESBITÉRIO",
+      "targetPage": 442,
+      "titleEs": "CAPÍTULO VI – BIENES Y FUENTES DE RECURSOS PARA EL MANTENIMIENTO DEL PRESBITERIO"
+    },
+    {
+      "page": 10,
+      "titlePt": "CAPÍTULO VII – CONSELHO FISCAL",
+      "targetPage": 443,
+      "titleEs": "CAPÍTULO VII – CONSEJO FISCAL"
+    },
+    {
+      "page": 10,
+      "titlePt": "CAPÍTULO VIII – DESTINAÇÃO DO PATRIMÔNIO EM CASO DE CISMA OU DISSOLUÇÃO",
+      "targetPage": 444,
+      "titleEs": "CAPÍTULO VIII – DESTINO DEL PATRIMONIO EN CASO DE CISMA O DISOLUCIÓN"
+    },
+    {
+      "page": 10,
+      "titlePt": "CAPÍTULO IX – FALTAS E PENALIDADES",
+      "targetPage": 444,
+      "titleEs": "CAPÍTULO IX – FALTAS Y SANCIONES"
+    },
+    {
+      "page": 10,
+      "titlePt": "CAPÍTULO X – DISPOSIÇÕES FINAIS",
+      "targetPage": 448,
+      "titleEs": "CAPÍTULO X – DISPOSICIONES FINALES"
+    },
+    {
+      "page": 10,
+      "titlePt": "MODELO DE REGIMENTO INTERNO – PRESBITÉRIO",
+      "targetPage": 451,
+      "titleEs": "MODELO DE REGLAMENTO INTERNO – PRESBITERIO"
+    },
+    {
+      "page": 10,
+      "titlePt": "PARTE GERAL",
+      "targetPage": 453,
+      "titleEs": "PARTE GENERAL"
+    },
+    {
+      "page": 10,
+      "titlePt": "LIVRO I – DO PRESBITÉRIO",
+      "targetPage": 453,
+      "titleEs": "LIBRO I – DEL PRESBITERIO"
+    },
+    {
+      "page": 10,
+      "titlePt": "TÍTULO I – DA ESTRUTURA ORGÂNICA E DO FUNCIONAMENTO DO CONCÍLIO",
+      "targetPage": 453,
+      "titleEs": "TÍTULO I – DE LA ESTRUCTURA ORGÁNICA Y DEL FUNCIONAMIENTO DEL CONCILIO"
+    },
+    {
+      "page": 10,
+      "titlePt": "CAPÍTULO I – DA COMPOSIÇÃO, DA JURISDIÇÃO E DOS ÓRGÃOS DELIBERATIVOS",
+      "targetPage": 453,
+      "titleEs": "CAPÍTULO I – DE LA COMPOSICIÓN, LA JURISDICCIÓN Y LOS ÓRGANOS DELIBERATIVOS"
+    },
+    {
+      "page": 10,
+      "titlePt": "CAPÍTULO II – DAS REUNIÕES ORDINÁRIAS E EXTRAORDINÁRIAS",
+      "targetPage": 454,
+      "titleEs": "CAPÍTULO II – DE LAS REUNIONES ORDINARIAS Y EXTRAORDINARIAS"
+    },
+    {
+      "page": 10,
+      "titlePt": "CAPÍTULO III – DA SESSÃO PREPARATÓRIA",
+      "targetPage": 455,
+      "titleEs": "CAPÍTULO III – DE LA SESIÓN PREPARATORIA"
+    },
+    {
+      "page": 10,
+      "titlePt": "CAPÍTULO IV – DAS SESSÕES REGULARES",
+      "targetPage": 458,
+      "titleEs": "CAPÍTULO IV – DE LAS SESIONES REGULARES"
+    },
+    {
+      "page": 10,
+      "titlePt": "CAPÍTULO V – DA ORDEM PARLAMENTAR",
+      "targetPage": 460,
+      "titleEs": "CAPÍTULO V – DEL ORDEN PARLAMENTARIO"
+    },
+    {
+      "page": 10,
+      "titlePt": "CAPÍTULO VI – DAS PROPOSTAS",
+      "targetPage": 461,
+      "titleEs": "CAPÍTULO VI – DE LAS PROPUESTAS"
+    },
+    {
+      "page": 10,
+      "titlePt": "CAPÍTULO VII – DAS COMISSÕES TEMPORÁRIAS",
+      "targetPage": 461,
+      "titleEs": "CAPÍTULO VII – DE LAS COMISIONES TEMPORALES"
+    },
+    {
+      "page": 10,
+      "titlePt": "CAPÍTULO VIII – DA DISCUSSÃO",
+      "targetPage": 463,
+      "titleEs": "CAPÍTULO VIII – DE LA DISCUSIÓN"
+    },
+    {
+      "page": 10,
+      "titlePt": "CAPÍTULO IX – DA VOTAÇÃO",
+      "targetPage": 464,
+      "titleEs": "CAPÍTULO IX – DE LA VOTACIÓN"
+    },
+    {
+      "page": 10,
+      "titlePt": "CAPÍTULO X – DAS SESSÕES PRIVATIVAS E INTERLOCUTÓRIAS",
+      "targetPage": 464,
+      "titleEs": "CAPÍTULO X – DE LAS SESIONES PRIVADAS E INTERLOCUTORIAS"
+    },
+    {
+      "page": 10,
+      "titlePt": "CAPÍTULO XI – DAS REUNIÕES EM AMBIENTE ELETRÔNICO",
+      "targetPage": 465,
+      "titleEs": "CAPÍTULO XI – DE LAS REUNIONES EN ENTORNO ELECTRÓNICO"
+    },
+    {
+      "page": 10,
+      "titlePt": "TÍTULO II – DA COMISSÃO EXECUTIVA",
+      "targetPage": 466,
+      "titleEs": "TÍTULO II – DE LA COMISIÓN EJECUTIVA"
+    },
+    {
+      "page": 10,
+      "titlePt": "CAPÍTULO I – DA COMPOSIÇÃO, DA COMPETÊNCIA E DO QUÓRUM DE FUNCIONAMENTO",
+      "targetPage": 466,
+      "titleEs": "CAPÍTULO I – DE LA COMPOSICIÓN, LA COMPETENCIA Y EL QUÓRUM DE FUNCIONAMIENTO"
+    },
+    {
+      "page": 10,
+      "titlePt": "CAPÍTULO II – DAS ATRIBUIÇÕES DOS MEMBROS DA MESA DIRETORA",
+      "targetPage": 467,
+      "titleEs": "CAPÍTULO II – DE LAS ATRIBUCIONES DE LOS MIEMBROS DE LA MESA DIRECTIVA"
+    },
+    {
+      "page": 10,
+      "titlePt": "CAPÍTULO III – DAS REUNIÕES DA COMISSÃO EXECUTIVA",
+      "targetPage": 472,
+      "titleEs": "CAPÍTULO III – DE LAS REUNIONES DE LA COMISIÓN EJECUTIVA"
+    },
+    {
+      "page": 10,
+      "titlePt": "TÍTULO III – DA ESTRUTURA E DA ATIVIDADE DE DIVERSOS ORGANISMOS INTERNOS E DE PESSOAS A SERVIÇO DO CONCÍLIO",
+      "targetPage": 474,
+      "titleEs": "TÍTULO III – DE LA ESTRUCTURA Y LA ACTIVIDAD DE DIVERSOS ORGANISMOS INTERNOS Y DE PERSONAS AL SERVICIO DEL CONCILIO"
+    },
+    {
+      "page": 10,
+      "titlePt": "CAPÍTULO I – DO CONSELHO FISCAL",
+      "targetPage": 474,
+      "titleEs": "CAPÍTULO I – DEL CONSEJO FISCAL"
+    },
+    {
+      "page": 10,
+      "titlePt": "CAPÍTULO II – DAS COMISSÕES ECLESIÁSTICAS",
+      "targetPage": 475,
+      "titleEs": "CAPÍTULO II – DE LAS COMISIONES ECLESIÁSTICAS"
+    },
+    {
+      "page": 10,
+      "titlePt": "CAPÍTULO III – DAS SECRETARIAS DE TRABALHOS ESPECIAIS",
+      "targetPage": 476,
+      "titleEs": "CAPÍTULO III – DE LAS SECRETARÍAS DE TRABAJOS ESPECIALES"
+    },
+    {
+      "page": 11,
+      "titlePt": "CAPÍTULO IV – DAS PESSOAS NOMEADAS PARA ENCARGOS ESPECÍFICOS E DOS SERVIÇOS DE CONSULTORIA TÉCNICA",
+      "targetPage": 479,
+      "titleEs": "CAPÍTULO IV – DE LAS PERSONAS NOMBRADAS PARA ENCARGOS ESPECÍFICOS Y DE LOS SERVICIOS DE ASESORAMIENTO TÉCNICO"
+    },
+    {
+      "page": 11,
+      "titlePt": "LIVRO II – DAS PROVIDÊNCIAS QUE ANTECEDEM A INSTAURAÇÃO DO PROCESSO DISCIPLINAR E DO PROCEDIMENTO PRELIMINAR PARA APURAÇÃO DE NOTÍCIA DE FATO GRAVE DE FONTE DESCONHECIDA",
+      "targetPage": 480,
+      "titleEs": "LIBRO II – DE LAS MEDIDAS PREVIAS AL INICIO DEL PROCESO DISCIPLINARIO Y DEL PROCEDIMIENTO PRELIMINAR PARA INVESTIGAR NOTICIAS DE HECHOS GRAVES DE FUENTE DESCONOCIDA"
+    },
+    {
+      "page": 11,
+      "titlePt": "TÍTULO I – DAS PROVIDÊNCIAS QUE ANTECEDEM A INSTAURAÇÃO DO PROCESSO DISCIPLINAR",
+      "targetPage": 480,
+      "titleEs": "TÍTULO I – DE LAS MEDIDAS PREVIAS AL INICIO DEL PROCESO DISCIPLINARIO"
+    },
+    {
+      "page": 11,
+      "titlePt": "CAPÍTULO I – DA COMUNICAÇÃO DE FALTA DISCIPLINAR",
+      "targetPage": 480,
+      "titleEs": "CAPÍTULO I – DE LA COMUNICACIÓN DE FALTAS DISCIPLINARIAS"
+    },
+    {
+      "page": 11,
+      "titlePt": "CAPÍTULO II – DO EXAME DE ADMISSIBILIDADE DA QUEIXA OU DENÚNCIA E DO PROCEDIMENTO SUASÓRIO",
+      "targetPage": 480,
+      "titleEs": "CAPÍTULO II – DEL EXAMEN DE ADMISIBILIDAD DE LA QUEJA O DENUNCIA Y DEL PROCEDIMIENTO PERSUASIVO"
+    },
+    {
+      "page": 11,
+      "titlePt": "TÍTULO II – DO PROCEDIMENTO PRELIMINAR PARA APURAÇÃO DE NOTÍCIA DE FATO GRAVE DE FONTE DESCONHECIDA",
+      "targetPage": 483,
+      "titleEs": "TÍTULO II – DEL PROCEDIMIENTO PRELIMINAR PARA INVESTIGAR NOTICIAS DE HECHOS GRAVES DE FUENTE DESCONOCIDA"
+    },
+    {
+      "page": 11,
+      "titlePt": "CAPÍTULO ÚNICO – DA SINDICÂNCIA",
+      "targetPage": 483,
+      "titleEs": "CAPÍTULO ÚNICO – DE LA INVESTIGACIÓN PRELIMINAR"
+    },
+    {
+      "page": 11,
+      "titlePt": "LIVRO III – DO RECURSO ADMINISTRATIVO",
+      "targetPage": 484,
+      "titleEs": "LIBRO III – DEL RECURSO ADMINISTRATIVO"
+    },
+    {
+      "page": 11,
+      "titlePt": "TÍTULO ÚNICO – DOS RECURSOS CONTRA DECISÕES DO PLENÁRIO E DA COMISSÃO EXECUTIVA",
+      "targetPage": 484,
+      "titleEs": "TÍTULO ÚNICO – DE LOS RECURSOS CONTRA DECISIONES DEL PLENARIO Y DE LA COMISIÓN EJECUTIVA"
+    },
+    {
+      "page": 11,
+      "titlePt": "CAPÍTULO I – DO RECURSO CONTRA DECISÃO DO PLENÁRIO",
+      "targetPage": 484,
+      "titleEs": "CAPÍTULO I – DEL RECURSO CONTRA DECISIONES DEL PLENARIO"
+    },
+    {
+      "page": 11,
+      "titlePt": "CAPÍTULO II – DO RECURSO CONTRA DECISÃO DA COMISSÃO EXECUTIVA",
+      "targetPage": 485,
+      "titleEs": "CAPÍTULO II – DEL RECURSO CONTRA DECISIONES DE LA COMISIÓN EJECUTIVA"
+    },
+    {
+      "page": 11,
+      "titlePt": "PARTE ESPECIAL",
+      "targetPage": 486,
+      "titleEs": "PARTE ESPECIAL"
+    },
+    {
+      "page": 11,
+      "titlePt": "LIVRO I – DO TRIBUNAL ECLESIÁSTICO",
+      "targetPage": 486,
+      "titleEs": "LIBRO I – DEL TRIBUNAL ECLESIÁSTICO"
+    },
+    {
+      "page": 11,
+      "titlePt": "TÍTULO I – DA COMPOSIÇÃO E DA COMPETÊNCIA",
+      "targetPage": 486,
+      "titleEs": "TÍTULO I – DE LA COMPOSICIÓN Y LA COMPETENCIA"
+    },
+    {
+      "page": 11,
+      "titlePt": "CAPÍTULO I – DA COMPOSIÇÃO",
+      "targetPage": 486,
+      "titleEs": "CAPÍTULO I – DE LA COMPOSICIÓN"
+    },
+    {
+      "page": 11,
+      "titlePt": "CAPÍTULO II – DA COMPETÊNCIA",
+      "targetPage": 486,
+      "titleEs": "CAPÍTULO II – DE LA COMPETENCIA"
+    },
+    {
+      "page": 11,
+      "titlePt": "TÍTULO II – DO FUNCIONAMENTO",
+      "targetPage": 488,
+      "titleEs": "TÍTULO II – DEL FUNCIONAMIENTO"
+    },
+    {
+      "page": 11,
+      "titlePt": "CAPÍTULO I – DA CONVOCAÇÃO, DA INSTALAÇÃO E DO QUÓRUM DE FUNCIONAMENTO",
+      "targetPage": 488,
+      "titleEs": "CAPÍTULO I – DE LA CONVOCATORIA, LA INSTALACIÓN Y EL QUÓRUM DE FUNCIONAMIENTO"
+    },
+    {
+      "page": 11,
+      "titlePt": "CAPÍTULO II – DO INCIDENTE DE SUSPEIÇÃO",
+      "targetPage": 488,
+      "titleEs": "CAPÍTULO II – DEL INCIDENTE DE RECUSACIÓN"
+    },
+    {
+      "page": 11,
+      "titlePt": "CAPÍTULO III – DO INCIDENTE DE INCOMPETÊNCIA",
+      "targetPage": 489,
+      "titleEs": "CAPÍTULO III – DEL INCIDENTE DE INCOMPETENCIA"
+    },
+    {
+      "page": 11,
+      "titlePt": "CAPÍTULO IV – DO PROCURADOR",
+      "targetPage": 489,
+      "titleEs": "CAPÍTULO IV – DEL APODERADO"
+    },
+    {
+      "page": 11,
+      "titlePt": "TÍTULO III – DA QUEIXA OU DENÚNCIA CONTRA MINISTRO",
+      "targetPage": 490,
+      "titleEs": "TÍTULO III – DE LA QUEJA O DENUNCIA CONTRA MINISTRO"
+    },
+    {
+      "page": 11,
+      "titlePt": "CAPÍTULO I – DO PROCEDIMENTO ORDINÁRIO",
+      "targetPage": 490,
+      "titleEs": "CAPÍTULO I – DEL PROCEDIMIENTO ORDINARIO"
+    },
+    {
+      "page": 11,
+      "titlePt": "CAPÍTULO II – DO PROCEDIMENTO SUMÁRIO",
+      "targetPage": 497,
+      "titleEs": "CAPÍTULO II – DEL PROCEDIMIENTO SUMARIO"
+    },
+    {
+      "page": 11,
+      "titlePt": "TÍTULO IV – DA QUEIXA OU DENÚNCIA CONTRA CONSELHO DE IGREJA",
+      "targetPage": 498,
+      "titleEs": "TÍTULO IV – DE LA QUEJA O DENUNCIA CONTRA CONSEJO DE IGLESIA"
+    },
+    {
+      "page": 11,
+      "titlePt": "CAPÍTULO I – DO PROCEDIMENTO RELATIVO À QUEIXA OU DENÚNCIA",
+      "targetPage": 498,
+      "titleEs": "CAPÍTULO I – DEL PROCEDIMIENTO RELATIVO A LA QUEJA O DENUNCIA"
+    },
+    {
+      "page": 11,
+      "titlePt": "CAPÍTULO II – DOS RECURSOS CONTRA DECISÕES INTERLOCUTÓRIAS E SENTENÇAS DOS CONSELHOS DE IGREJAS",
+      "targetPage": 498,
+      "titleEs": "CAPÍTULO II – DE LOS RECURSOS CONTRA DECISIONES INTERLOCUTORIAS Y SENTENCIAS DE LOS CONSEJOS DE IGLESIAS"
+    },
+    {
+      "page": 11,
+      "titlePt": "LIVRO II – DAS DISPOSIÇÕES COMPLEMENTARES",
+      "targetPage": 499,
+      "titleEs": "LIBRO II – DE LAS DISPOSICIONES COMPLEMENTARIAS"
+    },
+    {
+      "page": 11,
+      "titlePt": "TÍTULO I – DOS EVENTOS PROCESSUAIS QUE SUCEDEM O JULGAMENTO",
+      "targetPage": 499,
+      "titleEs": "TÍTULO I – DE LOS EVENTOS PROCESALES POSTERIORES AL JUICIO"
+    },
+    {
+      "page": 11,
+      "titlePt": "CAPÍTULO I – DA CIÊNCIA, DO JULGAMENTO E DO PRAZO PARA RECURSO",
+      "targetPage": 499,
+      "titleEs": "CAPÍTULO I – DE LA NOTIFICACIÓN, EL JUICIO Y EL PLAZO PARA RECURRIR"
+    },
+    {
+      "page": 11,
+      "titlePt": "CAPÍTULO II – DO INCIDENTE DE ESCLARECIMENTO",
+      "targetPage": 499,
+      "titleEs": "CAPÍTULO II – DEL INCIDENTE DE ACLARACIÓN"
+    },
+    {
+      "page": 11,
+      "titlePt": "CAPÍTULO III – DA ADMISSIBILIDADE E REMESSA DO RECURSO",
+      "targetPage": 500,
+      "titleEs": "CAPÍTULO III – DE LA ADMISIBILIDAD Y REMISIÓN DEL RECURSO"
+    },
+    {
+      "page": 11,
+      "titlePt": "CAPÍTULO IV – DO CUMPRIMENTO DA SENTENÇA OU DO ACÓRDÃO",
+      "targetPage": 501,
+      "titleEs": "CAPÍTULO IV – DEL CUMPLIMIENTO DE LA SENTENCIA O DE LA RESOLUCIÓN COLEGIADA"
+    },
+    {
+      "page": 11,
+      "titlePt": "CAPÍTULO V – DA REVISÃO",
+      "targetPage": 501,
+      "titleEs": "CAPÍTULO V – DE LA REVISIÓN"
+    },
+    {
+      "page": 11,
+      "titlePt": "CAPÍTULO VI – DO PROCESSO PARA RESTAURAÇÃO DE MINISTRO",
+      "targetPage": 502,
+      "titleEs": "CAPÍTULO VI – DEL PROCESO PARA RESTAURACIÓN DE MINISTRO"
+    },
+    {
+      "page": 11,
+      "titlePt": "CAPÍTULO VII – DO PROCEDIMENTO PARA MAJORAÇÃO DA PENA",
+      "targetPage": 503,
+      "titleEs": "CAPÍTULO VII – DEL PROCEDIMIENTO PARA LA AGRAVACIÓN DE LA PENA"
+    },
+    {
+      "page": 11,
+      "titlePt": "TÍTULO II – DO EXAME DOS AUTOS E DO LIVRO DE ATAS",
+      "targetPage": 504,
+      "titleEs": "TÍTULO II – DEL EXAMEN DE LOS AUTOS Y DEL LIBRO DE ACTAS"
+    },
+    {
+      "page": 11,
+      "titlePt": "CAPÍTULO I – DO EXAME DOS AUTOS NA SECRETARIA DO TRIBUNAL",
+      "targetPage": 504,
+      "titleEs": "CAPÍTULO I – DEL EXAMEN DE LOS AUTOS EN LA SECRETARÍA DEL TRIBUNAL"
+    },
+    {
+      "page": 11,
+      "titlePt": "CAPÍTULO II – DO LIVRO DE ATAS",
+      "targetPage": 504,
+      "titleEs": "CAPÍTULO II – DEL LIBRO DE ACTAS"
+    },
+    {
+      "page": 11,
+      "titlePt": "PARTE COMPLEMENTAR",
+      "targetPage": 506,
+      "titleEs": "PARTE COMPLEMENTARIA"
+    },
+    {
+      "page": 11,
+      "titlePt": "LIVRO ÚNICO",
+      "targetPage": 506,
+      "titleEs": "LIBRO ÚNICO"
+    },
+    {
+      "page": 12,
+      "titlePt": "TÍTULO I – DO CONCÍLIO COMO PARTE EM PROCESSO ADMINISTRATIVO OU DISCIPLINAR",
+      "targetPage": 506,
+      "titleEs": "TÍTULO I – DEL CONCILIO COMO PARTE EN PROCESOS ADMINISTRATIVOS O DISCIPLINARIOS"
+    },
+    {
+      "page": 12,
+      "titlePt": "CAPÍTULO I – DA REPRESENTAÇÃO LEGAL",
+      "targetPage": 506,
+      "titleEs": "CAPÍTULO I – DE LA REPRESENTACIÓN LEGAL"
+    },
+    {
+      "page": 12,
+      "titlePt": "CAPÍTULO II – DO DEVER DE INFORMAÇÃO",
+      "targetPage": 506,
+      "titleEs": "CAPÍTULO II – DEL DEBER DE INFORMAR"
+    },
+    {
+      "page": 12,
+      "titlePt": "TÍTULO II – DOS PRAZOS E DAS NULIDADES PROCESSUAIS",
+      "targetPage": 507,
+      "titleEs": "TÍTULO II – DE LOS PLAZOS Y DE LAS NULIDADES PROCESALES"
+    },
+    {
+      "page": 12,
+      "titlePt": "CAPÍTULO I – DOS PRAZOS PROCESSUAIS",
+      "targetPage": 507,
+      "titleEs": "CAPÍTULO I – DE LOS PLAZOS PROCESALES"
+    },
+    {
+      "page": 12,
+      "titlePt": "CAPÍTULO II – DAS NULIDADES PROCESSUAIS",
+      "targetPage": 507,
+      "titleEs": "CAPÍTULO II – DE LAS NULIDADES PROCESALES"
+    },
+    {
+      "page": 12,
+      "titlePt": "TÍTULO III – DAS DISPOSIÇÕES FINAIS",
+      "targetPage": 508,
+      "titleEs": "TÍTULO III – DE LAS DISPOSICIONES FINALES"
+    },
+    {
+      "page": 12,
+      "titlePt": "CAPÍTULO I – DA SUBMISSÃO BÍBLICA, CONFESSIONAL E CONSTITUCIONAL",
+      "targetPage": 508,
+      "titleEs": "CAPÍTULO I – DE LA SUJECIÓN BÍBLICA, CONFESIONAL Y CONSTITUCIONAL"
+    },
+    {
+      "page": 12,
+      "titlePt": "CAPÍTULO II – DA VIGÊNCIA E DA ALTERAÇÃO DO REGIMENTO",
+      "targetPage": 508,
+      "titleEs": "CAPÍTULO II – DE LA VIGENCIA Y DE LA MODIFICACIÓN DEL REGLAMENTO"
+    },
+    {
+      "page": 12,
+      "titlePt": "CAPÍTULO III – DA SOLUÇÃO DOS CASOS OMISSOS",
+      "targetPage": 508,
+      "titleEs": "CAPÍTULO III – DE LA RESOLUCIÓN DE LOS CASOS NO PREVISTOS"
+    },
+    {
+      "page": 12,
+      "titlePt": "MODELO DE ESTATUTO – IGREJA LOCAL",
+      "targetPage": 509,
+      "titleEs": "MODELO DE ESTATUTO – IGLESIA LOCAL"
+    },
+    {
+      "page": 12,
+      "titlePt": "ESTATUTO DA IGREJA PRESBITERIANA",
+      "targetPage": 511,
+      "titleEs": "ESTATUTO DE LA IGLESIA PRESBITERIANA"
+    },
+    {
+      "page": 12,
+      "titlePt": "CAPÍTULO I – DENOMINAÇÃO, SEDE, FINS E DURAÇÃO",
+      "targetPage": 511,
+      "titleEs": "CAPÍTULO I – DENOMINACIÓN, SEDE, FINES Y DURACIÓN"
+    },
+    {
+      "page": 12,
+      "titlePt": "CAPÍTULO II – IDENTIDADE CONFESSIONAL, FILIAÇÃO ECLESIÁSTICA E FORMA DE GOVERNO",
+      "targetPage": 513,
+      "titleEs": "CAPÍTULO II – IDENTIDAD CONFESIONAL, AFILIACIÓN ECLESIÁSTICA Y FORMA DE GOBIERNO"
+    },
+    {
+      "page": 12,
+      "titlePt": "CAPÍTULO III – CLASSIFICAÇÃO, DIREITOS, DEVERES, ADMISSÃO, TRANSFERÊNCIA E EXCLUSÃO DE MEMBROS",
+      "targetPage": 514,
+      "titleEs": "CAPÍTULO III – CLASIFICACIÓN, DERECHOS, DEBERES, ADMISIÓN, TRANSFERENCIA Y EXCLUSIÓN DE MIEMBROS"
+    },
+    {
+      "page": 12,
+      "titlePt": "CAPÍTULO IV – CONSTITUIÇÃO E FUNCIONAMENTO DOS ÓRGÃOS DELIBERATIVOS",
+      "targetPage": 518,
+      "titleEs": "CAPÍTULO IV – CONSTITUCIÓN Y FUNCIONAMIENTO DE LOS ÓRGANOS DELIBERATIVOS"
+    },
+    {
+      "page": 12,
+      "titlePt": "CAPÍTULO V – ADMINISTRAÇÃO CIVIL E REPRESENTAÇÃO",
+      "targetPage": 526,
+      "titleEs": "CAPÍTULO V – ADMINISTRACIÓN CIVIL Y REPRESENTACIÓN"
+    },
+    {
+      "page": 12,
+      "titlePt": "CAPÍTULO VI – ATRIBUIÇÕES DE PRESBÍTEROS E DIÁCONOS",
+      "targetPage": 526,
+      "titleEs": "CAPÍTULO VI – ATRIBUCIONES DE PRESBÍTEROS Y DIÁCONOS"
+    },
+    {
+      "page": 12,
+      "titlePt": "CAPÍTULO VII – BENS E FONTES DE RECURSOS PARA MANUTENÇÃO DA IGREJA",
+      "targetPage": 527,
+      "titleEs": "CAPÍTULO VII – BIENES Y FUENTES DE RECURSOS PARA EL MANTENIMIENTO DE LA IGLESIA"
+    },
+    {
+      "page": 12,
+      "titlePt": "CAPÍTULO VIII – COMISSÃO DE EXAME DE CONTAS",
+      "targetPage": 527,
+      "titleEs": "CAPÍTULO VIII – COMISIÓN DE EXAMEN DE CUENTAS"
+    },
+    {
+      "page": 12,
+      "titlePt": "CAPÍTULO IX – DESTINAÇÃO DO PATRIMÔNIO EM CASO DE CISMA OU DISSOLUÇÃO",
+      "targetPage": 528,
+      "titleEs": "CAPÍTULO IX – DESTINO DEL PATRIMONIO EN CASO DE CISMA O DISOLUCIÓN"
+    },
+    {
+      "page": 12,
+      "titlePt": "CAPÍTULO X – FALTAS E PENALIDADES",
+      "targetPage": 528,
+      "titleEs": "CAPÍTULO X – FALTAS Y PENALIDADES"
+    },
+    {
+      "page": 12,
+      "titlePt": "CAPÍTULO XI – DISPOSIÇÕES FINAIS",
+      "targetPage": 531,
+      "titleEs": "CAPÍTULO XI – DISPOSICIONES FINALES"
+    },
+    {
+      "page": 12,
+      "titlePt": "MODELO DE REGIMENTO INTERNO – JUNTA DIACONAL",
+      "targetPage": 533,
+      "titleEs": "MODELO DE REGLAMENTO INTERNO – JUNTA DIACONAL"
+    },
+    {
+      "page": 12,
+      "titlePt": "MODELO DE REGIMENTO INTERNO PARA A JUNTA DIACONAL",
+      "targetPage": 535,
+      "titleEs": "MODELO DE REGLAMENTO INTERNO PARA LA JUNTA DIACONAL"
+    },
+    {
+      "page": 12,
+      "titlePt": "REGIMENTO INTERNO DA JUNTA DIACONAL DA IGREJA (NOME DA IGREJA)",
+      "targetPage": 535,
+      "titleEs": "REGLAMENTO INTERNO DE LA JUNTA DIACONAL DE LA IGLESIA (NOMBRE DE LA IGLESIA)"
+    },
+    {
+      "page": 12,
+      "titlePt": "CAPÍTULO I – DA JUNTA DIACONAL",
+      "targetPage": 535,
+      "titleEs": "CAPÍTULO I – DE LA JUNTA DIACONAL"
+    },
+    {
+      "page": 12,
+      "titlePt": "CAPÍTULO II – DAS ATRIBUIÇÕES",
+      "targetPage": 537,
+      "titleEs": "CAPÍTULO II – DE LAS ATRIBUCIONES"
+    },
+    {
+      "page": 12,
+      "titlePt": "CAPÍTULO III – DA MESA DIRETORA",
+      "targetPage": 538,
+      "titleEs": "CAPÍTULO III – DE LA MESA DIRECTIVA"
+    },
+    {
+      "page": 12,
+      "titlePt": "CAPÍTULO IV – DO FUNCIONAMENTO",
+      "targetPage": 542,
+      "titleEs": "CAPÍTULO IV – DEL FUNCIONAMIENTO"
+    },
+    {
+      "page": 12,
+      "titlePt": "CAPÍTULO V – DO CONSELHEIRO",
+      "targetPage": 545,
+      "titleEs": "CAPÍTULO V – DEL CONSEJERO"
+    },
+    {
+      "page": 12,
+      "titlePt": "CAPÍTULO VI – DAS DISPOSIÇÕES FINAIS",
+      "targetPage": 546,
+      "titleEs": "CAPÍTULO VI – DE LAS DISPOSICIONES FINALES"
+    },
+    {
+      "page": 12,
+      "titlePt": "REGULAMENTO PARA CONFECÇÃO DE ATAS",
+      "targetPage": 547,
+      "titleEs": "REGLAMENTO PARA LA CONFECCIÓN DE ACTAS"
+    },
+    {
+      "page": 12,
+      "titlePt": "REGULAMENTO PARA CONFECÇÃO DE ATAS DOS CONCÍLIOS DA IPB",
+      "targetPage": 549,
+      "titleEs": "REGLAMENTO PARA LA CONFECCIÓN DE ACTAS DE LOS CONCILIOS DE LA IPB"
+    },
+    {
+      "page": 12,
+      "titlePt": "CAPÍTULO I – DO REGULAMENTO E DOS OBJETIVOS",
+      "targetPage": 549,
+      "titleEs": "CAPÍTULO I – DEL REGLAMENTO Y LOS OBJETIVOS"
+    },
+    {
+      "page": 12,
+      "titlePt": "CAPÍTULO II – DO LIVRO DE ATAS",
+      "targetPage": 549,
+      "titleEs": "CAPÍTULO II – DEL LIBRO DE ACTAS"
+    },
+    {
+      "page": 12,
+      "titlePt": "CAPÍTULO III – DO CONTEÚDO DAS ATAS",
+      "targetPage": 555,
+      "titleEs": "CAPÍTULO III – DEL CONTENIDO DE LAS ACTAS"
+    },
+    {
+      "page": 12,
+      "titlePt": "CAPÍTULO IV – DO MODO CORRETO DE LAVRAR AS ATAS",
+      "targetPage": 558,
+      "titleEs": "CAPÍTULO IV – DE LA FORMA CORRECTA DE REDACTAR LAS ACTAS"
+    },
+    {
+      "page": 12,
+      "titlePt": "CAPÍTULO V – DISPOSIÇÕES FINAIS",
+      "targetPage": 559,
+      "titleEs": "CAPÍTULO V – DISPOSICIONES FINALES"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+"""Publica PL de 2025 con estado de revisión individual explícito."""
+import json,re,hashlib,shutil
+from pathlib import Path
+ROOT=Path(__file__).resolve().parents[1];d=ROOT/'documentos';c=json.loads((ROOT/'static/corpus.json').read_text());rs=[r for r in c['records'] if r['norm']=='PL'];by={r['id']:r for r in rs};reviews=json.loads((d/'revision_semantica_manual.json').read_text())
+assert set(by)=={f'PL-art-{i}' for i in range(1,45)}|{f'PL-nota-{i}' for i in range(1,60)}
+for r in rs:
+ if r['id'] in reviews:
+  a=reviews[r['id']];assert a['sourceHash']==hashlib.sha256(r['textOriginal'].encode()).hexdigest();assert a['translationHash']==hashlib.sha256(r['textEs'].encode()).hexdigest()
+pre_pt='Em nome do Pai, e do Filho, e do Espírito Santo, nós, legítimos representantes da Igreja Presbiteriana do Brasil, reunidos em Supremo Concílio, no ano de 1951, investidos de toda autoridade para cumprir as determinações das legislaturas de 1946 e de 1950, depositando a nossa confiança inteiramente na direção, unção e iluminação do Espírito de Deus, e tendo em vista a conversão das almas, a santificação dos crentes e a edificação da igreja, decretamos e promulgamos, para glória de Deus, os seguintes Princípios de Liturgia.[1]'
+pre_es='En nombre del Padre, del Hijo y del Espíritu Santo, nosotros, legítimos representantes de la Iglesia Presbiteriana de Brasil, reunidos en Supremo Concilio en el año 1951, investidos de toda autoridad para cumplir las determinaciones de las legislaturas de 1946 y de 1950, depositando nuestra confianza enteramente en la dirección, unción e iluminación del Espíritu de Dios, y teniendo por propósito la conversión de las almas, la santificación de los creyentes y la edificación de la iglesia, decretamos y promulgamos, para gloria de Dios, los siguientes Principios de Liturgia.[1]'
+chapters={1:('I — O Dia do Senhor','I — El Día del Señor'),5:('II — O templo','II — El templo'),7:('III — Culto público','III — Culto público'),9:('IV — Culto individual e doméstico','IV — Culto individual y familiar'),11:('V — Batismo de crianças','V — Bautismo de niños'),12:('VI — Profissão de fé e admissão à plena comunhão com a igreja','VI — Profesión de fe y admisión a la plena comunión con la iglesia'),13:('VII — Administração da Ceia do Senhor','VII — Administración de la Cena del Señor'),18:('VIII — Bênção matrimonial','VIII — Bendición matrimonial'),21:('IX — Visitação aos enfermos','IX — Visita a los enfermos'),22:('X — Funerais','X — Funerales'),24:('XI — Jejum e ações de graças','XI — Ayuno y acciones de gracias'),26:('XII — Ordenação e instalação de presbíteros e diáconos','XII — Ordenación e instalación de presbíteros y diáconos'),31:('XIII — Licenciatura de candidatos ao Santo Ministério','XIII — Licenciatura de candidatos al Santo Ministerio'),32:('XIV — Ordenação de ministros','XIV — Ordenación de ministros'),37:('XV — Posse e instalação de pastores','XV — Toma de posesión e instalación de pastores'),39:('XVI — Organização da igreja local','XVI — Organización de la iglesia local'),44:('XVII — Disposição geral','XVII — Disposición general')}
+na=sum(r['kind']=='articulo' and r['id'] in reviews for r in rs);nn=sum(r['kind']=='nota' and r['id'] in reviews for r in rs)
+for lang,pre in [('es',pre_es),('pt',pre_pt)]:
+ es=lang=='es';idx=int(es);parts=['# '+('Principios de Liturgia — Manual 2025' if es else 'Princípios de Liturgia — Manual 2025')+'\n\n']
+ if es:parts.append(f'> Traducción no oficial. Cotejo completo de esta sección. Cotejados por el asistente: {na}/44 artículos, {nn}/59 notas y el preámbulo. No quedan notas pendientes en esta sección. Edición histórica de 2025; no incorpora reformas de 2026.\n\n')
+ else:parts.append('> Texto português extraído do Manual 2025: preâmbulo, 44 artigos e 59 notas completas. Redação histórica.\n\n')
+ parts.append('## Índice\n\n[Preámbulo](#PL-preambulo) · [Notas completas](#PL-notas)\n\n' if es else '## Índice\n\n[Preâmbulo](#PL-preambulo) · [Notas completas](#PL-notas)\n\n')
+ for i,v in chapters.items():parts.append(f'- [{v[idx]}](#PL-capitulo-{i})\n')
+ parts.append('\n<a id="PL-preambulo"></a>\n## '+('Preámbulo' if es else 'Preâmbulo')+'\n\nPDF: 221\n\n'+pre.replace('[1]','[1](#PL-nota-1)')+'\n')
+ for i in range(1,45):
+  r=by[f'PL-art-{i}']
+  if i in chapters:parts.append(f'\n<a id="PL-capitulo-{i}"></a>\n## {chapters[i][idx]}\n')
+  t=r['textEs'] if es else r['textOriginal'];t=re.sub(r'\[(\d+)\]',lambda m:f'[{m[1]}](#PL-nota-{m[1]})',t)
+  parts.append(f'\n<a id="{r["id"]}"></a>\n### Art. {i}\n\nPDF: {r["page"]}\n\n{t}\n')
+  if es:parts.append('\n*Cotejado por el asistente.*\n' if r['id'] in reviews else '\n*Revisión comparada pendiente.*\n')
+ parts.append('\n<a id="PL-notas"></a>\n## Notas completas\n')
+ for i in range(1,60):
+  r=by[f'PL-nota-{i}'];parents=[a['article'] for a in rs if a['kind']=='articulo' and r['id'] in a['notes']];back=', '.join(f'[Art. {n}](#PL-art-{n})' for n in parents)
+  if i==1:back='[Preámbulo](#PL-preambulo)' if es else '[Preâmbulo](#PL-preambulo)'
+  parts.append(f'\n<a id="{r["id"]}"></a>\n### Nota {i}\n\nPDF: {r["page"]} · {back}\n\n'+(r['textEs'] if es else r['textOriginal'])+'\n')
+  if es:parts.append('\n*Cotejada por el asistente.*\n' if r['id'] in reviews else '\n*Traducción automática; revisión comparada pendiente.*\n')
+ if es:parts.append('\n## Observaciones editoriales\n\nLas elipsis y referencias de las notas se conservan como aparecen en la edición de 2025. La nota 7 cita decisiones de 2007 al reproducir la consulta de 2019; no se sustituyen esas fechas por las de otros documentos. La nota 7 contiene tanto una referencia a retornar a la posición de observadora en la AMIR como una resolución de retirada; se mantienen ambas. La nota 15 conserva la resolución CE–2004–DOC. XXXVIII como antecedente y la resolución SC–2006–DOC. XCVIII que la declara nula; no se suprime el antecedente. La nota 28 conserva referencias al capítulo 8º de la CI/IPB y las decisiones posteriormente revocadas según la nota 30. La nota 50 imprime «V» al citar la libertad de conciencia del art. 5º, aunque su propia resolución cita «VI»: se mantiene «V» tal como aparece en el Manual. La nota 35 conserva la formulación irregular sobre la defensa de la ordenación de mujeres y «pueblos en general» del original; no se reconstruyen posibles palabras omitidas. Esta edición conserva antecedentes documentales y no verifica su vigencia en 2026. El anexo automático por páginas del Manual completo no queda revisado por este cotejo.\n')
+ name='principios_liturgia_2025_es_revisado.md' if es else 'principios_liturgia_2025_pt.md';text=''.join(parts);anchors=set(re.findall(r'<a id="([^"]+)"',text));assert all(t in anchors for t in re.findall(r'\]\(#([^)]*)\)',text));(d/name).write_text(text);shutil.copyfile(d/name,ROOT/'static/documentos'/name)
+(d/'revision_preambulo_liturgia.json').write_text(json.dumps({'sourcePt':pre_pt,'translationEs':pre_es,'page':221,'reviewDate':'2026-10-05','reviewStatus':'cotejado-por-asistente'},ensure_ascii=False,indent=2))
+print(f'PL: {na}/44 artículos y {nn}/59 notas cotejados; todos los enlaces comprobados.')

@@ -1,0 +1,153 @@
+{
+  "reviewedIds": [
+    "CI-nota-86",
+    "CI-nota-87",
+    "CI-nota-88",
+    "CI-nota-89",
+    "CI-nota-90",
+    "CI-nota-91",
+    "CI-nota-92",
+    "CI-nota-93",
+    "CI-nota-94",
+    "CI-nota-95",
+    "CI-nota-96",
+    "CI-nota-97",
+    "CI-nota-98",
+    "CI-nota-99",
+    "CI-nota-100",
+    "CI-nota-101",
+    "CI-nota-102"
+  ],
+  "replacements": {
+    "CI-nota-86": [
+      [
+        "mayoridad",
+        "mayoría de edad"
+      ],
+      [
+        "Relembrar",
+        "Recordar"
+      ],
+      [
+        "Confissión",
+        "Confesión"
+      ],
+      [
+        "sesión 3",
+        "sección 3"
+      ]
+    ],
+    "CI-nota-89": [
+      [
+        "cogitó del ingreso",
+        "contempló el ingreso"
+      ],
+      [
+        "O SC/IPB",
+        "El SC/IPB"
+      ],
+      [
+        "de IPB",
+        "de la IPB"
+      ],
+      [
+        "Encaviamiento",
+        "Remisión"
+      ],
+      [
+        "Pregación",
+        "Predicación"
+      ],
+      [
+        "esclarecimientos",
+        "aclaraciones"
+      ]
+    ],
+    "CI-nota-92": [
+      [
+        "Aprobando el informe",
+        "Aprobar el informe"
+      ],
+      [
+        "Resolve",
+        "Resuelve"
+      ],
+      [
+        "modismos",
+        "modas pasajeras"
+      ],
+      [
+        "análisis más profundas",
+        "análisis más profundos"
+      ],
+      [
+        "se convier",
+        "si conviene"
+      ],
+      [
+        "anteproyecto descargado a",
+        "anteproyecto remitido a"
+      ],
+      [
+        "siendo observado la manifestación",
+        "habiéndose observado la manifestación"
+      ]
+    ],
+    "CI-nota-93": [
+      [
+        "de IPB",
+        "de la IPB"
+      ],
+      [
+        "mandato findo",
+        "mandato terminado"
+      ],
+      [
+        "delante de la deposición",
+        "ante la deposición"
+      ],
+      [
+        "Caso haya restauración",
+        "Si hay restauración"
+      ]
+    ],
+    "CI-nota-94": [
+      [
+        "Sin embargo, constitucional",
+        "Sin embargo, es constitucional"
+      ]
+    ],
+    "CI-nota-96": [
+      [
+        "no se formando relación",
+        "sin que se forme una relación"
+      ]
+    ],
+    "CI-nota-102": [
+      [
+        "cabendo",
+        "correspondiendo"
+      ],
+      [
+        "mencionada en el arts.",
+        "mencionado en los arts."
+      ],
+      [
+        "sino como consecuencia",
+        "sino consecuencia"
+      ],
+      [
+        "caso sean elegidos",
+        "si son elegidos"
+      ],
+      [
+        "1.A luz",
+        "1. A la luz"
+      ],
+      [
+        "es acto privado del Consejo",
+        "es acto exclusivo del Consejo"
+      ]
+    ]
+  }
+}

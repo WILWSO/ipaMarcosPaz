@@ -1,0 +1,688 @@
+[
+  {
+    "article": 1,
+    "labelPt": "PARTE GERAL",
+    "titlePt": "",
+    "titleEs": "",
+    "labelEs": "Parte general"
+  },
+  {
+    "article": 1,
+    "labelPt": "LIVRO I",
+    "titlePt": "DO SÍNODO",
+    "titleEs": "Del Sínodo",
+    "labelEs": "Libro I"
+  },
+  {
+    "article": 1,
+    "labelPt": "TÍTULO I",
+    "titlePt": "DA ESTRUTURA ORGÂNICA E DO FUNCIONAMENTO DO CONCÍLIO",
+    "titleEs": "De la estructura orgánica y del funcionamiento del Concilio",
+    "labelEs": "Título I"
+  },
+  {
+    "article": 1,
+    "labelPt": "CAPÍTULO I",
+    "titlePt": "DA COMPOSIÇÃO, DA JURISDIÇÃO E DOS ÓRGÃOS DELIBERATIVOS",
+    "titleEs": "De la composición, la jurisdicción y los órganos deliberativos",
+    "labelEs": "Capítulo I"
+  },
+  {
+    "article": 3,
+    "labelPt": "CAPÍTULO II",
+    "titlePt": "DAS REUNIÕES ORDINÁRIAS E EXTRAORDINÁRIAS",
+    "titleEs": "De las reuniones ordinarias y extraordinarias",
+    "labelEs": "Capítulo II"
+  },
+  {
+    "article": 4,
+    "labelPt": "CAPÍTULO III",
+    "titlePt": "DA SESSÃO PREPARATÓRIA",
+    "titleEs": "De la sesión preparatoria",
+    "labelEs": "Capítulo III"
+  },
+  {
+    "article": 5,
+    "labelPt": "Seção I",
+    "titlePt": "Da Verificação de Poderes",
+    "titleEs": "De la verificación de poderes",
+    "labelEs": "Sección I"
+  },
+  {
+    "article": 8,
+    "labelPt": "Seção II",
+    "titlePt": "Da Eleição e Posse da Nova Mesa Diretora",
+    "titleEs": "De la elección y toma de posesión de la nueva Mesa Directiva",
+    "labelEs": "Sección II"
+  },
+  {
+    "article": 9,
+    "labelPt": "Seção III",
+    "titlePt": "Do Horário Regimental e do Encerramento da Sessão Preparatória",
+    "titleEs": "Del horario reglamentario y del cierre de la sesión preparatoria",
+    "labelEs": "Sección III"
+  },
+  {
+    "article": 10,
+    "labelPt": "Seção IV",
+    "titlePt": "Do Registro dos Atos da Sessão Preparatória",
+    "titleEs": "Del registro de los actos de la sesión preparatoria",
+    "labelEs": "Sección IV"
+  },
+  {
+    "article": 11,
+    "labelPt": "CAPÍTULO IV",
+    "titlePt": "DAS SESSÕES REGULARES",
+    "titleEs": "De las sesiones regulares",
+    "labelEs": "Capítulo IV"
+  },
+  {
+    "article": 12,
+    "labelPt": "Seção I",
+    "titlePt": "Do Expediente",
+    "titleEs": "Del expediente",
+    "labelEs": "Sección I"
+  },
+  {
+    "article": 13,
+    "labelPt": "Seção II",
+    "titlePt": "Do Interregno",
+    "titleEs": "Del interregno",
+    "labelEs": "Sección II"
+  },
+  {
+    "article": 14,
+    "labelPt": "Seção III",
+    "titlePt": "Da Ordem do Dia",
+    "titleEs": "Del orden del día",
+    "labelEs": "Sección III"
+  },
+  {
+    "article": 15,
+    "labelPt": "CAPÍTULO V",
+    "titlePt": "DA ORDEM PARLAMENTAR",
+    "titleEs": "Del orden parlamentario",
+    "labelEs": "Capítulo V"
+  },
+  {
+    "article": 18,
+    "labelPt": "CAPÍTULO VI",
+    "titlePt": "DAS PROPOSTAS",
+    "titleEs": "De las propuestas",
+    "labelEs": "Capítulo VI"
+  },
+  {
+    "article": 19,
+    "labelPt": "CAPÍTULO VII",
+    "titlePt": "DAS COMISSÕES TEMPORÁRIAS",
+    "titleEs": "De las comisiones temporales",
+    "labelEs": "Capítulo VII"
+  },
+  {
+    "article": 23,
+    "labelPt": "CAPÍTULO VIII",
+    "titlePt": "DA DISCUSSÃO",
+    "titleEs": "De la discusión",
+    "labelEs": "Capítulo VIII"
+  },
+  {
+    "article": 27,
+    "labelPt": "CAPÍTULO IX",
+    "titlePt": "DA VOTAÇÃO",
+    "titleEs": "De la votación",
+    "labelEs": "Capítulo IX"
+  },
+  {
+    "article": 28,
+    "labelPt": "CAPÍTULO X",
+    "titlePt": "DAS SESSÕES PRIVATIVAS E INTERLOCUTÓRIAS",
+    "titleEs": "De las sesiones privadas e interlocutorias",
+    "labelEs": "Capítulo X"
+  },
+  {
+    "article": 30,
+    "labelPt": "CAPÍTULO XI",
+    "titlePt": "DAS REUNIÕES EM AMBIENTE ELETRÔNICO",
+    "titleEs": "De las reuniones en entorno electrónico",
+    "labelEs": "Capítulo XI"
+  },
+  {
+    "article": 31,
+    "labelPt": "TÍTULO II",
+    "titlePt": "DA COMISSÃO EXECUTIVA",
+    "titleEs": "De la Comisión Ejecutiva",
+    "labelEs": "Título II"
+  },
+  {
+    "article": 31,
+    "labelPt": "CAPÍTULO I",
+    "titlePt": "DA COMPOSIÇÃO, DA COMPETÊNCIA E DO QUÓRUM DE FUNCIONAMENTO",
+    "titleEs": "De la composición, la competencia y el quórum de funcionamiento",
+    "labelEs": "Capítulo I"
+  },
+  {
+    "article": 33,
+    "labelPt": "CAPÍTULO II",
+    "titlePt": "DAS ATRIBUIÇÕES DOS MEMBROS DA MESA DIRETORA",
+    "titleEs": "De las atribuciones de los miembros de la Mesa Directiva",
+    "labelEs": "Capítulo II"
+  },
+  {
+    "article": 33,
+    "labelPt": "Seção I",
+    "titlePt": "Do Presidente",
+    "titleEs": "Del Presidente",
+    "labelEs": "Sección I"
+  },
+  {
+    "article": 35,
+    "labelPt": "Seção II",
+    "titlePt": "Do Vice-Presidente",
+    "titleEs": "Del Vicepresidente",
+    "labelEs": "Sección II"
+  },
+  {
+    "article": 36,
+    "labelPt": "Seção III",
+    "titlePt": "Do Secretário-Executivo",
+    "titleEs": "Del Secretario Ejecutivo",
+    "labelEs": "Sección III"
+  },
+  {
+    "article": 37,
+    "labelPt": "Seção IV",
+    "titlePt": "Do Primeiro-Secretário",
+    "titleEs": "Del Primer Secretario",
+    "labelEs": "Sección IV"
+  },
+  {
+    "article": 38,
+    "labelPt": "Seção V",
+    "titlePt": "Do Segundo-Secretário",
+    "titleEs": "Del Segundo Secretario",
+    "labelEs": "Sección V"
+  },
+  {
+    "article": 39,
+    "labelPt": "Seção VI",
+    "titlePt": "Do Tesoureiro",
+    "titleEs": "Del Tesorero",
+    "labelEs": "Sección VI"
+  },
+  {
+    "article": 40,
+    "labelPt": "Seção VII",
+    "titlePt": "Dos Secretários Temporários",
+    "titleEs": "De los secretarios temporales",
+    "labelEs": "Sección VII"
+  },
+  {
+    "article": 41,
+    "labelPt": "CAPÍTULO III",
+    "titlePt": "DAS REUNIÕES DA COMISSÃO EXECUTIVA",
+    "titleEs": "De las reuniones de la Comisión Ejecutiva",
+    "labelEs": "Capítulo III"
+  },
+  {
+    "article": 44,
+    "labelPt": "TÍTULO III",
+    "titlePt": "DA ESTRUTURA E DA ATIVIDADE DE DIVERSOS ORGANISMOS INTERNOS E DE PESSOAS A SERVIÇO DO CONCÍLIO",
+    "titleEs": "De la estructura y la actividad de diversos organismos internos y de personas al servicio del Concilio",
+    "labelEs": "Título III"
+  },
+  {
+    "article": 44,
+    "labelPt": "CAPÍTULO I",
+    "titlePt": "DO CONSELHO FISCAL",
+    "titleEs": "Del Consejo Fiscal",
+    "labelEs": "Capítulo I"
+  },
+  {
+    "article": 44,
+    "labelPt": "Seção I",
+    "titlePt": "Da Eleição dos Membros e da Presidência do Conselho Fiscal",
+    "titleEs": "De la elección de los miembros y de la presidencia del Consejo Fiscal",
+    "labelEs": "Sección I"
+  },
+  {
+    "article": 45,
+    "labelPt": "Seção II",
+    "titlePt": "Das Atribuições do Conselho Fiscal",
+    "titleEs": "De las atribuciones del Consejo Fiscal",
+    "labelEs": "Sección II"
+  },
+  {
+    "article": 46,
+    "labelPt": "CAPÍTULO II",
+    "titlePt": "DAS COMISSÕES ECLESIÁSTICAS",
+    "titleEs": "De las comisiones eclesiásticas",
+    "labelEs": "Capítulo II"
+  },
+  {
+    "article": 48,
+    "labelPt": "CAPÍTULO III",
+    "titlePt": "DAS SECRETARIAS DE TRABALHOS ESPECIAIS",
+    "titleEs": "De las secretarías de trabajos especiales",
+    "labelEs": "Capítulo III"
+  },
+  {
+    "article": 50,
+    "labelPt": "CAPÍTULO IV",
+    "titlePt": "DAS PESSOAS NOMEADAS PARA ENCARGOS ESPECÍFICOS E DOS SERVIÇOS DE CONSULTORIA TÉCNICA",
+    "titleEs": "De las personas nombradas para encargos específicos y de los servicios de asesoramiento técnico",
+    "labelEs": "Capítulo IV"
+  },
+  {
+    "article": 51,
+    "labelPt": "LIVRO II",
+    "titlePt": "DAS PROVIDÊNCIAS QUE ANTECEDEM A INSTAURAÇÃO DO PROCESSO DISCIPLINAR E DO PROCEDIMENTO PRELIMINAR PARA APURAÇÃO DE NOTÍCIA DE FATO GRAVE DE FONTE DESCONHECIDA",
+    "titleEs": "De las medidas previas al inicio del proceso disciplinario y del procedimiento preliminar para investigar noticias de hechos graves de fuente desconocida",
+    "labelEs": "Libro II"
+  },
+  {
+    "article": 51,
+    "labelPt": "TÍTULO I",
+    "titlePt": "DAS PROVIDÊNCIAS QUE ANTECEDEM A INSTAURAÇÃO DO PROCESSO DISCIPLINAR",
+    "titleEs": "De las medidas previas al inicio del proceso disciplinario",
+    "labelEs": "Título I"
+  },
+  {
+    "article": 51,
+    "labelPt": "CAPÍTULO I",
+    "titlePt": "DA COMUNICAÇÃO DE FALTA DISCIPLINAR",
+    "titleEs": "De la comunicación de faltas disciplinarias",
+    "labelEs": "Capítulo I"
+  },
+  {
+    "article": 52,
+    "labelPt": "CAPÍTULO II",
+    "titlePt": "DO EXAME DE ADMISSIBILIDADE DA QUEIXA OU DENÚNCIA E DO PROCEDIMENTO SUASÓRIO",
+    "titleEs": "Del examen de admisibilidad de la queja o denuncia y del procedimiento persuasivo",
+    "labelEs": "Capítulo II"
+  },
+  {
+    "article": 55,
+    "labelPt": "TÍTULO II",
+    "titlePt": "DO PROCEDIMENTO PRELIMINAR PARA APURAÇÃO DE NOTÍCIA DE FATO GRAVE DE FONTE DESCONHECIDA",
+    "titleEs": "Del procedimiento preliminar para investigar noticias de hechos graves de fuente desconocida",
+    "labelEs": "Título II"
+  },
+  {
+    "article": 55,
+    "labelPt": "CAPÍTULO I",
+    "titlePt": "DA SINDICÂNCIA",
+    "titleEs": "De la investigación preliminar",
+    "labelEs": "Capítulo I"
+  },
+  {
+    "article": 56,
+    "labelPt": "CAPÍTULO II",
+    "titlePt": "DO RELATÓRIO",
+    "titleEs": "Del informe",
+    "labelEs": "Capítulo II"
+  },
+  {
+    "article": 57,
+    "labelPt": "LIVRO III",
+    "titlePt": "DO RECURSO ADMINISTRATIVO",
+    "titleEs": "Del recurso administrativo",
+    "labelEs": "Libro III"
+  },
+  {
+    "article": 57,
+    "labelPt": "TÍTULO ÚNICO",
+    "titlePt": "DOS RECURSOS CONTRA DECISÕES DO PLENÁRIO E DA COMISSÃO EXECUTIVA",
+    "titleEs": "De los recursos contra decisiones del Plenario y de la Comisión Ejecutiva",
+    "labelEs": "Título ÚNICO"
+  },
+  {
+    "article": 57,
+    "labelPt": "CAPÍTULO I",
+    "titlePt": "DO RECURSO CONTRA DECISÃO DO PLENÁRIO",
+    "titleEs": "Del recurso contra decisiones del Plenario",
+    "labelEs": "Capítulo I"
+  },
+  {
+    "article": 58,
+    "labelPt": "CAPÍTULO II",
+    "titlePt": "DO RECURSO CONTRA DECISÃO DA COMISSÃO EXECUTIVA",
+    "titleEs": "Del recurso contra decisiones de la Comisión Ejecutiva",
+    "labelEs": "Capítulo II"
+  },
+  {
+    "article": 59,
+    "labelPt": "PARTE ESPECIAL",
+    "titlePt": "",
+    "titleEs": "",
+    "labelEs": "Parte especial"
+  },
+  {
+    "article": 59,
+    "labelPt": "LIVRO I",
+    "titlePt": "DO TRIBUNAL PLENO",
+    "titleEs": "Del Tribunal Pleno",
+    "labelEs": "Libro I"
+  },
+  {
+    "article": 59,
+    "labelPt": "TÍTULO I",
+    "titlePt": "DA COMPOSIÇÃO E DA COMPETÊNCIA DO TRIBUNAL PLENO",
+    "titleEs": "De la composición y de la competencia del Tribunal Pleno",
+    "labelEs": "Título I"
+  },
+  {
+    "article": 59,
+    "labelPt": "CAPÍTULO I",
+    "titlePt": "DA COMPOSIÇÃO",
+    "titleEs": "De la composición",
+    "labelEs": "Capítulo I"
+  },
+  {
+    "article": 60,
+    "labelPt": "CAPÍTULO II",
+    "titlePt": "DA COMPETÊNCIA",
+    "titleEs": "De la competencia",
+    "labelEs": "Capítulo II"
+  },
+  {
+    "article": 61,
+    "labelPt": "TÍTULO II",
+    "titlePt": "DO FUNCIONAMENTO",
+    "titleEs": "Del funcionamiento",
+    "labelEs": "Título II"
+  },
+  {
+    "article": 61,
+    "labelPt": "CAPÍTULO I",
+    "titlePt": "DA CONVOCAÇÃO, DA INSTALAÇÃO E DO QUÓRUM DE FUNCIONAMENTO",
+    "titleEs": "De la convocatoria, la instalación y el quórum de funcionamiento",
+    "labelEs": "Capítulo I"
+  },
+  {
+    "article": 62,
+    "labelPt": "CAPÍTULO II",
+    "titlePt": "DO INCIDENTE DE SUSPEIÇÃO",
+    "titleEs": "Del incidente de recusación",
+    "labelEs": "Capítulo II"
+  },
+  {
+    "article": 63,
+    "labelPt": "CAPÍTULO III",
+    "titlePt": "DO INCIDENTE DE INCOMPETÊNCIA",
+    "titleEs": "Del incidente de incompetencia",
+    "labelEs": "Capítulo III"
+  },
+  {
+    "article": 64,
+    "labelPt": "CAPÍTULO IV",
+    "titlePt": "DO PROCURADOR",
+    "titleEs": "Del apoderado",
+    "labelEs": "Capítulo IV"
+  },
+  {
+    "article": 65,
+    "labelPt": "CAPÍTULO V",
+    "titlePt": "DA INSTAURAÇÃO DO PROCESSO",
+    "titleEs": "Del inicio del proceso",
+    "labelEs": "Capítulo V"
+  },
+  {
+    "article": 67,
+    "labelPt": "CAPÍTULO VI",
+    "titlePt": "DA INTERDIÇÃO PREVENTIVA",
+    "titleEs": "De la interdicción preventiva",
+    "labelEs": "Capítulo VI"
+  },
+  {
+    "article": 68,
+    "labelPt": "CAPÍTULO VII",
+    "titlePt": "DO PROCEDIMENTO RELATIVO À DEFESA, À INSTRUÇÃO E AO JULGAMENTO",
+    "titleEs": "Del procedimiento relativo a la defensa, la instrucción y el juicio",
+    "labelEs": "Capítulo VII"
+  },
+  {
+    "article": 69,
+    "labelPt": "Seção I",
+    "titlePt": "Da Defesa e da Réplica",
+    "titleEs": "De la defensa y de la réplica",
+    "labelEs": "Sección I"
+  },
+  {
+    "article": 70,
+    "labelPt": "Seção II",
+    "titlePt": "Das Diligências Probatórias",
+    "titleEs": "De las diligencias probatorias",
+    "labelEs": "Sección II"
+  },
+  {
+    "article": 71,
+    "labelPt": "Seção III",
+    "titlePt": "Do Encerramento da Instrução e das Alegações Finais",
+    "titleEs": "Del cierre de la instrucción y de las alegaciones finales",
+    "labelEs": "Sección III"
+  },
+  {
+    "article": 72,
+    "labelPt": "Seção IV",
+    "titlePt": "Do Julgamento",
+    "titleEs": "Del juicio",
+    "labelEs": "Sección IV"
+  },
+  {
+    "article": 73,
+    "labelPt": "TÍTULO III",
+    "titlePt": "DAS DISPOSIÇÕES COMPLEMENTARES",
+    "titleEs": "De las disposiciones complementarias",
+    "labelEs": "Título III"
+  },
+  {
+    "article": 73,
+    "labelPt": "CAPÍTULO I",
+    "titlePt": "DA CIÊNCIA DO JULGAMENTO E DO PRAZO PARA RECURSO",
+    "titleEs": "De la notificación del fallo y del plazo para recurrir",
+    "labelEs": "Capítulo I"
+  },
+  {
+    "article": 74,
+    "labelPt": "CAPÍTULO II",
+    "titlePt": "DO INCIDENTE DE ESCLARECIMENTO",
+    "titleEs": "Del incidente de aclaración",
+    "labelEs": "Capítulo II"
+  },
+  {
+    "article": 75,
+    "labelPt": "CAPÍTULO III",
+    "titlePt": "DA ADMISSIBILIDADE E REMESSA DO RECURSO",
+    "titleEs": "De la admisibilidad y remisión del recurso",
+    "labelEs": "Capítulo III"
+  },
+  {
+    "article": 77,
+    "labelPt": "CAPÍTULO IV",
+    "titlePt": "DO CUMPRIMENTO DA SENTENÇA",
+    "titleEs": "Del cumplimiento de la sentencia",
+    "labelEs": "Capítulo IV"
+  },
+  {
+    "article": 78,
+    "labelPt": "CAPÍTULO V",
+    "titlePt": "DO PROCEDIMENTO PARA MAJORAÇÃO DA PENA",
+    "titleEs": "Del procedimiento para la agravación de la pena",
+    "labelEs": "Capítulo V"
+  },
+  {
+    "article": 79,
+    "labelPt": "CAPÍTULO VI",
+    "titlePt": "DO EXAME DOS AUTOS NA SECRETARIA DO TRIBUNAL PLENO",
+    "titleEs": "Del examen de los autos en la Secretaría del Tribunal Pleno",
+    "labelEs": "Capítulo VI"
+  },
+  {
+    "article": 80,
+    "labelPt": "CAPÍTULO VII",
+    "titlePt": "DO LIVRO DE ATAS DO TRIBUNAL PLENO",
+    "titleEs": "Del libro de actas del Tribunal Pleno",
+    "labelEs": "Capítulo VII"
+  },
+  {
+    "article": 81,
+    "labelPt": "LIVRO II",
+    "titlePt": "DO TRIBUNAL DE RECURSOS",
+    "titleEs": "Del Tribunal de Recursos",
+    "labelEs": "Libro II"
+  },
+  {
+    "article": 81,
+    "labelPt": "TÍTULO I",
+    "titlePt": "DA COMPOSIÇÃO, DA COMPETÊNCIA E DO FUNCIONAMENTO",
+    "titleEs": "De la composición, la competencia y el funcionamiento",
+    "labelEs": "Título I"
+  },
+  {
+    "article": 81,
+    "labelPt": "CAPÍTULO I",
+    "titlePt": "DA COMPOSIÇÃO",
+    "titleEs": "De la composición",
+    "labelEs": "Capítulo I"
+  },
+  {
+    "article": 82,
+    "labelPt": "CAPÍTULO II",
+    "titlePt": "DA COMPETÊNCIA",
+    "titleEs": "De la competencia",
+    "labelEs": "Capítulo II"
+  },
+  {
+    "article": 83,
+    "labelPt": "CAPÍTULO III",
+    "titlePt": "DO FUNCIONAMENTO",
+    "titleEs": "Del funcionamiento",
+    "labelEs": "Capítulo III"
+  },
+  {
+    "article": 83,
+    "labelPt": "Seção I",
+    "titlePt": "Do Quórum",
+    "titleEs": "Del quórum",
+    "labelEs": "Sección I"
+  },
+  {
+    "article": 84,
+    "labelPt": "Seção II",
+    "titlePt": "Do Funcionamento em Meio Eletrônico",
+    "titleEs": "Del funcionamiento por medios electrónicos",
+    "labelEs": "Sección II"
+  },
+  {
+    "article": 85,
+    "labelPt": "Seção III",
+    "titlePt": "Do Julgamento",
+    "titleEs": "Del juicio",
+    "labelEs": "Sección III"
+  },
+  {
+    "article": 87,
+    "labelPt": "TÍTULO II",
+    "titlePt": "DAS DISPOSIÇÕES COMPLEMENTARES",
+    "titleEs": "De las disposiciones complementarias",
+    "labelEs": "Título II"
+  },
+  {
+    "article": 87,
+    "labelPt": "CAPÍTULO I",
+    "titlePt": "DA ADMISSIBILIDADE E REMESSA DO RECURSO",
+    "titleEs": "De la admisibilidad y remisión del recurso",
+    "labelEs": "Capítulo I"
+  },
+  {
+    "article": 89,
+    "labelPt": "CAPÍTULO II",
+    "titlePt": "DO CUMPRIMENTO DA SENTENÇA OU DO ACÓRDÃO",
+    "titleEs": "Del cumplimiento de la sentencia o de la resolución colegiada",
+    "labelEs": "Capítulo II"
+  },
+  {
+    "article": 90,
+    "labelPt": "PARTE COMPLEMENTAR",
+    "titlePt": "",
+    "titleEs": "",
+    "labelEs": "Parte complementaria"
+  },
+  {
+    "article": 90,
+    "labelPt": "LIVRO ÚNICO",
+    "titlePt": "",
+    "titleEs": "",
+    "labelEs": "Libro ÚNICO"
+  },
+  {
+    "article": 90,
+    "labelPt": "TÍTULO I",
+    "titlePt": "DO CONCÍLIO COMO PARTE EM PROCESSO ADMINISTRATIVO OU DISCIPLINAR",
+    "titleEs": "Del Concilio como parte en procesos administrativos o disciplinarios",
+    "labelEs": "Título I"
+  },
+  {
+    "article": 90,
+    "labelPt": "CAPÍTULO I",
+    "titlePt": "DA REPRESENTAÇÃO LEGAL",
+    "titleEs": "De la representación legal",
+    "labelEs": "Capítulo I"
+  },
+  {
+    "article": 91,
+    "labelPt": "CAPÍTULO II",
+    "titlePt": "DO DEVER DE INFORMAÇÃO",
+    "titleEs": "Del deber de informar",
+    "labelEs": "Capítulo II"
+  },
+  {
+    "article": 92,
+    "labelPt": "TÍTULO II",
+    "titlePt": "DOS PRAZOS E DAS NULIDADES PROCESSUAIS",
+    "titleEs": "De los plazos y de las nulidades procesales",
+    "labelEs": "Título II"
+  },
+  {
+    "article": 92,
+    "labelPt": "CAPÍTULO I",
+    "titlePt": "DOS PRAZOS PROCESSUAIS",
+    "titleEs": "De los plazos procesales",
+    "labelEs": "Capítulo I"
+  },
+  {
+    "article": 93,
+    "labelPt": "CAPÍTULO II",
+    "titlePt": "DAS NULIDADES PROCESSUAIS",
+    "titleEs": "De las nulidades procesales",
+    "labelEs": "Capítulo II"
+  },
+  {
+    "article": 94,
+    "labelPt": "TÍTULO III",
+    "titlePt": "DAS DISPOSIÇÕES FINAIS",
+    "titleEs": "De las disposiciones finales",
+    "labelEs": "Título III"
+  },
+  {
+    "article": 94,
+    "labelPt": "CAPÍTULO I",
+    "titlePt": "DA SUBMISSÃO BÍBLICA, CONFESSIONAL E CONSTITUCIONAL",
+    "titleEs": "De la sujeción bíblica, confesional y constitucional",
+    "labelEs": "Capítulo I"
+  },
+  {
+    "article": 95,
+    "labelPt": "CAPÍTULO II",
+    "titlePt": "DA VIGÊNCIA E DA ALTERAÇÃO DO REGIMENTO",
+    "titleEs": "De la vigencia y de la modificación del Reglamento",
+    "labelEs": "Capítulo II"
+  },
+  {
+    "article": 96,
+    "labelPt": "CAPÍTULO III",
+    "titlePt": "DA SOLUÇÃO DOS CASOS OMISSOS",
+    "titleEs": "De la resolución de los casos no previstos",
+    "labelEs": "Capítulo III"
+  }
+]

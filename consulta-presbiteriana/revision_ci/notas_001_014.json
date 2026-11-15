@@ -1,0 +1,26 @@
+{
+  "reviewedIds": [
+    "CI-nota-1",
+    "CI-nota-2",
+    "CI-nota-3",
+    "CI-nota-4",
+    "CI-nota-5",
+    "CI-nota-6",
+    "CI-nota-7",
+    "CI-nota-8",
+    "CI-nota-9",
+    "CI-nota-10",
+    "CI-nota-11",
+    "CI-nota-12",
+    "CI-nota-13",
+    "CI-nota-14"
+  ],
+  "replacements": {
+    "CI-nota-12": [
+      [
+        "presbíteros gobernantes",
+        "presbíteros regentes"
+      ]
+    ]
+  }
+}

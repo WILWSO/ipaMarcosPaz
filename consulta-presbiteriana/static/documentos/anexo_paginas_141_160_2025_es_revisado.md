@@ -1,0 +1,446 @@
+# Anexo cotejado: páginas 141–160
+
+> Traducción no oficial. Lote cotejado: 141–160; avance acumulado: 160/560 páginas, 400 pendientes. Completos el artículo 114, las notas 322–361 y el texto normativo de la Constitución. La entrada Liturgia del índice continúa en 161. Conservados los límites y referencias del impreso histórico de 2025.
+
+## Observaciones editoriales
+
+- Páginas 143–144, nota 330: se conservan DOC. X y DOC. XIV para las referencias de 2014 tal como figuran en el impreso.
+- Páginas 144–146, nota 331: se conserva «enseñanza tecnológica» del original, las referencias LVII/LXXIII, los años de las decisiones y las condiciones de aprovechamiento de créditos: 40%, asistencia 75% y promedio 7.
+- Página 142, nota 326: el original termina sin cierre de comillas después de «requisito constitucional»; no se añade texto.
+- Página 151, nota 350: conservado el marcador duplicado «§ §».
+- Páginas 153–154: se mantienen las distintas mayorías para enmiendas, reformas y Símbolos de Fe.
+- Páginas 157–160: se conserva el orden alfabético portugués de las entradas y las anomalías históricas del índice (incluidos «10 e», «funciones de la Fe» y la repetición de «manual de liturgia»). La entrada Liturgia continúa en la página 161.
+
+## Continuaciones
+
+| Nota CI | Páginas | Estado |
+| --- | --- | --- |
+| 324 | 141–142 | Completa |
+| 327 | 142–143 | Completa |
+| 330 | 143–144 | Completa |
+| 331 | 144–146 | Completa |
+| 332 | 146–147 | Completa |
+| 334 | 147–148 | Completa |
+
+## Índice por página
+
+[141](#anexo-pagina-141) · [142](#anexo-pagina-142) · [143](#anexo-pagina-143) · [144](#anexo-pagina-144) · [145](#anexo-pagina-145) · [146](#anexo-pagina-146) · [147](#anexo-pagina-147) · [148](#anexo-pagina-148) · [149](#anexo-pagina-149) · [150](#anexo-pagina-150) · [151](#anexo-pagina-151) · [152](#anexo-pagina-152) · [153](#anexo-pagina-153) · [154](#anexo-pagina-154) · [155](#anexo-pagina-155) · [156](#anexo-pagina-156) · [157](#anexo-pagina-157) · [158](#anexo-pagina-158) · [159](#anexo-pagina-159) · [160](#anexo-pagina-160)
+
+<a id="anexo-pagina-141"></a>
+
+## Página PDF 141
+
+141 CONSTITUCIÓN
+
+debiendo la iglesia prometer tributarle honor y obediencia en el Señor, según la Palabra de Dios y esta Constitución.[322]
+
+Sección 4ª
+Candidatura y Licenciatura para el
+Sagrado Ministerio
+
+Art. 115. Quien se sienta llamado para el Ministerio de la Palabra de Dios,[323] deberá presentar al Presbiterio los siguientes certificados:[324]
+
+322 Arts. 1º y 29, de la CI/IPB; arts. 28 y 29 del PL. SC – 1998 – DOC. CXXI: “Propuesta sobre el patrón doctrinal del SC/IPB referente a la doctrina y Don de Profecía, oriundo del Presbiterio Serrano Espíritu-Santense (PRES). SC/IPB-98, en su XXXIV Reunión Ordinaria, considerando: DOC. N.º 173, resuelve: 1) Aprobar el dictamen de la Comisión Permanente de Doctrina sobre el Don de Profecía en los siguientes términos: “reafirmando que el Don de Profecía consiste en la práctica iluminada por el Espíritu Santo”. 2) Determinar que cualquier práctica de profecía que no corresponda a la enseñanza bíblica y reformada sea desterrada del culto público y de la vida de nuestra iglesia. 3) Modificar los siguientes pronunciamientos contenidos en el documento de la Comisión Permanente de Doctrina: a) Sobre la naturaleza de la Profecía: Incluir que la profecía tiene un carácter permanente que es hablar con autoridad cuando se expone la Escritura. Y, transitorio en cuanto a su carácter revelatorio.
+b) Sobre la Contemporaneidad de la Profecía: EXCLUIR en el segundo párrafo, a partir de la expresión: “aunque [...] hasta el final del mismo párrafo”. Y INCLUIR la expresión: “que no se admita en ningún caso la supuesta manifestación de “profecías” en su carácter revelatorio”.
+
+323 CE – 1998 – DOC. CLIX: “Solicitando que CE-SC/IPB regulamente sobre las elecciones de presbíteros representantes al Presbiterio que sean a la vez aspirantes o candidatos al Ministerio Sagrado, en cuanto al DOC. CE – 076 / 98 – Propuesta del Presbiterio Rio Norte del Sínodo Rio de Janeiro – La CE-SC/IPB: 1. Considerando que el Oficial de la Iglesia es elegido de acuerdo con los artículos 13, párrafos 1º y 2º, 25 párrafo 2º y 112 de la CI/IPB; 2. Considerando que para el miembro de la Iglesia ser aspirante al sagrado ministerio es necesario que él atienda las mismas exigencias para el oficialato, sin olvidar que deba ser civilmente capaz; 3. Considerando que el ser oficial de la Iglesia será una buena experiencia y mucho servirá en la preparación del futuro ministro; 4. Considerando que CI/IPB deja claro cuáles son los casos previstos para que cesen las funciones de un oficial, según el artículo 56, CI/IPB y sus letras; CE-SC/IPB resuelve: 1. Informar al PRNT que nada impide que los aspirantes y candidatos al Sagrado Ministerio sean oficiales de la Iglesia, y, por consiguiente, que participen en las reuniones de los concilios superiores, si son elegidos representantes por sus pares”.
+
+324 Manual del candidato al Sagrado Ministerio de la Palabra de Dios, aprobado por la resolución CE – 2008 - DOC. CXXXV: “2.1 – Responsabilidad del Consejo. Quien se siente llamado para el oficio de Ministro de la Palabra de Dios debe,
+
+<a id="anexo-pagina-142"></a>
+
+## Página PDF 142
+
+142 MANUAL PRESBITERIANO
+
+a) de ser miembro de la iglesia en plena comunión;
+b) del Consejo, declarando que, en el trabajo de la iglesia, ya ha demostrado vocación para el Ministerio Sagrado;[325]
+c) de salud física y mental, suministrado por profesional indicado por el concilio.[326]
+
+Art. 116. Aceptados los documentos de que trata el artículo anterior, el concilio examinará al aspirante[327] en cuanto a los motivos que lo llevaron a desear
+
+preliminarmente, estar inscrito como miembro y perfectamente integrado en la vida de la Iglesia desde hace por lo menos 3 (tres) años. Durante este tiempo, quien se presenta como vocacionado para el oficio de pastor necesita demostrar, a través de vivencias y prácticas, la sincera vocación para el Ministerio Pastoral”.
+
+325 CE – 2019 – DOC. XCVIII: “[..] Consulta del PRID sobre candidato al sagrado ministerio. Considerando: 1 – Lo que dispone el Manual de Vocación en cuanto a la competencia que descansa sobre el consejo de la Iglesia local para evaluar la supuesta vocación afirmada por aquellos que aspiran al Ministerio de la Palabra; 2 – Que aquellos que se sientan llamados para el Ministerio de la Palabra de Dios deben presentar al Presbiterio declaración del consejo confirmando que en el trabajo de la Iglesia ya demostraron vocación para el Ministerio Sagrado, conforme CI/IPB, art. 115, letra “b”; 3 – Que la resolución del SC/IPB determina el plazo mínimo de tres años de membresía para los candidatos al Sagrado Ministerio; 4 – Que en el caso examinado, el aspirante constaba como miembro de iglesia involucrada con proceso de plantación de nueva IP, la cual, siendo organizada, inscribió en su registro de miembros al referido aspirante; 5 – Que tanto la iglesia madre como la nueva iglesia afirman conocer y atestiguan la idoneidad y vocación del aspirante. 6 – La Resolución CE-SC-2003 – 002 – DOC. II, la CE-SC/ IPB – 2019 resuelve: 1 – Tomar conocimiento; 2 – Responder al consulente que para la situación específica del aspirante no es necesario el cumplimiento del plazo de tres años en la nueva iglesia organizada, pudiendo ser contabilizado el tiempo de membresía del mismo en la iglesia madre”. CE – 2025 – DOC. CLVI: “II. En cuanto a la sanidad física, determinar que sólo profesionales médicos sean los únicos profesionales autorizados y aceptados para la expedición de informe de sanidad física; III. En cuanto a la sanidad mental, determinar que sólo médicos psiquiatras, neurologistas y psicólogos, debidamente inscritos y autorizados por sus consejos profesionales, sean los únicos profesionales autorizados y aceptados para la expedición de informe de salud mental”.
+
+326 SC – 2018 – DOC. CXCIII: “Propuesta de la Junta de Educación Teológica para Formación de una Comisión que pueda examinar el artículo 115, letra “c”, a la luz de la Legislación Brasileña actual que trata de las Personas con Discapacidad. [...] El SC/IPB – 2018 resuelve: 1. Tomar conocimiento; 2. Orientar los Presbiterios, que sigan exigiendo los certificados de salud física y mental, en virtud del art. 115, letra “c”, de la CI/IPB, sin embargo, en cuanto a la comprobación del certificado de “sanidad física”, los mismos verifiquen, a través de profesional competente, si el candidato, aunque presentando alguna limitación física, sea capaz de cursar el Seminario y posteriormente desarrollar el ministerio pastoral, ya que siendo reconocida la capacidad física del aspirante, por el profesional competente, que sea considerado cumplido el requisito constitucional
+
+327 CE – 2009 – DOC. CLIV: “[...] CONSULTA 02 – QUIÉN EXAMINA AL
+
+<a id="anexo-pagina-143"></a>
+
+## Página PDF 143
+
+143 CONSTITUCIÓN
+
+el Ministerio; y, siendo satisfactorias las respuestas, pasará a ser considerado candidato.[328]
+
+Art. 117. Cuando el Presbiterio juzgue conveniente, podrá revocar la candidatura mencionada en el artículo anterior, registrando las razones de su acto.[329]
+
+Art. 118. Nadie podrá presentarse para la licenciatura ministerial sin haber completado el estudio de las materias de los cursos regulares de cualquiera de los seminarios de la Iglesia Presbiteriana de Brasil.[330]
+
+ASPIRANTE: EL PLENO O UNA COMISIÓN DE EXPEDIENTE – REGLAMENTACIÓN DEL ARTÍCULO 116 CI/IPB”. RESPUESTA: “El concilio por su plenario o por una comisión nombrada por el concilio [...]”.
+
+328 Art. 88, letra “a”. CE – 1976 – DOC. XLIV: “La Comisión Ejecutiva del Supremo Concilio, resuelve: [...] respecto del sustento de Seminarista, informar que el referido sustento de candidato al Ministerio es de competencia de los Presbiterios que los envían para los Seminarios de nuestra Iglesia, así como de otros Institutos de Estudios Teológicos”. SC – 1990 – DOC. CLXIII: “Determinar que el candidato esté presente en todas las reuniones ordinarias del Presbiterio, prestando servicios y familiarizándose con los trabajos conciliares”. CE – 2008 – DOC. CXXXV: Aprueba el MANUAL DEL CANDIDATO AL MINISTERIO DE LA PALABRA DE DIOS [esta resolución fue reafirmada por la resolución CE – 2009 – DOC. XX y confirmada por la resolución SC – 2010 – DOC. LXXIX].
+
+329 CE – 1968 – XXXIX: “[...] medidas disciplinarias de la CES – La CE-SC/IPB, considerando que la Comisión Especial de los Seminarios tiene poderes conferidos por el SC para determinar cuáles son las medidas aplicables a los seminaristas cuya conducta se muestre incompatible con los estándares éticos y doctrinarios de la IPB; Considerando que, a menos que los seminaristas referidos se retracten de sus errores y reafirmen sus votos de sumisión a las leyes y a los principios presbiterianos, no deben permanecer vinculados a los Presbiterios, en la condición de candidatos al Ministerio, aunque estén cursando otros Seminarios, resuelve: Insistir en que las decisiones y medidas disciplinarias adoptadas por la CES sean acatadas y cumplidas por todos los concilios de la IPB, especialmente los Presbiterios, a quienes corresponde velar para que todo seminarista, al ser admitido o ordenado al Ministerio de la IPB, reafirme su creencia en las Escrituras Sagradas como Palabra de Dios, así como su lealtad a la Confesión de Fe, a los Catecismos y a la Constitución de la Iglesia Presbiteriana de Brasil – Principios de liturgia, art. 33 – así como preste obediencia a las autoridades constituidas en la Iglesia”.
+
+330 SC-E – 2014 – DOC. X: Reafirma la resolución SC – 1970 – DOC. XCVII : “recomendar a todos los presbiterios de la IPB que encaminen a sus candidatos al Sagrado Ministerio a los seminarios de la Iglesia Presbiteriana de Brasil”. SC – 2018 – DOC. CCXVI: Consulta acerca del envío de candidatos al Seminario: “[...] El SC/IPB – 2018 resuelve: 1. Tomar conocimiento; 2. Acerca de la consulta 1: ‘Si el Seminario Martin Bucer está en acuerdo con la confesionalidad de IPB?’. Específicamente en el punto presentado por el documento en cuestión, no hay armonía entre lo que tenemos en nuestros símbolos de Fe en cuanto a la observancia del Día del Señor y la confesión adoptada por el Seminario Martin Bucer; 3. Acerca de la consulta 2: ‘Los presbiterios pueden enviar candidatos a la FITREF o Martin Bucer?". El envío de candidatos es
+
+<a id="anexo-pagina-144"></a>
+
+## Página PDF 144
+
+144 MANUAL PRESBITERIANO
+
+§ 1º En casos excepcionales, podrá ser aceptado para la licenciatura ministerial un candidato que haya realizado un curso en otro seminario idóneo o un curso teológico conforme al programa que le haya establecido el Presbiterio.[331]
+
+una decisión que corresponde individual y localmente a cada presbiterio. Sin embargo, se debe resaltar la decisión ya tomada por la IPB a la que RECOMIENDA a todos los Concilios a ella jurisdicionados, que se cumpla lo que fue decidido, a saber: enviar a los candidatos para los seminarios de la IPB; 4. Sobre la consulta 3: ‘¿Enviando al candidato a una de esas instituciones el Presbiterio puede elegir entre enviar posteriormente a un seminario de la IPB para la complementación de las materias, o incluso designar profesores dentro de su propio concilio para complementar la formación del candidato?’ Tratándose de complementación en Seminarios de la IPB, ya existe una reglamentación que establece el límite para aprovechamiento de créditos (RI – Seminarios de la IPB, art. 44); 5. Sobre la consulta 4: ‘Siendo orientación del SC/IPB por el envío de candidatos exclusivamente a seminarios de la IPB es posible que se cambie la redacción de la resolución SC-E – 2014 – DOC. XIV para eliminar la supuesta ambigüedad que ha dado margen a presbiterios a no enviar a sus candidatos a nuestros seminarios?’. Sí. Esto es posible siempre que se solicite a través de los concilios competentes, presentando las razones que fundamentan esa petición; 6. En vista de los cuestionamientos que motivaron la presente resolución, decidir: a. Que la JET REALICE UNA EVALUACIÓN, CUANDO SE LE SOLICITE, DE LAS INSTITUCIONES A LAS QUE EXPIDIÓ EL CERTIFICADO DE IDONEIDAD, con el objetivo de evaluar cada punto doctrinal de tales instituciones; b. Que la JET no emita más parecer de idoneidad con validez indeterminada teniendo en cuenta los posibles cambios que pueden ocurrir en esas instituciones, las cuales no están bajo los auspicios de la IPB. De esa forma se evitará que una institución que goza del parecer de idoneidad de la IPB tome un sesgo confesional contrario al de la IPB y continúe con anuencia de la IPB; c. Que en el caso de los Seminarios con vínculos institucionales internacionales, como es el caso de ambos, antes que la JET emita el certificado de idoneidad de la institución bajo análisis, sean observadas por medio de la CRIE todas las cuestiones pertinentes al nivel de relación de la IPB con tal institución y o denominación; d. Que los presbiterios busquen cumplir el art. 118, evitando la excepción contemplada en § 1º para validar el envío de candidatos a otro seminario que no sea de IPB, puesto que tal excepción además de ser nociva en muchos aspectos, puede traer grandes perjuicios para el mantenimiento de la uniformidad doctrinaria de la IPB”.
+
+331 SC – 1970 – DOC. LVII: “Informe de la Comisión Especial de los Seminarios – El Supremo Concilio resuelve: [...] I – [...]. II – En cuanto a los candidatos al ministerio de IPB, no formados en sus instituciones de enseñanza teológica: a) Considerando que corresponde proveer la Iglesia de un Ministerio marcado por la esmerada preparación, por la absoluta fidelidad a la Iglesia y sus Estándares básicos de Fe y Doctrina y por la leal consonancia con las directrices y normas de la Institución. b) Considerando que, en la actualidad, existe una tremenda confusión espiritual, ética y teológica, infiltrándose cada vez más en el ministerio elementos no plenamente calificados para el sagrado múnus. c) Considerando que art. 118, la CI/IPB contempla la prioridad, si no casi la exclusividad, de nuestros Seminarios para la formación y preparación de nuestro ministerio. d) Considerando que, ese mismo artículo en su párrafo 1º, con la fuente secundaria, admite la recepción de candidatos 
+
+<a id="anexo-pagina-145"></a>
+
+## Página PDF 145
+
+145 CONSTITUCIÓN
+
+a la licenciatura provenientes de otros Seminarios e instituciones de enseñanza tecnológica, reconocidos como idóneos. e) Considerando que al SUPREMO CONCILIO le corresponde establecer, a la luz del artículo 97 de la CI/IPB, letra “j” estándares de enseñanza preteológica y teológica; el Supremo Concilio resuelve: 6) Determinar a las Congregaciones de nuestros Seminarios que observan de manera más constante y completa a los alumnos, en lo que se refiere a su vocación, espíritu, relación, actitud de vida, carácter, conducta, disciplina, espiritualidad y posición teológica e ideológica, informando inmediatamente a los tutores y a la CES de cualesquiera hechos, actitudes e ideas que contraindiquen el encaminamiento para el ministerio. 7) Determinar que todo candidato a la licenciatura o ordenación que provenga de Seminario o Institución de preparación teológica no afiliados a la IPB o por ella mantenidos, obtenga por intermedio de la CES reconocimiento previo de su idoneidad personal y de aquella del Curso Teológico que haya hecho antes de dar al Presbiterio cumplimiento a lo que dispone la CI/IPB en esa materia. 8) Recomendar a los Presbiterios, que solo apliquen lo que les faculta el artículo 118 de la CI/IPB, párrafo 1º, in fine, en cuanto a candidatos preparados conforme programa establecido directamente por el concilio, después de la aprobación previa de la CES. 9) Determinar que la admisión de un ministro de otra comunidad evangélica además de las exigencias del artículo 47 de la CI/IPB, sea precedida de consulta a la CES”. CE – 2007 - DOC. XXIII: Consulta sobre el artículo 118 de la CI/IPB y su § 1º - “La CE-SC/IPB – 2007 resuelve: Aprobar en los siguientes términos: Considerando: que el SC 70-057 – DOC. LXXIII y CE/SC 97-113 – DOC. XX ya han tratado parcialmente sobre el asunto, estableciendo la excepcionalidad del párrafo 1º del art. 118 de la CI/IPB y la competencia de los Presbiterios para juzgar la idoneidad de las instituciones; el SC-IPB – 2006 resuelve: 1) reiterar que el art. 118 de la CI/IPB contempla la prioridad, si no casi la exclusividad, de nuestros Seminarios para la formación y preparación de nuestros ministros; 2) recordar que ese mismo artículo, en su § 1º, en carácter excepcional, admite la recepción de candidatos a la licenciatura provenientes de otros Seminarios e Instituciones de Enseñanza Teológica reconocidos como idóneos o de aquellos que hayan estudiado de acuerdo con programa de estudio trazado por el concilio, siendo esta materia de competencia de los presbiterios; 3) recordar que son inconstitucionales las deliberaciones de presbiterios de convertir en norma el encaminamiento de sus candidatos al sagrado ministerio para otras instituciones no oficiales de IPB; 4) determinar a los Sínodos, a la luz del art. 94, letras “e” y “g”, de CI/IPB, que velen por que los presbiterios cumplan lo establecido por el art. 118 de la CI/IPB”. SC – 2010 – DOC. LXXXV – Modificación del Reglamento interno de los Seminarios y JURETs: [...]Art. 43 - Se reciben en transferencia, alumnos provenientes de otros Seminarios de la Iglesia Presbiteriana de Brasil, a los cuales serán acreditadas las disciplinas debidamente cursadas en esas instituciones, del currículo aprobado por el Supremo Concilio. Art. 44 - Se reciben, en transferencia, después de la aprobación en el Proceso Nacional de Selección, alumnos provenientes de seminarios evangélicos idóneos, a los cuales serán acreditadas las disciplinas equivalentes, mediante deliberación de la congregación, hasta un máximo del 40% del plan de estudios en vigor. Párrafo 1º - Solo serán acreditadas las disciplinas equivalentes en las cuales el alumno haya tenido asistencia mínima al 75% de las clases impartidas y haya obtenido una calificación promedio, como mínimo, 7 (siete). SC – 2010 – DOC. CXLIII: “[...] Recomendar el cumplimiento de la resolución
+
+<a id="anexo-pagina-146"></a>
+
+## Página PDF 146
+
+146 MANUAL PRESBITERIANO
+
+§ 2º El Presbiterio acompañará la preparación de los candidatos por medio de un tutor eclesiástico.[332]
+
+CE-SC/IPB – 2008, conforme DOC. CXXXIV, ítems 3 y 4 a saber: "CE – 2008 – DOC. 134 – CE-SC/IPB – 2008 – DOC. CXXXIV – En cuanto al documento 131 – Sumario: Oriundo de la Junta de Educación Teológica que trata del art. 118 de la CI/IPB sobre la expresión “Seminarios Idóneos”. Considerando: 1. La inexistencia de una definición clara de lo que sea “Seminario idóneo” 2. Que el art. 118, en su párrafo 1º, trata de una excepcionalidad, por lo tanto, la regla general y prioritaria de la Iglesia Presbiteriana de Brasil es que sus candidatos al Sagrado Ministerio hayan “completado el estudio de las materias por cursos regulares de cualquiera de los seminarios de la IPB” 3. Que la excepcionalidad viene volviéndose regla y que el número de candidatos al Sagrado Ministerio, más y más, recibe formación teológica y pastoral impartida por instituciones de Enseñanza Teológica, sean seminarios, Institutos Bíblicos, cursos por correspondencias y otros, desconocidos de la Iglesia Presbiteriana de Brasil. 4. Que tal práctica puede convertirse en una puerta abierta para la formación de pastores y, a través de estos, de iglesias y futuras generaciones divorciadas de nuestra herencia teológica, pastoral y litúrgica bíblico-reformada. CE-SC/IPB – 2008 resuelve: 1.Tomar conocimiento; 2. Responder que son seminarios idóneos aquellos cuyos contenidos programáticos ofrecidos estén de acuerdo con la Confesionalidad de la Iglesia Presbiteriana de Brasil 3. Responder que la competencia para evaluar la idoneidad de los seminarios es de la JET, según decisiones SC-94-024 – DOC. CCXXVIII; CE-SC/IPB – 2000 – DOC. CV. 4. Reafirmar la resolución SC-70-097 – Recomendar a todos los presbiterios de la IPB que encaminen a sus candidatos al Sagrado Ministerio a los seminarios de la Iglesia Presbiteriana de Brasil”. SC – 2018 – DOC. CI: “Consulta del PPIR sobre el envío de candidatos al Ministerio a otros Seminarios que no los de la IPB: Considerando: 1) Que la materia levantada por el PPIR no ha sido tratada por los Presbiterios de la IPB de forma homogénea, causando así, incomodidad en muchos Presbiterios; 2) Que el Supremo Concilio ya trató sobre este asunto conforme decisión SC-70-097, SC-E – 2014, e incluso así todavía existen Presbiterios enviando sus candidatos a Seminarios que no sean de la IPB; 3) Que el art. 118 de la CI/IPB ha sido interpretado de formas diferentes y causado polémica sobre esta materia. El SC/IPB – 2018 resuelve: 1. Tomar conocimiento; 2. Reafirmar que las decisiones supracitadas están en vigor; 3. Informar que todos los candidatos al Sagrado Ministerio deben ser enviados a los Seminarios de la IPB; 4. Esclarecer que el reconocimiento de “idoneidad” no autoriza el envío de candidatos para instituciones que no sean de la IPB, sino que solo “reconoce”, en caso de que el candidato ya haya hecho algún curso en “institución idónea”, que este curso podrá ser aprovechado en los Seminarios de la IPB hasta un 40%; 5. Esclarecer que la Escuela Teológica Charles Spurgeon no posee la idoneidad reconocida por la JET/IPB para formación de pastores presbiterianos; 6. Recordar que es responsabilidad de los Sínodos fiscalizar y orientar sus Presbiterios jurisdicionados, inclusive, pudiendo, si es necesario, disciplinar los concilios desobedientes conforme preconiza el art. 94 letra “a” de la CI/IPB”.
+
+332 CE – 1984 – DOC. XLIX: Tutores eclesiásticos de candidatos al Sagrado Ministerio. “1) Las funciones privativas del Ministro están enumeradas en el artículo 31 de la Constitución de la Iglesia; no consta allí que la tutela eclesiástica de candidatos al Sagrado Ministerio sea función privativa del Ministro. 2) El Presbítero regente tiene en los
+
+<a id="anexo-pagina-147"></a>
+
+## Página PDF 147
+
+147 CONSTITUCIÓN
+
+Art. 119. El candidato, concluidos sus estudios, se presentará al Presbiterio que lo examinará en cuanto a su experiencia religiosa y motivos que lo llevaron a desear el Sagrado Ministerio, así como en las materias del curso teológico.[333]
+Párrafo único. Puede el Presbiterio dispensar al candidato del examen de las materias del curso teológico; no lo dispensará nunca del relativo a la experiencia religiosa, opiniones teológicas y conocimiento de los Símbolos de Fe, exigiendo la aceptación integral de los últimos.[334]
+
+concilios de la Iglesia autoridad igual a la de los ministros (Constitución de la Iglesia, art. 52), de donde se concluye que la delegación de funciones es igualmente distribuida a presbíteros docentes y a presbíteros regentes. 3) Por lo tanto, el Presbítero regente puede ser designado tutor eclesiástico de los candidatos al Sagrado Ministerio. En cuanto al Doc. 25, item 2º – Consulta del Presbiterio Oeste de Goiânia, citando la Constitución de la Iglesia, art. 115, letra “b”, sobre la aceptación de mujeres como aspirantes al sagrado ministerio y, eventualmente, candidatas al sagrado ministerio. Se resuelve: 1) Observar que la aspiración y/o la candidatura al Sagrado Ministerio solamente se aplican a iglesias que ordenan mujeres para el presbiterato docente en el caso; 2) La Iglesia Presbiteriana de Brasil no ordena presbíteras docentes (Constitución de la Iglesia, art. 25, donde se dice § 2º que “para oficio de Presbítero [...] serán elegidos hombres” etc.) Es de notarse que ese párrafo califica, sin distinguir, los oficiales enumerados en las letras “a” y “b” del art. 25: a) “ministros del Evangelio o presbíteros Docentes”. b) “presbíteros Regentes”, además de diáconos. 3) No cabe, pues, recibir mujeres como aspirantes y/ o candidatas al Presbiterato Docente de la Iglesia Presbiteriana de Brasil”.
+
+333 Art. 88, letra “a”.
+
+334 Arts. 31 y 132; art. 33 del PL y art. 13 del Modelo de Estatuto para el Presbiterio. SC - 2014 - DOC. XL: "[...] Consulta para que se realicen esfuerzos para una mejor definición sobre confesionalidad en nuestra Iglesia. Considerando: 1) Que las definiciones presentadas en los diccionarios de lengua portuguesa, apuntan que las palabras lealtad y fidelidad son sinónimos [...]; 2) Que la CI/IPB y los Principios de Liturgia no presentan diferenciación entre tales términos; 3) Que para el cumplimiento de la lealtad a los Símbolos de Fe, se requiere fidelidad, y esta refleja la obediencia a la Palabra de Dios; 4) Que el deber de lealtad, conjuntamente con el deber de respeto, es más amplio, de forma que trae el deber de fidelidad dentro de sí y, consecuentemente, no es posible ser leal sin ser fiel; el SC/IPB 2014 RESUELVE: 1. En cuanto a la pregunta "¿Hay diferencia en los términos lealtad y fidelidad, como algunos argumentan?", responder que no hay diferencia; 2. En cuanto a la pregunta “El juramento de lealtad a los símbolos de Fe adoptados por la IPB, hecho por los oficiales, se refiere a cada capítulo y o sección, al sistema general, como un todo, tal cual presentados por ellos?”, responder que la reafirmación en el momento de la ordenación implica en la aceptación integral, en todos sus términos, de los Símbolos de Fe, conforme CI-IPB - Artículo 119, párrafo único; 3. En cuanto a la pregunta “Cuál es el exacto significado de la expresión “fiel exposición del sistema de doctrina” contenida en el juramento prestado por todos los oficiales presbiterianos en el momento de su ordenación?”, responder que el significado de la expresión “fiel exposición del sistema de doctrina”, significa una
+
+<a id="anexo-pagina-148"></a>
+
+## Página PDF 148
+
+148 MANUAL PRESBITERIANO
+
+Art. 120. Asimismo, el candidato a la licenciatura ministerial deberá presentar al Presbiterio:[335]
+a) una exégesis de un pasaje de las Escrituras Sagradas, en el texto original en el que debe revelar capacidad para la crítica, método de exposición, lógica en las conclusiones y claridad al destacar la fuerza y expresión del pasaje bíblico;
+b) una tesis de doctrina evangélica de la Confesión de Fe;
+c) un sermón pronunciado en público ante el concilio,[336] en el cual el candidato debe revelar sana doctrina, buena forma literaria, retórica, didáctica y sobre todo, espiritualidad y piedad.
+Párrafo único. En el caso del § 1º del art. 118, podrá dispensarse la exégesis en el texto original.
+
+Art. 121. El examen referente a la experiencia religiosa y en cuanto a los motivos que llevaron al candidato a elegir el Ministerio, así como la crítica del sermón de prueba, serán hechos ante el concilio solamente.
+
+Art. 122. Pueden ser de la libre elección del candidato los asuntos de las pruebas para la licenciatura ministerial.
+
+Art. 123. Consideradas suficientes esas pruebas, el Presbiterio procederá a la licenciatura ministerial de conformidad con la liturgia de la Iglesia Presbiteriana de Brasil.[337]
+
+correcta interpretación de las Escrituras Sagradas, Antiguo y Nuevo Testamento, con una presentación sistematizada”.
+
+335 Manual del candidato al Sagrado Ministerio de la Palabra de Dios, aprobado por la resolución CE – 2008 – DOC. CXXXV: Item 4.2.1 – Tesis y Exégesis: “Con el fin de cumplir lo dispuesto, el presbiterio nombrará a la Comisión Especial, conforme CI/ IPB art. 99, atendiendo a lo que establece el caput del art. 100 para la indicación de sus componentes, con el objetivo de hacer cumplir las exigencias del caput del art. 120, letras “a”, “b”, que funcionará como una “Comisión Examinadora para Examen y Dictamen de Tesis y Exégesis”. El orientador de la Tesis y de la Exégesis será considerado miembro nato de la Comisión Examinadora. Corresponderá a la Comisión Examinadora examinar, evaluar, discutir en la presencia del Pleno del Concilio reunido extraordinariamente, y dar parecer sobre la exégesis bíblica y la tesis de doctrina evangélica de la Confesión de Fe. Al candidato se asegurará el derecho de respuesta a cualquier afirmación o cuestionamiento hecho en orden, así como la amplia defensa de sus puntos de vista, sin que proceda objeción alguna, si sus ideas sean fieles a las Escrituras Sagradas, a la Confesión de Fe y a las Leyes de la IPB. La comisión examinadora desempeñará sus atribuciones dentro de los plazos determinados por el concilio. Si hay necesidad de correcciones, adaptaciones y/o reformulaciones, en la tesis y/o exégesis, la comisión examinadora formulará sus observaciones en el dictamen entregado al concilio, el cual, en posesión de este, determinará al candidato el plazo en que las correcciones deben ser presentadas a la misma comisión examinadora. El candidato, si discrepa del informe de la comisión examinadora, podrá encaminar al presbiterio, a través de su tutor, los motivos de su discordancia, quedando asegurado el derecho de recurso a las decisiones de la comisión. Después de ser aprobadas la Tesis y Exégesis, el presbiterio continuará los exámenes del candidato”.
+
+336 Art. 129.
+
+337 Art. 31 del PL.
+
+<a id="anexo-pagina-149"></a>
+
+## Página PDF 149
+
+149 CONSTITUCIÓN
+
+Párrafo único. El Presbiterio podrá delegar en una comisión especial[338] el examen, la aprobación o no, y la licenciatura ministerial del candidato.
+
+Art. 124. El Presbiterio, después de la licenciatura ministerial, determinará el lugar y el plazo en que el licenciado pondrá a prueba sus dones, designando también un tutor eclesiástico bajo cuya dirección trabajará.
+§ 1º El licenciado no podrá ausentarse de su campo sin licencia de su tutor.
+§ 2º El informe de las actividades del licenciado podrá ser presentado al Presbiterio por su tutor o por el propio candidato a la ordenación, mediante propuesta del tutor y asentimiento del concilio.
+§ 3º El período de experiencia del licenciado no debe ser menos de un año, ni más de tres, salvo casos especiales, a juicio del Presbiterio.[339]
+
+Art. 125. Cuando el candidato o licenciado se mude, con permiso del Presbiterio, a límites de otro concilio, le será concedida carta de transferencia.
+
+Art. 126. La licenciatura ministerial puede ser revocada en cualquier tiempo, debiendo el Presbiterio registrar en acta los motivos que determinaron esa medida.
+
+Sección 5ª
+Ordenación de Licenciados
+
+Art. 127. Cuando el Presbiterio considere que el licenciado, durante el período de experiencia, dio pruebas suficientes de haber sido llamado para el oficio sagrado y de que su trabajo fue bien aceptado,[340] tomará las providencias para su ordenación.[341]
+
+338 Art. 99, ítem 3.
+
+339 SC – 2014 – DOC. CLIV: “[...] Propuesta nº 11 – Añadir el § 4º al art. 124 de la CI/IPB, Para que exista una previsión expresa de pago de una ayuda de coste mensual al licenciado, durante el período de licenciatura, en valor definido por el Presbiterio, y que cualquier otra ayuda sea objeto de ajuste entre el licenciado y su campo de trabajo, de acuerdo con las disponibilidades locales. Considerando: 1) El carácter general y sintético de la norma constitucional, contrario a la definición detallada de asuntos en el cuerpo de la Constitución; 2) Que la materia se pueda resolver en el plano infraconstitucional, el SC/IPB – 2014 resuelve: Rechazar la propuesta de enmienda constitucional formulada”.
+
+340 Art. 108.
+
+341 Art. 88, letra “a” de la CI/IPB, y arts. 32 a 36 del PL. CE – 2012 – DOC. CCV: “[...] la situación de ‘pastor sin campo’ no está contemplada en la CI/IPB”.
+
+<a id="anexo-pagina-150"></a>
+
+## Página PDF 150
+
+150 MANUAL PRESBITERIANO
+
+Art. 128. Las pruebas de ordenación consisten en:
+a) examen de la experiencia religiosa del ordenando, especialmente después de licenciado; de las doctrinas y prácticas más corrientes en el momento; historia eclesiástica, movimiento misionero, sacramentos y problemas de la iglesia;[342]
+b) sermón en público ante el Presbiterio.
+
+Art. 129. El examen referente a la experiencia religiosa y la crítica del sermón de prueba serán hechos ante el concilio solamente.
+
+Art. 130. Consideradas suficientes las pruebas, pasará el Presbiterio a ordenarlo,[343] de conformidad con la liturgia de la Iglesia Presbiteriana de Brasil.[344]
+
+Art. 131. Si el Presbiterio considera que el licenciado no está habilitado para la ordenación, la aplazará por un período que no exceda de un año, pudiendo renovarse ese plazo.
+Párrafo único. Si después de tres años el candidato no logra habilitarse para la ordenación, se le revocará la licenciatura ministerial y, en consecuencia, su candidatura.
+
+Art. 132. En la Secretaría Ejecutiva del Presbiterio habrá un libro en el que el recién ordenado, inmediatamente después de ser recibido como miembro del concilio, suscribirá el compromiso de servir bien y fielmente en el Ministerio Sagrado.[345]
+Párrafo único. Esta exigencia se aplica también a los ministros que vienen de otra iglesia evangélica.
+
+342 Art. 32.
+
+343 Art. 32, párrafo único del PL: “Deberá el Presbiterio realizar la ceremonia en sesión pública; sin embargo, podrá, cuando las circunstancias lo exijan, nombrar para el caso una comisión especial”.
+
+344 Art. 23, § 3º, y art. 109, de la CI/IPB; arts. 32 a 36 del PL.
+
+345 Art. 33 del PL. CE – 2003 – DOC. IX: “[...] cumplimiento de promesas hechas por los oficiales de la IPB en su ordenación y durante el ejercicio de su oficio, el Supremo Concilio resuelve: Reafirmar que las promesas hechas en la ordenación de los oficiales son permanentes y esenciales en el ejercicio del presbiterato. Si algún oficial cambia sus convicciones en cuanto a estos votos, deben aplicarse las penas previstas en el art. 9º, CD/IPB, en consonancia con el art. 56, las letras “c” y “d” de CI/IPB, sin que sea optativo para los Concilios ejercer o no lo que establece el art. 42 del CD/IPB en consonancia con el art. 4º, párrafo único. del CD/IPB”.
+
+<a id="anexo-pagina-151"></a>
+
+## Página PDF 151
+
+151 CONSTITUCIÓN
+
+Sección 6ª
+Relación Pastoral
+
+Art. 133. En la designación de pastores, se obedecerá al criterio de la conveniencia de la obra evangélica,[346] tanto local como regional,[347] atendiendo también a la preferencia particular del ministro cuando esta no colisiona con los intereses de la iglesia.
+
+Art. 134. La iglesia que desee invitar como su pastor a un ministro en igual cargo en otra iglesia, o quien esté para ser ordenado, debe dirigirse a su propio Presbiterio.[348]
+
+Art. 135. Cuando se trate de pastor o de ordenando del mismo Presbiterio, éste debe resolver si debe o no entregarle la invitación.
+Párrafo único. Si la iglesia de la que es pastor el invitado presenta al Presbiterio objeción a la salida del pastor, y si el ministro entrega la solución del caso al concilio, debe conservarlo en la iglesia por él pastoreada, si no hay motivo de orden superior para proceder de otra forma.
+
+Art. 136. Cuando se trate de una invitación a un pastor o a un recién ordenado bajo la jurisdicción de otro Presbiterio,[349] el concilio que reciba el documento lo remitirá a aquel Presbiterio, que resolverá el caso e informará al concilio interesado.[350]
+
+346 Art. 46.
+
+347 SC – 1998 – DOC. XCVII: Propuesta de creación de un Órgano Proveedor de Información de Campos y Obreros – “El SC/IPB-98, en su XXXIV Reunión Ordinaria resuelve: 1) Atender el propósito de la propuesta, atribuyendo a la SE-SC la incumbencia de recibir y suministrar informaciones de nombres de Iglesias y de Pastores, para posibles transferencias de obreros. 2) La información será enviada y solicitada a la Secretaría Ejecutiva por los interesados – Iglesias y Pastores, a través de los Presbiterios”.
+
+348 CE – 2007 – DOC. XXXIV: Consulta previa al Presbiterio: “[...] 1) Es competencia del Presbiterio legislar sobre la conveniencia en la recepción de cualquier ministro oriundo de otros Presbiterios y o incluso denominaciones; 2) Que a la luz del art. 134, puede y debe el Presbiterio orientar sus Iglesias en el sentido de que haya consulta previa cuando de invitación para ministros de otros Presbiterios, evitando así posibles trastornos”.
+
+349 CE – 2005 – DOC. XVI: Préstamo y Cesión de Ministro – “[...] la Comisión Ejecutiva del Supremo Concilio de la Iglesia Presbiteriana de Brasil, resolvió: “3. Declarar que los términos “préstamo” o “cesión” de ministros, no están previstos en la Constitución de la Iglesia Presbiteriana de Brasil. 4. Determinar que los presbiterios no hagan uso de tales prácticas, por no haber base constitucional para tales procedimientos. 5. Determinar que los presbiterios regularicen la situación de todos los ministros “cedidos” o “prestados”, siguiendo orientación de la Constitución de la Iglesia Presbiteriana de Brasil”.
+
+350 Art. 45, caput y § § 1º y 2º; art. 88, letra “a”.
+
+<a id="anexo-pagina-152"></a>
+
+## Página PDF 152
+
+152 MANUAL PRESBITERIANO
+
+Art. 137. La invitación de que trata el art. 135 será encaminada al Secretario del Presbiterio,[351] y también debe ser encaminada una copia al Secretario del Consejo de la iglesia de que el invitado es pastor.
+
+Art. 138. La disolución de las relaciones de Pastor Efectivo con la iglesia confiada a sus cuidados se verificará:[352]
+a) a petición del pastor, después de oír a la iglesia;[353]
+b) a petición de la iglesia, oído el pastor;
+c) administrativamente por el concilio que tenga jurisdicción sobre el ministro después de oídos este y la iglesia.
+
+351 Art. 103. Se refiere al Secretario Ejecutivo, responsable de la correspondencia.
+
+352 Art. 3º, § 1º, la letra “a”; art. 9º, § 1º, letras “a” y “b”; art. 56, la letra “e” y art. 110, CI/IPB. El artículo se aplica indistintamente al pastor efectivo elegido y al pastor efectivo designado (SC – 1994 – DOC. CX – DOC. CCXIV).
+
+353 SC – 1994 – DOC. CX – “En cuanto al anexo A, consulta del Consejo de la IP Penha encaminada por el PRUN sobre la interpretación del art. 138 combinado con el art. 33 § 1º de la CI/IPB, el SC/IPB resuelve: 1) Tomar conocimiento. 2) En cuanto al elemento 1º cuya pregunta es la siguiente: "Las disposiciones del artículo 138 ¿Se aplica indistintamente al Pastor efectivo electo y al Pastor efectivo designado por el Presbiterio?”, responder que sí, esto es, se aplica el art. 138 combinado con el art. 33, §1º de la CI/IPB. 3) En cuanto al elemento 2º, cuya pregunta es la siguiente: “¿Para que haya la disolución de las relaciones pastorales, en el caso de la designación de Pastor efectivo por el Presbiterio, es DISPENSABLE escucharse la Iglesia, incluso considerando que la designación de Pastor efectivo por el Presbiterio depende de una solicitud previa y sin indicación de personas, por parte de la Iglesia?”, responder que la Iglesia DEBE imprescindiblemente ser OÍDA, máxime cuando es atendiendo pedido del Pastor, conforme letra “a” del art. 138 de la CI/IPB. 4) En cuanto al elemento 3º En los siguientes términos: “La solicitud de la Iglesia, objetivando la designación de Pastor efectivo por el Presbiterio, se fundamenta en decisión de su Consejo o en decisión de la asamblea de la Iglesia?”, responder que la solicitud de Pastor efectivo en los términos del art. 33, §1º de la CI/IPB es de exclusiva competencia del Consejo, conforme a los artículos 4º y 8º de la CI/IPB”. CE – 2009 – DOC. CLIV: “Escuchada la Iglesia significa una manifestación formal de la iglesia local reunida en asamblea extraordinaria [...]”.
+
+<a id="anexo-pagina-153"></a>
+
+## Página PDF 153
+
+153 CONSTITUCIÓN
+
+DISPOSICIONES GENERALES
+
+Art. 139. Esta Constitución, la Confesión de Fe y los Catecismos Mayor y Breve, en vigor en la Iglesia Presbiteriana de Brasil, no pueden ser enmendados o reformados sino por iniciativa del Supremo Concilio.[354]
+Párrafo único. Las enmiendas son modificaciones que afectan solo a partes de la Constitución o de los Símbolos de Fe. La reforma es la modificación que afecta a la totalidad o a una gran parte de estos.
+
+Art. 140. Las enmiendas de las que trata el artículo anterior se efectuarán del siguiente modo:
+a) cuando surja en el Plenario del Supremo Concilio alguna propuesta que merezca estudio y consideración por su importancia y oportunidad, se nombrará una comisión de trámite para redactar el respectivo anteproyecto que, después de ser aprobado por el Plenario del Supremo Concilio, se remitirá a los presbiterios para que se pronuncien al respecto;
+b) estos concilios deberán estudiar el anteproyecto en su primera reunión ordinaria y enviar su dictamen a la Comisión Ejecutiva del Supremo Concilio;
+c) si el anteproyecto ha obtenido la aprobación de, por lo menos, dos tercios de los presbiterios, se someterá al Supremo Concilio en su primera reunión ordinaria. Al convocarse el Supremo Concilio, se dará a conocer la materia que se discutirá;
+d) ese Concilio, compuesto por representantes de, por lo menos, dos tercios de los presbiterios, elaborará, decretará y promulgará las enmiendas.
+
+Art. 141. La reforma de la que trata el art. 139 se tramitará del siguiente modo:
+a) cuando surja en el Plenario del Supremo Concilio una propuesta que merezca estudio y consideración por su importancia y oportunidad, se nombrará una comisión especial capacitada para realizar conjuntamente su trabajo;
+b) esta comisión especial elaborará el anteproyecto de reforma, que se enviará a la Comisión Ejecutiva del Supremo Concilio para que esta lo remita a los presbiterios;
+c) estos deberán estudiar el anteproyecto y enviar sus dictámenes a la Comisión Ejecutiva del Supremo Concilio;
+d) si, por lo menos, tres cuartas partes de los presbiterios se manifiestan favorables, en principio, a la reforma, la Comisión Ejecutiva convocará al Supremo Concilio para reunirse en Asamblea Constituyente;
+e) la Asamblea Constituyente, compuesta por representantes de, por lo menos, tres cuartas partes de los presbiterios, elaborará, decretará y promulgará la reforma
+
+354 Arts. 1º y 95.
+
+<a id="anexo-pagina-154"></a>
+
+## Página PDF 154
+
+154 MANUAL PRESBITERIANO
+
+que haya sido aprobada por la mayoría absoluta de los miembros presentes, en el caso de la Constitución. Tratándose de los Símbolos de Fe, será necesaria la aprobación de dos tercios de los miembros presentes.
+
+Art. 142. Cuando se trata de enmiendas o reformas de los símbolos de Fe, esto es, de la Confesión de Fe y de los Catecismos Mayor y Breve, el Supremo Concilio al nombrar la Comisión de que trata el art. 141, tendrá en cuenta la conveniencia de integrarla con ministros que, reconocidamente, se hayan especializado en teología.[355]
+
+Art. 143. El Supremo Concilio organizará:
+a) un manual de liturgia, de que puedan servirse las Iglesias Presbiterianas de Brasil;
+b) modelo de estatutos para concilios, iglesias y sociedades internas;[356]
+c) modelo de reglamento interno para los concilios;[357]
+d) fórmulas para actas, estadísticas y otros trabajos de carácter general de las congregaciones, iglesias y concilios;[358]
+e) instrucciones sobre el criterio a seguir en el examen de las actas de los concilios.[359]
+
+Art. 144. Los estatutos y el reglamento interno del Supremo Concilio deben regular su funcionamiento, tanto en lo que se refiere a sus actividades eclesiásticas como civiles.[360]
+Párrafo único. Cuando se reúna en Asamblea Constituyente, podrá el Supremo Concilio elaborar un reglamento interno suplementario que oriente sus trabajos.
+
+355 Art. 100.
+
+356 SC – 1954 – DOC. CVI: “En cuanto al oficio del Presbiterio de Pernambuco pidiendo alteración del art. 3º, Cap. V, del Modelo de Estatuto para Iglesia Local, el SC resuelve declarar que ese modelo, como los demás suministrados por el SC, no son obligatorios sino en materia que forme parte de la CI/IPB. En el caso en cuestión, cada Iglesia tiene libertad para adoptar la orientación que parezca más conveniente”. Precedente: CE – 2018 – DOC. CXXXV – alteración de la expresión “Plenario del Sínodo” por “Asamblea General del Sínodo”, a fin de atender exigencia del Consejo Superior de la Magistratura – TJ-SP.
+
+357 SC – 1954 – DOC. CXI: En cuanto a la propuesta de añadir el modelo de Reglamento interno de los concilios, el SC resuelve: 1) declarar que la confección de reglamento interno de un concilio es materia de competencia del propio concilio, correspondiendo al SC únicamente suministrar modelos, conforme art. 143, letra c, de la CI/IPB; 2) remitir el asunto a los concilios inferiores para su consideración.
+
+358 Reglamento para la Confección de Actas de los Concilios de la IPB.
+
+359 Ibidem.
+
+360 Estatuto y RI-SC modificados conforme resolución SC -2022 - DOC. CCIX.
+
+<a id="anexo-pagina-155"></a>
+
+## Página PDF 155
+
+155 CONSTITUCIÓN
+
+Art. 145. Son nulas de pleno derecho cualesquiera disposiciones que, en todo o en parte, implícita o expresamente, contravengan o vulneren la Constitución de la Iglesia Presbiteriana de Brasil.[361]
+Párrafo único. Este artículo deberá figurar obligatoriamente en los estatutos de los concilios, de las iglesias y de todas las demás organizaciones de la Iglesia Presbiteriana de Brasil, incluidas las sociedades internas.
+
+361 SC - 2022 - DOC.XIV: El SC/IPB - 2022 resuelve: Declarar que la CE-SC/IPB no tiene competencia constitucional para dejar sin efecto (anular, invalidar o cancelar) resolución del SC/IPB. CE – 2002 – DOC. LXXXIII: “[...] En cuanto a la Consulta si un concilio puede declarar nulos sus propios actos en la misma reunión, responder que, a la luz del artículo 70, letra “o”, de la CI/IPB, es posible al concilio reconocer la ilegalidad de sus propios actos, y su consecuente nulidad”.
+
+<a id="anexo-pagina-156"></a>
+
+## Página PDF 156
+
+156 MANUAL PRESBITERIANO
+
+DISPOSICIONES TRANSITORIAS
+
+Art. 146. Esta Constitución entrará en vigor a 31 de octubre de 1950, fecha que marca el 433º aniversario de la Reforma Religiosa del siglo XVI.
+Párrafo único. Hasta ese día estará en vigor la Constitución de 1937, con excepción de las partes ya reformadas por el Supremo Concilio, debiendo las iglesias y los concilios que hasta entonces se reúnan regirse por ella.
+
+Art. 147. Dentro del plazo de dos años, a partir de la fecha en que la presente Constitución entre en vigor, las iglesias y congregaciones deben reformar sus estatutos, adaptándolos a la nueva Constitución.
+
+Art. 148. El plazo contemplado en el artículo 42 deberá contarse a partir de la reunión ordinaria de los presbiterios en 1951.
+
+Art. 149. El § 2º del art. 49 solo entrará en vigor el 1º de enero de 1956.
+
+Art. 150. Los copastores que eventualmente existan en el momento en que entre en vigor esta Constitución continuarán en funciones hasta el término del mandato para el que fueron elegidos por sus iglesias.
+
+Art. 151. El Supremo Concilio se reunirá extraordinariamente en febrero de 1951, con la misma composición de la Asamblea de 1950, para concluir los trabajos constituyentes, esto es, para votar las partes de Disciplina y Liturgia.
+
+Art. 152. Hasta que sean promulgados el Código de Disciplina y los Principios de Liturgia, estarán en vigor las disposiciones de la Constitución de 1937, en las partes que no contravengan la Constitución ahora promulgada. Y así, por la autoridad que recibimos, mandamos que esta Constitución sea divulgada y fielmente cumplida en todo el territorio de la Iglesia Presbiteriana de Brasil. Templo de la Iglesia Presbiteriana de Alto Jequitibá, 20 de julio de 1950, en Presidente Soares, Estado de Minas Gerais.
+
+<a id="anexo-pagina-157"></a>
+
+## Página PDF 157
+
+157 CONSTITUCIÓN
+
+ÍNDICE REMISIVO DE LA CONSTITUCIÓN
+LAS INDICACIONES SE REFIEREN A ARTÍCULOS, PÁRRAFOS E INCISOS DE LA CONSTITUCIÓN.
+
+Administración civil – de una iglesia local: 8º; y la asamblea de la iglesia: 9º § 1º c, d, e, f.
+Aspirante al Ministerio – certificados que debe presentar al Presbiterio: 115; examen del: 116; cuándo pasa a ser considerado candidato: 116.
+Asamblea Constituyente – reforma de la CI: 139; cuándo deberá ser convocada: 141 d; composición de la: 141 e; reglamento interno de la: 144, párrafo único.
+Asamblea general de la iglesia – composición y reuniones de la: 9º; competencia de la: 9º § 1º; composición de la... para fines administrativos: 9º § 2º; presidencia de la: 10 e, párrafo único; deber de participar en la: 13 § 1º, 112.
+Asiento – en los concilios: 68.
+Actas – examen de las... del Consejo: 88 i; lo mismo de los presbiterios: 94 g; lo mismo de los sínodos: 97 p; lo mismo de la Comisión Ejecutiva del Supremo Concilio: 97 q; fórmulas para: 143 d; instrucciones sobre el examen de: 143 e.
+Autarquías – facultad que tienen los concilios de organizar: 105; definición de: 105 § 1º; cómo se rigen las: 105 § 2º.
+Autoridad – de quienes son gobernados: 3º § 1º a, b, c; de quienes gobiernan: 3º § 2º, 69; de orden: 3º § 2º; de jurisdicción: 3º § 2º.
+Bautismo – quién puede presentar menores al: 17 a; quién puede administrar el: 31 a; deber del Consejo respecto del bautismo infantil: 83 u.
+Bendición apostólica – quién puede invocar la: 31 b.
+Candidato al Ministerio – admisión, transferencia, disciplina, licenciatura y ordenación de: 88 a; carta de transferencia de: 125; cuándo el aspirante pasa a ser considerado: 116; facultad que tiene el Presbiterio de revocar la candidatura al Ministerio: 117; preparación del: 118 y §§ 1º y 2º; examen del: 119 y párrafo único, 120, 121, 122; licenciatura del: 123 y párrafo único; plazo para la revocación: 126.
+Cargo electivo – plazo para ejercer: 13 § 2º
+Carta de transferencia – cómo debe ser otorgada: 18 a; para qué iglesias puede ser otorgada: 19; a quién puede ser concedida: 19; qué certifica la: 21; plazo durante el cual es válida la: 21; cómo debe enviarse la: 21 in fine; rechazo y devolución de: 22 § 1º; jurisdicción mientras no se haga efectiva la transferencia: 21.
+Matrimonio religioso – con efecto civil: 31 c.
+Catecismos – enmiendas a los... Mayor y Breve: 139 y párrafo único, 140; reforma de los... Mayor y Breve: 139 y párrafo único, 141 y 142.
+
+<a id="anexo-pagina-158"></a>
+
+## Página PDF 158
+
+158 MANUAL PRESBITERIANO
+
+Causas generales – mantenimiento de las: 97 f.
+Comisiones – ministros y presbíteros que pueden ser incluidos en: 27 § 1º y 101; informes de las... subordinadas al Presbiterio: 88 g; facultad de nombrar: 98; categorías de: 99; constitución de las... especiales: 99 § 1º; funcionamiento de las... temporales y de las permanentes: 99 § 2º; qué deben tener en cuenta los concilios al nombrar: 100; cobertura de las vacantes verificadas en el interregno: 100, párrafo único.
+Comisiones ejecutivas – definición de las: 102 §§ 1º y 2º; atribuciones de las: 104; limitación de los poderes de las: 104 párrafo único.
+Comunidad – sin gobierno propio: 4 §§ 1º y 2º.
+Concilios – naturaleza o definición de: 59; enumeración de los: 60; graduación de los: 61; diferenciación de los: 62; trámite para remitir documentos a los: 63; recurso contra los actos de un: 64; desacuerdo con la resolución de un: 65; derecho del concilio ante un disentimiento o una protesta: 65 § 3º in fine; miembros de los: 66; Mesa de los... superiores al Consejo: 67; elección de Presidente, secretarios temporales y Tesorero de los... superiores: 67 § 1º; elección de Secretario Ejecutivo de los... superiores: 67 § 2º; condiciones para tomar asiento en los: 68; autoridad de los: 69; competencia de los: 70; apertura y cierre de las sesiones de los: 72; reunión extraordinaria de los: 74.
+Concilios superiores – cumplir las órdenes de los: 83 v; 88 m.
+Congregaciones – sin gobierno propio: 4 §§ 1º y 2º; organización como persona jurídica: 6, párrafo único; quién puede establecer una: 83 r; organización, disolución, unión y división de una: 88 f.
+Confesión de Fe – enmiendas a la: 139 y párrafo único, 140; reforma de la: 139 y párrafo único, 141 y 142.
+Consejo – definición y composición del: 8 y 75; quórum del: 76; lo mismo para asuntos administrativos: 77; funcionamiento ad referendum del: 76 § 1º y 78; cuándo el pastor ejerce las funciones del: 76 § 2º; presidencia del: 78 y párrafos; cuándo puede funcionar sin la presidencia de un ministro: 78; cómo actuar si el pastor se niega a convocar el: 79; reuniones del: 81; reunión ilegal del: 82; convocatoria obligatoria de todos los presbíteros a la reunión del: 82; funciones exclusivas del: 83; deber del... respecto de las órdenes de los concilios superiores: 83 v; examen de las actas del: 88 i.
+Constitución de la Iglesia – quién debe hacer que las iglesias y congregaciones observen la: 88 f; enmiendas a la: 139 y párrafo único, 140; reforma de la: 139 y párrafo único, 141; autoridad de la: 145; fecha en que entra en vigor la presente: 146 y párrafo único.
+Copastores – en ejercicio cuando entre en vigor la presente Constitución: 150.
+Despojamiento – de ministros sin censura: 42 y 148; de ministros: 48 y §§.
+
+<a id="anexo-pagina-159"></a>
+
+## Página PDF 159
+
+159 CONSTITUCIÓN
+
+Diácono – plazo para ejercer el cargo de: 13 § 2º; definición y funciones del: 53; período de ejercicio del cargo de: 54; elección de: 53 y 54 § 1º, 83 d, 110, 111 y párrafo único, 112, 113 y 114; cualificaciones del: 55; término de las funciones de: 56; emérito: 57; ordenación e instalación de: 113, 114.
+Disciplina – en vigor hasta que se promulgue el Código de Disciplina: 152.
+Disentimiento – respecto de la resolución de un concilio: 65 y §§ 1º y 3º; derecho de un concilio ante un: 65 § 3º in fine.
+Diezmo al Supremo Concilio – quién debe procurar que las iglesias paguen puntualmente el: 88 j; competencia del Supremo Concilio para recibir el diezmo de las iglesias: 97 f; finalidad del: 97 f.
+Documento – trámite para remitir cualquiera a un concilio: 63.
+Educación religiosa – orientación y supervisión de la: 83 h, 36 d, 25 a, 94 c.
+Elección – de Pastor Efectivo: 34 a, 83 e, 88 h, 110; de presbíteros y diáconos: 110, 111 y párrafo único, 112, 113, 114, 50 y 54 § 1º, 83 d; de Vicepresidente, Secretario y Tesorero por el Consejo: 84; de representante ante el Presbiterio: 83 t; 85, párrafo único.
+Enmiendas – de la Constitución, la Confesión de Fe y los Catecismos Mayor y Breve: 139 y párrafo único, 140.
+Entidades paraeclesiásticas – definición de: 107.
+Estadística – del Consejo a la iglesia: 83 m in fine; de la iglesia al Presbiterio: 68; fórmulas para: 143 d.
+Estatutos – plazo para la reforma de los... de las iglesias y congregaciones: 147; artículo que debe constar obligatoriamente en todos: 145 y párrafo único; modelo de... para concilios, iglesias y sociedades internas: 143 b; de una iglesia local: 9 § 1º c, 143 b, 145 y párrafo único.
+Evangelización – establecimiento y supervisión del trabajo de: 88 l, 94 c.
+Examen – del candidato a la profesión de fe: 76 § 3º, 83 b.
+Exclusión – a petición: 15 in fine, 23 b y § 1º; por ausencia: 23 c y § 2º
+Exoneración – de ministros: 48 b, c y §§.
+Vacaciones – de los ministros: 40.
+Gobierno – de una iglesia local: 8º.
+Iglesia local – naturaleza de la: 4º; organización de: 4º § 3º, 5º, 88 f; organización como persona jurídica de: 6º y 9º § 1º c; disolución de: 7º, 88 f; cisma o escisión en una: 7º, párrafo único; gobierno y administración de la: 8º y § 1º; unión y división de iglesias: 88 f; representante de la... en el Presbiterio: 83 t, 68; estatutos de la: 9º § 1º c, 143 b, 145 párrafo único, 147; plazo para la reforma de los estatutos de la: 147; artículo que debe constar obligatoriamente en los estatutos de la: 145 y párrafo único; modelo de estatutos para la: 143 b.
+Iglesia Presbiteriana de Brasil – organización eclesiástica de la: 1º; regla de fe y práctica de la: 1º; sistema expositivo de la doctrina y práctica de la: 1º; ley por la que se
+
+<a id="anexo-pagina-160"></a>
+
+## Página PDF 160
+
+160 MANUAL PRESBITERIANO
+
+rige la: 1º; representación civil de la: 1º; régimen de gobierno de la: 1º; fines de la: 2º; poder de la: 3º; relaciones de la... con el Estado: 97 g; sistemas o patrones de doctrina: 97 a y párrafo único; reglas de gobierno, disciplina y liturgia: 97 a y párrafo único; correspondencia con otras entidades eclesiásticas: 97 h y párrafo único; dirección de la... como organización civil: 97 i; creación y superintendencia de seminarios: 97 j y párrafo único; patrones de enseñanza preteológica y teológica: 97 j y párrafo único; colaboración con otras entidades eclesiásticas: 97 m y párrafo único; correspondencia y archivo de la: 103 in fine; funciones de la Fe de la: 139 y párrafo único, 140; reforma de la Confesión de Fe de la: 139 y párrafo único, 141, 142; enmiendas a los Catecismos Mayor y Breve de la: 139 y párrafo único, 140, 142; manual de liturgia de la: 143 a; reforma de los Catecismos Mayor y Breve de la: 139 y único, 141 y 142; enmiendas a la Constitución de la: 139 y párrafo único, 140; reforma de la Constitución de la: 139 y párrafo único, 141; manual de liturgia de la: 143 a.
+Infancia – superintendencia de las actividades de la: 97 l.
+Instalación – de pastores efectivos: 34 a, b y 88 h; definición de: 109 § 2º; debe ser únicamente para el desempeño de un cargo definido: 109 § 3º
+Inmuebles – adquisición, permuta, enajenación, etc. de: 9 § 1º f.
+Jubilación – de ministros: 49, 88 c y 97 e; plazo que da derecho a la: 49 § 1º; obligatoria: 49 § 2º y 49; por motivos de salud o invalidez: 49 y § 3º; qué implica la: 49 § 4º y 5º; cómo se efectúa la: 49 § 6º.
+Juntas – cómo se clasifican las... subordinadas al Supremo Concilio: 99 § 3º.
+Junta diaconal – cómo se rige la: 58; quién establece y orienta la: 83 g.
+Jurisdicción – a petición: 16 d; ex officio: 16 e, 20 párrafo único, 22 § 2º; sobre miembros de otra comunidad evangélica: 20 y párrafo único; sobre miembros cuya transferencia no se hizo efectiva: 22; asumida por otra iglesia: 23 e; eclesiástica sobre el ministro: 23 § 3º.
+Licencia – para que el pastor se ausente de su campo: 39; al ministro para tratamiento de salud: 41; al ministro para atender intereses particulares: 42; al ministro para trabajar fuera de la Iglesia Presbiteriana: 43.
+Licenciado al Ministerio – condiciones necesarias para ser: 118 y § 1º; pruebas de licenciatura: 119 y párrafo único, 120 y párrafo único, 121, 123 y párrafo único; experiencia del: 124; tutor eclesiástico del: 124 in fine; condición para ausentarse de su campo: 124 § 1º; informe del... al Presbiterio: 124 § 2º; período de experiencia del: 124 § 3º y 131; carta de transferencia de: 125; facultad que tiene el Presbiterio de revocar la licenciatura: 126; disciplina del: 88 a; ordenación de: 127; revocación de la licenciatura: 131 párrafo único, 126.
+Liturgia – orientación de la... en la iglesia local: 31 d; organización por el Supremo

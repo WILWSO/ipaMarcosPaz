@@ -1,0 +1,568 @@
+{
+  "batch": 4,
+  "date": "2026-10-14",
+  "reviewedNotes": 24,
+  "items": [
+    {
+      "id": "CI-nota-151",
+      "targets": [
+        "CI-art-27",
+        "CI-art-49"
+      ],
+      "parents": [
+        "CI-art-49"
+      ],
+      "classification": "jubilacion-y-voto-pendientes-de-lectura-conjunta",
+      "findingEs": "CI49 no fue sustituido por EC3. Conservar las excepciones históricas del jubilado y distinguir voto en Plenario y Comisión Ejecutiva: la nota 152 reproduce el modelo presbiterial que sitúa el voto en la Ejecutiva. No resolver por inferencia la compatibilidad de CI49 §5 con CI27 reformado para un jubilado sin representación. Mantener las referencias divergentes art.4/art.49 tal como están impresas.",
+      "findingPt": "CI49 não foi substituído pela EC3. Conservar exceções históricas do jubilado e distinguir voto no Plenário e Comissão Executiva: a nota 152 reproduz modelo presbiterial que situa o voto na Executiva. Não resolver por inferência a compatibilidade de CI49 §5 com CI27 alterado para jubilado sem representação. Manter referências divergentes art.4/art.49 como impressas.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "f4725a16b60df48f4c05a5c8b0ebb1b829f72dbea55061bf22e9f9549a38f83d",
+      "translationHash": "2fa809d956c32820c7f1447e389dc525c27faa36df564b83afc3282e4fed7776",
+      "pages": [
+        78
+      ],
+      "scope": "Relación documental con las reformas identificadas; no certifica vigencia general ni decisiones futuras."
+    },
+    {
+      "id": "CI-nota-152",
+      "targets": [
+        "CI-art-27",
+        "CI-art-49"
+      ],
+      "parents": [
+        "CI-art-49"
+      ],
+      "classification": "jubilacion-y-voto-pendientes-de-lectura-conjunta",
+      "findingEs": "CI49 no fue sustituido por EC3. Conservar las excepciones históricas del jubilado y distinguir voto en Plenario y Comisión Ejecutiva: la nota 152 reproduce el modelo presbiterial que sitúa el voto en la Ejecutiva. No resolver por inferencia la compatibilidad de CI49 §5 con CI27 reformado para un jubilado sin representación. Mantener las referencias divergentes art.4/art.49 tal como están impresas.",
+      "findingPt": "CI49 não foi substituído pela EC3. Conservar exceções históricas do jubilado e distinguir voto no Plenário e Comissão Executiva: a nota 152 reproduz modelo presbiterial que situa o voto na Executiva. Não resolver por inferência a compatibilidade de CI49 §5 com CI27 alterado para jubilado sem representação. Manter referências divergentes art.4/art.49 como impressas.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "1055c74cb8a29226ae0344fc95251b5aa5b43713ad45e7ab7953dd57afcd334d",
+      "translationHash": "d72b005b02b590e5fc4d938a221b12a7beebcd6f6d0d325272af92c781daa179",
+      "pages": [
+        78,
+        79
+      ],
+      "scope": "Relación documental con las reformas identificadas; no certifica vigencia general ni decisiones futuras."
+    },
+    {
+      "id": "CI-nota-158",
+      "targets": [
+        "CI-art-27"
+      ],
+      "parents": [
+        "CI-art-51"
+      ],
+      "classification": "representacion-y-voto-con-regimenes-distintos",
+      "findingEs": "Leer las reglas históricas junto con EC3: cargo de Secretario-Executivo/Tesoureiro no equivale por sí solo a representación con voto en Plenario. Mantener la distinción de voto en Comisión Ejecutiva; no aplicar la ausencia de voto en Plenario a todos los órganos ni crear dos votos por acumular cargos. En la nota 183 se conserva además la exclusión histórica del quórum de determinadas categorías, sin declarar actualizado todo el modelo.",
+      "findingPt": "Ler regras históricas com EC3: cargo de Secretário-Executivo/Tesoureiro não equivale, por si só, a representação com voto no Plenário. Manter distinção do voto na Comissão Executiva; não aplicar ausência de voto no Plenário a todos os órgãos nem criar dois votos pela acumulação de cargos. Na nota 183 conserva-se também exclusão histórica do quórum de certas categorias, sem declarar atualizado todo o modelo.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "500c3a13208cfbaaf883186d9795d5d6605c7d6232e6a59e7dd28b86b70bf655",
+      "translationHash": "3e9055ac82092e0ea5d4df3ead78467c9a5c423d97943f0895c31b5a85f3ac5d",
+      "pages": [
+        79,
+        80
+      ],
+      "scope": "Relación documental con las reformas identificadas; no certifica vigencia general ni decisiones futuras."
+    },
+    {
+      "id": "CI-nota-168",
+      "targets": [
+        "CI-art-27",
+        "CI-art-54"
+      ],
+      "parents": [
+        "CI-art-56"
+      ],
+      "classification": "disponibilidad-y-exoneracion-no-fusionadas",
+      "findingEs": "Las referencias a CI3 son distintas de ATAS3. El cese de funciones del presbítero exonerado y los cargos derivados se conserva como antecedente. EC5 sólo añade disponibilidad del diácono bajo condiciones; no restituye cargos conciliares al presbítero exonerado ni equipara exoneración administrativa a condena disciplinaria.",
+      "findingPt": "Referências a CI3 são distintas de ATAS3. A cessação das funções do presbítero exonerado e cargos derivados é conservada como antecedente. EC5 só acrescenta disponibilidade do diácono sob condições; não restitui cargos conciliares ao presbítero exonerado nem equipara exoneração administrativa a condenação disciplinar.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "4c704b3402cacd21a870201c12e3937cf2a8049e9faa1c6925fe248c222a2fc1",
+      "translationHash": "b3ae6828fe76a9c40905a77ebd0af8a74f937ad3008ca47138c7c751f4398875",
+      "pages": [
+        83,
+        84
+      ],
+      "scope": "Relación documental con las reformas identificadas; no certifica vigencia general ni decisiones futuras."
+    },
+    {
+      "id": "CI-nota-171",
+      "targets": [
+        "CI-art-27"
+      ],
+      "parents": [
+        "CI-art-59"
+      ],
+      "classification": "remision-con-redaccion-actualizada",
+      "findingEs": "La remisión interna a CI27 debe abrir el caput EC3 y mantener §§1–2; CI25/26/30/50 no fueron sustituidos por esa enmienda. No inferir igualdad entre oficio perpetuo y ejercicio de un mandato con representación.",
+      "findingPt": "A remissão interna a CI27 deve abrir o caput EC3 e manter §§1–2; CI25/26/30/50 não foram substituídos por essa emenda. Não inferir igualdade entre ofício perpétuo e exercício de mandato com representação.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "667cb13a84376d592234384e8e914fbb7115ac24595b680be86e90be3575f782",
+      "translationHash": "b8bc0e2d89cc3d02ab221f171e90bfc9c27d251fd737881dcf119c404666a538",
+      "pages": [
+        85
+      ],
+      "scope": "Relación documental con las reformas identificadas; no certifica vigencia general ni decisiones futuras."
+    },
+    {
+      "id": "CI-nota-183",
+      "targets": [
+        "CI-art-27"
+      ],
+      "parents": [
+        "CI-art-66"
+      ],
+      "classification": "representacion-y-voto-con-regimenes-distintos",
+      "findingEs": "Leer las reglas históricas junto con EC3: cargo de Secretario-Executivo/Tesoureiro no equivale por sí solo a representación con voto en Plenario. Mantener la distinción de voto en Comisión Ejecutiva; no aplicar la ausencia de voto en Plenario a todos los órganos ni crear dos votos por acumular cargos. En la nota 183 se conserva además la exclusión histórica del quórum de determinadas categorías, sin declarar actualizado todo el modelo.",
+      "findingPt": "Ler regras históricas com EC3: cargo de Secretário-Executivo/Tesoureiro não equivale, por si só, a representação com voto no Plenário. Manter distinção do voto na Comissão Executiva; não aplicar ausência de voto no Plenário a todos os órgãos nem criar dois votos pela acumulação de cargos. Na nota 183 conserva-se também exclusão histórica do quórum de certas categorias, sem declarar atualizado todo o modelo.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "801bfba0b316f5cdd4947c12115f2f260e04b1f07a4aaf607d64ece09fcf652e",
+      "translationHash": "a9a996445801008b64ca8c95387f32404f27370eb90b8ee26c560c4386e0cc25",
+      "pages": [
+        88,
+        89
+      ],
+      "scope": "Relación documental con las reformas identificadas; no certifica vigencia general ni decisiones futuras."
+    },
+    {
+      "id": "CI-nota-187",
+      "targets": [
+        "CI-art-27",
+        "CI-art-84"
+      ],
+      "parents": [
+        "CI-art-67"
+      ],
+      "classification": "mesa-presbiterial-distinta-del-consejo-local",
+      "findingEs": "El cargo de Secretario Ejecutivo pertenece aquí a la Mesa presbiterial; la elección anual y el plazo de tres años citado en 1986 no son la elección del Consejo local regulada por CI84. EC7 no extiende automáticamente a la Mesa el mandato de hasta cinco años ni crea más tesoreros en todo concilio. EC3 tampoco cambia por sí sola elecciones individuales, toma de posesión o calendario financiero.",
+      "findingPt": "O cargo de Secretário Executivo pertence aqui à Mesa presbiterial; eleição anual e prazo de três anos citado em 1986 não são a eleição do Conselho local regulada por CI84. EC7 não estende automaticamente à Mesa mandato de até cinco anos nem cria mais tesoureiros em todo concílio. EC3 tampouco altera, por si só, eleições individuais, posse ou calendário financeiro.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "8a49d65ad42af8c1e81e098bb1541127a43ca6165f4f88978986157690517f56",
+      "translationHash": "dc1f1be696a01e22846cc3578a598cae3fc2d2973c6c5d916aafc9971cdbb80c",
+      "pages": [
+        90,
+        91
+      ],
+      "scope": "Relación documental con las reformas identificadas; no certifica vigencia general ni decisiones futuras."
+    },
+    {
+      "id": "CI-nota-188",
+      "targets": [
+        "CI-art-27",
+        "CI-art-54"
+      ],
+      "parents": [
+        "CI-art-67"
+      ],
+      "classification": "nota-mixta-de-eleccion-voto-y-disponibilidad",
+      "findingEs": "Conservar las reglas distintas de representación, disponibilidad del presbítero y voto personal/unitario. EC5 añade disponibilidad del diácono, no un permiso general para Secretario-Executivo/Tesoureiro. El pasaje hasta tres mandatos permanece marcado como revocado por SC2002-XII; EC3 no lo revive. Las excepciones del jubilado requieren cotejo conjunto con CI49 y no se declaran resueltas aquí.",
+      "findingPt": "Conservar regras distintas de representação, disponibilidade do presbítero e voto pessoal/unitário. EC5 acrescenta disponibilidade do diácono, não permissão geral para Secretário-Executivo/Tesoureiro. A passagem até três mandatos permanece marcada como revogada por SC2002-XII; EC3 não a restaura. Exceções do jubilado exigem cotejo com CI49 e não são consideradas resolvidas aqui.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "cc01fd55760e8a53f414f60c887fce8016bded02cbfb02467a1e268f6791cfd3",
+      "translationHash": "c2106f0ea462ff5e3b11fec6a0f39771a8a36b46335bcdc7e2ca9f98e4688d21",
+      "pages": [
+        91,
+        92,
+        93
+      ],
+      "scope": "Relación documental con las reformas identificadas; no certifica vigencia general ni decisiones futuras."
+    },
+    {
+      "id": "CI-nota-189",
+      "targets": [
+        "CI-art-27"
+      ],
+      "parents": [
+        "CI-art-67"
+      ],
+      "classification": "sucesion-y-representacion-con-alcance-limitado",
+      "findingEs": "La nota distingue presidente de la reunión ordinaria anterior de vicepresidente que asumió en el interregno. EC3 no sustituye CI66/67 ni convierte por sí sola a todo sucesor en miembro efectivo de la legislatura siguiente. La coincidencia art.3 refiere al RI del Supremo Concilio, no al Reglamento de Actas; conservar las votaciones como caso histórico.",
+      "findingPt": "A nota distingue presidente da reunião ordinária anterior de vice-presidente que assumiu no interregno. EC3 não substitui CI66/67 nem transforma, por si só, todo sucessor em membro efetivo da legislatura seguinte. A coincidência art.3 refere-se ao RI do Supremo Concílio, não ao Regulamento de Atas; conservar votações como caso histórico.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "7a3e4c3a7a403f48ae9f1e6fcc0e4ee8dea99efe7521803e0eb9567ed94d2ad3",
+      "translationHash": "ca8d0b0fa9c32a58d5face875cef5c5aa9310592b8ee36c26fcf47872065fcb6",
+      "pages": [
+        93,
+        94
+      ],
+      "scope": "Relación documental con las reformas identificadas; no certifica vigencia general ni decisiones futuras."
+    },
+    {
+      "id": "CI-nota-191",
+      "targets": [
+        "CI-art-27"
+      ],
+      "parents": [
+        "CI-art-67"
+      ],
+      "classification": "representacion-y-voto-con-regimenes-distintos",
+      "findingEs": "Leer las reglas históricas junto con EC3: cargo de Secretario-Executivo/Tesoureiro no equivale por sí solo a representación con voto en Plenario. Mantener la distinción de voto en Comisión Ejecutiva; no aplicar la ausencia de voto en Plenario a todos los órganos ni crear dos votos por acumular cargos. En la nota 183 se conserva además la exclusión histórica del quórum de determinadas categorías, sin declarar actualizado todo el modelo.",
+      "findingPt": "Ler regras históricas com EC3: cargo de Secretário-Executivo/Tesoureiro não equivale, por si só, a representação com voto no Plenário. Manter distinção do voto na Comissão Executiva; não aplicar ausência de voto no Plenário a todos os órgãos nem criar dois votos pela acumulação de cargos. Na nota 183 conserva-se também exclusão histórica do quórum de certas categorias, sem declarar atualizado todo o modelo.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "c22d7d342b1de822b848a08f8c26597b13472782c33a434aeec38f45c29931e1",
+      "translationHash": "a960a5b17ac3efa5a9acd3f209e204ba9987b24362a8c571af3bfd26433f9c30",
+      "pages": [
+        94
+      ],
+      "scope": "Relación documental con las reformas identificadas; no certifica vigencia general ni decisiones futuras."
+    },
+    {
+      "id": "CI-nota-192",
+      "targets": [
+        "CI-art-27"
+      ],
+      "parents": [
+        "CI-art-67"
+      ],
+      "classification": "representacion-y-voto-con-regimenes-distintos",
+      "findingEs": "Leer las reglas históricas junto con EC3: cargo de Secretario-Executivo/Tesoureiro no equivale por sí solo a representación con voto en Plenario. Mantener la distinción de voto en Comisión Ejecutiva; no aplicar la ausencia de voto en Plenario a todos los órganos ni crear dos votos por acumular cargos. En la nota 183 se conserva además la exclusión histórica del quórum de determinadas categorías, sin declarar actualizado todo el modelo.",
+      "findingPt": "Ler regras históricas com EC3: cargo de Secretário-Executivo/Tesoureiro não equivale, por si só, a representação com voto no Plenário. Manter distinção do voto na Comissão Executiva; não aplicar ausência de voto no Plenário a todos os órgãos nem criar dois votos pela acumulação de cargos. Na nota 183 conserva-se também exclusão histórica do quórum de certas categorias, sem declarar atualizado todo o modelo.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "3d256121d143392d0db22cedd09bc0b6ac6799a9774f8bae42f95ace1b5b02ad",
+      "translationHash": "39fa0dfd9899c6dfdbd47670ad3cf25ba7b9e4ece6d1feb872bcdec60864598d",
+      "pages": [
+        94,
+        95
+      ],
+      "scope": "Relación documental con las reformas identificadas; no certifica vigencia general ni decisiones futuras."
+    },
+    {
+      "id": "CI-nota-210",
+      "targets": [
+        "CI-art-27",
+        "CI-art-84"
+      ],
+      "parents": [
+        "CI-art-73"
+      ],
+      "classification": "mesa-presbiterial-distinta-del-consejo-local",
+      "findingEs": "El cargo de Secretario Ejecutivo pertenece aquí a la Mesa presbiterial; la elección anual y el plazo de tres años citado en 1986 no son la elección del Consejo local regulada por CI84. EC7 no extiende automáticamente a la Mesa el mandato de hasta cinco años ni crea más tesoreros en todo concilio. EC3 tampoco cambia por sí sola elecciones individuales, toma de posesión o calendario financiero.",
+      "findingPt": "O cargo de Secretário Executivo pertence aqui à Mesa presbiterial; eleição anual e prazo de três anos citado em 1986 não são a eleição do Conselho local regulada por CI84. EC7 não estende automaticamente à Mesa mandato de até cinco anos nem cria mais tesoureiros em todo concílio. EC3 tampouco altera, por si só, eleições individuais, posse ou calendário financeiro.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "d5106f21744a31d1ed4d75bc73a20cff4d4303b8dcf1421382d7b6b9b767e2c1",
+      "translationHash": "d75475b4a32d734b5c84104cd513fbba700bfaed6f3f9724cb3eeb0563ecb569",
+      "pages": [
+        104,
+        105
+      ],
+      "scope": "Relación documental con las reformas identificadas; no certifica vigencia general ni decisiones futuras."
+    },
+    {
+      "id": "CI-nota-218",
+      "targets": [
+        "CI-art-54"
+      ],
+      "parents": [
+        "CI-art-76"
+      ],
+      "classification": "parrafo-no-modificado-y-supuestos-excepcionales",
+      "findingEs": "EC5 no modifica CI54 §1 ni CI76. Conservar los supuestos excepcionales de funciones plenas y la comunicación inmediata de la resolución de 2021; no transformar ese régimen en autorización ordinaria para administrar solo ni importar el plazo de 30 días de los recursos administrativos. La nota dice 90 días donde §1 dice tres meses: ambas expresiones se conservan sin equipararlas por una nueva regla editorial.",
+      "findingPt": "EC5 não altera CI54 §1 nem CI76. Conservar hipóteses excepcionais das funções plenas e comunicação imediata da resolução de 2021; não transformar esse regime em autorização ordinária para administrar sozinho nem importar prazo de 30 dias dos recursos administrativos. A nota diz 90 dias onde §1 diz três meses: conservar ambas as expressões sem equipará-las por nova regra editorial.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "c0acbe6be3ac811f54b3ea36d11b39eb40574e7a47b1c4b4123001f19b6a5285",
+      "translationHash": "9fced73916cfef3180b9ffbd8a19c09ca64cf452428e25bde3245f6bb06529e4",
+      "pages": [
+        107,
+        108,
+        109
+      ],
+      "scope": "Relación documental con las reformas identificadas; no certifica vigencia general ni decisiones futuras."
+    },
+    {
+      "id": "CI-nota-295",
+      "targets": [
+        "CI-art-27"
+      ],
+      "parents": [
+        "CI-art-99"
+      ],
+      "classification": "voto-en-comisiones-distinto-de-voto-conciliar",
+      "findingEs": "La resolución de 1962 trata asistencia del Presidente/Secretario Ejecutivo a Comisiones Permanentes sin voto en ellas. EC3 define membresía de concilios, no concede por sí sola voto en toda comisión. No confundir Comisión Permanente con Comisión Ejecutiva ni sustituir sus reglas por igualdad del nombre comisión.",
+      "findingPt": "A resolução de 1962 trata presença do Presidente/Secretário Executivo nas Comissões Permanentes sem voto nelas. EC3 define membresia de concílios, não concede, por si só, voto em toda comissão. Não confundir Comissão Permanente e Comissão Executiva nem substituir regras pela igualdade do nome comissão.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "58b55b643a4af92131f8048f655845250106db0ac1d8bcbaf8bfa52c3077dec1",
+      "translationHash": "8052dfae8f0c9b80d919f96d9a7752c9b21163084935f966fc08c9d6bb4ad9a0",
+      "pages": [
+        130,
+        131
+      ],
+      "scope": "Relación documental con las reformas identificadas; no certifica vigencia general ni decisiones futuras."
+    },
+    {
+      "id": "CI-nota-302",
+      "targets": [
+        "RI-CE-art-8"
+      ],
+      "parents": [
+        "CI-art-103"
+      ],
+      "classification": "atribuciones-con-revocacion-parcial",
+      "findingEs": "SC2026-CXXIII revoca inciso X del cuerpo principal de RI-CE8 sobre archivo histórico. La referencia a inciso II sobre cumplir/hacer cumplir y las funciones de correspondencia no se eliminan por esa revocación. Se conserva la interpretación de 1958 dentro de su contexto. La reforma paralela del RI-SE requiere su base no suministrada; no reconstruirla por conjetura.",
+      "findingPt": "SC2026-CXXIII revoga inciso X do corpo principal de RI-CE8 sobre arquivo histórico. Referência ao inciso II sobre cumprir/fazer cumprir e funções de correspondência não são eliminadas por essa revogação. Conservada a interpretação de 1958 no seu contexto. A alteração paralela do RI-SE depende da base não fornecida; não reconstruí-la por conjectura.",
+      "sources": [
+        "SC-2026-CXXIII"
+      ],
+      "originalHash": "3bf734aa40c2a226f31def5c90b2baf753677513b3180d7f1ce420d3f52e1713",
+      "translationHash": "1b97cb029caf29660eb22a8b5b6a62e28c5a556f87120283289c0c59e1fe0cba",
+      "pages": [
+        133
+      ],
+      "scope": "Relación documental con las reformas identificadas; no certifica vigencia general ni decisiones futuras."
+    },
+    {
+      "id": "CI-nota-351",
+      "targets": [
+        "RI-CE-art-8"
+      ],
+      "parents": [
+        "CI-art-137"
+      ],
+      "classification": "atribuciones-con-revocacion-parcial",
+      "findingEs": "SC2026-CXXIII revoca inciso X del cuerpo principal de RI-CE8 sobre archivo histórico. La referencia a inciso II sobre cumplir/hacer cumplir y las funciones de correspondencia no se eliminan por esa revocación. Se conserva la interpretación de 1958 dentro de su contexto. La reforma paralela del RI-SE requiere su base no suministrada; no reconstruirla por conjetura.",
+      "findingPt": "SC2026-CXXIII revoga inciso X do corpo principal de RI-CE8 sobre arquivo histórico. Referência ao inciso II sobre cumprir/fazer cumprir e funções de correspondência não são eliminadas por essa revogação. Conservada a interpretação de 1958 no seu contexto. A alteração paralela do RI-SE depende da base não fornecida; não reconstruí-la por conjectura.",
+      "sources": [
+        "SC-2026-CXXIII"
+      ],
+      "originalHash": "dd72c9c930cfe89bb82edf37056abb3bfcc87b51d474ea179ed6fa3a1a3170d3",
+      "translationHash": "28065d9f590a19009d3ce9c99e544231f5315f681a63a896b1d761004210ebc5",
+      "pages": [
+        152
+      ],
+      "scope": "Relación documental con las reformas identificadas; no certifica vigencia general ni decisiones futuras."
+    },
+    {
+      "id": "CI-nota-352",
+      "targets": [
+        "CI-art-88"
+      ],
+      "parents": [
+        "CI-art-138"
+      ],
+      "classification": "relaciones-pastorales-distintas-de-candidatura",
+      "findingEs": "Las coincidencias CI3 y CI8 no son ATAS3 ni RI-CE8. Las notas tratan disolución de relaciones de pastor elegido/designado y audiencia de la iglesia. EC8 sólo cambia CI88 a sobre candidatos; no elimina por sí sola esa audiencia ni equipara ministerio ordenado y candidatura.",
+      "findingPt": "Coincidências CI3 e CI8 não são ATAS3 nem RI-CE8. As notas tratam dissolução das relações de pastor eleito/designado e oitiva da igreja. EC8 só altera CI88 a sobre candidatos; não elimina, por si só, essa oitiva nem equipara ministério ordenado e candidatura.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "72414ee863eb58e96bbcd990cad57153a6d36a593ce0fd5cdfb2b226098cf39d",
+      "translationHash": "da7dd85e37e0fa30c5031bf7cf5d061230bb88cbf2af3ff9f279b4caa5d3dd0c",
+      "pages": [
+        152
+      ],
+      "scope": "Relación documental con las reformas identificadas; no certifica vigencia general ni decisiones futuras."
+    },
+    {
+      "id": "CI-nota-353",
+      "targets": [
+        "CI-art-88"
+      ],
+      "parents": [
+        "CI-art-138"
+      ],
+      "classification": "relaciones-pastorales-distintas-de-candidatura",
+      "findingEs": "Las coincidencias CI3 y CI8 no son ATAS3 ni RI-CE8. Las notas tratan disolución de relaciones de pastor elegido/designado y audiencia de la iglesia. EC8 sólo cambia CI88 a sobre candidatos; no elimina por sí sola esa audiencia ni equipara ministerio ordenado y candidatura.",
+      "findingPt": "Coincidências CI3 e CI8 não são ATAS3 nem RI-CE8. As notas tratam dissolução das relações de pastor eleito/designado e oitiva da igreja. EC8 só altera CI88 a sobre candidatos; não elimina, por si só, essa oitiva nem equipara ministério ordenado e candidatura.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "0ece6532a96daa49e9d83d09adf51e9deda1e020124819807a336f228401a7dd",
+      "translationHash": "146577e2a08bf9c105d729decf85ddaff39cf927c8430ab6be73dcd5025435e4",
+      "pages": [
+        152
+      ],
+      "scope": "Relación documental con las reformas identificadas; no certifica vigencia general ni decisiones futuras."
+    },
+    {
+      "id": "EST-IPB-nota-4",
+      "targets": [
+        "RI-CE-art-8"
+      ],
+      "parents": [
+        "EST-IPB-art-20"
+      ],
+      "classification": "pronunciamientos-distintos-del-archivo-historico",
+      "findingEs": "La nota de 2008 trata pronunciamientos del Presidente y publicación, no curaduría del archivo histórico. SC2026-CXXIII no revoca nominalmente esa resolución ni todas las funciones del Secretario Ejecutivo. No convertir la autorización de casos urgentes en una nueva competencia editorial general.",
+      "findingPt": "A nota de 2008 trata pronunciamentos do Presidente e publicação, não curadoria do arquivo histórico. SC2026-CXXIII não revoga nominalmente essa resolução nem todas as funções do Secretário Executivo. Não transformar autorização de casos urgentes em nova competência editorial geral.",
+      "sources": [
+        "SC-2026-CXXIII"
+      ],
+      "originalHash": "f4e3a186ae1f81375f6bb27b9ab3095e274c08e0cd259cbbc3d97166e049cefc",
+      "translationHash": "3ec6a7045deed4425d4660d32486535586f27a2de53185b046513d2e46c8ad0f",
+      "pages": [
+        275
+      ],
+      "scope": "Relación documental con las reformas identificadas; no certifica vigencia general ni decisiones futuras."
+    },
+    {
+      "id": "EST-IPB-nota-6",
+      "targets": [
+        "RI-CE-art-8"
+      ],
+      "parents": [
+        "EST-IPB-art-22"
+      ],
+      "classification": "inciso-distinto-del-revocado",
+      "findingEs": "La corrección material/redaccional se mantiene limitada a no alterar el sentido de las resoluciones. En EST-IPB nota6 la remisión es RI-CE8, párrafo único, inciso XI: no es el inciso X del cuerpo principal revocado. No usar esta facultad para cambiar normas sustantivas; el RI-SE completo sigue fuera de la base suministrada.",
+      "findingPt": "A correção material/redacional continua limitada a não alterar o sentido das resoluções. Em EST-IPB nota6 a remissão é RI-CE8, parágrafo único, inciso XI: não é inciso X do corpo principal revogado. Não usar essa atribuição para alterar normas substantivas; o RI-SE integral permanece fora da base fornecida.",
+      "sources": [
+        "SC-2026-CXXIII"
+      ],
+      "originalHash": "f706896b942897690674ad22e3405ce6c27de08de648d5874565a13bb287cd91",
+      "translationHash": "168e87b5ca5d493125c697c6b1b18c24bcab30862d87a65b11daae6fb86c2c2e",
+      "pages": [
+        276
+      ],
+      "scope": "Relación documental con las reformas identificadas; no certifica vigencia general ni decisiones futuras."
+    },
+    {
+      "id": "EST-SIN-nota-6",
+      "targets": [
+        "RI-CE-art-8"
+      ],
+      "parents": [
+        "EST-SIN-art-13"
+      ],
+      "classification": "inciso-distinto-del-revocado",
+      "findingEs": "La corrección material/redaccional se mantiene limitada a no alterar el sentido de las resoluciones. En EST-IPB nota6 la remisión es RI-CE8, párrafo único, inciso XI: no es el inciso X del cuerpo principal revocado. No usar esta facultad para cambiar normas sustantivas; el RI-SE completo sigue fuera de la base suministrada.",
+      "findingPt": "A correção material/redacional continua limitada a não alterar o sentido das resoluções. Em EST-IPB nota6 a remissão é RI-CE8, parágrafo único, inciso XI: não é inciso X do corpo principal revogado. Não usar essa atribuição para alterar normas substantivas; o RI-SE integral permanece fora da base fornecida.",
+      "sources": [
+        "SC-2026-CXXIII"
+      ],
+      "originalHash": "9230819fc21e7113a60e868d1041abc55e7b3db43a2fb59d68b694cc7f2b6bb6",
+      "translationHash": "69fd49dfcc95a357a46acd058add7d0ae799323c6dc52e49e96117a54f001c22",
+      "pages": [
+        361
+      ],
+      "scope": "Relación documental con las reformas identificadas; no certifica vigencia general ni decisiones futuras."
+    },
+    {
+      "id": "EST-PRE-nota-15",
+      "targets": [
+        "CI-art-27",
+        "CI-art-49"
+      ],
+      "parents": [
+        "EST-PRE-art-7"
+      ],
+      "classification": "jubilacion-y-voto-pendientes-de-lectura-conjunta",
+      "findingEs": "Conservar las diferencias históricas entre ser elegido, representar un concilio, votar en Plenario y votar en Comisión Ejecutiva. EC3 no sustituye textualmente CI49 §5 ni declara resuelta la excepción del jubilado sin representación. Mantener la referencia impresa art.4 junto a art.49 sin corrección silenciosa.",
+      "findingPt": "Conservar diferenças históricas entre ser eleito, representar um concílio, votar no Plenário e votar na Comissão Executiva. EC3 não substitui textualmente CI49 §5 nem resolve a exceção do jubilado sem representação. Manter referência impressa art.4 junto a art.49 sem correção silenciosa.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "64ae397ed109f6130dd7543c11346f8272e758c68e4d74d5ffdae43099287d2f",
+      "translationHash": "23eaf076b0072d8584938f3e614c3e5d774e610d43773389ad1da1bf7a45fc47",
+      "pages": [
+        424
+      ],
+      "scope": "Relación documental con las reformas identificadas; no certifica vigencia general ni decisiones futuras."
+    },
+    {
+      "id": "EST-IG-nota-56",
+      "targets": [
+        "CI-art-54"
+      ],
+      "parents": [
+        "EST-IG-art-26"
+      ],
+      "classification": "parrafo-no-modificado",
+      "findingEs": "La remisión a CI54 caput conserva cinco años y las reglas electorales; EC5 sólo añade §3 del diácono en disponibilidad. PL26–30 pertenece a Liturgia, no CI27: no trasladar la reforma de membresía conciliar a ese rango litúrgico.",
+      "findingPt": "A remissão a CI54 caput conserva cinco anos e regras eleitorais; EC5 só acrescenta §3 do diácono em disponibilidade. PL26–30 pertence à Liturgia, não CI27: não transferir alteração de membresia conciliar para esse intervalo litúrgico.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "b4bee1a4ad66d48514906a4bb9c1fa19018cdd0710fb59f4e1b51df288afa1b1",
+      "translationHash": "e8324a785ee48d6d116d87e10c2799fc61265bb5c03db421e19d75e3fe8841a6",
+      "pages": [
+        521
+      ],
+      "scope": "Relación documental con las reformas identificadas; no certifica vigencia general ni decisiones futuras."
+    },
+    {
+      "id": "ATAS-nota-5",
+      "targets": [
+        "ATAS-art-3",
+        "RI-CE-art-8"
+      ],
+      "parents": [
+        "ATAS-art-10"
+      ],
+      "classification": "firma-distinta-de-terminos-y-curaduria",
+      "findingEs": "CE2026-CII modifica ubicación y numeración de términos de apertura/cierre, no ATAS10 §9 sobre firma del Secretario Ejecutivo. SC2026-CXXIII elimina una atribución de archivo histórico, no toda firma de actas. La cita de 2025 sobre firma digital se conserva como remisión a legislación nacional, sin validación civil actual ni regla electrónica nueva.",
+      "findingPt": "CE2026-CII altera localização e numeração de termos de abertura/encerramento, não ATAS10 §9 sobre assinatura do Secretário Executivo. SC2026-CXXIII elimina atribuição de arquivo histórico, não toda assinatura de atas. A citação de 2025 sobre assinatura digital é conservada como remissão à legislação nacional, sem validação civil atual nem nova regra eletrônica.",
+      "sources": [
+        "CE-2026-CII",
+        "SC-2026-CXXIII"
+      ],
+      "originalHash": "f7f653be822d9c52335ae70ebea8a0891c6e343cb7bfe3becf50ba1e04337097",
+      "translationHash": "8ac2171b74e745b5036e1a8667309331e96cdc9517ea69c42cc062f4238ea745",
+      "pages": [
+        556,
+        557
+      ],
+      "scope": "Relación documental con las reformas identificadas; no certifica vigencia general ni decisiones futuras."
+    }
+  ],
+  "reformProvenance": {
+    "CE-2026-CII": {
+      "originalHash": "1bdeaa0744a0c664914b692e4c4c188abc15abd2a03acf2c05285a012c651cb9",
+      "translationHash": "ee680ddb88c23d8c5b59b7310af1923dd950e8e36c25eeec136b6e89433552b1",
+      "pages": [
+        305,
+        306
+      ]
+    },
+    "SC-2026-CXXIII": {
+      "originalHash": "64314e540c602bb55f76ce2b569dce1b1660cc5f7046355aaa14508282609ba3",
+      "translationHash": "4b747d2789d465b8ea7b131509dc1f36e9aa5ebdc18023b9c5c6cb27a02d51a9",
+      "pages": [
+        114,
+        115,
+        116
+      ]
+    },
+    "SC-2026-CCI": {
+      "originalHash": "9a14825cd6b834a4646d6cbd96c45504452c5707d108045a39f1a9b30fd714cd",
+      "translationHash": "5f6c503c43bde2d72e770c8929f6168531cd4ccc1d6dc7e74be10da89735370e",
+      "pages": [
+        27,
+        28
+      ]
+    }
+  },
+  "globalCompatibilityReviewComplete": false,
+  "officialApproval": false,
+  "externalCertification": false,
+  "sourcePDFSHA256": {
+    "manual": "2d8b728004e32995ee5f1600a7e4e0da94a7124e253bf1fac5322a2b93a083a3",
+    "digesto": "e82955017938a555ab31a699d125b48fdfce686dd03d69b7b8dbbad1b03c2482"
+  }
+}

@@ -1,0 +1,4559 @@
+{
+  "generatedAt": "2026-10-15T01:53:45.156334+00:00",
+  "archiveName": "consulta_presbiteriana.zip",
+  "includes": [
+    "source",
+    "compiled-app",
+    "documents",
+    "original-pdfs",
+    "local-launchers"
+  ],
+  "records": 2172,
+  "normativeEffects": 398,
+  "crossReferenceProgress": {
+    "reviewDate": "2026-10-14",
+    "notesScanned": 816,
+    "directNotesExcluded": 25,
+    "crossNotesEligible": 791,
+    "candidateNotes": 142,
+    "reviewedCandidateNotes": 142,
+    "pendingCandidateNotes": 0,
+    "pendingIds": [],
+    "nextId": null,
+    "scanComplete": true,
+    "candidateReviewComplete": true,
+    "globalCompatibilityReviewComplete": false,
+    "officialApproval": false,
+    "externalCertification": false,
+    "documents": [
+      "compatibilidad_transversal_lote_01_2026_es.md",
+      "compatibilidad_transversal_lote_01_2026_pt.md",
+      "compatibilidad_transversal_lote_02_2026_es.md",
+      "compatibilidad_transversal_lote_02_2026_pt.md",
+      "compatibilidad_transversal_lote_03_2026_es.md",
+      "compatibilidad_transversal_lote_03_2026_pt.md",
+      "compatibilidad_transversal_lote_04_2026_es.md",
+      "compatibilidad_transversal_lote_04_2026_pt.md",
+      "compatibilidad_transversal_lote_05_2026_es.md",
+      "compatibilidad_transversal_lote_05_2026_pt.md"
+    ],
+    "scope": "Rastreo automático reproducible; números homónimos y coincidencias temáticas requieren clasificación individual. No detecta necesariamente referencias implícitas ni acredita vigencia general.",
+    "comparedReformRelatedNotes": 102,
+    "excludedOtherReferenceNotes": 40
+  },
+  "documentaryConfirmationProgress": {
+    "date": "2026-10-14",
+    "selectedIssueGroups": 7,
+    "reviewedSelectedGroups": 7,
+    "resolvedSelectedGroups": 2,
+    "openSelectedGroups": 5,
+    "partiallyResolvedGroups": 3,
+    "exhaustive": false,
+    "confirmationComplete": false,
+    "officialApproval": false,
+    "externalCertification": false,
+    "documents": [
+      "pendientes_confirmacion_documental_2026_es.md",
+      "pendientes_confirmacion_documental_2026_pt.md"
+    ]
+  },
+  "officialApproval": false,
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "da350ecebe1500e882adfc1eb2b6d2ae431fd66971bfe29a63551c5e024a1f75"
+    },
+    {
+      "path": "AGENTS.md",
+      "sha256": "aa2083c5229537af7f534d6cf1948f8f462ac05611746846a7f20297351fd432"
+    },
+    {
+      "path": "Iniciar_Consulta.cmd",
+      "sha256": "46873224145d235cffebb00751f1fc0b317505e52c6072bd14db743c0ec20308"
+    },
+    {
+      "path": "Iniciar_Consulta.sh",
+      "sha256": "9bc9b6b1ebc03c0fa326516e1ee2b0c601eaafd32937f80670931634c8f4dddd"
+    },
+    {
+      "path": "README.md",
+      "sha256": "9a3efc78b56c81aed2d19ae6983ff45c5c1f13e1d7eef200a368764e5f5cea24"
+    },
+    {
+      "path": "build/_app/immutable/assets/2.BL42AFgW.css",
+      "sha256": "710977d311b5daf9410093590d49ba61322d63325547fb06d193515c7e26d531"
+    },
+    {
+      "path": "build/_app/immutable/assets/2.CMe2iLMt.css",
+      "sha256": "1af90585da819822953e9c3b00e00100cfd40dedd9f8c0f874c334b79af78ec0"
+    },
+    {
+      "path": "build/_app/immutable/assets/2.kN7KeMEl.css",
+      "sha256": "510eb03f0fa1d6f9948b7fe78673c97774fa195c92c49a87cd9bb8fe33ffa6aa"
+    },
+    {
+      "path": "build/_app/immutable/assets/_page.DPrH5sPi.css",
+      "sha256": "aab442f139453a7c87cd68097ce8df9044538f08bd6fcc82c583a5f734272334"
+    },
+    {
+      "path": "build/_app/immutable/chunks/BA_c__iQ.js",
+      "sha256": "69869504ff4e8076258ab476688933c36a89c4a23279b331b58221ee6a342a31"
+    },
+    {
+      "path": "build/_app/immutable/chunks/BBzFXQOQ.js",
+      "sha256": "4c777cef58dabdaad7a130c994606d92d0ef83f2c40821d2ec485c1472180e57"
+    },
+    {
+      "path": "build/_app/immutable/chunks/BDzgil65.js",
+      "sha256": "ecb78ab540f4d615d9c04a02366d0dc728d99cab2fd22c10fd79ca65b838006f"
+    },
+    {
+      "path": "build/_app/immutable/chunks/BHllDQDV.js",
+      "sha256": "a4a38f8f04e81950dbe4cbf82513100967499a47919ba60da49c8ebbc887f3c8"
+    },
+    {
+      "path": "build/_app/immutable/chunks/BMu72TOi.js",
+      "sha256": "94ba7e80e2990e6727c4e1fe83dd4b782a7e5a4cb210d8e6845f4c4ab940720a"
+    },
+    {
+      "path": "build/_app/immutable/chunks/BhsdmqHR.js",
+      "sha256": "9a51a19d653f2360f9758655dd2f16a971c7d56f502568a4c0d8cb34536c05d4"
+    },
+    {
+      "path": "build/_app/immutable/chunks/BoPGmIim.js",
+      "sha256": "a07e5275030742b76955650a83d06b49416310aace31c0bb69bf69c9ec493835"
+    },
+    {
+      "path": "build/_app/immutable/chunks/Bv-n2axH.js",
+      "sha256": "30e6f23ab31fb3eab19dd42dce01cc85892a3a332d4b45e146c8fa94f869d14a"
+    },
+    {
+      "path": "build/_app/immutable/chunks/C8ZtltUv.js",
+      "sha256": "db141a41f3e78574e293a04799d036530c3a7452630ab3ba9e11aaad7a0f4546"
+    },
+    {
+      "path": "build/_app/immutable/chunks/CopOZCZH.js",
+      "sha256": "bade3b0a46effcb615203edd63ef4a5ec23a686b0a9b06961017473c9df16e3a"
+    },
+    {
+      "path": "build/_app/immutable/chunks/D8yApFN9.js",
+      "sha256": "5a63e4b1946ffe014b4d3fe9a76a1a70302285479d21ab3404cb7ef83d39d274"
+    },
+    {
+      "path": "build/_app/immutable/chunks/DKEvzUZe.js",
+      "sha256": "665b0008508353a619f612f8f7e372d636d59750fffe6d299297ff8f94c76fc3"
+    },
+    {
+      "path": "build/_app/immutable/chunks/DQTfMcmF.js",
+      "sha256": "7ff229774fe1469ddb19e9684bcfaaf789d1332dafaaae78dd98744e2b336996"
+    },
+    {
+      "path": "build/_app/immutable/chunks/DZIptA-s.js",
+      "sha256": "5697d475f0659a0dbabf87c698a155fe275f43049f63a21bb6841a0b59a9209e"
+    },
+    {
+      "path": "build/_app/immutable/chunks/DysZemG9.js",
+      "sha256": "a85478b40446ac5704272ba1f1ed8cbec725db016dbde8ffed38f582d5f0f1bc"
+    },
+    {
+      "path": "build/_app/immutable/chunks/T-hntq_-.js",
+      "sha256": "2da4f028f3458b615dd85887c607213fd50d3359eb86d5f6ed2e53e9e2e3baaa"
+    },
+    {
+      "path": "build/_app/immutable/chunks/YwuPLCWm.js",
+      "sha256": "18c8091d3bd04d07a3147bb5f17b8693e6fbf1f6b0313c92432dabe985d9ccca"
+    },
+    {
+      "path": "build/_app/immutable/chunks/_33w8xkP.js",
+      "sha256": "5cc8f1387bc784ae4da4b46cdc8bb854ae890561bef79ab9cb70485e5c844d0f"
+    },
+    {
+      "path": "build/_app/immutable/chunks/wY_2E7fU.js",
+      "sha256": "43a23f17cd525cea163cfd2f5ab351863c6360c5a3d9ef9e0a0eb92d0a1740b8"
+    },
+    {
+      "path": "build/_app/immutable/chunks/wbPk3Yxo.js",
+      "sha256": "5de7f8b5c08f95a02035798b4130a56f17ae31392b8ec5f959da12e29ac3d045"
+    },
+    {
+      "path": "build/_app/immutable/chunks/znUBk6t6.js",
+      "sha256": "590863c5c3976c9d059cb376f190e484127c1238351e68be1d6ce58f4f779147"
+    },
+    {
+      "path": "build/_app/immutable/entry/app.C58sO-dS.js",
+      "sha256": "e95908e260d8adb89c5c23280fec40f0ab7f111c87db9c9cd228ea8f8b578224"
+    },
+    {
+      "path": "build/_app/immutable/entry/app.D5-4_kdn.js",
+      "sha256": "fe1f4f4f190878d3cb39073f43542bc6d04b9a0b351354b7218cc09a731298f3"
+    },
+    {
+      "path": "build/_app/immutable/entry/app.DtGDjqqd.js",
+      "sha256": "3b5d8d7b6f809b96fef9b549ed33da5972784ab9b21124deec5a0b81c30534e9"
+    },
+    {
+      "path": "build/_app/immutable/entry/app.DvIpBSDh.js",
+      "sha256": "aba874866fa7c0f29ec3555884c5b862b33f7ac29aced5b4896253fee52bf19a"
+    },
+    {
+      "path": "build/_app/immutable/entry/app.H7L3ZKz1.js",
+      "sha256": "c07134fe94f714a13e88e1bb565d18e11df3d06cd83ba76c7dc06049cdde0865"
+    },
+    {
+      "path": "build/_app/immutable/entry/app.VqNsgmXE.js",
+      "sha256": "26c1afdf223fafa41f35d8e8259516cfc2a7a4817ceaf811029ab0f59ce293da"
+    },
+    {
+      "path": "build/_app/immutable/entry/app._ip4qwEX.js",
+      "sha256": "bb4986243038b5d179f07106efda1463810edf84fd16f4f0ceb2643cef6a9cfb"
+    },
+    {
+      "path": "build/_app/immutable/entry/start.AcJFYV5d.js",
+      "sha256": "5e3bf08f60b4b9896ad623c0412818c61a1e7975e2dd747c0c32033b2b2045e6"
+    },
+    {
+      "path": "build/_app/immutable/entry/start.B5S70kZj.js",
+      "sha256": "ba34c53f834a594a30a295bb5602bce6aa8b93653eefe3976132dfcc47b2966a"
+    },
+    {
+      "path": "build/_app/immutable/entry/start.C6beB01U.js",
+      "sha256": "a3aed39fddb71ffbf32783dfdc6f522ff512d1475ffccc2580048ddaf3e012b7"
+    },
+    {
+      "path": "build/_app/immutable/entry/start.Chm1ja1E.js",
+      "sha256": "c97c770b9328445670b832b08313bea2d9056497a29874daccf3162f16c4520d"
+    },
+    {
+      "path": "build/_app/immutable/entry/start.DBNJeC-y.js",
+      "sha256": "f127ae33052403d94cba5de4dc2085183f489826903e08e3322cfbcd3559b8d4"
+    },
+    {
+      "path": "build/_app/immutable/entry/start.DLI4K96J.js",
+      "sha256": "1b5309f50e209b0ca0212abd901e8a8be5ce8903643db6722c0e02871734c88e"
+    },
+    {
+      "path": "build/_app/immutable/entry/start.cnXx2trs.js",
+      "sha256": "7ff2750c6d71c12c26ebfc83613d2e8dd790c6564cfe06dc8b03a6f3ecfcc62a"
+    },
+    {
+      "path": "build/_app/immutable/nodes/0.CDUNQ8od.js",
+      "sha256": "15da49b690afe26f505ba95bcb6f2b090ea48c187941c40334677369359cf779"
+    },
+    {
+      "path": "build/_app/immutable/nodes/0.L3f0xTtL.js",
+      "sha256": "02ced4efad68922ce4471105c321fce20942c9fadae2b286b4912c7727fbeedd"
+    },
+    {
+      "path": "build/_app/immutable/nodes/1.BMnooKuf.js",
+      "sha256": "6ea8748f1b2777c9c5a2983bfd212b3e8902b0f500326617894b6cddd9d793eb"
+    },
+    {
+      "path": "build/_app/immutable/nodes/1.BYUzmBTU.js",
+      "sha256": "446a2fbded52da3bf3e9af7ba16231d5d06099deaac744fa7d0923fd73732c68"
+    },
+    {
+      "path": "build/_app/immutable/nodes/1.CKtSbEFo.js",
+      "sha256": "9370a7e91a8a73e71a3ab930bfc1f2fed6c1472bd12303e8231d729a423dce6d"
+    },
+    {
+      "path": "build/_app/immutable/nodes/1.CTxKQ0QD.js",
+      "sha256": "7b8aa332964a116c6a19b0e35e14949f6d2f4d48bc97500979ed38b7daa9187e"
+    },
+    {
+      "path": "build/_app/immutable/nodes/1.CcfyKISr.js",
+      "sha256": "e8d5f2d7924bfb87771cc283dc2b6c0d0962346c9e97853edc2995fb8a09ed74"
+    },
+    {
+      "path": "build/_app/immutable/nodes/1.DxoHezP-.js",
+      "sha256": "a8c74e76e0cf14de5f810974ce815dd7de6bed3d121eab2ff27737b82de022d0"
+    },
+    {
+      "path": "build/_app/immutable/nodes/1.geAybOzi.js",
+      "sha256": "a94c25b259da2e7a94a87e5ec3354363c49f50e5853c6bff26d8464573d2c96c"
+    },
+    {
+      "path": "build/_app/immutable/nodes/2.BqreaQrf.js",
+      "sha256": "fa3dd937d409c73df564b90e3aceebb490e9c37936369caeb45a0409b4821a27"
+    },
+    {
+      "path": "build/_app/immutable/nodes/2.C2ZQLsl0.js",
+      "sha256": "8a0a63da9d52e3abbd5216cda31ddbb36f277271f119a0aeca8369702663c071"
+    },
+    {
+      "path": "build/_app/immutable/nodes/2.DEclqoqh.js",
+      "sha256": "b6273a6caa91754d9d353f099ac15d8ca903f1b41418770cee966d28e2b93b02"
+    },
+    {
+      "path": "build/_app/immutable/nodes/2.Ht_ipK_F.js",
+      "sha256": "3d5eb75b74208788e184c90f9aec86b09ba72b5330f2118c4b0298b08c1cdf85"
+    },
+    {
+      "path": "build/_app/immutable/nodes/2.ZSnbElGd.js",
+      "sha256": "488012efb70409e1a398b4f26789269fd4d6d2d5afcf8293b4f7cba7b74652d5"
+    },
+    {
+      "path": "build/_app/immutable/nodes/2.d9nnwhAK.js",
+      "sha256": "a75ec9d5699f318ede292234db881733ea600b0d399c05a9f86ea9be44b1d2c7"
+    },
+    {
+      "path": "build/_app/immutable/nodes/2.jghnAGte.js",
+      "sha256": "7a6312613e37d5e6b4220d78d9b0d89ce27dbdda1c7ab908863b7842ec35b3fc"
+    },
+    {
+      "path": "build/_app/version.json",
+      "sha256": "0279041e79ec00ea7b15cd7b60117df1524ef003966d52328c22dcf72405be05"
+    },
+    {
+      "path": "build/corpus.json",
+      "sha256": "95db8a857c15b3b3a5482db7e933e095d33b5e80bda1a9b17f9665f5fe4cb7a1"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_001_020_2025_es_revisado.md",
+      "sha256": "b0048dc25647691246da9c5a32a47449155270610fe6c35871b820391552e15e"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_001_020_2025_pt.md",
+      "sha256": "6c42b632d2789416e6da9545680e68f6473c5601529855935e610db5c0a7ee1c"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_021_040_2025_es_revisado.md",
+      "sha256": "c6ec363c240922b792467462f871cd1590b43d4764826189a1119c8de5088d2a"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_021_040_2025_pt.md",
+      "sha256": "209490738275efc65e8a89c8a701cfeb512b7ea227b2ac9cbf315f54ab837039"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_041_060_2025_es_revisado.md",
+      "sha256": "90a48c6ca18ec035eb545d6d2b59ae072646e74279a196e655884a9bfc40c125"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_041_060_2025_pt.md",
+      "sha256": "a515391bdecf02200f4c4d0146e07f32d29e29ccfe685f4c779f276d798f7dcf"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_061_080_2025_es_revisado.md",
+      "sha256": "b0ae7d2fc1c44789687820a1db769fe311bfeebb6a54f9cbc153f15ebd8b25af"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_061_080_2025_pt.md",
+      "sha256": "28c715299b3808b1cea93cdd757b030306d3f20c826279d66e111d9f8cb2097c"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_081_100_2025_es_revisado.md",
+      "sha256": "014fdcb18e38717f2bb9a572c6ec0f217c7ba0c531a30e8b171a0ea6ebd191f7"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_081_100_2025_pt.md",
+      "sha256": "f8d3140da7b0f283c8d37b165e377847d40cec85712bd92726815a71edb629bb"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_101_120_2025_es_revisado.md",
+      "sha256": "6ef2fb9d954d905a2bf2f43c2abf32536bd5b061e192bce9f779c37d87904b6d"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_101_120_2025_pt.md",
+      "sha256": "0549c4edf2764463c7771908aa3e84c389c060aa70aa941a405bf0f87c506d52"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_121_140_2025_es_revisado.md",
+      "sha256": "e3cdde44e6f37019e0781c1e7e1cca1dda19a6bf3728933c6b0b933ab18a556a"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_121_140_2025_pt.md",
+      "sha256": "9c6a15c65da38a51f4c584cc97335262ea4cfb8cd38e8d2416c402854a8f136c"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_141_160_2025_es_revisado.md",
+      "sha256": "645a093b521321ed16da56bcd610a9076cdacffeefc77ed1705b78daa1600d3b"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_141_160_2025_pt.md",
+      "sha256": "bc88a8abb9ecb61e2e54395f6715e1ff21ebd8c7c626d5c8b37cab187e42f465"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_161_180_2025_es_revisado.md",
+      "sha256": "ef249aede472f52328e6f488e15babcb174252b4b767b7070f3bbb28f10214a1"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_161_180_2025_pt.md",
+      "sha256": "86777e0c1bcf89f57b460eaad98584b4653df1797a2e675238198b7c95e8d891"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_181_200_2025_es_revisado.md",
+      "sha256": "9a2ae0d03984bd9162973c5e0431b2d2be485c29e2e1cde3e1b84477c99d2f45"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_181_200_2025_pt.md",
+      "sha256": "ba4621304fcd740672a598d8aa9a1041b2777476448297475144ef17cf88cd66"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_201_220_2025_es_revisado.md",
+      "sha256": "d09b83bf91c2ccbbdaea034e323f931596226db1e50d40c440ae6a10369da463"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_201_220_2025_pt.md",
+      "sha256": "18bd17f070978355b981f3f85efd9857ba44579c668ec9ece98f46ef7af5a9ce"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_221_240_2025_es_revisado.md",
+      "sha256": "66465c398625f82a1a7874884f147a14f6535e1f2e08bc8a6d1314d308e593d2"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_221_240_2025_pt.md",
+      "sha256": "0b496f6284b7c5d9f31e9981846b64a1c4c4260eb08baec7263ddbe0661cfcad"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_241_260_2025_es_revisado.md",
+      "sha256": "d6d35a0b25c68f50b127acf1e2765392a00478eb8b25d97cd7382235a4a6f0a1"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_241_260_2025_pt.md",
+      "sha256": "678bb5ba0e7ad031b4b81a99e6ebb28707815bc981ab5adaefd0124f37e6b1c9"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_261_280_2025_es_revisado.md",
+      "sha256": "b9382462035a1c2e8a52df3b031b80984b6701f48723570a485c1fd41b337812"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_261_280_2025_pt.md",
+      "sha256": "9759f3da09e59a3eb05f8e520a9adfa65439fe2b8eb229cadbdca141c0f91531"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_281_300_2025_es_revisado.md",
+      "sha256": "e8b866a7e4e0d52da350c43a11a03bf69602315dd02bc8d3eb9ccebb070ca77b"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_281_300_2025_pt.md",
+      "sha256": "99e9feb174100a859173dc182d2c36c171dac472f806d299613969bb494a974c"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_301_320_2025_es_revisado.md",
+      "sha256": "695f64957c165e2a8809bc0b7c587261e8b3b906e69c7ad77caf2aea8594bd2a"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_301_320_2025_pt.md",
+      "sha256": "68884cbc0d6c39d772879d64bc80be85ca61608a5bbdf61c1d1b450ff4f5e951"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_321_340_2025_es_revisado.md",
+      "sha256": "f3e4a59c5b1634e6a9f2b512e8097a723b464dbb7652471930f4efe51ea83fda"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_321_340_2025_pt.md",
+      "sha256": "5b52060baaceb14018b7ef0605bd3b9b499c25b3688867dd63e41f7e403676b7"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_341_360_2025_es_revisado.md",
+      "sha256": "5caa66e69f6e06a9b97489ee8396a979f1a3c727115747a3100d38496194dbc8"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_341_360_2025_pt.md",
+      "sha256": "161731aa688838c5c72bae37a036d2fb138a6c1288441daec03271672287af3c"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_361_380_2025_es_revisado.md",
+      "sha256": "46fa011449a98fb3b94dd76878dd4b9867932c6604e5cd6b115763556256d2a0"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_361_380_2025_pt.md",
+      "sha256": "fe748b1e9cf950d3b92d3589e4c72ffcf12c72afbcb2ded3fe78ff4e87a59e00"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_381_400_2025_es_revisado.md",
+      "sha256": "63adc641f65f0bdfc27f950f6d8be3e36c0901bd211d888649f4627ce5711d7e"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_381_400_2025_pt.md",
+      "sha256": "581c5c90bdee4af97d5da58545471d3845b31a11b86b8b8ca7fd6fb13075e2b9"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_401_420_2025_es_revisado.md",
+      "sha256": "50149e81f69be4a83af4f85eaa0d8524997713fd0d8fc547cafc26075a400a6d"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_401_420_2025_pt.md",
+      "sha256": "169ecf924579cbdf461af66c84a73bebc328bf0248dc4f3301c3245186d9f54b"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_421_440_2025_es_revisado.md",
+      "sha256": "c62d7625e17deca9990695eb005557405abd31c22fc718d306b12c1cd33ae1c5"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_421_440_2025_pt.md",
+      "sha256": "a6f60e816d947fb6ebadd1463be3ff27077361b49c9d85ca647e4f501311b7db"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_441_460_2025_es_revisado.md",
+      "sha256": "643fa17c2ef26ab04061ff7eeabdf85e4d05e2cd7222af1c4627179d5fc381e5"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_441_460_2025_pt.md",
+      "sha256": "90e033718df48eaf4494e61930f941fce37dfe1c2cb9c7ef727be928ad36e9a1"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_461_480_2025_es_revisado.md",
+      "sha256": "3e3ad40ff9ba7b67fc5cf8c6b68349a694e0e5d07aded41c71afdd616ab2da09"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_461_480_2025_pt.md",
+      "sha256": "05f507a085efd2dec4fa026de6b82875d8fb87e5939957cacc940bbf3ca587ab"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_481_500_2025_es_revisado.md",
+      "sha256": "f0a29d4fd87b55e12adabfafef5f94bc4d7ff31461a0261f1430da4f3b49d3af"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_481_500_2025_pt.md",
+      "sha256": "d93409e8a81a4e49a54e4cec115851c7c0442660cb31a180b950c366f985d82c"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_501_520_2025_es_revisado.md",
+      "sha256": "d06402b835a8c1409afa941f5d607f884f6529aa6966510a6b6710a192bbd407"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_501_520_2025_pt.md",
+      "sha256": "66b3da3ba068d6882ea4468b0ca4ccd825b7e2ca526d01845ce9f8f7f9529d6e"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_521_540_2025_es_revisado.md",
+      "sha256": "264e1eb28913fd0dcd630f7f10e2d16e63455fa5ce45f9f5e76279933709bb43"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_521_540_2025_pt.md",
+      "sha256": "a4036a567c85fb7163899bd9906d1b735e790e6175c23ee605d30841cdcaa88a"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_541_560_2025_es_revisado.md",
+      "sha256": "db30db3a474ff70d46c0de83d005a33943a9f3aee1265b8a79665be611a4b818"
+    },
+    {
+      "path": "build/documentos/anexo_paginas_541_560_2025_pt.md",
+      "sha256": "c711f2c56eeedbc07d4b1059946cffafe45a4aa69c0a42ce4a16418065f0dc2c"
+    },
+    {
+      "path": "build/documentos/codigo_disciplina_2025_es_revisado.md",
+      "sha256": "1bfad9e4837a413f52a065dcba19eefad84b5b1fce6423fd7d5a3290badce618"
+    },
+    {
+      "path": "build/documentos/codigo_disciplina_2025_pt.md",
+      "sha256": "70abf202ebf3e9a5d92d8517e5e4b8ed0a7f493a72646744348bf00e96b596c0"
+    },
+    {
+      "path": "build/documentos/compatibilidad_notas_historicas_2026.json",
+      "sha256": "33d1a16c38845c6c1ac2213a7218dc27dabe3e6d527b3c4256a44f7517da8739"
+    },
+    {
+      "path": "build/documentos/compatibilidad_notas_historicas_2026_es.md",
+      "sha256": "7754975c5a5018dc615c0d018ae9c25ca2f52716cb2b00789b8890cf91dfa3dd"
+    },
+    {
+      "path": "build/documentos/compatibilidad_notas_historicas_2026_pt.md",
+      "sha256": "34c22166c56cd48cebcf1ecf6998334dfb683ade6468f7bb7d949baea030fc4a"
+    },
+    {
+      "path": "build/documentos/compatibilidad_transversal_lote_01_2026.json",
+      "sha256": "ee25ec40a675cd16dbe113c7f916fe52e5b84b881f3ed21f5884e56a7e60e88b"
+    },
+    {
+      "path": "build/documentos/compatibilidad_transversal_lote_01_2026_es.md",
+      "sha256": "8c5970e4245e66465b8600e3ec47fca94a606811ace3593eba280398580a714e"
+    },
+    {
+      "path": "build/documentos/compatibilidad_transversal_lote_01_2026_pt.md",
+      "sha256": "e2069c9876ac54c72b2be5e20f0614b85a942d0169dc9fb308a7c1b820a239ee"
+    },
+    {
+      "path": "build/documentos/compatibilidad_transversal_lote_02_2026.json",
+      "sha256": "e40a376b4f2e4d338965f05a21dfcc75bef3d7154dbdc6a85d550920863ea497"
+    },
+    {
+      "path": "build/documentos/compatibilidad_transversal_lote_02_2026_es.md",
+      "sha256": "df5dd3a2a03d28a873a790820b8ea3a5c039edcd0af0dcd492b10cda22c093ec"
+    },
+    {
+      "path": "build/documentos/compatibilidad_transversal_lote_02_2026_pt.md",
+      "sha256": "12d714902141b08378cd192a473b1ca7839b0dee02f2ae6cb97b62e387c14110"
+    },
+    {
+      "path": "build/documentos/compatibilidad_transversal_lote_03_2026.json",
+      "sha256": "ff0238289e21c3dd9497adacb7f8b8abdc094ef4dca132567372f679e5636318"
+    },
+    {
+      "path": "build/documentos/compatibilidad_transversal_lote_03_2026_es.md",
+      "sha256": "e10fef1387c468cbd113bc860c09dbd8a55b7cc1e5500acca8fa1c3b70675bfa"
+    },
+    {
+      "path": "build/documentos/compatibilidad_transversal_lote_03_2026_pt.md",
+      "sha256": "3e69dcaf60ac24d87d08f1eeaef4cde932c564c353c38556fd8905e47eb26b62"
+    },
+    {
+      "path": "build/documentos/compatibilidad_transversal_lote_04_2026.json",
+      "sha256": "4954eb41801a2a5836c782e109449410a644a1527a913692d48cd6c383f4765c"
+    },
+    {
+      "path": "build/documentos/compatibilidad_transversal_lote_04_2026_es.md",
+      "sha256": "cabd80a27e2281568341611622f1cfaa291da7eb0048c9f1dc99ae2e906d2cfe"
+    },
+    {
+      "path": "build/documentos/compatibilidad_transversal_lote_04_2026_pt.md",
+      "sha256": "2b9ac74cc613c3ca8d54e47af6f63e9c82ce7749f929eb2e8b0240cd23702625"
+    },
+    {
+      "path": "build/documentos/compatibilidad_transversal_lote_05_2026.json",
+      "sha256": "ea3245e1cc43260aff7fcee2369bb57502bcc00a291d61fd0e8a533e5628635a"
+    },
+    {
+      "path": "build/documentos/compatibilidad_transversal_lote_05_2026_es.md",
+      "sha256": "13bef411bc8b6f7ec3a81512a016beabbbed44be711638bf888147aea929f584"
+    },
+    {
+      "path": "build/documentos/compatibilidad_transversal_lote_05_2026_pt.md",
+      "sha256": "105ac32d35f337c24978af6aa954a2540b99bd4a677969287e4831755042cb6b"
+    },
+    {
+      "path": "build/documentos/constitucion_2025_es_revisada.md",
+      "sha256": "bef8f82020dbb49ae2fafbab8eb473a5c02b521a9fb4dd4ebb40d5606cdd0dcd"
+    },
+    {
+      "path": "build/documentos/constituicao_2025_pt.md",
+      "sha256": "6a867131ade280c61fab5a292465781a826663ece5109f5ec6fed7857b2188ae"
+    },
+    {
+      "path": "build/documentos/correcciones_editoriales_consolidacion_2026.json",
+      "sha256": "c8617638327dc4eb5944a184250ff3b06ab16459f55aa7538b15d47910b805bf"
+    },
+    {
+      "path": "build/documentos/digesto.pdf",
+      "sha256": "e82955017938a555ab31a699d125b48fdfce686dd03d69b7b8dbbad1b03c2482"
+    },
+    {
+      "path": "build/documentos/digesto_2026_es.md",
+      "sha256": "055bdaad334061e76d684a630da44d7ab95f40c34ab39ec35dca07b50a3df2d2"
+    },
+    {
+      "path": "build/documentos/digesto_2026_pt.md",
+      "sha256": "a45d3bfdbd8887110baedfafb00876e92e084eb6ef9a6f386ead81dc729bdbcb"
+    },
+    {
+      "path": "build/documentos/digesto_es_en_progreso.md",
+      "sha256": "e537e28c6e98aaacd7f025dc8d8a3548ef1297213ec263117e918900104e9856"
+    },
+    {
+      "path": "build/documentos/digesto_lote_001_010_2026_es_revisado.md",
+      "sha256": "0461969c50384358087db2d8514f86100c4d5f9504beb7e65e4478d5c2c77c47"
+    },
+    {
+      "path": "build/documentos/digesto_lote_001_010_2026_pt.md",
+      "sha256": "8a4ea30b29c7239473fb6906a8a08f18169f98907d424649d72fb36a272a6e83"
+    },
+    {
+      "path": "build/documentos/digesto_lote_011_020_2026_es_revisado.md",
+      "sha256": "8f35cb2d4a501f1bf28d6ee5b14911f4e12da787fc7e28b7e31466240c31f585"
+    },
+    {
+      "path": "build/documentos/digesto_lote_011_020_2026_pt.md",
+      "sha256": "12a060a5040c1b2f289c1a6a394ff2b10bd45d7479973ce96be78689b4cda122"
+    },
+    {
+      "path": "build/documentos/digesto_lote_021_030_2026_es_revisado.md",
+      "sha256": "d18fcb83bd6f4500528708926a581ee827fd8f9bb9c6e5f45c1522124f1ffe4c"
+    },
+    {
+      "path": "build/documentos/digesto_lote_021_030_2026_pt.md",
+      "sha256": "5e161ac4b709330a3ea8e8700f192183dc6723fd4fb53913e698ca1ff873dd67"
+    },
+    {
+      "path": "build/documentos/digesto_lote_031_040_2026_es_revisado.md",
+      "sha256": "8ca7b4f67c60064f71254362fdb07d0a445a81f51162f73655534236bd3c472c"
+    },
+    {
+      "path": "build/documentos/digesto_lote_031_040_2026_pt.md",
+      "sha256": "456544c2d5e55c611eb5466ca2bf39bfea0bc874b8697534b2308d0e6936b065"
+    },
+    {
+      "path": "build/documentos/digesto_lote_041_050_2026_es_revisado.md",
+      "sha256": "62ed7555af9d9699e69d337af7796b5ae12aca940fc8588e2a7438e8e58b9532"
+    },
+    {
+      "path": "build/documentos/digesto_lote_041_050_2026_pt.md",
+      "sha256": "4e2cf7f834f7da36fbceec6d2c97d8381de17719b5da3fc27198d76ad1d17db5"
+    },
+    {
+      "path": "build/documentos/digesto_lote_051_070_2026_es_revisado.md",
+      "sha256": "4cb07b8e02c8e3b7cebd962e964831e345841beb897b186d93441ab7db3ad377"
+    },
+    {
+      "path": "build/documentos/digesto_lote_051_070_2026_pt.md",
+      "sha256": "270a92367e4b7953822b9c8412afccaf97a8000fb6fc3d6a136549939f2689cf"
+    },
+    {
+      "path": "build/documentos/digesto_lote_071_090_2026_es_revisado.md",
+      "sha256": "505fbb8852ec6b40fb4560ce6e04f14974e9b7053e4906b90df9024ee766221e"
+    },
+    {
+      "path": "build/documentos/digesto_lote_071_090_2026_pt.md",
+      "sha256": "e7208281abcbae9d8853cd8133dfe8e8dd119441fdc8f15fe995fc065fedcba3"
+    },
+    {
+      "path": "build/documentos/digesto_lote_091_110_2026_es_revisado.md",
+      "sha256": "95324284493f061e8fcf1bd2701bada0f1cffaa4d2a9be4921cd27ac4f2430b5"
+    },
+    {
+      "path": "build/documentos/digesto_lote_091_110_2026_pt.md",
+      "sha256": "a18f32a17e401c2a9e6746f1d9caeed6ae1df5ff8b3a8a3d9d67ef68fe7c7828"
+    },
+    {
+      "path": "build/documentos/digesto_lote_111_130_2026_es_revisado.md",
+      "sha256": "d31d4f42b8fe51a74aebc0861d8ff0afe264f118419baf65dc8229a06a6d7c94"
+    },
+    {
+      "path": "build/documentos/digesto_lote_111_130_2026_pt.md",
+      "sha256": "545ea5b4faff0e2e9e9e39b93b4984c9575ab187330f7246df98522ab299727f"
+    },
+    {
+      "path": "build/documentos/digesto_lote_131_150_2026_es_revisado.md",
+      "sha256": "f580f157c52f53304b60513a016bbac387fd67f814f4bb1cda57c840ae7a87e1"
+    },
+    {
+      "path": "build/documentos/digesto_lote_131_150_2026_pt.md",
+      "sha256": "cd443707cd8008facd3a0f0e4c6b93536a63b28c9a618f6adf6bb5eed84e8a5f"
+    },
+    {
+      "path": "build/documentos/digesto_lote_151_170_2026_es_revisado.md",
+      "sha256": "828427dc40f550dfb68f943337c82d87c19ddb63d8a3e75cdd1fb31e4d4af85f"
+    },
+    {
+      "path": "build/documentos/digesto_lote_151_170_2026_pt.md",
+      "sha256": "2016d0abab2d12726d00288eca894b8588aee3370f1205e336e9b441107f226e"
+    },
+    {
+      "path": "build/documentos/digesto_lote_171_190_2026_es_revisado.md",
+      "sha256": "b373f2811ca6f833e99d30a8241213d1561adf432c058a410f84814555ae7da2"
+    },
+    {
+      "path": "build/documentos/digesto_lote_171_190_2026_pt.md",
+      "sha256": "296a01aa091973597dc7c9b64c458ef5da7b86b13577fef390e686ef050b13a2"
+    },
+    {
+      "path": "build/documentos/digesto_lote_191_210_2026_es_revisado.md",
+      "sha256": "0bcea2647ddff059b29ee5138a83c367c9aeb931f10e69e5e1b24bbadac31150"
+    },
+    {
+      "path": "build/documentos/digesto_lote_191_210_2026_pt.md",
+      "sha256": "07e6774901a151f62dd759342e02db32eabb40cdf2e1c0960eef2f0727402aea"
+    },
+    {
+      "path": "build/documentos/digesto_lote_211_230_2026_es_revisado.md",
+      "sha256": "d56823c71e2da5c711053a88455be709322644830bed5d689b18a1e2a54c02d3"
+    },
+    {
+      "path": "build/documentos/digesto_lote_211_230_2026_pt.md",
+      "sha256": "d94b534f0cdccf9054c91e2bf511ec52f530e75055a24deb8906425c10f765ed"
+    },
+    {
+      "path": "build/documentos/digesto_lote_231_250_2026_es_revisado.md",
+      "sha256": "6eae8ec7a5d40f0f1cf96c6bfb80f65a55930d86115de26d3db53fcf82400b96"
+    },
+    {
+      "path": "build/documentos/digesto_lote_231_250_2026_pt.md",
+      "sha256": "9ebd0c66cc3ad866419f4dbfa6627c8ac15c291be18283ba6273bf0d1b6e7086"
+    },
+    {
+      "path": "build/documentos/digesto_lote_251_260_2026_es_revisado.md",
+      "sha256": "010ff6a212fa3567d41a53452b4b7b7fe87b880e5d172131edbfc9c2c886a313"
+    },
+    {
+      "path": "build/documentos/digesto_lote_251_260_2026_pt.md",
+      "sha256": "d3802d54bd289d0e250c7cd4c048a624eb38f81a4eb0c568c12deff8b302c22d"
+    },
+    {
+      "path": "build/documentos/digesto_lote_261_2026_es_revisado.md",
+      "sha256": "7bf349d03d79ec78c81f63897365b5016bcda6869e91f07102e22eb789d3c517"
+    },
+    {
+      "path": "build/documentos/digesto_lote_261_2026_pt.md",
+      "sha256": "62bb94a04d99d797e040456e9c6e35d0dcca6265ca21851eed695f9814d0bfd3"
+    },
+    {
+      "path": "build/documentos/digesto_lote_262_271_2026_es_revisado.md",
+      "sha256": "0e52582d46c7e4a3a30e8f6051c0b6d5ac05c9e9ade99f563dbf1086ed8fcd38"
+    },
+    {
+      "path": "build/documentos/digesto_lote_262_271_2026_pt.md",
+      "sha256": "358b858520c4c46ab180a304747e6939bc2cf189b915c243534229534f260a2c"
+    },
+    {
+      "path": "build/documentos/digesto_lote_272_281_2026_es_revisado.md",
+      "sha256": "42adaf3937feb118a93c50812bbf59f43bf73b573863632f9c7281faf560bdf3"
+    },
+    {
+      "path": "build/documentos/digesto_lote_272_281_2026_pt.md",
+      "sha256": "f515904c5f48be5facc0532a570dfa41e68bc29d1bfcf2580755a07be4a86324"
+    },
+    {
+      "path": "build/documentos/digesto_lote_282_291_2026_es_revisado.md",
+      "sha256": "5aa268c1ce0837c0edb47a8a8395b7a7c9fd8b68b27719572e517b100a8c7ba1"
+    },
+    {
+      "path": "build/documentos/digesto_lote_282_291_2026_pt.md",
+      "sha256": "dfcce101c95bda46591f91f93230cf4df20dc3a58e85d04213e636ed418c840d"
+    },
+    {
+      "path": "build/documentos/digesto_lote_292_311_2026_es_revisado.md",
+      "sha256": "814d070eca441d0c76dd86720c901440d51fca6ca2ecc08d17c1cec527b512da"
+    },
+    {
+      "path": "build/documentos/digesto_lote_292_311_2026_pt.md",
+      "sha256": "b57b0abe3f2cc7901a781216d12d7e44570efff8a1cd863853f3ec231216fea9"
+    },
+    {
+      "path": "build/documentos/digesto_lote_312_331_2026_es_revisado.md",
+      "sha256": "8face60a8df92ddba90135b56f6c09e3237dfe016023f669a68860ca3553a290"
+    },
+    {
+      "path": "build/documentos/digesto_lote_312_331_2026_pt.md",
+      "sha256": "f914e2b73719a3e54471d867790d249dbaebb0286e94d88a44423ea02ecad9af"
+    },
+    {
+      "path": "build/documentos/digesto_lote_332_351_2026_es_revisado.md",
+      "sha256": "0362ddb4cba174a03543357154727f899e15351eae880169f37d695736de7e74"
+    },
+    {
+      "path": "build/documentos/digesto_lote_332_351_2026_pt.md",
+      "sha256": "13b68ece1d9cdfd5b598e29928d64fab41d23e1c481db2a5aeaaae0e20814acf"
+    },
+    {
+      "path": "build/documentos/digesto_lote_352_371_2026_es_revisado.md",
+      "sha256": "760a4af446cdf47691fd48b94132ed08a51a66504360fa0e4d647ca6459cf3ae"
+    },
+    {
+      "path": "build/documentos/digesto_lote_352_371_2026_pt.md",
+      "sha256": "645898fb30b50bb0499570bc7054ee57382eda3bf3e9abd32ffa23141031445e"
+    },
+    {
+      "path": "build/documentos/digesto_lote_372_391_2026_es_revisado.md",
+      "sha256": "c86ac1047ff890939c2a51779cc372552651dcc4c333577a6bdc4a01a2dd10dd"
+    },
+    {
+      "path": "build/documentos/digesto_lote_372_391_2026_pt.md",
+      "sha256": "65b62b832e325fddaeff34d56653ebccf1a8414102db47c41ebb1aaa88984fbd"
+    },
+    {
+      "path": "build/documentos/digesto_lote_392_398_2026_es_revisado.md",
+      "sha256": "7db041f1e2e79ee9344b36dc6aa616f8bcde8b3abf3d128562e15af27a822155"
+    },
+    {
+      "path": "build/documentos/digesto_lote_392_398_2026_pt.md",
+      "sha256": "4ad3a290553cfed1b1cdd960f0d785a8d618837b2269df3aff314a979d27b289"
+    },
+    {
+      "path": "build/documentos/digesto_pt_original.md",
+      "sha256": "a45d3bfdbd8887110baedfafb00876e92e084eb6ef9a6f386ead81dc729bdbcb"
+    },
+    {
+      "path": "build/documentos/estado_bilingue.json",
+      "sha256": "82e1c9949cb1127954a237b001e6bcc9d69a5d40410e973a67c48d05da6e92ea"
+    },
+    {
+      "path": "build/documentos/estado_bilingue_es.md",
+      "sha256": "f880341a3451d5d2aec9294d6b3031ccb5c7a09e3af1532e77931a9a775121e1"
+    },
+    {
+      "path": "build/documentos/estado_bilingue_pt.md",
+      "sha256": "e88be763ec2c32298d90bfd5a877ceaa47124b72178c3b7b494d6906e2f8a7ac"
+    },
+    {
+      "path": "build/documentos/estado_operativo_sistema_2026.json",
+      "sha256": "b470b8e59778758d3bd34e299d6bdbfcc3dfcb2451b43a6fea2fb7bdb8263d02"
+    },
+    {
+      "path": "build/documentos/estatuto_iglesia_2025_es_revisado.md",
+      "sha256": "dba92f2812e4455e2f1b40779f5a766f9c60659303a121347440314c1d979b56"
+    },
+    {
+      "path": "build/documentos/estatuto_igreja_2025_pt.md",
+      "sha256": "f9ace86934f780e167bd511aacd7b68f29f1722b22178f1abd4e03cdd5c188de"
+    },
+    {
+      "path": "build/documentos/estatuto_ipb_2025_es_revisado.md",
+      "sha256": "25a5fb8086d88c952932442f65f2a7d8d77904fc5d40acc0da040f28922b9193"
+    },
+    {
+      "path": "build/documentos/estatuto_ipb_2025_pt.md",
+      "sha256": "f48daf646c6bec262d5680dfaa157c5caac4f1ae316e07c07ccd3e49a2f06bd0"
+    },
+    {
+      "path": "build/documentos/estatuto_presbiterio_2025_es_revisado.md",
+      "sha256": "eaa6a6ce9a8df8ae53f5864d7f95182e59b26e5096e59eddb713a6a18826ba4b"
+    },
+    {
+      "path": "build/documentos/estatuto_presbiterio_2025_pt.md",
+      "sha256": "3430a0a8f3cb3d1b48d3cb02cec8fd97224b7abe51a7f5496f03e6db60f22dc9"
+    },
+    {
+      "path": "build/documentos/estatuto_sinodo_2025_es_revisado.md",
+      "sha256": "39098bbb3fd5a4cecd1659cfc39b794746d714bcc6f27c016c1b49559320eabf"
+    },
+    {
+      "path": "build/documentos/estatuto_sinodo_2025_pt.md",
+      "sha256": "d3952ac564b748c4d365581d81201b32d602f9f08bba8636ccf3057ad2ff4b41"
+    },
+    {
+      "path": "build/documentos/guia_inicio_sistema_2026_es.md",
+      "sha256": "bda16ad9001da04213f207e4932bafd5091bee8a93bedbc665d2b4c609ec8ea8"
+    },
+    {
+      "path": "build/documentos/guia_inicio_sistema_2026_pt.md",
+      "sha256": "b46cb376df2b913934c52e33a9150af16858480fce8b9660145509edbbd59e73"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_01_2026_es.md",
+      "sha256": "3c041cfbb4062c86b6d4d1ce0572ea7e705f565709838056e0d2efde75b3b2a8"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_01_2026_pt.md",
+      "sha256": "d9d633a2a468bb8700ef3741abce195b0517c113e5c0f3ad293077a09f660343"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_02_2026_es.md",
+      "sha256": "c07e6595ec9e32f80ce70534f3f64d183d70c110743aaceb66e2f512618fc3ae"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_02_2026_pt.md",
+      "sha256": "2157a2a88632f28c53b334ffce879b49966576a9b8e49e6c47357cf086fcfe35"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_03_2026_es.md",
+      "sha256": "b9a3aaa811cb7c479606af0e5f394b5f88dc42d4815d62c1af5c14abbeb5a3f7"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_03_2026_pt.md",
+      "sha256": "b53464548c2c8cb314e6738348b4b3f8a0904157262d101b3dd3e2eb7eaf27d5"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_04_2026_es.md",
+      "sha256": "9f5c7b21eb450acc19db325330b51159781dce70b6c3d2dd3508f1f44162ea95"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_04_2026_pt.md",
+      "sha256": "c297c8a15f8df635d5a47345dde72b3774bbf638577501d3970b6feec38ab520"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_05_2026_es.md",
+      "sha256": "d0fe3207ba77b3eb0b8a0c99c24be65fc0c5ae7e735b0abb94f5538ee99ef8cf"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_05_2026_pt.md",
+      "sha256": "f5ae86c86fc8ed486d88331806942fe241bdd41870234dc1c6bea1d3196e84c3"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_06_2026_es.md",
+      "sha256": "bdf5584c3ab6358fd409b381268b723c6bb4f159b6a2a199498695755f64ad6b"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_06_2026_pt.md",
+      "sha256": "cca36d5c57a4d9dd7ce2b9cafcc586fc5f1ea4096c6f351f0a713a28a2afc5d9"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_07_2026_es.md",
+      "sha256": "acea0856c512de20b138833973cd67ba58c246ee785756128411a9a161072a14"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_07_2026_pt.md",
+      "sha256": "4184522250b89d3811db9a80d09bc23590b3cdd4df5ea26abde11d06f5233e4c"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_08_2026_es.md",
+      "sha256": "6dafa326e1f4453752e93a57e8743db3eecc721e38f24ec4ea051ba69ee5113a"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_08_2026_pt.md",
+      "sha256": "250800748ca63805ebbb375cb53a12a1b0cdd0e9ac70fc259cc70ff759ac9805"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_09_2026_es.md",
+      "sha256": "a54d94cb6f8795060d3dfd58247da1c9280bd080744d1f4a158fe53d7fc88530"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_09_2026_pt.md",
+      "sha256": "e33a7fe51ee15d18fa82131f5b307f3182fdb0d0602b3bcfb79654370428efdc"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_10_2026_es.md",
+      "sha256": "6f2f215be5a178f98a258f8396def9524af6631d9ed7906f11c0dcf6756d21bf"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_10_2026_pt.md",
+      "sha256": "ea4f9d2a9a2cafc33a317839ca124d9392da758568c7fe9bca1ddc7dd610071d"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_11_2026_es.md",
+      "sha256": "1ca2fae8dfcba5e936881fd2ae6631236a5873a35ed6506acf2a1f577ce161b6"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_11_2026_pt.md",
+      "sha256": "a0772f504b7dfea7a1c1f6c5179ead94eb834d43807e6625aeb2b5f9d177088f"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_12_2026_es.md",
+      "sha256": "ecc05f7701344d4dcc3e68e408e923fdddbcef5828bbf1d664b098c9e33ba1e3"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_12_2026_pt.md",
+      "sha256": "40f4e01699373f2877d003226e58beb4448ec332dc22a933cd99a1bb93dc1bd6"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_13_2026_es.md",
+      "sha256": "5e260114354ef16a734f6ea70bb507a5e4e402b30c5d95e9797cf49cfedc6592"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_13_2026_pt.md",
+      "sha256": "5778c49f81012af654e3832ac03f73989fdff50eef449a34e6b7119cb518961d"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_14_2026_es.md",
+      "sha256": "ba09a77033994ec0e721bcdbedc6b8ba134ec27d08fed13443e56c763bd4ba30"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_14_2026_pt.md",
+      "sha256": "f26c8dd517323f00b13cef3abe373749f40f086ff3815c5b80c42d2bd2ee74f1"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_15_2026_es.md",
+      "sha256": "9ea7088d7afa86573a5fee21e8c414d4fb3513a3ab87381ab6a38197430758ea"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_15_2026_pt.md",
+      "sha256": "e6ef8db10888da82a8758b3417ec249525b5db9404ccc857029c232a133344af"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_16_2026_es.md",
+      "sha256": "999aa258d3ec799388d0fcda6503ac386668dc59f6846deabffcfa91bb7a2b89"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_16_2026_pt.md",
+      "sha256": "1bbd11f0c1fb7b643fe1f8d08b70d366fd0540be7e9a2f19a69364cbc5494f1d"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_17_2026_es.md",
+      "sha256": "b7486f59fcc3d501c231fc6f1a5c8211fa0548d0fa78241f871c55c60f0ce81b"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_17_2026_pt.md",
+      "sha256": "d9b63539f4dc95b6bc47deae4f317970639facc1dffbea7a3c34c2f936515fd4"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_18_2026_es.md",
+      "sha256": "5424c04c6f17224677b22e4386cae318e4de131a7e514125c2228139883d2074"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_18_2026_pt.md",
+      "sha256": "2a8750fd60ed614d86c02f6b9f3213c3372479cf37ea8f76e88dfe3b8f351a11"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_19_2026_es.md",
+      "sha256": "bade6b2cad6915a06a9d1e790c42eacdd2e54f4fb6eb092e63c2318c539f7cc5"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_19_2026_pt.md",
+      "sha256": "68a3a0c1059aebe8097e3283c496b0888734c21a1dbd504611a9755585ec86fe"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_20_2026_es.md",
+      "sha256": "1672502ccecfac7fb2190ab5766a1acb40b8e9fb2ba994db5ecf1585c4eae409"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_20_2026_pt.md",
+      "sha256": "4a74d8b6858bf25aa2e25c047f59364065f013e994c50ad6daa9cc643927eb4c"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_21_2026_es.md",
+      "sha256": "44c3c71c583a2c70488cde016443be95c2a9060a16eb24d87fa7d071b3348c85"
+    },
+    {
+      "path": "build/documentos/integracion_normativa_lote_21_2026_pt.md",
+      "sha256": "905d6ab3515c4f44c89ae9dbae8d89b39df203acf3b9e4baf30ef765efc6302a"
+    },
+    {
+      "path": "build/documentos/inventario_referencias_transversales_2026.json",
+      "sha256": "3dc1cb6d2595eeac111154900e90c982fde321b9aca82f7fd7264d682f6d3d12"
+    },
+    {
+      "path": "build/documentos/lista_trabajo_manual_presbiteriano.md",
+      "sha256": "735bc1322b3311597ccc1bf3c739ba48b8183b35a3c3243dd9bdc864c024084b"
+    },
+    {
+      "path": "build/documentos/lista_trabalho_manual_presbiteriano_pt.md",
+      "sha256": "a435f1d9f72e1f0e69637828b5cbc08f4ee8ecdf32a4befae5f2d70aff5a7e97"
+    },
+    {
+      "path": "build/documentos/manual.pdf",
+      "sha256": "2d8b728004e32995ee5f1600a7e4e0da94a7124e253bf1fac5322a2b93a083a3"
+    },
+    {
+      "path": "build/documentos/manual_2025_es.md",
+      "sha256": "7a00ec55c2d0e8332ad4c259fbd8c41aacfe1ced24cf13ddf32dec110e86c7a0"
+    },
+    {
+      "path": "build/documentos/manual_2025_pt.md",
+      "sha256": "8dfe35eb3608a49f45bda1cec15cf48afb9b512110a26f2a1a4317fd1b5d87a7"
+    },
+    {
+      "path": "build/documentos/manual_es_en_progreso.md",
+      "sha256": "7bb6716c87add2025bb8dea3991932c46f7b3f434c209d61fb096c852c9779e1"
+    },
+    {
+      "path": "build/documentos/manual_integrado_es.md",
+      "sha256": "3af9aa52d295fc536d29e24522904ba606332159bd5b4ed6a75bb5eefd070717"
+    },
+    {
+      "path": "build/documentos/manual_integrado_es_en_progreso.md",
+      "sha256": "c3b2037460b20f8e44c5a6233faebdd4312fde114eed84827fe98c417e1a4ac8"
+    },
+    {
+      "path": "build/documentos/manual_integrado_pt.md",
+      "sha256": "b7a30d03827c7fbd90f290eb021c7f3b9c8e223d4a2d46e0a7da571ad34734c8"
+    },
+    {
+      "path": "build/documentos/manual_pt_original.md",
+      "sha256": "8dfe35eb3608a49f45bda1cec15cf48afb9b512110a26f2a1a4317fd1b5d87a7"
+    },
+    {
+      "path": "build/documentos/pendientes_confirmacion_documental_2026.json",
+      "sha256": "febd55e9ddd9bdf722addaa88a3a7807d2e57dec86465f6b4efa0d86e5e47ab5"
+    },
+    {
+      "path": "build/documentos/pendientes_confirmacion_documental_2026_es.md",
+      "sha256": "5a665c84c1533c183b9d1dcc57f7b598c48f9db4a0197fbf13a1b50ffbc061e2"
+    },
+    {
+      "path": "build/documentos/pendientes_confirmacion_documental_2026_pt.md",
+      "sha256": "ae859bd3d33785f2e147f42b0a59e028d44eb924d6fa2f2c19193d7efe699e2d"
+    },
+    {
+      "path": "build/documentos/preliminares_separadores_2025_es_revisado.md",
+      "sha256": "7de200e0963fd728f623c5633252cd1573d9dc9434f0f8f2601302ab432c3b3f"
+    },
+    {
+      "path": "build/documentos/preliminares_separadores_2025_pt.md",
+      "sha256": "c85e9569483141dd41c6b701456f816e2eee4d689e3b69d3d33b3263eb541f5a"
+    },
+    {
+      "path": "build/documentos/principios_liturgia_2025_es_revisado.md",
+      "sha256": "35282ba470af382050d014252e90416ffe23d3a3d9007eba24f60f12bcf3f56a"
+    },
+    {
+      "path": "build/documentos/principios_liturgia_2025_pt.md",
+      "sha256": "8734cf326e88fb285155f12d071781b63c694663c6eb3299047843a51ec93e3a"
+    },
+    {
+      "path": "build/documentos/regimento_ce_2025_pt.md",
+      "sha256": "c49a22c37d9260eb3e0ab65f97c15ef52473fbb90f5cef8d7dc16e7e4780f980"
+    },
+    {
+      "path": "build/documentos/regimento_junta_diaconal_2025_pt.md",
+      "sha256": "91a932d3d77a1d4aeece09209e5836b8a8aaf3045de7a10fcb2619a3dd80f553"
+    },
+    {
+      "path": "build/documentos/regimento_presbiterio_2025_pt.md",
+      "sha256": "9ae84296e76d39cd2c214ea85fbc11fee2d72123444fe1f54bc460d22a5334b4"
+    },
+    {
+      "path": "build/documentos/regimento_sc_2025_pt.md",
+      "sha256": "0b36dc21d83794b99bfe5e350ba98f84ea7ab6ab506f6d1434e78ec5a61765c2"
+    },
+    {
+      "path": "build/documentos/regimento_sinodo_2025_pt.md",
+      "sha256": "1a805cbd4bb0924e2def53d36dc87dcc9447dc1a80cc3d8b7c1fa0179e962356"
+    },
+    {
+      "path": "build/documentos/reglamento_actas_2025_es_revisado.md",
+      "sha256": "4b0aeff63685b9d5567c6f1639eca9129052329902d37be6a8ebe7e831814704"
+    },
+    {
+      "path": "build/documentos/reglamento_ce_2025_es_revisado.md",
+      "sha256": "3500e7d6da355aa657787198e35b4c3d58d2244e77dae2615073370d2167eed5"
+    },
+    {
+      "path": "build/documentos/reglamento_junta_diaconal_2025_es_revisado.md",
+      "sha256": "b977e43e8c9fc4c28a153f9fed02ebdfa36147718908a3900cd4a1c283ddd4ac"
+    },
+    {
+      "path": "build/documentos/reglamento_presbiterio_2025_es_revisado.md",
+      "sha256": "13085ed1bc64ece87525b6280259731a174531d9670cfae6bdd9b76e7592f22d"
+    },
+    {
+      "path": "build/documentos/reglamento_sc_2025_es_revisado.md",
+      "sha256": "768ca4395079d54f12eae9d8714045c348fdbe5ef3736fd73c21fd06b145e0dc"
+    },
+    {
+      "path": "build/documentos/reglamento_sinodo_2025_es_revisado.md",
+      "sha256": "90b12163098596c1fcbb39059319b814ceb9ff552be5f77e17c87854cca690b4"
+    },
+    {
+      "path": "build/documentos/regulamento_atas_2025_pt.md",
+      "sha256": "0b984eb19ba95817148895c3b3cf5afbd21a52b02f9a7c74f9bbede944f16234"
+    },
+    {
+      "path": "build/documentos/revision_editorial_consolidacion_2026.json",
+      "sha256": "2fd3f06f925149ad93ab832b7fbdb7ab291f2018c12cdd27651abfbe9235a7ac"
+    },
+    {
+      "path": "build/documentos/revision_editorial_consolidacion_2026_es.md",
+      "sha256": "54e7794964d8c5b5a93195964ee08f9e2e677b9e9d7abda383d4b5184e420ea7"
+    },
+    {
+      "path": "build/documentos/revision_editorial_consolidacion_2026_pt.md",
+      "sha256": "5a621fc77ff0549caa6c4baa35bcab6c944128d99b41594d64979015d62dc005"
+    },
+    {
+      "path": "build/documentos/revision_manual_2025_es.md",
+      "sha256": "9d52b352d18e531b81194f5b7ead3c36a318755869db762bac701f2339bf0138"
+    },
+    {
+      "path": "build/documentos/revision_manual_2025_pt.md",
+      "sha256": "711a322a80eceef7e0ae74d184b97191d28a2a94e2546e89806ee6035da328be"
+    },
+    {
+      "path": "build/documentos/sumario_indices_2025_es_revisado.md",
+      "sha256": "e2d9292012fc6b952b1a40fd9125d40003591d3464519bae53ee63621feb0fa6"
+    },
+    {
+      "path": "build/documentos/sumario_indices_2025_pt.md",
+      "sha256": "6fda99eacf0cf893ba0ef742d7d678e52be5f5f10ce78a4589a5ae08205a85da"
+    },
+    {
+      "path": "build/documentos/suplemento_normativo_2026_es.md",
+      "sha256": "ac8e85092d778a0299d110278dcf52452d5a3cb88b1eea644bf76d8a67aafeb4"
+    },
+    {
+      "path": "build/documentos/suplemento_normativo_2026_pt.md",
+      "sha256": "8148438258871999d41086beae9321bb32da38976dd9f06a15717f6ec79e733c"
+    },
+    {
+      "path": "build/favicon.svg",
+      "sha256": "434c10d34101a1737e0f293fdbd89ee09bec8185e71201f0825f99e302e1ad23"
+    },
+    {
+      "path": "build/index.html",
+      "sha256": "51ee01b24de76880ba23a98b77ea2732a17e7bde51be46a3cc86d0ee668b978a"
+    },
+    {
+      "path": "documentos/anexo_paginas_001_020_2025_es_revisado.md",
+      "sha256": "b0048dc25647691246da9c5a32a47449155270610fe6c35871b820391552e15e"
+    },
+    {
+      "path": "documentos/anexo_paginas_001_020_2025_pt.md",
+      "sha256": "6c42b632d2789416e6da9545680e68f6473c5601529855935e610db5c0a7ee1c"
+    },
+    {
+      "path": "documentos/anexo_paginas_021_040_2025_es_revisado.md",
+      "sha256": "c6ec363c240922b792467462f871cd1590b43d4764826189a1119c8de5088d2a"
+    },
+    {
+      "path": "documentos/anexo_paginas_021_040_2025_pt.md",
+      "sha256": "209490738275efc65e8a89c8a701cfeb512b7ea227b2ac9cbf315f54ab837039"
+    },
+    {
+      "path": "documentos/anexo_paginas_041_060_2025_es_revisado.md",
+      "sha256": "90a48c6ca18ec035eb545d6d2b59ae072646e74279a196e655884a9bfc40c125"
+    },
+    {
+      "path": "documentos/anexo_paginas_041_060_2025_pt.md",
+      "sha256": "a515391bdecf02200f4c4d0146e07f32d29e29ccfe685f4c779f276d798f7dcf"
+    },
+    {
+      "path": "documentos/anexo_paginas_061_080_2025_es_revisado.md",
+      "sha256": "b0ae7d2fc1c44789687820a1db769fe311bfeebb6a54f9cbc153f15ebd8b25af"
+    },
+    {
+      "path": "documentos/anexo_paginas_061_080_2025_pt.md",
+      "sha256": "28c715299b3808b1cea93cdd757b030306d3f20c826279d66e111d9f8cb2097c"
+    },
+    {
+      "path": "documentos/anexo_paginas_081_100_2025_es_revisado.md",
+      "sha256": "014fdcb18e38717f2bb9a572c6ec0f217c7ba0c531a30e8b171a0ea6ebd191f7"
+    },
+    {
+      "path": "documentos/anexo_paginas_081_100_2025_pt.md",
+      "sha256": "f8d3140da7b0f283c8d37b165e377847d40cec85712bd92726815a71edb629bb"
+    },
+    {
+      "path": "documentos/anexo_paginas_101_120_2025_es_revisado.md",
+      "sha256": "6ef2fb9d954d905a2bf2f43c2abf32536bd5b061e192bce9f779c37d87904b6d"
+    },
+    {
+      "path": "documentos/anexo_paginas_101_120_2025_pt.md",
+      "sha256": "0549c4edf2764463c7771908aa3e84c389c060aa70aa941a405bf0f87c506d52"
+    },
+    {
+      "path": "documentos/anexo_paginas_121_140_2025_es_revisado.md",
+      "sha256": "e3cdde44e6f37019e0781c1e7e1cca1dda19a6bf3728933c6b0b933ab18a556a"
+    },
+    {
+      "path": "documentos/anexo_paginas_121_140_2025_pt.md",
+      "sha256": "9c6a15c65da38a51f4c584cc97335262ea4cfb8cd38e8d2416c402854a8f136c"
+    },
+    {
+      "path": "documentos/anexo_paginas_141_160_2025_es_revisado.md",
+      "sha256": "645a093b521321ed16da56bcd610a9076cdacffeefc77ed1705b78daa1600d3b"
+    },
+    {
+      "path": "documentos/anexo_paginas_141_160_2025_pt.md",
+      "sha256": "bc88a8abb9ecb61e2e54395f6715e1ff21ebd8c7c626d5c8b37cab187e42f465"
+    },
+    {
+      "path": "documentos/anexo_paginas_161_180_2025_es_revisado.md",
+      "sha256": "ef249aede472f52328e6f488e15babcb174252b4b767b7070f3bbb28f10214a1"
+    },
+    {
+      "path": "documentos/anexo_paginas_161_180_2025_pt.md",
+      "sha256": "86777e0c1bcf89f57b460eaad98584b4653df1797a2e675238198b7c95e8d891"
+    },
+    {
+      "path": "documentos/anexo_paginas_181_200_2025_es_revisado.md",
+      "sha256": "9a2ae0d03984bd9162973c5e0431b2d2be485c29e2e1cde3e1b84477c99d2f45"
+    },
+    {
+      "path": "documentos/anexo_paginas_181_200_2025_pt.md",
+      "sha256": "ba4621304fcd740672a598d8aa9a1041b2777476448297475144ef17cf88cd66"
+    },
+    {
+      "path": "documentos/anexo_paginas_201_220_2025_es_revisado.md",
+      "sha256": "d09b83bf91c2ccbbdaea034e323f931596226db1e50d40c440ae6a10369da463"
+    },
+    {
+      "path": "documentos/anexo_paginas_201_220_2025_pt.md",
+      "sha256": "18bd17f070978355b981f3f85efd9857ba44579c668ec9ece98f46ef7af5a9ce"
+    },
+    {
+      "path": "documentos/anexo_paginas_221_240_2025_es_revisado.md",
+      "sha256": "66465c398625f82a1a7874884f147a14f6535e1f2e08bc8a6d1314d308e593d2"
+    },
+    {
+      "path": "documentos/anexo_paginas_221_240_2025_pt.md",
+      "sha256": "0b496f6284b7c5d9f31e9981846b64a1c4c4260eb08baec7263ddbe0661cfcad"
+    },
+    {
+      "path": "documentos/anexo_paginas_241_260_2025_es_revisado.md",
+      "sha256": "d6d35a0b25c68f50b127acf1e2765392a00478eb8b25d97cd7382235a4a6f0a1"
+    },
+    {
+      "path": "documentos/anexo_paginas_241_260_2025_pt.md",
+      "sha256": "678bb5ba0e7ad031b4b81a99e6ebb28707815bc981ab5adaefd0124f37e6b1c9"
+    },
+    {
+      "path": "documentos/anexo_paginas_261_280_2025_es_revisado.md",
+      "sha256": "b9382462035a1c2e8a52df3b031b80984b6701f48723570a485c1fd41b337812"
+    },
+    {
+      "path": "documentos/anexo_paginas_261_280_2025_pt.md",
+      "sha256": "9759f3da09e59a3eb05f8e520a9adfa65439fe2b8eb229cadbdca141c0f91531"
+    },
+    {
+      "path": "documentos/anexo_paginas_281_300_2025_es_revisado.md",
+      "sha256": "e8b866a7e4e0d52da350c43a11a03bf69602315dd02bc8d3eb9ccebb070ca77b"
+    },
+    {
+      "path": "documentos/anexo_paginas_281_300_2025_pt.md",
+      "sha256": "99e9feb174100a859173dc182d2c36c171dac472f806d299613969bb494a974c"
+    },
+    {
+      "path": "documentos/anexo_paginas_301_320_2025_es_revisado.md",
+      "sha256": "695f64957c165e2a8809bc0b7c587261e8b3b906e69c7ad77caf2aea8594bd2a"
+    },
+    {
+      "path": "documentos/anexo_paginas_301_320_2025_pt.md",
+      "sha256": "68884cbc0d6c39d772879d64bc80be85ca61608a5bbdf61c1d1b450ff4f5e951"
+    },
+    {
+      "path": "documentos/anexo_paginas_321_340_2025_es_revisado.md",
+      "sha256": "f3e4a59c5b1634e6a9f2b512e8097a723b464dbb7652471930f4efe51ea83fda"
+    },
+    {
+      "path": "documentos/anexo_paginas_321_340_2025_pt.md",
+      "sha256": "5b52060baaceb14018b7ef0605bd3b9b499c25b3688867dd63e41f7e403676b7"
+    },
+    {
+      "path": "documentos/anexo_paginas_341_360_2025_es_revisado.md",
+      "sha256": "5caa66e69f6e06a9b97489ee8396a979f1a3c727115747a3100d38496194dbc8"
+    },
+    {
+      "path": "documentos/anexo_paginas_341_360_2025_pt.md",
+      "sha256": "161731aa688838c5c72bae37a036d2fb138a6c1288441daec03271672287af3c"
+    },
+    {
+      "path": "documentos/anexo_paginas_361_380_2025_es_revisado.md",
+      "sha256": "46fa011449a98fb3b94dd76878dd4b9867932c6604e5cd6b115763556256d2a0"
+    },
+    {
+      "path": "documentos/anexo_paginas_361_380_2025_pt.md",
+      "sha256": "fe748b1e9cf950d3b92d3589e4c72ffcf12c72afbcb2ded3fe78ff4e87a59e00"
+    },
+    {
+      "path": "documentos/anexo_paginas_381_400_2025_es_revisado.md",
+      "sha256": "63adc641f65f0bdfc27f950f6d8be3e36c0901bd211d888649f4627ce5711d7e"
+    },
+    {
+      "path": "documentos/anexo_paginas_381_400_2025_pt.md",
+      "sha256": "581c5c90bdee4af97d5da58545471d3845b31a11b86b8b8ca7fd6fb13075e2b9"
+    },
+    {
+      "path": "documentos/anexo_paginas_401_420_2025_es_revisado.md",
+      "sha256": "50149e81f69be4a83af4f85eaa0d8524997713fd0d8fc547cafc26075a400a6d"
+    },
+    {
+      "path": "documentos/anexo_paginas_401_420_2025_pt.md",
+      "sha256": "169ecf924579cbdf461af66c84a73bebc328bf0248dc4f3301c3245186d9f54b"
+    },
+    {
+      "path": "documentos/anexo_paginas_421_440_2025_es_revisado.md",
+      "sha256": "c62d7625e17deca9990695eb005557405abd31c22fc718d306b12c1cd33ae1c5"
+    },
+    {
+      "path": "documentos/anexo_paginas_421_440_2025_pt.md",
+      "sha256": "a6f60e816d947fb6ebadd1463be3ff27077361b49c9d85ca647e4f501311b7db"
+    },
+    {
+      "path": "documentos/anexo_paginas_441_460_2025_es_revisado.md",
+      "sha256": "643fa17c2ef26ab04061ff7eeabdf85e4d05e2cd7222af1c4627179d5fc381e5"
+    },
+    {
+      "path": "documentos/anexo_paginas_441_460_2025_pt.md",
+      "sha256": "90e033718df48eaf4494e61930f941fce37dfe1c2cb9c7ef727be928ad36e9a1"
+    },
+    {
+      "path": "documentos/anexo_paginas_461_480_2025_es_revisado.md",
+      "sha256": "3e3ad40ff9ba7b67fc5cf8c6b68349a694e0e5d07aded41c71afdd616ab2da09"
+    },
+    {
+      "path": "documentos/anexo_paginas_461_480_2025_pt.md",
+      "sha256": "05f507a085efd2dec4fa026de6b82875d8fb87e5939957cacc940bbf3ca587ab"
+    },
+    {
+      "path": "documentos/anexo_paginas_481_500_2025_es_revisado.md",
+      "sha256": "f0a29d4fd87b55e12adabfafef5f94bc4d7ff31461a0261f1430da4f3b49d3af"
+    },
+    {
+      "path": "documentos/anexo_paginas_481_500_2025_pt.md",
+      "sha256": "d93409e8a81a4e49a54e4cec115851c7c0442660cb31a180b950c366f985d82c"
+    },
+    {
+      "path": "documentos/anexo_paginas_501_520_2025_es_revisado.md",
+      "sha256": "d06402b835a8c1409afa941f5d607f884f6529aa6966510a6b6710a192bbd407"
+    },
+    {
+      "path": "documentos/anexo_paginas_501_520_2025_pt.md",
+      "sha256": "66b3da3ba068d6882ea4468b0ca4ccd825b7e2ca526d01845ce9f8f7f9529d6e"
+    },
+    {
+      "path": "documentos/anexo_paginas_521_540_2025_es_revisado.md",
+      "sha256": "264e1eb28913fd0dcd630f7f10e2d16e63455fa5ce45f9f5e76279933709bb43"
+    },
+    {
+      "path": "documentos/anexo_paginas_521_540_2025_pt.md",
+      "sha256": "a4036a567c85fb7163899bd9906d1b735e790e6175c23ee605d30841cdcaa88a"
+    },
+    {
+      "path": "documentos/anexo_paginas_541_560_2025_es_revisado.md",
+      "sha256": "db30db3a474ff70d46c0de83d005a33943a9f3aee1265b8a79665be611a4b818"
+    },
+    {
+      "path": "documentos/anexo_paginas_541_560_2025_pt.md",
+      "sha256": "c711f2c56eeedbc07d4b1059946cffafe45a4aa69c0a42ce4a16418065f0dc2c"
+    },
+    {
+      "path": "documentos/auditoria_revision_manual.json",
+      "sha256": "6e4ef78bbe9ceb0709f8e5d516044baf3b7f54a5610f550b65c430572bc3b6c6"
+    },
+    {
+      "path": "documentos/cache_traduccion_manual.json",
+      "sha256": "05534cce45fb6ff36cfbd3231fc813e0d0592f7b624ebd8e581bbd1a2f7ed290"
+    },
+    {
+      "path": "documentos/codigo_disciplina_2025_es_revisado.md",
+      "sha256": "1bfad9e4837a413f52a065dcba19eefad84b5b1fce6423fd7d5a3290badce618"
+    },
+    {
+      "path": "documentos/codigo_disciplina_2025_pt.md",
+      "sha256": "70abf202ebf3e9a5d92d8517e5e4b8ed0a7f493a72646744348bf00e96b596c0"
+    },
+    {
+      "path": "documentos/cola_traduccion.json",
+      "sha256": "bb80450e95d634c4e7c65077cdda4a5bc85a6658450b68745df8915abc2482e1"
+    },
+    {
+      "path": "documentos/compatibilidad_notas_historicas_2026.json",
+      "sha256": "33d1a16c38845c6c1ac2213a7218dc27dabe3e6d527b3c4256a44f7517da8739"
+    },
+    {
+      "path": "documentos/compatibilidad_notas_historicas_2026_es.md",
+      "sha256": "7754975c5a5018dc615c0d018ae9c25ca2f52716cb2b00789b8890cf91dfa3dd"
+    },
+    {
+      "path": "documentos/compatibilidad_notas_historicas_2026_pt.md",
+      "sha256": "34c22166c56cd48cebcf1ecf6998334dfb683ade6468f7bb7d949baea030fc4a"
+    },
+    {
+      "path": "documentos/compatibilidad_transversal_lote_01_2026.json",
+      "sha256": "ee25ec40a675cd16dbe113c7f916fe52e5b84b881f3ed21f5884e56a7e60e88b"
+    },
+    {
+      "path": "documentos/compatibilidad_transversal_lote_01_2026_es.md",
+      "sha256": "8c5970e4245e66465b8600e3ec47fca94a606811ace3593eba280398580a714e"
+    },
+    {
+      "path": "documentos/compatibilidad_transversal_lote_01_2026_pt.md",
+      "sha256": "e2069c9876ac54c72b2be5e20f0614b85a942d0169dc9fb308a7c1b820a239ee"
+    },
+    {
+      "path": "documentos/compatibilidad_transversal_lote_02_2026.json",
+      "sha256": "e40a376b4f2e4d338965f05a21dfcc75bef3d7154dbdc6a85d550920863ea497"
+    },
+    {
+      "path": "documentos/compatibilidad_transversal_lote_02_2026_es.md",
+      "sha256": "df5dd3a2a03d28a873a790820b8ea3a5c039edcd0af0dcd492b10cda22c093ec"
+    },
+    {
+      "path": "documentos/compatibilidad_transversal_lote_02_2026_pt.md",
+      "sha256": "12d714902141b08378cd192a473b1ca7839b0dee02f2ae6cb97b62e387c14110"
+    },
+    {
+      "path": "documentos/compatibilidad_transversal_lote_03_2026.json",
+      "sha256": "ff0238289e21c3dd9497adacb7f8b8abdc094ef4dca132567372f679e5636318"
+    },
+    {
+      "path": "documentos/compatibilidad_transversal_lote_03_2026_es.md",
+      "sha256": "e10fef1387c468cbd113bc860c09dbd8a55b7cc1e5500acca8fa1c3b70675bfa"
+    },
+    {
+      "path": "documentos/compatibilidad_transversal_lote_03_2026_pt.md",
+      "sha256": "3e69dcaf60ac24d87d08f1eeaef4cde932c564c353c38556fd8905e47eb26b62"
+    },
+    {
+      "path": "documentos/compatibilidad_transversal_lote_04_2026.json",
+      "sha256": "4954eb41801a2a5836c782e109449410a644a1527a913692d48cd6c383f4765c"
+    },
+    {
+      "path": "documentos/compatibilidad_transversal_lote_04_2026_es.md",
+      "sha256": "cabd80a27e2281568341611622f1cfaa291da7eb0048c9f1dc99ae2e906d2cfe"
+    },
+    {
+      "path": "documentos/compatibilidad_transversal_lote_04_2026_pt.md",
+      "sha256": "2b9ac74cc613c3ca8d54e47af6f63e9c82ce7749f929eb2e8b0240cd23702625"
+    },
+    {
+      "path": "documentos/compatibilidad_transversal_lote_05_2026.json",
+      "sha256": "ea3245e1cc43260aff7fcee2369bb57502bcc00a291d61fd0e8a533e5628635a"
+    },
+    {
+      "path": "documentos/compatibilidad_transversal_lote_05_2026_es.md",
+      "sha256": "13bef411bc8b6f7ec3a81512a016beabbbed44be711638bf888147aea929f584"
+    },
+    {
+      "path": "documentos/compatibilidad_transversal_lote_05_2026_pt.md",
+      "sha256": "105ac32d35f337c24978af6aa954a2540b99bd4a677969287e4831755042cb6b"
+    },
+    {
+      "path": "documentos/constitucion_2025_es_revisada.md",
+      "sha256": "bef8f82020dbb49ae2fafbab8eb473a5c02b521a9fb4dd4ebb40d5606cdd0dcd"
+    },
+    {
+      "path": "documentos/constituicao_2025_pt.md",
+      "sha256": "6a867131ade280c61fab5a292465781a826663ece5109f5ec6fed7857b2188ae"
+    },
+    {
+      "path": "documentos/correcciones_anexo_revision.json",
+      "sha256": "5573b3e134916083802abf73643bef0490809e9c43e95bb1c273ee9826e28ca4"
+    },
+    {
+      "path": "documentos/correcciones_editoriales_consolidacion_2026.json",
+      "sha256": "c8617638327dc4eb5944a184250ff3b06ab16459f55aa7538b15d47910b805bf"
+    },
+    {
+      "path": "documentos/correcciones_liturgia_lote_221_240.json",
+      "sha256": "1c8289237e350004b3316750d12b30983516cb553ee376690581ce418aa0cdb0"
+    },
+    {
+      "path": "documentos/correcciones_liturgia_lote_241_260.json",
+      "sha256": "f11106f02637479ed9a9028b809f5fc4700363179b0f026b780a2c7241e91592"
+    },
+    {
+      "path": "documentos/correcciones_liturgia_lote_261_280.json",
+      "sha256": "73b89cddfebdcfc2e7b9e43cdcad80ef1e790e52b4dfa7295b58ddb22eae36a9"
+    },
+    {
+      "path": "documentos/correcciones_lote_341_360.json",
+      "sha256": "089a3b56810f18954c71807bc350712a45dfb1abd3c0edbefa77eff144ef3a5c"
+    },
+    {
+      "path": "documentos/correcciones_lote_361_380.json",
+      "sha256": "187109a72e4e4518a148900ba5db128bc449d0284441f5f70103bc97d5143026"
+    },
+    {
+      "path": "documentos/correcciones_lote_381_400.json",
+      "sha256": "a17a4f4d3dcbc024ad373f268cabf9c4a2b19250626d40b8381efe8e2b041185"
+    },
+    {
+      "path": "documentos/correcciones_lote_401_420.json",
+      "sha256": "2df9b572de02b2820422d72840f3e245c5e731586d02ba621a87bd092fe3a160"
+    },
+    {
+      "path": "documentos/correcciones_lote_421_440.json",
+      "sha256": "5e5e7e612e250fba24a7fee1c3f7019b9f2d3e450bfd24fc3c039011f66cc69a"
+    },
+    {
+      "path": "documentos/correcciones_lote_441_460.json",
+      "sha256": "fcd2fdce18f014634ecdd3205e397185f3027f8c0708ebb2b8f5ac7834e55444"
+    },
+    {
+      "path": "documentos/correcciones_lote_461_480.json",
+      "sha256": "d8c5cbf8bf9f6d4a4b929f98389de38010ecf274c6eec8ffb61c86ade3faeec7"
+    },
+    {
+      "path": "documentos/correcciones_lote_481_500.json",
+      "sha256": "7fd50fa1d4677cd6593cd9c173cabca1c9e046db87fd62f7db006409ab8bec06"
+    },
+    {
+      "path": "documentos/correcciones_lote_501_520.json",
+      "sha256": "8199d60dc73edda5d236c898c597dbbe3a226dda1144618980253d63324ec097"
+    },
+    {
+      "path": "documentos/correcciones_lote_521_540.json",
+      "sha256": "16a98d70db16aa2d3eeaa846929d6f28ad8bf7d8d527f79b155ef6988034200e"
+    },
+    {
+      "path": "documentos/correcciones_lote_541_560.json",
+      "sha256": "5b68b0139776989bcc2c926b55af877836420a26d440bbc8e1b1a3111536e0a0"
+    },
+    {
+      "path": "documentos/correcciones_revision_anexo_manual.json",
+      "sha256": "a8b59bde4c597b751f84c79bb864e42f4a3da07409b9f56941e2b3ff4e648966"
+    },
+    {
+      "path": "documentos/correcciones_revision_manual.json",
+      "sha256": "2c408c939894bff058d152fcb85e17f7e2c7d8df6e2dc58c90495f69865f606c"
+    },
+    {
+      "path": "documentos/correcciones_ri_sc_lote_281_300.json",
+      "sha256": "e02b3f0bf64b33006e9a39dadd72ef79425e0845987106ef932295d80cac5331"
+    },
+    {
+      "path": "documentos/correcciones_ri_sc_lote_301_320.json",
+      "sha256": "fb277156bcb2a18dfc07816452865276dac726fcbf2109e8c89e243f874e26a0"
+    },
+    {
+      "path": "documentos/correcciones_ri_sc_lote_321_340.json",
+      "sha256": "1e77fc0e74ac4de509f1588ac1026614dcb854797d6056755230e0b23300dc0f"
+    },
+    {
+      "path": "documentos/cotejo_anexo_paginas_001_020.json",
+      "sha256": "41ed832b939c21a75eef350c29e8a46b2def7e1f3f6e92e1f36810a79cf43ae5"
+    },
+    {
+      "path": "documentos/cotejo_anexo_paginas_021_040.json",
+      "sha256": "8fd57146f055a03b5c7f90c578d86255b149bd7b0836ff28787f0cd2a09ae80b"
+    },
+    {
+      "path": "documentos/cotejo_anexo_paginas_041_060.json",
+      "sha256": "603694c90ed5dd157e42afcd7b661ddc9b52fddcccf4725bde76e2f6be5a0686"
+    },
+    {
+      "path": "documentos/cotejo_anexo_paginas_061_080.json",
+      "sha256": "a0f9409edbf1bb11c8af7a45622a502f160f2ae2bb62df37d61319669e108e45"
+    },
+    {
+      "path": "documentos/cotejo_anexo_paginas_081_100.json",
+      "sha256": "7e46b399c003efcddbeab7e1b13568c71e47df368d8bd5cf73d384af0ede657b"
+    },
+    {
+      "path": "documentos/cotejo_anexo_paginas_101_120.json",
+      "sha256": "413e51e6e9fee7cd84fdf59b1dcd469724d197d8efb660e99b6374a69aeadd7a"
+    },
+    {
+      "path": "documentos/cotejo_anexo_paginas_121_140.json",
+      "sha256": "706bea75e28b74d6aff56a63f4aec6bb958bc3e8051356f21e33692d7356ac35"
+    },
+    {
+      "path": "documentos/cotejo_anexo_paginas_141_160.json",
+      "sha256": "a68e3e7ce113fd0be3c7b05b96d1eb86ab35edce0369213128e788a373e9077a"
+    },
+    {
+      "path": "documentos/cotejo_anexo_paginas_161_180.json",
+      "sha256": "6b101d2d4a8975ffa59330260876ec133352c6d46872f51371f027b25e4a99f2"
+    },
+    {
+      "path": "documentos/cotejo_anexo_paginas_181_200.json",
+      "sha256": "e13b32fe41a68b093458137242cc7f4e5d5cd24dd39efb199e8884c498a2fd87"
+    },
+    {
+      "path": "documentos/cotejo_anexo_paginas_201_220.json",
+      "sha256": "6cf966b419caba7f3bb920950db5570c523c69c6d9da65a2c004e00c9247e2ca"
+    },
+    {
+      "path": "documentos/cotejo_anexo_paginas_221_240.json",
+      "sha256": "ea4f6428df5b16e54692d6e4af09cc3e2b19fcab5e4cd8eed8f894aedbce1606"
+    },
+    {
+      "path": "documentos/cotejo_anexo_paginas_241_260.json",
+      "sha256": "082fdd8c5c8abcb070f248649700b40d0e8fca4f5f3b442bffb524733aa748d3"
+    },
+    {
+      "path": "documentos/cotejo_anexo_paginas_261_280.json",
+      "sha256": "e8f54dd029d3ea3dbb596f9f6a6ce8af3301306e055a186c36238595b68577f8"
+    },
+    {
+      "path": "documentos/cotejo_anexo_paginas_281_300.json",
+      "sha256": "3bcc7e06852b061be134fa275f331aa78f0660286173b0e4d330cd176e9d04ab"
+    },
+    {
+      "path": "documentos/cotejo_anexo_paginas_301_320.json",
+      "sha256": "2d25ac4e13feff0e964884a97c50eccbeed078cd4104c5f78820dfe062682427"
+    },
+    {
+      "path": "documentos/cotejo_anexo_paginas_321_340.json",
+      "sha256": "cb5a0fab4f0ba0f07e608535c3dd5efeb0ee4f6d2a7833d983dab4ba94927a08"
+    },
+    {
+      "path": "documentos/cotejo_anexo_paginas_341_360.json",
+      "sha256": "79ddd889a962d3f7d22b8bc41956fc546b9b6c198d90e65d21a1724690d9520e"
+    },
+    {
+      "path": "documentos/cotejo_anexo_paginas_361_380.json",
+      "sha256": "d699cad532ccd2e35e2b6d2e29d6b08178b9f1a1f8f6ffe5585e0f364da48286"
+    },
+    {
+      "path": "documentos/cotejo_anexo_paginas_381_400.json",
+      "sha256": "b7a22f10a30d44a7c728506b0158665ae83871a1619c4097f2532a69441b508e"
+    },
+    {
+      "path": "documentos/cotejo_anexo_paginas_401_420.json",
+      "sha256": "7ca5f11e003beb0c6d65ceb784c1759c620f21fffc9b72206c063b3b58a0088f"
+    },
+    {
+      "path": "documentos/cotejo_anexo_paginas_421_440.json",
+      "sha256": "d76f31e8d4901fd85927bc335846a1177d6360365f25caa069b34a93ecd1ee7c"
+    },
+    {
+      "path": "documentos/cotejo_anexo_paginas_441_460.json",
+      "sha256": "ffc45549c475fdbbdc2efd490ae7dabcdf6cf37624aa0f97b40dff16fc78ae92"
+    },
+    {
+      "path": "documentos/cotejo_anexo_paginas_461_480.json",
+      "sha256": "22464c4de9849128a8d7c1e238b0d66d89734c00417773aef025633b60b766d6"
+    },
+    {
+      "path": "documentos/cotejo_anexo_paginas_481_500.json",
+      "sha256": "f520053b9eeb9da0227801e228af42ab36853d2812032f6de9b72bf1b1b2484a"
+    },
+    {
+      "path": "documentos/cotejo_anexo_paginas_501_520.json",
+      "sha256": "c3a78df364788f44b8c3860dc2f8adcb3f47465e99c1220ed8c11800a0a4d586"
+    },
+    {
+      "path": "documentos/cotejo_anexo_paginas_521_540.json",
+      "sha256": "88a854b6d76f41b5e760cf0f0a457e70fc51957009f24ba3f224aa7ccc23f3eb"
+    },
+    {
+      "path": "documentos/cotejo_anexo_paginas_541_560.json",
+      "sha256": "4aae8be8ee833176fc917406cb4c5bdc1c9d29ce11526ea1f1e131d5265a19f2"
+    },
+    {
+      "path": "documentos/cotejo_preliminares_separadores_2025.json",
+      "sha256": "eab90e7eafe84209ba8dd0310492664b449c0372ae69237ff4aec86ccf7c576f"
+    },
+    {
+      "path": "documentos/cotejo_sumario_indices_2025.json",
+      "sha256": "289e47b661a4aae162435a1cbc83585cbdf62a2dcf206ff57fa520604b6baf3f"
+    },
+    {
+      "path": "documentos/digesto_2026_es.md",
+      "sha256": "055bdaad334061e76d684a630da44d7ab95f40c34ab39ec35dca07b50a3df2d2"
+    },
+    {
+      "path": "documentos/digesto_2026_pt.md",
+      "sha256": "a45d3bfdbd8887110baedfafb00876e92e084eb6ef9a6f386ead81dc729bdbcb"
+    },
+    {
+      "path": "documentos/digesto_es_en_progreso.md",
+      "sha256": "e537e28c6e98aaacd7f025dc8d8a3548ef1297213ec263117e918900104e9856"
+    },
+    {
+      "path": "documentos/digesto_lote_001_010.json",
+      "sha256": "318dbcc3d2a1ccc4d0a28b0c4e8eb6f345957e77715d44c61d864175f2a1c038"
+    },
+    {
+      "path": "documentos/digesto_lote_001_010_2026_es_revisado.md",
+      "sha256": "0461969c50384358087db2d8514f86100c4d5f9504beb7e65e4478d5c2c77c47"
+    },
+    {
+      "path": "documentos/digesto_lote_001_010_2026_pt.md",
+      "sha256": "8a4ea30b29c7239473fb6906a8a08f18169f98907d424649d72fb36a272a6e83"
+    },
+    {
+      "path": "documentos/digesto_lote_011_020.json",
+      "sha256": "f306a4846330f505fb7036d95bb5bbd1b4a05988fd426e52893b96b7b00d4335"
+    },
+    {
+      "path": "documentos/digesto_lote_011_020_2026_es_revisado.md",
+      "sha256": "8f35cb2d4a501f1bf28d6ee5b14911f4e12da787fc7e28b7e31466240c31f585"
+    },
+    {
+      "path": "documentos/digesto_lote_011_020_2026_pt.md",
+      "sha256": "12a060a5040c1b2f289c1a6a394ff2b10bd45d7479973ce96be78689b4cda122"
+    },
+    {
+      "path": "documentos/digesto_lote_021_030.json",
+      "sha256": "55613a18e19e54298b959a5cd79afdc4fc36484af02d61903ddf3867bea888d6"
+    },
+    {
+      "path": "documentos/digesto_lote_021_030_2026_es_revisado.md",
+      "sha256": "d18fcb83bd6f4500528708926a581ee827fd8f9bb9c6e5f45c1522124f1ffe4c"
+    },
+    {
+      "path": "documentos/digesto_lote_021_030_2026_pt.md",
+      "sha256": "5e161ac4b709330a3ea8e8700f192183dc6723fd4fb53913e698ca1ff873dd67"
+    },
+    {
+      "path": "documentos/digesto_lote_031_040.json",
+      "sha256": "2e07ccb9adc04760a7683abeb2665735acc0b032a963ac081f8712f5f542f873"
+    },
+    {
+      "path": "documentos/digesto_lote_031_040_2026_es_revisado.md",
+      "sha256": "8ca7b4f67c60064f71254362fdb07d0a445a81f51162f73655534236bd3c472c"
+    },
+    {
+      "path": "documentos/digesto_lote_031_040_2026_pt.md",
+      "sha256": "456544c2d5e55c611eb5466ca2bf39bfea0bc874b8697534b2308d0e6936b065"
+    },
+    {
+      "path": "documentos/digesto_lote_041_050.json",
+      "sha256": "d3a6524b9fdbfc57d94ee1f08178e1e3a043b4399e68f152a840a0dbcfdf5fdc"
+    },
+    {
+      "path": "documentos/digesto_lote_041_050_2026_es_revisado.md",
+      "sha256": "62ed7555af9d9699e69d337af7796b5ae12aca940fc8588e2a7438e8e58b9532"
+    },
+    {
+      "path": "documentos/digesto_lote_041_050_2026_pt.md",
+      "sha256": "4e2cf7f834f7da36fbceec6d2c97d8381de17719b5da3fc27198d76ad1d17db5"
+    },
+    {
+      "path": "documentos/digesto_lote_051_070.json",
+      "sha256": "5cc991150e0c240e9f96c7869336f8d72a4436e75c2da5502eb982b83b4827d5"
+    },
+    {
+      "path": "documentos/digesto_lote_051_070_2026_es_revisado.md",
+      "sha256": "4cb07b8e02c8e3b7cebd962e964831e345841beb897b186d93441ab7db3ad377"
+    },
+    {
+      "path": "documentos/digesto_lote_051_070_2026_pt.md",
+      "sha256": "270a92367e4b7953822b9c8412afccaf97a8000fb6fc3d6a136549939f2689cf"
+    },
+    {
+      "path": "documentos/digesto_lote_071_090.json",
+      "sha256": "d74954404bbca1c697c483c30c8cdee7c05a5442085108b6dc408e01b512feeb"
+    },
+    {
+      "path": "documentos/digesto_lote_071_090_2026_es_revisado.md",
+      "sha256": "505fbb8852ec6b40fb4560ce6e04f14974e9b7053e4906b90df9024ee766221e"
+    },
+    {
+      "path": "documentos/digesto_lote_071_090_2026_pt.md",
+      "sha256": "e7208281abcbae9d8853cd8133dfe8e8dd119441fdc8f15fe995fc065fedcba3"
+    },
+    {
+      "path": "documentos/digesto_lote_091_110.json",
+      "sha256": "24ed333ed6c9eea08a75dbc27d06b0564cc7c6f3f4d432f68c4ed0139300bcb2"
+    },
+    {
+      "path": "documentos/digesto_lote_091_110_2026_es_revisado.md",
+      "sha256": "95324284493f061e8fcf1bd2701bada0f1cffaa4d2a9be4921cd27ac4f2430b5"
+    },
+    {
+      "path": "documentos/digesto_lote_091_110_2026_pt.md",
+      "sha256": "a18f32a17e401c2a9e6746f1d9caeed6ae1df5ff8b3a8a3d9d67ef68fe7c7828"
+    },
+    {
+      "path": "documentos/digesto_lote_111_130.json",
+      "sha256": "e0d82636bc280f3a46c082dccf95294293eff798a700aee1bed04f46e680639c"
+    },
+    {
+      "path": "documentos/digesto_lote_111_130_2026_es_revisado.md",
+      "sha256": "d31d4f42b8fe51a74aebc0861d8ff0afe264f118419baf65dc8229a06a6d7c94"
+    },
+    {
+      "path": "documentos/digesto_lote_111_130_2026_pt.md",
+      "sha256": "545ea5b4faff0e2e9e9e39b93b4984c9575ab187330f7246df98522ab299727f"
+    },
+    {
+      "path": "documentos/digesto_lote_131_150.json",
+      "sha256": "db5bb11f6e6e7d3a78b52d58490c5dcc27500932aa4c4fd79d2261e17244b768"
+    },
+    {
+      "path": "documentos/digesto_lote_131_150_2026_es_revisado.md",
+      "sha256": "f580f157c52f53304b60513a016bbac387fd67f814f4bb1cda57c840ae7a87e1"
+    },
+    {
+      "path": "documentos/digesto_lote_131_150_2026_pt.md",
+      "sha256": "cd443707cd8008facd3a0f0e4c6b93536a63b28c9a618f6adf6bb5eed84e8a5f"
+    },
+    {
+      "path": "documentos/digesto_lote_151_170.json",
+      "sha256": "eb0f5a0d4740ec8450c5f74752d9e64bc9d3bacce44c4070aecadefd2bbe5ff5"
+    },
+    {
+      "path": "documentos/digesto_lote_151_170_2026_es_revisado.md",
+      "sha256": "828427dc40f550dfb68f943337c82d87c19ddb63d8a3e75cdd1fb31e4d4af85f"
+    },
+    {
+      "path": "documentos/digesto_lote_151_170_2026_pt.md",
+      "sha256": "2016d0abab2d12726d00288eca894b8588aee3370f1205e336e9b441107f226e"
+    },
+    {
+      "path": "documentos/digesto_lote_171_190.json",
+      "sha256": "6ca5495520ef6f957e7cf2cec80a0551553511faaa2d1ae09d4527897443427b"
+    },
+    {
+      "path": "documentos/digesto_lote_171_190_2026_es_revisado.md",
+      "sha256": "b373f2811ca6f833e99d30a8241213d1561adf432c058a410f84814555ae7da2"
+    },
+    {
+      "path": "documentos/digesto_lote_171_190_2026_pt.md",
+      "sha256": "296a01aa091973597dc7c9b64c458ef5da7b86b13577fef390e686ef050b13a2"
+    },
+    {
+      "path": "documentos/digesto_lote_191_210.json",
+      "sha256": "e5560753973c659a9c95304bd481f6b787a16f593a39ee5d4e3aee0bd746ddb6"
+    },
+    {
+      "path": "documentos/digesto_lote_191_210_2026_es_revisado.md",
+      "sha256": "0bcea2647ddff059b29ee5138a83c367c9aeb931f10e69e5e1b24bbadac31150"
+    },
+    {
+      "path": "documentos/digesto_lote_191_210_2026_pt.md",
+      "sha256": "07e6774901a151f62dd759342e02db32eabb40cdf2e1c0960eef2f0727402aea"
+    },
+    {
+      "path": "documentos/digesto_lote_211_230.json",
+      "sha256": "be1b76296dc2da528cc7efde75a96a40f8716ab33e319271515490f15514da98"
+    },
+    {
+      "path": "documentos/digesto_lote_211_230_2026_es_revisado.md",
+      "sha256": "d56823c71e2da5c711053a88455be709322644830bed5d689b18a1e2a54c02d3"
+    },
+    {
+      "path": "documentos/digesto_lote_211_230_2026_pt.md",
+      "sha256": "d94b534f0cdccf9054c91e2bf511ec52f530e75055a24deb8906425c10f765ed"
+    },
+    {
+      "path": "documentos/digesto_lote_231_250.json",
+      "sha256": "04ba040987260c31cc626a2d1354609d8ecf85603442b6a16c4a0985055cdf3f"
+    },
+    {
+      "path": "documentos/digesto_lote_231_250_2026_es_revisado.md",
+      "sha256": "6eae8ec7a5d40f0f1cf96c6bfb80f65a55930d86115de26d3db53fcf82400b96"
+    },
+    {
+      "path": "documentos/digesto_lote_231_250_2026_pt.md",
+      "sha256": "9ebd0c66cc3ad866419f4dbfa6627c8ac15c291be18283ba6273bf0d1b6e7086"
+    },
+    {
+      "path": "documentos/digesto_lote_251_260.json",
+      "sha256": "cdc87cea4ac19fd1cf40726f2257e0bb4d23d5d04acb65c4f20743d3ee8a3e89"
+    },
+    {
+      "path": "documentos/digesto_lote_251_260_2026_es_revisado.md",
+      "sha256": "010ff6a212fa3567d41a53452b4b7b7fe87b880e5d172131edbfc9c2c886a313"
+    },
+    {
+      "path": "documentos/digesto_lote_251_260_2026_pt.md",
+      "sha256": "d3802d54bd289d0e250c7cd4c048a624eb38f81a4eb0c568c12deff8b302c22d"
+    },
+    {
+      "path": "documentos/digesto_lote_261.json",
+      "sha256": "b31284d84f1340db76f50b0c8a52ce209580ca16b7ee3c368fcee9d5850ce4a5"
+    },
+    {
+      "path": "documentos/digesto_lote_261_2026_es_revisado.md",
+      "sha256": "7bf349d03d79ec78c81f63897365b5016bcda6869e91f07102e22eb789d3c517"
+    },
+    {
+      "path": "documentos/digesto_lote_261_2026_pt.md",
+      "sha256": "62bb94a04d99d797e040456e9c6e35d0dcca6265ca21851eed695f9814d0bfd3"
+    },
+    {
+      "path": "documentos/digesto_lote_262_271.json",
+      "sha256": "cf39f6e76cfac9de2b49c5787179d0343fd015f8abbcd3ffb2a12ed03a1a5efe"
+    },
+    {
+      "path": "documentos/digesto_lote_262_271_2026_es_revisado.md",
+      "sha256": "0e52582d46c7e4a3a30e8f6051c0b6d5ac05c9e9ade99f563dbf1086ed8fcd38"
+    },
+    {
+      "path": "documentos/digesto_lote_262_271_2026_pt.md",
+      "sha256": "358b858520c4c46ab180a304747e6939bc2cf189b915c243534229534f260a2c"
+    },
+    {
+      "path": "documentos/digesto_lote_272_281.json",
+      "sha256": "8c8bbb2e3dd73c2d1b6eff0288f157940613af289b40db81ab9278869927fd59"
+    },
+    {
+      "path": "documentos/digesto_lote_272_281_2026_es_revisado.md",
+      "sha256": "42adaf3937feb118a93c50812bbf59f43bf73b573863632f9c7281faf560bdf3"
+    },
+    {
+      "path": "documentos/digesto_lote_272_281_2026_pt.md",
+      "sha256": "f515904c5f48be5facc0532a570dfa41e68bc29d1bfcf2580755a07be4a86324"
+    },
+    {
+      "path": "documentos/digesto_lote_282_291.json",
+      "sha256": "2777f8c6affe2c421b8b713bbae4859d8729df48fcd6573ec1ffe404d958fc22"
+    },
+    {
+      "path": "documentos/digesto_lote_282_291_2026_es_revisado.md",
+      "sha256": "5aa268c1ce0837c0edb47a8a8395b7a7c9fd8b68b27719572e517b100a8c7ba1"
+    },
+    {
+      "path": "documentos/digesto_lote_282_291_2026_pt.md",
+      "sha256": "dfcce101c95bda46591f91f93230cf4df20dc3a58e85d04213e636ed418c840d"
+    },
+    {
+      "path": "documentos/digesto_lote_292_311.json",
+      "sha256": "81e0ec112e8785ecd6f758cb61bf4009ee66de1cb1c838461d9ddda1234be064"
+    },
+    {
+      "path": "documentos/digesto_lote_292_311_2026_es_revisado.md",
+      "sha256": "814d070eca441d0c76dd86720c901440d51fca6ca2ecc08d17c1cec527b512da"
+    },
+    {
+      "path": "documentos/digesto_lote_292_311_2026_pt.md",
+      "sha256": "b57b0abe3f2cc7901a781216d12d7e44570efff8a1cd863853f3ec231216fea9"
+    },
+    {
+      "path": "documentos/digesto_lote_312_331.json",
+      "sha256": "9e32d42fcc555e3a1bff8f84d41e211ee8bbca3afcdffd18d9623ecc46e8f076"
+    },
+    {
+      "path": "documentos/digesto_lote_312_331_2026_es_revisado.md",
+      "sha256": "8face60a8df92ddba90135b56f6c09e3237dfe016023f669a68860ca3553a290"
+    },
+    {
+      "path": "documentos/digesto_lote_312_331_2026_pt.md",
+      "sha256": "f914e2b73719a3e54471d867790d249dbaebb0286e94d88a44423ea02ecad9af"
+    },
+    {
+      "path": "documentos/digesto_lote_332_351.json",
+      "sha256": "fcf6e94bf58c8a7f07755d41123bb5f280176e5c6614f38d7272007b04bde76f"
+    },
+    {
+      "path": "documentos/digesto_lote_332_351_2026_es_revisado.md",
+      "sha256": "0362ddb4cba174a03543357154727f899e15351eae880169f37d695736de7e74"
+    },
+    {
+      "path": "documentos/digesto_lote_332_351_2026_pt.md",
+      "sha256": "13b68ece1d9cdfd5b598e29928d64fab41d23e1c481db2a5aeaaae0e20814acf"
+    },
+    {
+      "path": "documentos/digesto_lote_352_371.json",
+      "sha256": "38b2d455cffcf992ae50739c87634bc85a00ffb0789384a973f301e7690dbfe2"
+    },
+    {
+      "path": "documentos/digesto_lote_352_371_2026_es_revisado.md",
+      "sha256": "760a4af446cdf47691fd48b94132ed08a51a66504360fa0e4d647ca6459cf3ae"
+    },
+    {
+      "path": "documentos/digesto_lote_352_371_2026_pt.md",
+      "sha256": "645898fb30b50bb0499570bc7054ee57382eda3bf3e9abd32ffa23141031445e"
+    },
+    {
+      "path": "documentos/digesto_lote_372_391.json",
+      "sha256": "89dcf60b5bc43f68fe7a1db73ef27c2621c201f962ec7f73bd31521ef36b2d63"
+    },
+    {
+      "path": "documentos/digesto_lote_372_391_2026_es_revisado.md",
+      "sha256": "c86ac1047ff890939c2a51779cc372552651dcc4c333577a6bdc4a01a2dd10dd"
+    },
+    {
+      "path": "documentos/digesto_lote_372_391_2026_pt.md",
+      "sha256": "65b62b832e325fddaeff34d56653ebccf1a8414102db47c41ebb1aaa88984fbd"
+    },
+    {
+      "path": "documentos/digesto_lote_392_398.json",
+      "sha256": "e3790d02610e0afda3c1b030a0f51e40840d3cc14413fd293e65962b1c665e51"
+    },
+    {
+      "path": "documentos/digesto_lote_392_398_2026_es_revisado.md",
+      "sha256": "7db041f1e2e79ee9344b36dc6aa616f8bcde8b3abf3d128562e15af27a822155"
+    },
+    {
+      "path": "documentos/digesto_lote_392_398_2026_pt.md",
+      "sha256": "4ad3a290553cfed1b1cdd960f0d785a8d618837b2269df3aff314a979d27b289"
+    },
+    {
+      "path": "documentos/digesto_pt_original.md",
+      "sha256": "a45d3bfdbd8887110baedfafb00876e92e084eb6ef9a6f386ead81dc729bdbcb"
+    },
+    {
+      "path": "documentos/efectos_normativos_2026.json",
+      "sha256": "b7d7724dc88beded968d45673792cc52216f892b5cc2b63f3c11cf4b3654b0c8"
+    },
+    {
+      "path": "documentos/enmiendas_es.json",
+      "sha256": "856b508fec42a9fd3385a30f733095acafc15b6e63fbd1119a0bb0f1a5dd3050"
+    },
+    {
+      "path": "documentos/estado_bilingue.json",
+      "sha256": "82e1c9949cb1127954a237b001e6bcc9d69a5d40410e973a67c48d05da6e92ea"
+    },
+    {
+      "path": "documentos/estado_bilingue_es.md",
+      "sha256": "f880341a3451d5d2aec9294d6b3031ccb5c7a09e3af1532e77931a9a775121e1"
+    },
+    {
+      "path": "documentos/estado_bilingue_pt.md",
+      "sha256": "e88be763ec2c32298d90bfd5a877ceaa47124b72178c3b7b494d6906e2f8a7ac"
+    },
+    {
+      "path": "documentos/estado_operativo_sistema_2026.json",
+      "sha256": "b470b8e59778758d3bd34e299d6bdbfcc3dfcb2451b43a6fea2fb7bdb8263d02"
+    },
+    {
+      "path": "documentos/estatuto_iglesia_2025_es_revisado.md",
+      "sha256": "dba92f2812e4455e2f1b40779f5a766f9c60659303a121347440314c1d979b56"
+    },
+    {
+      "path": "documentos/estatuto_igreja_2025_pt.md",
+      "sha256": "f9ace86934f780e167bd511aacd7b68f29f1722b22178f1abd4e03cdd5c188de"
+    },
+    {
+      "path": "documentos/estatuto_ipb_2025_es_revisado.md",
+      "sha256": "25a5fb8086d88c952932442f65f2a7d8d77904fc5d40acc0da040f28922b9193"
+    },
+    {
+      "path": "documentos/estatuto_ipb_2025_pt.md",
+      "sha256": "f48daf646c6bec262d5680dfaa157c5caac4f1ae316e07c07ccd3e49a2f06bd0"
+    },
+    {
+      "path": "documentos/estatuto_presbiterio_2025_es_revisado.md",
+      "sha256": "eaa6a6ce9a8df8ae53f5864d7f95182e59b26e5096e59eddb713a6a18826ba4b"
+    },
+    {
+      "path": "documentos/estatuto_presbiterio_2025_pt.md",
+      "sha256": "3430a0a8f3cb3d1b48d3cb02cec8fd97224b7abe51a7f5496f03e6db60f22dc9"
+    },
+    {
+      "path": "documentos/estatuto_sinodo_2025_es_revisado.md",
+      "sha256": "39098bbb3fd5a4cecd1659cfc39b794746d714bcc6f27c016c1b49559320eabf"
+    },
+    {
+      "path": "documentos/estatuto_sinodo_2025_pt.md",
+      "sha256": "d3952ac564b748c4d365581d81201b32d602f9f08bba8636ccf3057ad2ff4b41"
+    },
+    {
+      "path": "documentos/estructura_estatuto_iglesia.json",
+      "sha256": "2b27dc77c62a84ef323f76ffc42b5c9c2b017a028017cdb4ab621d7a7305949b"
+    },
+    {
+      "path": "documentos/estructura_estatuto_presbiterio.json",
+      "sha256": "8b6fc738718f252a1608494390ef231624de7f94f6c885906ac22b448964e6b0"
+    },
+    {
+      "path": "documentos/estructura_reglamento_actas.json",
+      "sha256": "3921960acdb0d85642056ae2d7835b20e8120706958053c685821f88accd7720"
+    },
+    {
+      "path": "documentos/estructura_reglamento_junta_diaconal.json",
+      "sha256": "58e7f9b4615c0077ff113c3c90b3b4799fdbd3bcbbaeffaf45f6984c2dba85e8"
+    },
+    {
+      "path": "documentos/estructura_reglamento_presbiterio.json",
+      "sha256": "123d60ac2598178683226cd80f0c0f04dbe4296111c1c2aff3d2c2576f391f1e"
+    },
+    {
+      "path": "documentos/estructura_reglamento_sinodo.json",
+      "sha256": "953ebe6c93cc2b443f05637f4abb3cc83d7b510315aee13abec6fada12a90788"
+    },
+    {
+      "path": "documentos/estructura_sumario_indices_2025.json",
+      "sha256": "b46999a513baab5163618c8d84b71afe4c0578d3d052d08bb7e856389aefd3d7"
+    },
+    {
+      "path": "documentos/guia_inicio_sistema_2026_es.md",
+      "sha256": "bda16ad9001da04213f207e4932bafd5091bee8a93bedbc665d2b4c609ec8ea8"
+    },
+    {
+      "path": "documentos/guia_inicio_sistema_2026_pt.md",
+      "sha256": "b46cb376df2b913934c52e33a9150af16858480fce8b9660145509edbbd59e73"
+    },
+    {
+      "path": "documentos/informe_traduccion_manual.json",
+      "sha256": "4b9943270c4ebefff4f5a6fae8dd4d303a601ba1530e47a12b268c9d1114f25e"
+    },
+    {
+      "path": "documentos/integracion_lote_02.json",
+      "sha256": "a5c9a44690824108df9ab042cc2be6041997d7c542966744a862e85ffebaad1e"
+    },
+    {
+      "path": "documentos/integracion_lote_03.json",
+      "sha256": "62f849ff8424fc6737a0eb18071af46ce0566b2cfc0bbe5a83e0d4cc7c50282e"
+    },
+    {
+      "path": "documentos/integracion_lote_04.json",
+      "sha256": "031836ad9f0120dd554842ba13148a9bfd36985aca3936ec349bb78021ac93e7"
+    },
+    {
+      "path": "documentos/integracion_lote_05.json",
+      "sha256": "ff16d09f9ff59882a6678137a82b6501857bc02d3015b2e81bc540ff6b22a68b"
+    },
+    {
+      "path": "documentos/integracion_lote_06.json",
+      "sha256": "ec5e9e3a8c1ba9fb386d805ef8cff05b811533127e99baeb64524b33394f983c"
+    },
+    {
+      "path": "documentos/integracion_lote_07.json",
+      "sha256": "791378acbbbd2cc30ab646d6ad68ff3e1b65e2811b6b5b3fb930519ac9a53fc5"
+    },
+    {
+      "path": "documentos/integracion_lote_08.json",
+      "sha256": "4e32b7d02fae04841782117d713289a3839875913ed2ecd33975acb241d6788b"
+    },
+    {
+      "path": "documentos/integracion_lote_09.json",
+      "sha256": "710094680269057943be8825d480c02e39902ee909e9a1fc4ed0d1e019423150"
+    },
+    {
+      "path": "documentos/integracion_lote_10.json",
+      "sha256": "236262f9065ce82ba758e59a754cd29771f3829a4f0e14f600833c50e3acca13"
+    },
+    {
+      "path": "documentos/integracion_lote_11.json",
+      "sha256": "ec6aac605aa68fa5c816a4ee005b5cf16146eaae7ee1a20ce75a91824adfbd27"
+    },
+    {
+      "path": "documentos/integracion_lote_12.json",
+      "sha256": "5c93a2ae3384b601cfc5672d435fa56004915a1168b3c7dfbf20f0f19f1aeca3"
+    },
+    {
+      "path": "documentos/integracion_lote_13.json",
+      "sha256": "2b46bb1b1f7d8964e097338e797f457580c868d292a054177d6330a721bd6db8"
+    },
+    {
+      "path": "documentos/integracion_lote_14.json",
+      "sha256": "2d28eb36ad619d731b8484e20ce6370db4fc5b7685f9dca871ea4aae7437eb7d"
+    },
+    {
+      "path": "documentos/integracion_lote_15.json",
+      "sha256": "5b2989edf70461f54b67fb71a66f1dcfa37b5a411dc15833f534319b688b84f8"
+    },
+    {
+      "path": "documentos/integracion_lote_16.json",
+      "sha256": "5acbdfef95076fa8366243afc6e6ccdcaac7a2d6d421190203377585ed0a0e2f"
+    },
+    {
+      "path": "documentos/integracion_lote_17.json",
+      "sha256": "5d14562f8ea0403ab61685911d985a01abcb15069b726c9938e8636866b05cb0"
+    },
+    {
+      "path": "documentos/integracion_lote_18.json",
+      "sha256": "a6991db516fca58c1f1dd5150fae192d01280b848734b504f44a6071b2b41828"
+    },
+    {
+      "path": "documentos/integracion_lote_19.json",
+      "sha256": "ebaeae18cda5413d54ab847bb44c1d409d26e983eb7951b698ffc20fe9059842"
+    },
+    {
+      "path": "documentos/integracion_lote_20.json",
+      "sha256": "8cf9c0b3ffb2d6d94356a7906cbd9b3c521b4c205c06cf7c77777e0744216b27"
+    },
+    {
+      "path": "documentos/integracion_lote_21.json",
+      "sha256": "fca22f302330095d0e239748670458c8e9930b98d9a887ecd0720eaa5a807075"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_01_2026_es.md",
+      "sha256": "3c041cfbb4062c86b6d4d1ce0572ea7e705f565709838056e0d2efde75b3b2a8"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_01_2026_pt.md",
+      "sha256": "d9d633a2a468bb8700ef3741abce195b0517c113e5c0f3ad293077a09f660343"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_02_2026_es.md",
+      "sha256": "c07e6595ec9e32f80ce70534f3f64d183d70c110743aaceb66e2f512618fc3ae"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_02_2026_pt.md",
+      "sha256": "2157a2a88632f28c53b334ffce879b49966576a9b8e49e6c47357cf086fcfe35"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_03_2026_es.md",
+      "sha256": "b9a3aaa811cb7c479606af0e5f394b5f88dc42d4815d62c1af5c14abbeb5a3f7"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_03_2026_pt.md",
+      "sha256": "b53464548c2c8cb314e6738348b4b3f8a0904157262d101b3dd3e2eb7eaf27d5"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_04_2026_es.md",
+      "sha256": "9f5c7b21eb450acc19db325330b51159781dce70b6c3d2dd3508f1f44162ea95"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_04_2026_pt.md",
+      "sha256": "c297c8a15f8df635d5a47345dde72b3774bbf638577501d3970b6feec38ab520"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_05_2026_es.md",
+      "sha256": "d0fe3207ba77b3eb0b8a0c99c24be65fc0c5ae7e735b0abb94f5538ee99ef8cf"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_05_2026_pt.md",
+      "sha256": "f5ae86c86fc8ed486d88331806942fe241bdd41870234dc1c6bea1d3196e84c3"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_06_2026_es.md",
+      "sha256": "bdf5584c3ab6358fd409b381268b723c6bb4f159b6a2a199498695755f64ad6b"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_06_2026_pt.md",
+      "sha256": "cca36d5c57a4d9dd7ce2b9cafcc586fc5f1ea4096c6f351f0a713a28a2afc5d9"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_07_2026_es.md",
+      "sha256": "acea0856c512de20b138833973cd67ba58c246ee785756128411a9a161072a14"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_07_2026_pt.md",
+      "sha256": "4184522250b89d3811db9a80d09bc23590b3cdd4df5ea26abde11d06f5233e4c"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_08_2026_es.md",
+      "sha256": "6dafa326e1f4453752e93a57e8743db3eecc721e38f24ec4ea051ba69ee5113a"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_08_2026_pt.md",
+      "sha256": "250800748ca63805ebbb375cb53a12a1b0cdd0e9ac70fc259cc70ff759ac9805"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_09_2026_es.md",
+      "sha256": "a54d94cb6f8795060d3dfd58247da1c9280bd080744d1f4a158fe53d7fc88530"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_09_2026_pt.md",
+      "sha256": "e33a7fe51ee15d18fa82131f5b307f3182fdb0d0602b3bcfb79654370428efdc"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_10_2026_es.md",
+      "sha256": "6f2f215be5a178f98a258f8396def9524af6631d9ed7906f11c0dcf6756d21bf"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_10_2026_pt.md",
+      "sha256": "ea4f9d2a9a2cafc33a317839ca124d9392da758568c7fe9bca1ddc7dd610071d"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_11_2026_es.md",
+      "sha256": "1ca2fae8dfcba5e936881fd2ae6631236a5873a35ed6506acf2a1f577ce161b6"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_11_2026_pt.md",
+      "sha256": "a0772f504b7dfea7a1c1f6c5179ead94eb834d43807e6625aeb2b5f9d177088f"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_12_2026_es.md",
+      "sha256": "ecc05f7701344d4dcc3e68e408e923fdddbcef5828bbf1d664b098c9e33ba1e3"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_12_2026_pt.md",
+      "sha256": "40f4e01699373f2877d003226e58beb4448ec332dc22a933cd99a1bb93dc1bd6"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_13_2026_es.md",
+      "sha256": "5e260114354ef16a734f6ea70bb507a5e4e402b30c5d95e9797cf49cfedc6592"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_13_2026_pt.md",
+      "sha256": "5778c49f81012af654e3832ac03f73989fdff50eef449a34e6b7119cb518961d"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_14_2026_es.md",
+      "sha256": "ba09a77033994ec0e721bcdbedc6b8ba134ec27d08fed13443e56c763bd4ba30"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_14_2026_pt.md",
+      "sha256": "f26c8dd517323f00b13cef3abe373749f40f086ff3815c5b80c42d2bd2ee74f1"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_15_2026_es.md",
+      "sha256": "9ea7088d7afa86573a5fee21e8c414d4fb3513a3ab87381ab6a38197430758ea"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_15_2026_pt.md",
+      "sha256": "e6ef8db10888da82a8758b3417ec249525b5db9404ccc857029c232a133344af"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_16_2026_es.md",
+      "sha256": "999aa258d3ec799388d0fcda6503ac386668dc59f6846deabffcfa91bb7a2b89"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_16_2026_pt.md",
+      "sha256": "1bbd11f0c1fb7b643fe1f8d08b70d366fd0540be7e9a2f19a69364cbc5494f1d"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_17_2026_es.md",
+      "sha256": "b7486f59fcc3d501c231fc6f1a5c8211fa0548d0fa78241f871c55c60f0ce81b"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_17_2026_pt.md",
+      "sha256": "d9b63539f4dc95b6bc47deae4f317970639facc1dffbea7a3c34c2f936515fd4"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_18_2026_es.md",
+      "sha256": "5424c04c6f17224677b22e4386cae318e4de131a7e514125c2228139883d2074"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_18_2026_pt.md",
+      "sha256": "2a8750fd60ed614d86c02f6b9f3213c3372479cf37ea8f76e88dfe3b8f351a11"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_19_2026_es.md",
+      "sha256": "bade6b2cad6915a06a9d1e790c42eacdd2e54f4fb6eb092e63c2318c539f7cc5"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_19_2026_pt.md",
+      "sha256": "68a3a0c1059aebe8097e3283c496b0888734c21a1dbd504611a9755585ec86fe"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_20_2026_es.md",
+      "sha256": "1672502ccecfac7fb2190ab5766a1acb40b8e9fb2ba994db5ecf1585c4eae409"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_20_2026_pt.md",
+      "sha256": "4a74d8b6858bf25aa2e25c047f59364065f013e994c50ad6daa9cc643927eb4c"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_21_2026_es.md",
+      "sha256": "44c3c71c583a2c70488cde016443be95c2a9060a16eb24d87fa7d071b3348c85"
+    },
+    {
+      "path": "documentos/integracion_normativa_lote_21_2026_pt.md",
+      "sha256": "905d6ab3515c4f44c89ae9dbae8d89b39df203acf3b9e4baf30ef765efc6302a"
+    },
+    {
+      "path": "documentos/integridad_digesto_lote_001_010.json",
+      "sha256": "c9ec5e1eb2dd56e20dcb87d9372275a563f8ddcc7c75a062bd684829bc655007"
+    },
+    {
+      "path": "documentos/integridad_digesto_lote_011_020.json",
+      "sha256": "5cc11061624a610f68b40b3861cae54721dc308f7bc45c12e48a242798fdfbbd"
+    },
+    {
+      "path": "documentos/integridad_digesto_lote_021_030.json",
+      "sha256": "96d449335f2e5a35ff861d1ee45b8b26dba7847e0d8ac69ffb0e419df9203628"
+    },
+    {
+      "path": "documentos/integridad_digesto_lote_031_040.json",
+      "sha256": "49bfb6834a071c0d97c0ecf7bc74c5e06e632b8a09e7e217693b0fb15feb74ae"
+    },
+    {
+      "path": "documentos/integridad_digesto_lote_041_050.json",
+      "sha256": "d60b1f59178fc94936c69f99b9a996ce6a26646192a3b09da9b895955bab2d24"
+    },
+    {
+      "path": "documentos/integridad_digesto_lote_051_070.json",
+      "sha256": "b48adac72c807edb8aeb6531e3a6f61bdda541e376b652cb27e3fb22dead0612"
+    },
+    {
+      "path": "documentos/integridad_digesto_lote_071_090.json",
+      "sha256": "205558ba79e30223e3af2d4154c6ec493eda66ec972571eaa97dcdfaeffb3ee0"
+    },
+    {
+      "path": "documentos/integridad_digesto_lote_091_110.json",
+      "sha256": "69ff91b0a3a626a37e50337083548c311de4432c5a05a7006da7d216e125a894"
+    },
+    {
+      "path": "documentos/integridad_digesto_lote_111_130.json",
+      "sha256": "fe90cd5f6a96ae72567e0856c301f0674f63795d6fbc738941cc91de1b21e597"
+    },
+    {
+      "path": "documentos/integridad_digesto_lote_131_150.json",
+      "sha256": "40b74e3714280d559bed36c2fda201924a5d8f14323b4c71d2d8904da64643ac"
+    },
+    {
+      "path": "documentos/integridad_digesto_lote_151_170.json",
+      "sha256": "69615fefe87ece6ace288d980969b9114840775178efdc60f97ec6124c483e4e"
+    },
+    {
+      "path": "documentos/integridad_digesto_lote_171_190.json",
+      "sha256": "dc56c40ff9104a3ba0fe3bca2dd22d8888d334dc6fe3ddd774dba7e198868b31"
+    },
+    {
+      "path": "documentos/integridad_digesto_lote_191_210.json",
+      "sha256": "2ed2ecedfe867989145f5ada3247ed5fb03cc2ed0ba1e7538e480afd316f4d27"
+    },
+    {
+      "path": "documentos/integridad_digesto_lote_211_230.json",
+      "sha256": "e5070f610892163a1c7e1ad18939cd4e63c21a5b6cd27a34facee9e445dd8e4e"
+    },
+    {
+      "path": "documentos/integridad_digesto_lote_231_250.json",
+      "sha256": "eb62896be29991ead21d4a88eed3a4af914b6bad30007eb0b3e36420f95c7f9c"
+    },
+    {
+      "path": "documentos/integridad_digesto_lote_251_260.json",
+      "sha256": "08480cbfd5420be559986ecc57b5178a816baf6dc62fcf178533dd9deaa3811b"
+    },
+    {
+      "path": "documentos/integridad_digesto_lote_261.json",
+      "sha256": "136be86cbfab4ed75d3387a48d1c408a287218ab137f753f7d20dc538bc809b7"
+    },
+    {
+      "path": "documentos/integridad_digesto_lote_262_271.json",
+      "sha256": "4b2df8479bba40fd3c9ec1a52108bda16dad0c4ee7c01093e9934a7112c7a986"
+    },
+    {
+      "path": "documentos/integridad_digesto_lote_272_281.json",
+      "sha256": "114ca82f912d17b00ea94b55b57b5964c70d314b5e9cb33185b2f84285ac19cb"
+    },
+    {
+      "path": "documentos/integridad_digesto_lote_282_291.json",
+      "sha256": "e94611fe80e7898704a0392b6513889f93fc2dd40f4476a54cf66521ae971968"
+    },
+    {
+      "path": "documentos/integridad_digesto_lote_292_311.json",
+      "sha256": "bae1ed19756a5cad87744fa323a8200bf493820306c2fb30fb6ca2a647fdaf59"
+    },
+    {
+      "path": "documentos/integridad_digesto_lote_312_331.json",
+      "sha256": "5af83db099182f4b478c75436a4f7031364d3a8545be82e152c0b8713a6abf07"
+    },
+    {
+      "path": "documentos/integridad_digesto_lote_332_351.json",
+      "sha256": "7cdb7912c7bf85bb5ed3c75fd98fc37ff015aaa86e19b8d0ebdd539abdecd8fb"
+    },
+    {
+      "path": "documentos/integridad_digesto_lote_352_371.json",
+      "sha256": "d793b6f92dbddc2f09a638223556b3c9e96e3c6e9c860c27e2cb50491c3652e3"
+    },
+    {
+      "path": "documentos/integridad_digesto_lote_372_391.json",
+      "sha256": "8f3d26ede3371aa083e2aad6905704fcb1f86edbfa6367f2cb1f13c796f46bc8"
+    },
+    {
+      "path": "documentos/integridad_digesto_lote_392_398.json",
+      "sha256": "70689b527a9d726fa83f6ed29a18e79ac7d0c1a1b2ab380dd2169793a9d31cf9"
+    },
+    {
+      "path": "documentos/integridad_integracion_lote_01.json",
+      "sha256": "abb057bf6ff37869667e24a00127933d4d6a0e3b760dac25af52b2cbb547eeed"
+    },
+    {
+      "path": "documentos/integridad_integracion_lote_02.json",
+      "sha256": "5b29bd4467a7d33095000b83f2417277a3701944d48f9c523c0a8b15e03521a8"
+    },
+    {
+      "path": "documentos/integridad_integracion_lote_03.json",
+      "sha256": "cc4dc6466ca002cd58825f8026f844c000c7874d366e89caa327782efaa8ccd5"
+    },
+    {
+      "path": "documentos/integridad_integracion_lote_04.json",
+      "sha256": "ee58a9c1be892a5f280891b491f05ee183982b05ad0ed12e55d7937709577db5"
+    },
+    {
+      "path": "documentos/integridad_integracion_lote_05.json",
+      "sha256": "2a18d6d6457429d4fe0c6e82b3bdd45122dc580d0607fac1b9cad5fa3855873f"
+    },
+    {
+      "path": "documentos/integridad_integracion_lote_06.json",
+      "sha256": "8f38ba20497fd22bba6c6b26e46f1152c78e1239f5f8372b361f92b2250e4f8b"
+    },
+    {
+      "path": "documentos/integridad_integracion_lote_07.json",
+      "sha256": "282ecb15f1e5461de2627bc8267f296b791a298face45a5685a7199386282eea"
+    },
+    {
+      "path": "documentos/integridad_integracion_lote_08.json",
+      "sha256": "7ab05cc4be50de702778883aebf9683906a3dc0b95808d4a2f6b6e1b0e045991"
+    },
+    {
+      "path": "documentos/integridad_integracion_lote_09.json",
+      "sha256": "31543503627c00ec3b7f96b7bbed889153e7088defe009b841d2a7c351cdece1"
+    },
+    {
+      "path": "documentos/integridad_integracion_lote_10.json",
+      "sha256": "a57dede798fad11a8a361ea96c6e7991fb9c4e108b13485079ea3d3031bcd524"
+    },
+    {
+      "path": "documentos/integridad_integracion_lote_11.json",
+      "sha256": "05f9c6bfeb719b23ab0aaded9511dfe62a2522befe0d34debb3363c819cd8a90"
+    },
+    {
+      "path": "documentos/integridad_integracion_lote_12.json",
+      "sha256": "bb3b9c4525c91f0b6c397261faff814c9a8126ebc99b952d6f640eb9accd0435"
+    },
+    {
+      "path": "documentos/integridad_integracion_lote_13.json",
+      "sha256": "b265e97ea16efe3a8ee0fb61e648720af0cf89d698db5dc29d1110d52e50bbb4"
+    },
+    {
+      "path": "documentos/integridad_integracion_lote_14.json",
+      "sha256": "02748a0ad12857fcf26e49ca3845c57668b11aee86a32eff737e676aad4c2657"
+    },
+    {
+      "path": "documentos/integridad_integracion_lote_15.json",
+      "sha256": "ba995e6a711eea22a09c72050e2130584df042771084ae8acbbb46e897c1bb8a"
+    },
+    {
+      "path": "documentos/integridad_integracion_lote_16.json",
+      "sha256": "68caa92bf4f204804fd54dc1d03a106051421b3604c410ea73dc534fa9ac7d67"
+    },
+    {
+      "path": "documentos/integridad_integracion_lote_17.json",
+      "sha256": "f505a4819faa5c78c226589a67f8e89bd8444e8e0ecc1d3c5745248d86c671ac"
+    },
+    {
+      "path": "documentos/integridad_integracion_lote_18.json",
+      "sha256": "8d62b348c2396d3327f3fb0aaecc239c3788ffedf1724aad5fca03622bd09b2b"
+    },
+    {
+      "path": "documentos/integridad_integracion_lote_19.json",
+      "sha256": "77a21499790a73283e07fb88caf1e0da5059161903ec8a96c014446eaa4cebab"
+    },
+    {
+      "path": "documentos/integridad_integracion_lote_20.json",
+      "sha256": "c9d3a9eaba381d37d9df97514c9b9af0eede0e97b96a66f34886f89f15c7c69a"
+    },
+    {
+      "path": "documentos/integridad_integracion_lote_21.json",
+      "sha256": "256e2b6810cc8cd771bad137942cd74668788ba9632dacaf69c902309bc020bb"
+    },
+    {
+      "path": "documentos/integridad_lote_anexo_021_040.json",
+      "sha256": "2b0cf344d803d9ab1abadb1efd1149ac869eba804879b840b1339aa82aa92f22"
+    },
+    {
+      "path": "documentos/integridad_lote_anexo_041_060.json",
+      "sha256": "14168ee9af9802c06fa0c9ef89e056755e940bb3f80bb69de05bed27317cc7f5"
+    },
+    {
+      "path": "documentos/integridad_lote_anexo_061_080.json",
+      "sha256": "1c22e15be7cc405590f0c6577c5524d4de16a2d535eafa8b9beebd6bdf960e24"
+    },
+    {
+      "path": "documentos/integridad_lote_anexo_081_100.json",
+      "sha256": "5390d3a712c022fcf3d45530d49be6939de0625681b6374186ce5cf75f362eb3"
+    },
+    {
+      "path": "documentos/integridad_lote_anexo_101_120.json",
+      "sha256": "d2eb069ac6cb6f4de28d3b102641a6ce76898e075a144643b8f75da66f472519"
+    },
+    {
+      "path": "documentos/integridad_lote_anexo_121_140.json",
+      "sha256": "3e7a5a0b8179804c650871bed628a55737bf6b97a6817d6304c3f06ddc26f723"
+    },
+    {
+      "path": "documentos/integridad_lote_anexo_141_160.json",
+      "sha256": "474a8ddccdf1c82339c7be6dd235ba130473389c88f8afcf6422a838952a1dc5"
+    },
+    {
+      "path": "documentos/integridad_lote_anexo_161_180.json",
+      "sha256": "6d697ab08ba272eefb7b90c01ac98fddbaf85a5504b15b6e98df0aa556818ea0"
+    },
+    {
+      "path": "documentos/integridad_lote_anexo_181_200.json",
+      "sha256": "679f59b72741a59594b448e5469a4596b47c6ee45f1e336f589e2d2bb9cfd269"
+    },
+    {
+      "path": "documentos/integridad_lote_anexo_201_220.json",
+      "sha256": "71fc380af7b24ac58620763c928adb8f90a78049f00be318a74ed4571d8619a6"
+    },
+    {
+      "path": "documentos/integridad_lote_anexo_221_240.json",
+      "sha256": "bf46cf1a22dd3baf03f811baf00b0eef7f5000d32bebc345543f7cb1eeb2dbd7"
+    },
+    {
+      "path": "documentos/integridad_lote_anexo_241_260.json",
+      "sha256": "913e0c764346c9335da35a9ecbf036291a8cc411f67ebe365350daed67b8a503"
+    },
+    {
+      "path": "documentos/integridad_lote_anexo_261_280.json",
+      "sha256": "cb8f766f1cd11898a4a2222def10f4dc1d2e2869ba5ad2fe107f846b2a3682cb"
+    },
+    {
+      "path": "documentos/integridad_lote_anexo_281_300.json",
+      "sha256": "affe5848ee9dfebdf0d0b02a8164f2e3a1a9bf08c8a6065a65558f613f463f41"
+    },
+    {
+      "path": "documentos/integridad_lote_anexo_301_320.json",
+      "sha256": "c76cdddb7999e42df7b47781281e671f5305d1d865c1d9f43f01b0b81f975c4d"
+    },
+    {
+      "path": "documentos/integridad_lote_anexo_321_340.json",
+      "sha256": "634da4dd44f5e169160e06b393c4fccfd2de7aa04aaa16da92d0de7323b13208"
+    },
+    {
+      "path": "documentos/integridad_lote_anexo_341_360.json",
+      "sha256": "8f6943e36585cca2dc47015f16a02bb535e92a2b854003c02115a8c83bab4b26"
+    },
+    {
+      "path": "documentos/integridad_lote_anexo_361_380.json",
+      "sha256": "018e57526b4aa0405590bff152b9895c3d8520d1fa72bc3721d017a5ed3a27cc"
+    },
+    {
+      "path": "documentos/integridad_lote_anexo_381_400.json",
+      "sha256": "144cae3609596110482ba7ac469b4f3a625e11c20b856b01d2b6151de09dc3fc"
+    },
+    {
+      "path": "documentos/integridad_lote_anexo_401_420.json",
+      "sha256": "cfb80067ecbb1057a78f1aa71c48702cabdb7db34a820b69539daf272ac7b93f"
+    },
+    {
+      "path": "documentos/integridad_lote_anexo_421_440.json",
+      "sha256": "b4733fe3eb67a1468e585effbf50586195b88976412c365e1b206e7ac4386468"
+    },
+    {
+      "path": "documentos/integridad_lote_anexo_441_460.json",
+      "sha256": "2247ecdbe1fbc383f6bce56d971cf612bdb69463596b0d0502d97decc7ee3656"
+    },
+    {
+      "path": "documentos/integridad_lote_anexo_461_480.json",
+      "sha256": "c0f273b56feaf4911eb8ca19f7dc641dba96b1e5c0044b8ff0bc6e779488ac9d"
+    },
+    {
+      "path": "documentos/integridad_lote_anexo_481_500.json",
+      "sha256": "f783a2ea56a1d169547587b805e1b33002964db440b1468f039a220c4af0284f"
+    },
+    {
+      "path": "documentos/integridad_lote_anexo_501_520.json",
+      "sha256": "475b6e597f5ff89b92b48955676bf7390f1f6d7df632979bf6441bdbd7f5a12b"
+    },
+    {
+      "path": "documentos/integridad_lote_anexo_521_540.json",
+      "sha256": "e08bb3335488846e3c9124115428537cf66978778f5b5d9d4661ef83b98040b9"
+    },
+    {
+      "path": "documentos/integridad_lote_anexo_541_560.json",
+      "sha256": "cb6a5bf82b46bbcbcd9493f910b9140ffda8a76d295234541895b400cd089d5e"
+    },
+    {
+      "path": "documentos/inventario_referencias_transversales_2026.json",
+      "sha256": "3dc1cb6d2595eeac111154900e90c982fde321b9aca82f7fd7264d682f6d3d12"
+    },
+    {
+      "path": "documentos/lista_trabajo_manual_presbiteriano.md",
+      "sha256": "735bc1322b3311597ccc1bf3c739ba48b8183b35a3c3243dd9bdc864c024084b"
+    },
+    {
+      "path": "documentos/lista_trabalho_manual_presbiteriano_pt.md",
+      "sha256": "a435f1d9f72e1f0e69637828b5cbc08f4ee8ecdf32a4befae5f2d70aff5a7e97"
+    },
+    {
+      "path": "documentos/manual_2025_es.md",
+      "sha256": "7a00ec55c2d0e8332ad4c259fbd8c41aacfe1ced24cf13ddf32dec110e86c7a0"
+    },
+    {
+      "path": "documentos/manual_2025_pt.md",
+      "sha256": "8dfe35eb3608a49f45bda1cec15cf48afb9b512110a26f2a1a4317fd1b5d87a7"
+    },
+    {
+      "path": "documentos/manual_es_en_progreso.md",
+      "sha256": "7bb6716c87add2025bb8dea3991932c46f7b3f434c209d61fb096c852c9779e1"
+    },
+    {
+      "path": "documentos/manual_integrado_es.md",
+      "sha256": "3af9aa52d295fc536d29e24522904ba606332159bd5b4ed6a75bb5eefd070717"
+    },
+    {
+      "path": "documentos/manual_integrado_es_en_progreso.md",
+      "sha256": "c3b2037460b20f8e44c5a6233faebdd4312fde114eed84827fe98c417e1a4ac8"
+    },
+    {
+      "path": "documentos/manual_integrado_pt.md",
+      "sha256": "b7a30d03827c7fbd90f290eb021c7f3b9c8e223d4a2d46e0a7da571ad34734c8"
+    },
+    {
+      "path": "documentos/manual_paginas_es.json",
+      "sha256": "f2cda6875f4ff95d6825e7c1daedfafbbd85c33696544404939bf34af3a4bf3c"
+    },
+    {
+      "path": "documentos/manual_paginas_pt.json",
+      "sha256": "07d2610ef46f03d529432ee89c9fc3ab27b4f36cbaa25b9668eedaa80ff1b404"
+    },
+    {
+      "path": "documentos/manual_pt_original.md",
+      "sha256": "8dfe35eb3608a49f45bda1cec15cf48afb9b512110a26f2a1a4317fd1b5d87a7"
+    },
+    {
+      "path": "documentos/matriz_integracion_2026.json",
+      "sha256": "2230a18cff9c99a3aab579730c69a922698727aca231903a9045cfee64a487bb"
+    },
+    {
+      "path": "documentos/notas_editoriales_traduccion.md",
+      "sha256": "41d8fa98d337ff9b13191e0cc9008e68617a3b78de134b79392556c0e215f2fd"
+    },
+    {
+      "path": "documentos/pendientes_confirmacion_documental_2026.json",
+      "sha256": "febd55e9ddd9bdf722addaa88a3a7807d2e57dec86465f6b4efa0d86e5e47ab5"
+    },
+    {
+      "path": "documentos/pendientes_confirmacion_documental_2026_es.md",
+      "sha256": "5a665c84c1533c183b9d1dcc57f7b598c48f9db4a0197fbf13a1b50ffbc061e2"
+    },
+    {
+      "path": "documentos/pendientes_confirmacion_documental_2026_pt.md",
+      "sha256": "ae859bd3d33785f2e147f42b0a59e028d44eb924d6fa2f2c19193d7efe699e2d"
+    },
+    {
+      "path": "documentos/preliminares_separadores_2025_es_revisado.md",
+      "sha256": "7de200e0963fd728f623c5633252cd1573d9dc9434f0f8f2601302ab432c3b3f"
+    },
+    {
+      "path": "documentos/preliminares_separadores_2025_pt.md",
+      "sha256": "c85e9569483141dd41c6b701456f816e2eee4d689e3b69d3d33b3263eb541f5a"
+    },
+    {
+      "path": "documentos/principios_liturgia_2025_es_revisado.md",
+      "sha256": "35282ba470af382050d014252e90416ffe23d3a3d9007eba24f60f12bcf3f56a"
+    },
+    {
+      "path": "documentos/principios_liturgia_2025_pt.md",
+      "sha256": "8734cf326e88fb285155f12d071781b63c694663c6eb3299047843a51ec93e3a"
+    },
+    {
+      "path": "documentos/regimento_ce_2025_pt.md",
+      "sha256": "c49a22c37d9260eb3e0ab65f97c15ef52473fbb90f5cef8d7dc16e7e4780f980"
+    },
+    {
+      "path": "documentos/regimento_junta_diaconal_2025_pt.md",
+      "sha256": "91a932d3d77a1d4aeece09209e5836b8a8aaf3045de7a10fcb2619a3dd80f553"
+    },
+    {
+      "path": "documentos/regimento_presbiterio_2025_pt.md",
+      "sha256": "9ae84296e76d39cd2c214ea85fbc11fee2d72123444fe1f54bc460d22a5334b4"
+    },
+    {
+      "path": "documentos/regimento_sc_2025_pt.md",
+      "sha256": "0b36dc21d83794b99bfe5e350ba98f84ea7ab6ab506f6d1434e78ec5a61765c2"
+    },
+    {
+      "path": "documentos/regimento_sinodo_2025_pt.md",
+      "sha256": "1a805cbd4bb0924e2def53d36dc87dcc9447dc1a80cc3d8b7c1fa0179e962356"
+    },
+    {
+      "path": "documentos/reglamento_actas_2025_es_revisado.md",
+      "sha256": "4b0aeff63685b9d5567c6f1639eca9129052329902d37be6a8ebe7e831814704"
+    },
+    {
+      "path": "documentos/reglamento_ce_2025_es_revisado.md",
+      "sha256": "3500e7d6da355aa657787198e35b4c3d58d2244e77dae2615073370d2167eed5"
+    },
+    {
+      "path": "documentos/reglamento_junta_diaconal_2025_es_revisado.md",
+      "sha256": "b977e43e8c9fc4c28a153f9fed02ebdfa36147718908a3900cd4a1c283ddd4ac"
+    },
+    {
+      "path": "documentos/reglamento_presbiterio_2025_es_revisado.md",
+      "sha256": "13085ed1bc64ece87525b6280259731a174531d9670cfae6bdd9b76e7592f22d"
+    },
+    {
+      "path": "documentos/reglamento_sc_2025_es_revisado.md",
+      "sha256": "768ca4395079d54f12eae9d8714045c348fdbe5ef3736fd73c21fd06b145e0dc"
+    },
+    {
+      "path": "documentos/reglamento_sinodo_2025_es_revisado.md",
+      "sha256": "90b12163098596c1fcbb39059319b814ceb9ff552be5f77e17c87854cca690b4"
+    },
+    {
+      "path": "documentos/regulamento_atas_2025_pt.md",
+      "sha256": "0b984eb19ba95817148895c3b3cf5afbd21a52b02f9a7c74f9bbede944f16234"
+    },
+    {
+      "path": "documentos/reutilizacion_cotejo_ripre.json",
+      "sha256": "882094c1e0f3bb56f371c9864245f3325815ed2d9a910b5eb97ca200fa478099"
+    },
+    {
+      "path": "documentos/revision_anexo_paginas_manual.json",
+      "sha256": "3d7c5cc73228e121158d59b0a6299fa0011d1fb5e972755ed5da38d754132a65"
+    },
+    {
+      "path": "documentos/revision_editorial_consolidacion_2026.json",
+      "sha256": "2fd3f06f925149ad93ab832b7fbdb7ab291f2018c12cdd27651abfbe9235a7ac"
+    },
+    {
+      "path": "documentos/revision_editorial_consolidacion_2026_es.md",
+      "sha256": "54e7794964d8c5b5a93195964ee08f9e2e677b9e9d7abda383d4b5184e420ea7"
+    },
+    {
+      "path": "documentos/revision_editorial_consolidacion_2026_pt.md",
+      "sha256": "5a621fc77ff0549caa6c4baa35bcab6c944128d99b41594d64979015d62dc005"
+    },
+    {
+      "path": "documentos/revision_introduccion_estatuto.json",
+      "sha256": "d3eb7071a1c16bc0fe9b059e1d7f41cb94381cb8d5d181fe8324503fba37bffe"
+    },
+    {
+      "path": "documentos/revision_manual_2025_es.md",
+      "sha256": "9d52b352d18e531b81194f5b7ead3c36a318755869db762bac701f2339bf0138"
+    },
+    {
+      "path": "documentos/revision_manual_2025_pt.md",
+      "sha256": "711a322a80eceef7e0ae74d184b97191d28a2a94e2546e89806ee6035da328be"
+    },
+    {
+      "path": "documentos/revision_preambulo_constitucion.json",
+      "sha256": "96ce8ac4e18e3656adf325c8ee066c1694fd492fceffb24d75890af4895a60c8"
+    },
+    {
+      "path": "documentos/revision_preambulo_disciplina.json",
+      "sha256": "bbffdb4c3422c5d24eb501e4c532181599b1b7d535da56b45a93746b7f4c20c5"
+    },
+    {
+      "path": "documentos/revision_preambulo_liturgia.json",
+      "sha256": "9472cf055b06dffdc5f2e673c2d739f7e8136ad406af011d942c37a702cbf23a"
+    },
+    {
+      "path": "documentos/revision_semantica_digesto.json",
+      "sha256": "810192f957e3a5b7d332eb0702c9b771d4f260da3e9514cd87c0352be2cd930a"
+    },
+    {
+      "path": "documentos/revision_semantica_manual.json",
+      "sha256": "411fa7ad76db0a7cf4100411459046fff80c21efb88bbaa2094e2770a93149d4"
+    },
+    {
+      "path": "documentos/sumario_indices_2025_es_revisado.md",
+      "sha256": "e2d9292012fc6b952b1a40fd9125d40003591d3464519bae53ee63621feb0fa6"
+    },
+    {
+      "path": "documentos/sumario_indices_2025_pt.md",
+      "sha256": "6fda99eacf0cf893ba0ef742d7d678e52be5f5f10ce78a4589a5ae08205a85da"
+    },
+    {
+      "path": "documentos/suplemento_normativo_2026_es.md",
+      "sha256": "ac8e85092d778a0299d110278dcf52452d5a3cb88b1eea644bf76d8a67aafeb4"
+    },
+    {
+      "path": "documentos/suplemento_normativo_2026_pt.md",
+      "sha256": "8148438258871999d41086beae9321bb32da38976dd9f06a15717f6ec79e733c"
+    },
+    {
+      "path": "documentos/traducciones_automaticas_manual_es.json",
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+    },
+    {
+      "path": "documentos/traducciones_es.json",
+      "sha256": "3e8ff1dab0577d73181e8ff02099dd00f1f4ab6cc19a6449b6640414a3cdb471"
+    },
+    {
+      "path": "documentos/traducciones_pendientes.json",
+      "sha256": "6baaf4c53ceb80718408c5620a27f849b21f74525753d32ba2b9c7906b259757"
+    },
+    {
+      "path": "package-lock.json",
+      "sha256": "e0641fd1c1635c62e6c87ca7b2b31c4b48bc4a0ded6a1f31d4da729b1673f1b7"
+    },
+    {
+      "path": "package.json",
+      "sha256": "0d1650aba6ab29a6d4ef7009617b718576a4513f05acad4b39aee0609b127756"
+    },
+    {
+      "path": "revision_cd/articulos_1_70.json",
+      "sha256": "73e512071633724da033462a990d381a039afe89dc0e666fdf3016e7a72a675a"
+    },
+    {
+      "path": "revision_cd/articulos_71_135.json",
+      "sha256": "73c62daf15bbcb3d1afae03b2d8a89e7a26f765b6219b7852b874f972803b86b"
+    },
+    {
+      "path": "revision_cd/nota_37.json",
+      "sha256": "e87a20147701c7f137b6c4b5f51d9ba378544d58d57ad2f3cc746f159e30961e"
+    },
+    {
+      "path": "revision_cd/nota_37_es.txt",
+      "sha256": "75b849ca43453cf4d167a4c91d87b584a33f4906ed3aa8ae1f89586640afe0fb"
+    },
+    {
+      "path": "revision_cd/nota_79_es.txt",
+      "sha256": "3ba0e63da0bf26f4450e611bb98b7ecd6082b16b82fe0b6fabf5905be969b387"
+    },
+    {
+      "path": "revision_cd/notas_19_36.json",
+      "sha256": "ea9148fe066c0b19922f272f8b2f3c63b69539c8b321454d8e1d9a8fad234c46"
+    },
+    {
+      "path": "revision_cd/notas_1_18.json",
+      "sha256": "7bfa77e5c9b15eff3634e77b7c89366810833ca0dcdfff6c1d36cd55e7881835"
+    },
+    {
+      "path": "revision_cd/notas_38_49.json",
+      "sha256": "4ae70bc5ead8389a33cc8d398beb6d6e3651005c517dc03b70a96aa95b8ca7ae"
+    },
+    {
+      "path": "revision_cd/notas_50_78.json",
+      "sha256": "4f5655f5c000995bf7a9356d2d1a86e2a445d82823ede53a14a3753532ef1111"
+    },
+    {
+      "path": "revision_cd/notas_79_84.json",
+      "sha256": "7babe20605bde46cf2b91cdb40179609e59e3eb25d7c2e2129e4fc25dda848c2"
+    },
+    {
+      "path": "revision_cd/notas_85_96.json",
+      "sha256": "d782f5ea5ee66c667186df74bf1eeaa35f961978c56aa113242d22f11f51ae10"
+    },
+    {
+      "path": "revision_cd/notas_97_104.json",
+      "sha256": "f7a27153987d295ce0f9d0f0737c95aed63f50962fbd3eaad2eecd33d8beffce"
+    },
+    {
+      "path": "revision_ci/articulos_001_030.json",
+      "sha256": "c61a8cfe21d7af60b703d0ce9af8b8331eaeb03f1f421a5417a8a7a3ebf015cb"
+    },
+    {
+      "path": "revision_ci/articulos_031_060.json",
+      "sha256": "d414200dec8ab28a57e4b8b8f91ace38a76a1fc51a2318e3d7d1a7fa7f9b79db"
+    },
+    {
+      "path": "revision_ci/articulos_061_090.json",
+      "sha256": "be75d91ec62ef27c5f648dfc8ba77e45e7135a2989d892003057b466dc991eb4"
+    },
+    {
+      "path": "revision_ci/articulos_091_120.json",
+      "sha256": "10ac469fbe24d7ee5dbc36e36b7612ef9e21b9546fe4dfeff9c195aef30f8be8"
+    },
+    {
+      "path": "revision_ci/articulos_121_152.json",
+      "sha256": "04782e260df5fd92b8d005eed5a8e5115f534176aa800ef12b9d7d6399f80ebb"
+    },
+    {
+      "path": "revision_ci/nota_052.json",
+      "sha256": "4a3d528bf74549e49eb684a8211bf9129d529ad2fe336b0a085bd18f71e9d783"
+    },
+    {
+      "path": "revision_ci/nota_058.json",
+      "sha256": "9dc60540fe9c8a5c2005f32b0477fb8ce0dcac2e06e1083d8fb79da733ed10b3"
+    },
+    {
+      "path": "revision_ci/nota_109.json",
+      "sha256": "4da0b5a4834e9ac470979a3f66edeac579946bc7720f2f8ca22aac2ddff0b74b"
+    },
+    {
+      "path": "revision_ci/nota_125.json",
+      "sha256": "c4225c85f04783c3ac8f656d43248226ba21d380a423d8c6961f1ab2582d1ac3"
+    },
+    {
+      "path": "revision_ci/notas_001_014.json",
+      "sha256": "738f871d3f9ec51bcff3c3b8b946e5c69c37326f57e396f81492e151a2050465"
+    },
+    {
+      "path": "revision_ci/notas_015_022.json",
+      "sha256": "89c5d3361bf765724669c81dac34ce463d769c22517de8c503f71c357cb7c3db"
+    },
+    {
+      "path": "revision_ci/notas_023_034.json",
+      "sha256": "e7545f13ac40a5d1c9e1731e2db324c9724785ad74ae7a83cc69608cd7acf1be"
+    },
+    {
+      "path": "revision_ci/notas_035_044.json",
+      "sha256": "d2f1934bbad9d5f5c73c8126e29c19a3236c339694a407ec068c4f48551e38f1"
+    },
+    {
+      "path": "revision_ci/notas_045_057_sin052.json",
+      "sha256": "805efa12a6c31b51cb80bc79383263ce72059b3737fcd07c623f8d27e6e918b8"
+    },
+    {
+      "path": "revision_ci/notas_059_072.json",
+      "sha256": "e6330698947b4cefa2f2834f973230ad7a6513a23fa5725304e849255e16654d"
+    },
+    {
+      "path": "revision_ci/notas_073_085.json",
+      "sha256": "4be8c643f9601b36e3af770c78b455c1942cf9fc4ff9ab3f2e1ff120fec3b238"
+    },
+    {
+      "path": "revision_ci/notas_086_102.json",
+      "sha256": "81520f66cc033e7e87a30f4c1edee71a0be52355459ec5dc9d320b183c38ae2b"
+    },
+    {
+      "path": "revision_ci/notas_103_110_sin109.json",
+      "sha256": "6598daf4050c52377f70a67ceae2276141c261b189c2b8039a8049b35c377a70"
+    },
+    {
+      "path": "revision_ci/notas_111_118.json",
+      "sha256": "7df9266c8056f6e4b597c42b5f8694e32db9a9e16a5e346546782b8069eadfc8"
+    },
+    {
+      "path": "revision_ci/notas_119_124.json",
+      "sha256": "037f03dfca187438c517f3e9b1191de22fddf92c36a9bab092df068776ba384a"
+    },
+    {
+      "path": "revision_ci/notas_126_138.json",
+      "sha256": "b677a6a13ba78103cb0244b8ac93263ef6a6f06220bc7358692a416999d4b43c"
+    },
+    {
+      "path": "revision_ci/notas_139_153.json",
+      "sha256": "ee8dd3c645dec99e33508d2f13ff508a3e7b6ab3a078a14e9e69060f09a58d20"
+    },
+    {
+      "path": "revision_ci/notas_154_164.json",
+      "sha256": "d77d9606cd34c0d1078193d9dd8f5648db5ea56aa8157de3c02f9ad5356c40bf"
+    },
+    {
+      "path": "revision_ci/notas_165_178.json",
+      "sha256": "3a1d2068ad11b2f3b8f51c9382ce438572a8de44e2658451e420f123c6560ca7"
+    },
+    {
+      "path": "revision_ci/notas_179_187_193.json",
+      "sha256": "73b675e5db3d04be360b73cff31603872fb5565e4f1d768b34d987575571aae9"
+    },
+    {
+      "path": "revision_ci/notas_188_192.json",
+      "sha256": "b04f09fb121095c5226435c447933d3b0fdd095876c3bf93ccce6f7d56d8db09"
+    },
+    {
+      "path": "revision_ci/notas_194_207.json",
+      "sha256": "b402aa8402f9ee58148f4f15b92a89d8bd3f084aab7c90960f088466a692d4f1"
+    },
+    {
+      "path": "revision_ci/notas_208_220.json",
+      "sha256": "01657b78971a81d2c19d9135ecc16f35bbee5a0cd88ab55c01802b9f28bd32f7"
+    },
+    {
+      "path": "revision_ci/notas_221_232.json",
+      "sha256": "0f454f67431793d80d4f2643a9f3a73aa3dec0ffbdb442a3549693404d2b5d6c"
+    },
+    {
+      "path": "revision_ci/notas_233_240.json",
+      "sha256": "d625ba58ea67a378f74c98da517cee15dfbf7df0be5070c76f8bf601d132c00b"
+    },
+    {
+      "path": "revision_ci/notas_241_254.json",
+      "sha256": "1fb7456082dc13b5c588cb046287493938854be03e9afae6917bd93517b596bd"
+    },
+    {
+      "path": "revision_ci/notas_255_266.json",
+      "sha256": "7563aa64ae3dacef072d633ad7167af0c566fd9bce9fcb011740f214eb1f8099"
+    },
+    {
+      "path": "revision_ci/notas_267_281.json",
+      "sha256": "3c3adc829dc4608281a481089ebeacac2c53a6edeeaa4cbff0e4befa1bff0d59"
+    },
+    {
+      "path": "revision_ci/notas_282_296.json",
+      "sha256": "a17fb17acdad7fd60a48dc3798d7f07b319574702ee4bad8cdf0ea04e3d81185"
+    },
+    {
+      "path": "revision_ci/notas_297_310.json",
+      "sha256": "c8d828b32f7528208d53ae75fe6c004b29d8e2055820c5c048a9b86245cd39d3"
+    },
+    {
+      "path": "revision_ci/notas_311_325.json",
+      "sha256": "c49bd3a49da592f01db2567b6026ba1bf9ed29564372e97e975c9f1338e1bf18"
+    },
+    {
+      "path": "revision_ci/notas_326_341.json",
+      "sha256": "04aae4cf2be8ddd50339036441eeabfe8ab91816900ee1f4b8f0528479fbd9b4"
+    },
+    {
+      "path": "revision_ci/notas_342_353.json",
+      "sha256": "a750d68b30b93dc8aed082e06631d34318bf078c3ccb38c9f84f5584443e378e"
+    },
+    {
+      "path": "revision_ci/notas_354_361.json",
+      "sha256": "e92a03bacb9beb15f5ae1b36cf6483eeecc7db8e9550b2806e461baf3f107cda"
+    },
+    {
+      "path": "revision_ci/terminologia_final.json",
+      "sha256": "578463160ab55549a6c9836f71c72962f21b5a5cd4e306c252142cd2481976f1"
+    },
+    {
+      "path": "revision_estatuto/ajustes_terminologia.json",
+      "sha256": "2a68fe86aa738cd499402b625b0b8dbced3c976f05ac6a89154b1072d61376ff"
+    },
+    {
+      "path": "revision_estatuto/cotejo_completo.json",
+      "sha256": "76a98a447a6ac9d976697d27ca24780cb28a86c2f7a5a68d327ffc49ee6d1963"
+    },
+    {
+      "path": "revision_pl/ajustes_finales.json",
+      "sha256": "adc772a98c83c52aff647697cc83fdacfde5ea507cdfdb6c318e2c884726717b"
+    },
+    {
+      "path": "revision_pl/articulos.json",
+      "sha256": "1450f6bbe0488142733c790583049f40e146a84f10c96bc432555b670f5d29e4"
+    },
+    {
+      "path": "revision_pl/nota_7.json",
+      "sha256": "5d284988210e6ebdf8db46f4f6cc562c85089f37becdeee3c470b7225314c032"
+    },
+    {
+      "path": "revision_pl/notas_1_3.json",
+      "sha256": "fa3adf00c8003ea78d78d9be584aef159f07dd4e7bfe68dee0ddf29787d38b2c"
+    },
+    {
+      "path": "revision_pl/notas_4_6.json",
+      "sha256": "b58b45696a1c9fefd9b61111b88d44391ea23c71c83b9428221e5c54a09f4a4b"
+    },
+    {
+      "path": "revision_pl/notas_8_11.json",
+      "sha256": "f9fcdd2ef4aa6f275d7390a77698bc041aaaf0fb7145f07592a58a7289451536"
+    },
+    {
+      "path": "revision_pl/notas_finales.json",
+      "sha256": "9475f6f3a4f5522285024e331cbd5ceb9fac3ab6d36fcc3d11d0c884c83d1e49"
+    },
+    {
+      "path": "revision_pl/notas_remisiones.json",
+      "sha256": "37f76c4e8381d836d9bfc23fc344892580e9510257aedd56ce9a86bdeb1cf4a4"
+    },
+    {
+      "path": "scripts/annex_pages.py",
+      "sha256": "7b7717cf8169d4d99d1af5ce74ba823fc09f8a64c14643b523c5f37cd0148c7d"
+    },
+    {
+      "path": "scripts/apply_atas_review.py",
+      "sha256": "9a3ae8de14af5100807e2d78749164ab637665dad5fec65fde00de3ecee98cd5"
+    },
+    {
+      "path": "scripts/apply_cd_review.py",
+      "sha256": "85a5639cd2f4934ea35d348903c934aa081a2361a9ccea5dfb7735d7940ede56"
+    },
+    {
+      "path": "scripts/apply_ce_review.py",
+      "sha256": "5e1c373ed4a35e2899997fb3b0ce1fbf72d281958848708b945e2e917a168203"
+    },
+    {
+      "path": "scripts/apply_ci_review.py",
+      "sha256": "385ceb00db3f24cf304830e4f422ca7b3ee8f198f55010d4c4f797b4c5baca5a"
+    },
+    {
+      "path": "scripts/apply_estig_review.py",
+      "sha256": "ce6a43052eacf09786ac672121fbebb3366d34928b2c1442fc3469851ff3de9c"
+    },
+    {
+      "path": "scripts/apply_front_matter_review.py",
+      "sha256": "23c454a793b10d4f9a5db7c849a649c594d915778b1dc6a1558b99415f55a65b"
+    },
+    {
+      "path": "scripts/apply_index_review.py",
+      "sha256": "a267df1a09765bd8330c360b95ec9488ddfd0349b3881bd16bb3cbab47ed2cce"
+    },
+    {
+      "path": "scripts/apply_pl_review.py",
+      "sha256": "bd8a0d5ed99b7cd633d22ce9d3c60abad29fcfa5ca90eab70ac7fc9608f95ba6"
+    },
+    {
+      "path": "scripts/apply_presbytery_review.py",
+      "sha256": "ec325d3c9f0c2466bae83120ddd4da296d1e56688eda9a68f0aab79e107860b4"
+    },
+    {
+      "path": "scripts/apply_rijd_review.py",
+      "sha256": "3b96472ac33902b3ca2b1aa6c3d6c96a66d8c969e83e796f731e22dfbb61fb33"
+    },
+    {
+      "path": "scripts/apply_ripre_review.py",
+      "sha256": "79af191dd98aef724dc18b1ff29228e7a893d0c512531276adf38baaea0390ff"
+    },
+    {
+      "path": "scripts/apply_risin_review.py",
+      "sha256": "9910b10d53fa74b8114b2aba264a507fc3105b1fcab404a87c54f768d574c336"
+    },
+    {
+      "path": "scripts/apply_sc_review.py",
+      "sha256": "8baac5cc71f759cf08a402c18c1ae188c354b204c0990f39ad23ba484a69c0df"
+    },
+    {
+      "path": "scripts/apply_statute_review.py",
+      "sha256": "5ed50d007ecb1a11ccb8c1ae21c7552756226b35b477b58210a4281b05e16428"
+    },
+    {
+      "path": "scripts/apply_syn_review.py",
+      "sha256": "ff825dbd86305e5ce025f777035d59c4b56d75a51b02815dc53e3ac2cc81237d"
+    },
+    {
+      "path": "scripts/audit_manual_review.py",
+      "sha256": "6e2f159de91da62b65b2f4537965076775cc1e5fc4d67fb6ae9cab965a620e77"
+    },
+    {
+      "path": "scripts/bilingual.py",
+      "sha256": "68084d95182adc5494df3dc64325b3f3d658a5a57776aa230088af50443a478f"
+    },
+    {
+      "path": "scripts/bilingual_followup.py",
+      "sha256": "9984124522ab9dcd3aea6e9f7903076b63e6194010812ec4bee07677e143f155"
+    },
+    {
+      "path": "scripts/check_runtime.mjs",
+      "sha256": "fa44c60faf339774a19c4a1fbe661d7bc99c3e56de46993066a7e4f1b443c144"
+    },
+    {
+      "path": "scripts/church_statute.py",
+      "sha256": "668615ebd1d86264a3475c5f38aa3255c069f64e074485f0048b7846b20ef195"
+    },
+    {
+      "path": "scripts/constitution.py",
+      "sha256": "91e51eeaf7fb40a15319afe1b2a1458f2fd24cbc95accad7a471078a56311934"
+    },
+    {
+      "path": "scripts/cross_final_compatibility.py",
+      "sha256": "fdd45af4a31052ea07aa9668c58dca925ff636b9b401c41bac6b5898c09cc85e"
+    },
+    {
+      "path": "scripts/cross_historical_compatibility.py",
+      "sha256": "79c9ba3e5b85410e6a561991029dc13d01a2aa28724ea4ffd46cda4b6ad47238"
+    },
+    {
+      "path": "scripts/cross_presbytery_compatibility.py",
+      "sha256": "28792ad1634dcf7b8ca97095d482280a4ec6bc5ace9be21cc7b2b3c8e2d9ab4e"
+    },
+    {
+      "path": "scripts/cross_reference_classification.py",
+      "sha256": "7c25200a7c20c95f221e8a7734d11a267998856076e490f886e9a6aebc4a0bd0"
+    },
+    {
+      "path": "scripts/cross_secretariat_compatibility.py",
+      "sha256": "30acc63af882f8471b3fa75392a6c3d905bf32e9c62e087f1db43c542e4bc83d"
+    },
+    {
+      "path": "scripts/deacon_rules.py",
+      "sha256": "c70be27730751c5b789ca708ddc6321116dbf9765208024db8fc0615e7de89f7"
+    },
+    {
+      "path": "scripts/digesto_batches.py",
+      "sha256": "10a2b5a6b97f781caa8d60c722f0f96c6dd236150b89ac46f5271f35012bf5af"
+    },
+    {
+      "path": "scripts/discipline.py",
+      "sha256": "d042d8776b33fb9981130fcad3b06a803a61aa4e14cc7b309ba4c0c41da207ce"
+    },
+    {
+      "path": "scripts/documentary_confirmations.py",
+      "sha256": "3ad6c75dd7f36d0f67acda6dc280f0cce68000bff71a322e7660f693c8c83df7"
+    },
+    {
+      "path": "scripts/editorial_consolidation.py",
+      "sha256": "a030858f2710058de05adf2cdd764bd9113995774d60f986a795d18cd3df714f"
+    },
+    {
+      "path": "scripts/executive_rules.py",
+      "sha256": "f68718653ea940e8c300a7ca388f0a7cc78fe59e680d550d65b1d7f998fe495e"
+    },
+    {
+      "path": "scripts/extract.py",
+      "sha256": "b5efccd817fe6f0f39e56144fa4f205496b54680d8d856ff255038a6cbe3f717"
+    },
+    {
+      "path": "scripts/finalize_manual_translation.py",
+      "sha256": "a5da8daaf83e97c58919c790352206297b8c56ae022c5df1e067033b60e3d70d"
+    },
+    {
+      "path": "scripts/front_matter.py",
+      "sha256": "848740c6f38fb7277afb8ef7ba9b3c175dc60090fc553bae8b1567bd421ace60"
+    },
+    {
+      "path": "scripts/historical_compatibility.py",
+      "sha256": "e09eee55fdbc21da75be02a0033f58174b1e363f53d88c05ea7cdfc831222e02"
+    },
+    {
+      "path": "scripts/index_documents.py",
+      "sha256": "f913e4d8dcd65a9ecd92165dee5a8f5f20a6f199070b33dbaf273852511151e6"
+    },
+    {
+      "path": "scripts/integrate.py",
+      "sha256": "d32e7d2124a19807964c4aaa6aa8fb42f61085e04edad9d7b9eb1e6904f8e4ad"
+    },
+    {
+      "path": "scripts/liturgy.py",
+      "sha256": "b6263f712f43f9032216b77f5fc60e34186c66d1cbbb539287a9984d4d592510"
+    },
+    {
+      "path": "scripts/minutes_rules.py",
+      "sha256": "902ecaee78bd9412270997b946f425b6df77f7fd1a2694058fad05b160b42300"
+    },
+    {
+      "path": "scripts/normative_batch_documents.py",
+      "sha256": "149928ff849c06013270a3bba4999e3f20ca89afc21f0218888fa7e67ebe0c3f"
+    },
+    {
+      "path": "scripts/normative_effects.py",
+      "sha256": "e7352ca7520ea49a8ccf3d11d2e3025868400e12fc9de59342ab1dd1844c8437"
+    },
+    {
+      "path": "scripts/package_delivery.py",
+      "sha256": "da5db4aec183953ccab1d9bed7a05a111f7bc9b4502f0b42468a571b8771aacf"
+    },
+    {
+      "path": "scripts/presbytery_rules.py",
+      "sha256": "fb92302efa57307682d54ea70f20cf8daf952a906a69759cca9d01ec7a7ffb25"
+    },
+    {
+      "path": "scripts/presbytery_statute.py",
+      "sha256": "46fe81e6efa9ed81938f44cc4e9518eebf152e459b437742fe326b0b967b8e56"
+    },
+    {
+      "path": "scripts/read_atas_batch.py",
+      "sha256": "5c3927fe63ec2d3247f46f390448cd584bf438b1590cf3ca943b92e88d6d8cb6"
+    },
+    {
+      "path": "scripts/read_cd_batch.py",
+      "sha256": "225fc8dec58560d1003bf82d998492e0d946c6b990c36bdb458cc790f855d3db"
+    },
+    {
+      "path": "scripts/read_ce_batch.py",
+      "sha256": "dead336b23420a9873a64dd51b82712ae5550eb63fdd54eef13ce9d9e5648362"
+    },
+    {
+      "path": "scripts/read_ci_batch.py",
+      "sha256": "ea73b87f838a52620d7c8e831afd91729e85f275618f5c9885134f905fb95acc"
+    },
+    {
+      "path": "scripts/read_estig_batch.py",
+      "sha256": "e7713237bee7f8f64cb1bacabd987c79135bab25e98e5db81c3e3c6477e71af3"
+    },
+    {
+      "path": "scripts/read_pl_batch.py",
+      "sha256": "a2834ce2191d09b2393c2b5beb83660dc485d8e80441e85d28866482658c6797"
+    },
+    {
+      "path": "scripts/read_presbytery_batch.py",
+      "sha256": "cade80bee7447264d433f5221bc3b0ea0e26705de3dac35e7e2b9a6f41dab556"
+    },
+    {
+      "path": "scripts/read_rijd_batch.py",
+      "sha256": "5c6f9e741e7bdd89292e32bffedbaeed711a671a92439cd4a55745d6e83c047f"
+    },
+    {
+      "path": "scripts/read_ripre_batch.py",
+      "sha256": "022aa0178aca32f2ed6c1059850cff0029c401845106d67d2d20f811735212bc"
+    },
+    {
+      "path": "scripts/read_risin_batch.py",
+      "sha256": "2cb721de125c71357ba72f48c7fed543fc0a84d05aad3b339c79173dcb3c2d07"
+    },
+    {
+      "path": "scripts/read_sc_batch.py",
+      "sha256": "efb2a6cc58b4786dcbb325dfa4ed30256f24b302ec4b460d034a910a00a8a3d0"
+    },
+    {
+      "path": "scripts/read_statute_batch.py",
+      "sha256": "5ea4f93ddb5e4412919730c64370760f9ba0b02f2b2dde76a133916ebdc84df1"
+    },
+    {
+      "path": "scripts/read_syn_batch.py",
+      "sha256": "70c98e6078b359da0a8a54132db09237b607bdff4a24207b7ae531d5ec27a69b"
+    },
+    {
+      "path": "scripts/serve_local.mjs",
+      "sha256": "60ce0ad67ea43b5bee64c5dff81fd6da9a1164047937cc0295e5e8ba37213728"
+    },
+    {
+      "path": "scripts/statute.py",
+      "sha256": "39a8ffcc693841744318c5f1471e99db1ae3e6eceb6f0e661738a1cc0faa9270"
+    },
+    {
+      "path": "scripts/supreme_rules.py",
+      "sha256": "0de95418491bde65e066c8ad78213ad48ac69d2b7d4603bc32ddcdea19ee0d4e"
+    },
+    {
+      "path": "scripts/synod_rules.py",
+      "sha256": "f2082da273b07610cd76a2ee26e6dab660a92d86f95ed1179045434d09fa4906"
+    },
+    {
+      "path": "scripts/synod_statute.py",
+      "sha256": "e4502a3c8c1d1011b9d5cc362410a0059d0eb8ab86810039221fef173a98c37a"
+    },
+    {
+      "path": "scripts/translate_manual_local.py",
+      "sha256": "95796d181d3b58e4b7313c689f92dfc82bacb832467e7760eb8cc223e07dd291"
+    },
+    {
+      "path": "scripts/worklist.py",
+      "sha256": "0052fd10756307c06ecbb7f9db0b155ca843c7a24f5c0cadbc27b4eb2ce56655"
+    },
+    {
+      "path": "src/app.html",
+      "sha256": "2b0b13ad5302513e253242b07fbeb1ffb95f87d5df5ef63c7ea39a787d2ad99e"
+    },
+    {
+      "path": "src/lib/Highlight.svelte",
+      "sha256": "e8048b3264ef427b57b98ec42243a961edd4b6fdfeb91c64d86c9d72e406b7ac"
+    },
+    {
+      "path": "src/lib/search.mjs",
+      "sha256": "f98fa1d370dcb28b366595a02e8af4a84884b16161425ab51b3ef62c8ac3a033"
+    },
+    {
+      "path": "src/routes/+layout.js",
+      "sha256": "30eec0a0e67c08341a51c51fa019afb5f4815eec5a183501f2e39d5da1c4e67d"
+    },
+    {
+      "path": "src/routes/+page.svelte",
+      "sha256": "ed2f9b36dfb39bc81f689cb5eba8bbae4f05367689f4abc6a1046e95194e5cfc"
+    },
+    {
+      "path": "static/corpus.json",
+      "sha256": "95db8a857c15b3b3a5482db7e933e095d33b5e80bda1a9b17f9665f5fe4cb7a1"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_001_020_2025_es_revisado.md",
+      "sha256": "b0048dc25647691246da9c5a32a47449155270610fe6c35871b820391552e15e"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_001_020_2025_pt.md",
+      "sha256": "6c42b632d2789416e6da9545680e68f6473c5601529855935e610db5c0a7ee1c"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_021_040_2025_es_revisado.md",
+      "sha256": "c6ec363c240922b792467462f871cd1590b43d4764826189a1119c8de5088d2a"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_021_040_2025_pt.md",
+      "sha256": "209490738275efc65e8a89c8a701cfeb512b7ea227b2ac9cbf315f54ab837039"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_041_060_2025_es_revisado.md",
+      "sha256": "90a48c6ca18ec035eb545d6d2b59ae072646e74279a196e655884a9bfc40c125"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_041_060_2025_pt.md",
+      "sha256": "a515391bdecf02200f4c4d0146e07f32d29e29ccfe685f4c779f276d798f7dcf"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_061_080_2025_es_revisado.md",
+      "sha256": "b0ae7d2fc1c44789687820a1db769fe311bfeebb6a54f9cbc153f15ebd8b25af"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_061_080_2025_pt.md",
+      "sha256": "28c715299b3808b1cea93cdd757b030306d3f20c826279d66e111d9f8cb2097c"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_081_100_2025_es_revisado.md",
+      "sha256": "014fdcb18e38717f2bb9a572c6ec0f217c7ba0c531a30e8b171a0ea6ebd191f7"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_081_100_2025_pt.md",
+      "sha256": "f8d3140da7b0f283c8d37b165e377847d40cec85712bd92726815a71edb629bb"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_101_120_2025_es_revisado.md",
+      "sha256": "6ef2fb9d954d905a2bf2f43c2abf32536bd5b061e192bce9f779c37d87904b6d"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_101_120_2025_pt.md",
+      "sha256": "0549c4edf2764463c7771908aa3e84c389c060aa70aa941a405bf0f87c506d52"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_121_140_2025_es_revisado.md",
+      "sha256": "e3cdde44e6f37019e0781c1e7e1cca1dda19a6bf3728933c6b0b933ab18a556a"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_121_140_2025_pt.md",
+      "sha256": "9c6a15c65da38a51f4c584cc97335262ea4cfb8cd38e8d2416c402854a8f136c"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_141_160_2025_es_revisado.md",
+      "sha256": "645a093b521321ed16da56bcd610a9076cdacffeefc77ed1705b78daa1600d3b"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_141_160_2025_pt.md",
+      "sha256": "bc88a8abb9ecb61e2e54395f6715e1ff21ebd8c7c626d5c8b37cab187e42f465"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_161_180_2025_es_revisado.md",
+      "sha256": "ef249aede472f52328e6f488e15babcb174252b4b767b7070f3bbb28f10214a1"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_161_180_2025_pt.md",
+      "sha256": "86777e0c1bcf89f57b460eaad98584b4653df1797a2e675238198b7c95e8d891"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_181_200_2025_es_revisado.md",
+      "sha256": "9a2ae0d03984bd9162973c5e0431b2d2be485c29e2e1cde3e1b84477c99d2f45"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_181_200_2025_pt.md",
+      "sha256": "ba4621304fcd740672a598d8aa9a1041b2777476448297475144ef17cf88cd66"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_201_220_2025_es_revisado.md",
+      "sha256": "d09b83bf91c2ccbbdaea034e323f931596226db1e50d40c440ae6a10369da463"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_201_220_2025_pt.md",
+      "sha256": "18bd17f070978355b981f3f85efd9857ba44579c668ec9ece98f46ef7af5a9ce"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_221_240_2025_es_revisado.md",
+      "sha256": "66465c398625f82a1a7874884f147a14f6535e1f2e08bc8a6d1314d308e593d2"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_221_240_2025_pt.md",
+      "sha256": "0b496f6284b7c5d9f31e9981846b64a1c4c4260eb08baec7263ddbe0661cfcad"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_241_260_2025_es_revisado.md",
+      "sha256": "d6d35a0b25c68f50b127acf1e2765392a00478eb8b25d97cd7382235a4a6f0a1"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_241_260_2025_pt.md",
+      "sha256": "678bb5ba0e7ad031b4b81a99e6ebb28707815bc981ab5adaefd0124f37e6b1c9"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_261_280_2025_es_revisado.md",
+      "sha256": "b9382462035a1c2e8a52df3b031b80984b6701f48723570a485c1fd41b337812"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_261_280_2025_pt.md",
+      "sha256": "9759f3da09e59a3eb05f8e520a9adfa65439fe2b8eb229cadbdca141c0f91531"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_281_300_2025_es_revisado.md",
+      "sha256": "e8b866a7e4e0d52da350c43a11a03bf69602315dd02bc8d3eb9ccebb070ca77b"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_281_300_2025_pt.md",
+      "sha256": "99e9feb174100a859173dc182d2c36c171dac472f806d299613969bb494a974c"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_301_320_2025_es_revisado.md",
+      "sha256": "695f64957c165e2a8809bc0b7c587261e8b3b906e69c7ad77caf2aea8594bd2a"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_301_320_2025_pt.md",
+      "sha256": "68884cbc0d6c39d772879d64bc80be85ca61608a5bbdf61c1d1b450ff4f5e951"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_321_340_2025_es_revisado.md",
+      "sha256": "f3e4a59c5b1634e6a9f2b512e8097a723b464dbb7652471930f4efe51ea83fda"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_321_340_2025_pt.md",
+      "sha256": "5b52060baaceb14018b7ef0605bd3b9b499c25b3688867dd63e41f7e403676b7"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_341_360_2025_es_revisado.md",
+      "sha256": "5caa66e69f6e06a9b97489ee8396a979f1a3c727115747a3100d38496194dbc8"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_341_360_2025_pt.md",
+      "sha256": "161731aa688838c5c72bae37a036d2fb138a6c1288441daec03271672287af3c"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_361_380_2025_es_revisado.md",
+      "sha256": "46fa011449a98fb3b94dd76878dd4b9867932c6604e5cd6b115763556256d2a0"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_361_380_2025_pt.md",
+      "sha256": "fe748b1e9cf950d3b92d3589e4c72ffcf12c72afbcb2ded3fe78ff4e87a59e00"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_381_400_2025_es_revisado.md",
+      "sha256": "63adc641f65f0bdfc27f950f6d8be3e36c0901bd211d888649f4627ce5711d7e"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_381_400_2025_pt.md",
+      "sha256": "581c5c90bdee4af97d5da58545471d3845b31a11b86b8b8ca7fd6fb13075e2b9"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_401_420_2025_es_revisado.md",
+      "sha256": "50149e81f69be4a83af4f85eaa0d8524997713fd0d8fc547cafc26075a400a6d"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_401_420_2025_pt.md",
+      "sha256": "169ecf924579cbdf461af66c84a73bebc328bf0248dc4f3301c3245186d9f54b"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_421_440_2025_es_revisado.md",
+      "sha256": "c62d7625e17deca9990695eb005557405abd31c22fc718d306b12c1cd33ae1c5"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_421_440_2025_pt.md",
+      "sha256": "a6f60e816d947fb6ebadd1463be3ff27077361b49c9d85ca647e4f501311b7db"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_441_460_2025_es_revisado.md",
+      "sha256": "643fa17c2ef26ab04061ff7eeabdf85e4d05e2cd7222af1c4627179d5fc381e5"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_441_460_2025_pt.md",
+      "sha256": "90e033718df48eaf4494e61930f941fce37dfe1c2cb9c7ef727be928ad36e9a1"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_461_480_2025_es_revisado.md",
+      "sha256": "3e3ad40ff9ba7b67fc5cf8c6b68349a694e0e5d07aded41c71afdd616ab2da09"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_461_480_2025_pt.md",
+      "sha256": "05f507a085efd2dec4fa026de6b82875d8fb87e5939957cacc940bbf3ca587ab"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_481_500_2025_es_revisado.md",
+      "sha256": "f0a29d4fd87b55e12adabfafef5f94bc4d7ff31461a0261f1430da4f3b49d3af"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_481_500_2025_pt.md",
+      "sha256": "d93409e8a81a4e49a54e4cec115851c7c0442660cb31a180b950c366f985d82c"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_501_520_2025_es_revisado.md",
+      "sha256": "d06402b835a8c1409afa941f5d607f884f6529aa6966510a6b6710a192bbd407"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_501_520_2025_pt.md",
+      "sha256": "66b3da3ba068d6882ea4468b0ca4ccd825b7e2ca526d01845ce9f8f7f9529d6e"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_521_540_2025_es_revisado.md",
+      "sha256": "264e1eb28913fd0dcd630f7f10e2d16e63455fa5ce45f9f5e76279933709bb43"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_521_540_2025_pt.md",
+      "sha256": "a4036a567c85fb7163899bd9906d1b735e790e6175c23ee605d30841cdcaa88a"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_541_560_2025_es_revisado.md",
+      "sha256": "db30db3a474ff70d46c0de83d005a33943a9f3aee1265b8a79665be611a4b818"
+    },
+    {
+      "path": "static/documentos/anexo_paginas_541_560_2025_pt.md",
+      "sha256": "c711f2c56eeedbc07d4b1059946cffafe45a4aa69c0a42ce4a16418065f0dc2c"
+    },
+    {
+      "path": "static/documentos/codigo_disciplina_2025_es_revisado.md",
+      "sha256": "1bfad9e4837a413f52a065dcba19eefad84b5b1fce6423fd7d5a3290badce618"
+    },
+    {
+      "path": "static/documentos/codigo_disciplina_2025_pt.md",
+      "sha256": "70abf202ebf3e9a5d92d8517e5e4b8ed0a7f493a72646744348bf00e96b596c0"
+    },
+    {
+      "path": "static/documentos/compatibilidad_notas_historicas_2026.json",
+      "sha256": "33d1a16c38845c6c1ac2213a7218dc27dabe3e6d527b3c4256a44f7517da8739"
+    },
+    {
+      "path": "static/documentos/compatibilidad_notas_historicas_2026_es.md",
+      "sha256": "7754975c5a5018dc615c0d018ae9c25ca2f52716cb2b00789b8890cf91dfa3dd"
+    },
+    {
+      "path": "static/documentos/compatibilidad_notas_historicas_2026_pt.md",
+      "sha256": "34c22166c56cd48cebcf1ecf6998334dfb683ade6468f7bb7d949baea030fc4a"
+    },
+    {
+      "path": "static/documentos/compatibilidad_transversal_lote_01_2026.json",
+      "sha256": "ee25ec40a675cd16dbe113c7f916fe52e5b84b881f3ed21f5884e56a7e60e88b"
+    },
+    {
+      "path": "static/documentos/compatibilidad_transversal_lote_01_2026_es.md",
+      "sha256": "8c5970e4245e66465b8600e3ec47fca94a606811ace3593eba280398580a714e"
+    },
+    {
+      "path": "static/documentos/compatibilidad_transversal_lote_01_2026_pt.md",
+      "sha256": "e2069c9876ac54c72b2be5e20f0614b85a942d0169dc9fb308a7c1b820a239ee"
+    },
+    {
+      "path": "static/documentos/compatibilidad_transversal_lote_02_2026.json",
+      "sha256": "e40a376b4f2e4d338965f05a21dfcc75bef3d7154dbdc6a85d550920863ea497"
+    },
+    {
+      "path": "static/documentos/compatibilidad_transversal_lote_02_2026_es.md",
+      "sha256": "df5dd3a2a03d28a873a790820b8ea3a5c039edcd0af0dcd492b10cda22c093ec"
+    },
+    {
+      "path": "static/documentos/compatibilidad_transversal_lote_02_2026_pt.md",
+      "sha256": "12d714902141b08378cd192a473b1ca7839b0dee02f2ae6cb97b62e387c14110"
+    },
+    {
+      "path": "static/documentos/compatibilidad_transversal_lote_03_2026.json",
+      "sha256": "ff0238289e21c3dd9497adacb7f8b8abdc094ef4dca132567372f679e5636318"
+    },
+    {
+      "path": "static/documentos/compatibilidad_transversal_lote_03_2026_es.md",
+      "sha256": "e10fef1387c468cbd113bc860c09dbd8a55b7cc1e5500acca8fa1c3b70675bfa"
+    },
+    {
+      "path": "static/documentos/compatibilidad_transversal_lote_03_2026_pt.md",
+      "sha256": "3e69dcaf60ac24d87d08f1eeaef4cde932c564c353c38556fd8905e47eb26b62"
+    },
+    {
+      "path": "static/documentos/compatibilidad_transversal_lote_04_2026.json",
+      "sha256": "4954eb41801a2a5836c782e109449410a644a1527a913692d48cd6c383f4765c"
+    },
+    {
+      "path": "static/documentos/compatibilidad_transversal_lote_04_2026_es.md",
+      "sha256": "cabd80a27e2281568341611622f1cfaa291da7eb0048c9f1dc99ae2e906d2cfe"
+    },
+    {
+      "path": "static/documentos/compatibilidad_transversal_lote_04_2026_pt.md",
+      "sha256": "2b9ac74cc613c3ca8d54e47af6f63e9c82ce7749f929eb2e8b0240cd23702625"
+    },
+    {
+      "path": "static/documentos/compatibilidad_transversal_lote_05_2026.json",
+      "sha256": "ea3245e1cc43260aff7fcee2369bb57502bcc00a291d61fd0e8a533e5628635a"
+    },
+    {
+      "path": "static/documentos/compatibilidad_transversal_lote_05_2026_es.md",
+      "sha256": "13bef411bc8b6f7ec3a81512a016beabbbed44be711638bf888147aea929f584"
+    },
+    {
+      "path": "static/documentos/compatibilidad_transversal_lote_05_2026_pt.md",
+      "sha256": "105ac32d35f337c24978af6aa954a2540b99bd4a677969287e4831755042cb6b"
+    },
+    {
+      "path": "static/documentos/constitucion_2025_es_revisada.md",
+      "sha256": "bef8f82020dbb49ae2fafbab8eb473a5c02b521a9fb4dd4ebb40d5606cdd0dcd"
+    },
+    {
+      "path": "static/documentos/constituicao_2025_pt.md",
+      "sha256": "6a867131ade280c61fab5a292465781a826663ece5109f5ec6fed7857b2188ae"
+    },
+    {
+      "path": "static/documentos/correcciones_editoriales_consolidacion_2026.json",
+      "sha256": "c8617638327dc4eb5944a184250ff3b06ab16459f55aa7538b15d47910b805bf"
+    },
+    {
+      "path": "static/documentos/digesto.pdf",
+      "sha256": "e82955017938a555ab31a699d125b48fdfce686dd03d69b7b8dbbad1b03c2482"
+    },
+    {
+      "path": "static/documentos/digesto_2026_es.md",
+      "sha256": "055bdaad334061e76d684a630da44d7ab95f40c34ab39ec35dca07b50a3df2d2"
+    },
+    {
+      "path": "static/documentos/digesto_2026_pt.md",
+      "sha256": "a45d3bfdbd8887110baedfafb00876e92e084eb6ef9a6f386ead81dc729bdbcb"
+    },
+    {
+      "path": "static/documentos/digesto_es_en_progreso.md",
+      "sha256": "e537e28c6e98aaacd7f025dc8d8a3548ef1297213ec263117e918900104e9856"
+    },
+    {
+      "path": "static/documentos/digesto_lote_001_010_2026_es_revisado.md",
+      "sha256": "0461969c50384358087db2d8514f86100c4d5f9504beb7e65e4478d5c2c77c47"
+    },
+    {
+      "path": "static/documentos/digesto_lote_001_010_2026_pt.md",
+      "sha256": "8a4ea30b29c7239473fb6906a8a08f18169f98907d424649d72fb36a272a6e83"
+    },
+    {
+      "path": "static/documentos/digesto_lote_011_020_2026_es_revisado.md",
+      "sha256": "8f35cb2d4a501f1bf28d6ee5b14911f4e12da787fc7e28b7e31466240c31f585"
+    },
+    {
+      "path": "static/documentos/digesto_lote_011_020_2026_pt.md",
+      "sha256": "12a060a5040c1b2f289c1a6a394ff2b10bd45d7479973ce96be78689b4cda122"
+    },
+    {
+      "path": "static/documentos/digesto_lote_021_030_2026_es_revisado.md",
+      "sha256": "d18fcb83bd6f4500528708926a581ee827fd8f9bb9c6e5f45c1522124f1ffe4c"
+    },
+    {
+      "path": "static/documentos/digesto_lote_021_030_2026_pt.md",
+      "sha256": "5e161ac4b709330a3ea8e8700f192183dc6723fd4fb53913e698ca1ff873dd67"
+    },
+    {
+      "path": "static/documentos/digesto_lote_031_040_2026_es_revisado.md",
+      "sha256": "8ca7b4f67c60064f71254362fdb07d0a445a81f51162f73655534236bd3c472c"
+    },
+    {
+      "path": "static/documentos/digesto_lote_031_040_2026_pt.md",
+      "sha256": "456544c2d5e55c611eb5466ca2bf39bfea0bc874b8697534b2308d0e6936b065"
+    },
+    {
+      "path": "static/documentos/digesto_lote_041_050_2026_es_revisado.md",
+      "sha256": "62ed7555af9d9699e69d337af7796b5ae12aca940fc8588e2a7438e8e58b9532"
+    },
+    {
+      "path": "static/documentos/digesto_lote_041_050_2026_pt.md",
+      "sha256": "4e2cf7f834f7da36fbceec6d2c97d8381de17719b5da3fc27198d76ad1d17db5"
+    },
+    {
+      "path": "static/documentos/digesto_lote_051_070_2026_es_revisado.md",
+      "sha256": "4cb07b8e02c8e3b7cebd962e964831e345841beb897b186d93441ab7db3ad377"
+    },
+    {
+      "path": "static/documentos/digesto_lote_051_070_2026_pt.md",
+      "sha256": "270a92367e4b7953822b9c8412afccaf97a8000fb6fc3d6a136549939f2689cf"
+    },
+    {
+      "path": "static/documentos/digesto_lote_071_090_2026_es_revisado.md",
+      "sha256": "505fbb8852ec6b40fb4560ce6e04f14974e9b7053e4906b90df9024ee766221e"
+    },
+    {
+      "path": "static/documentos/digesto_lote_071_090_2026_pt.md",
+      "sha256": "e7208281abcbae9d8853cd8133dfe8e8dd119441fdc8f15fe995fc065fedcba3"
+    },
+    {
+      "path": "static/documentos/digesto_lote_091_110_2026_es_revisado.md",
+      "sha256": "95324284493f061e8fcf1bd2701bada0f1cffaa4d2a9be4921cd27ac4f2430b5"
+    },
+    {
+      "path": "static/documentos/digesto_lote_091_110_2026_pt.md",
+      "sha256": "a18f32a17e401c2a9e6746f1d9caeed6ae1df5ff8b3a8a3d9d67ef68fe7c7828"
+    },
+    {
+      "path": "static/documentos/digesto_lote_111_130_2026_es_revisado.md",
+      "sha256": "d31d4f42b8fe51a74aebc0861d8ff0afe264f118419baf65dc8229a06a6d7c94"
+    },
+    {
+      "path": "static/documentos/digesto_lote_111_130_2026_pt.md",
+      "sha256": "545ea5b4faff0e2e9e9e39b93b4984c9575ab187330f7246df98522ab299727f"
+    },
+    {
+      "path": "static/documentos/digesto_lote_131_150_2026_es_revisado.md",
+      "sha256": "f580f157c52f53304b60513a016bbac387fd67f814f4bb1cda57c840ae7a87e1"
+    },
+    {
+      "path": "static/documentos/digesto_lote_131_150_2026_pt.md",
+      "sha256": "cd443707cd8008facd3a0f0e4c6b93536a63b28c9a618f6adf6bb5eed84e8a5f"
+    },
+    {
+      "path": "static/documentos/digesto_lote_151_170_2026_es_revisado.md",
+      "sha256": "828427dc40f550dfb68f943337c82d87c19ddb63d8a3e75cdd1fb31e4d4af85f"
+    },
+    {
+      "path": "static/documentos/digesto_lote_151_170_2026_pt.md",
+      "sha256": "2016d0abab2d12726d00288eca894b8588aee3370f1205e336e9b441107f226e"
+    },
+    {
+      "path": "static/documentos/digesto_lote_171_190_2026_es_revisado.md",
+      "sha256": "b373f2811ca6f833e99d30a8241213d1561adf432c058a410f84814555ae7da2"
+    },
+    {
+      "path": "static/documentos/digesto_lote_171_190_2026_pt.md",
+      "sha256": "296a01aa091973597dc7c9b64c458ef5da7b86b13577fef390e686ef050b13a2"
+    },
+    {
+      "path": "static/documentos/digesto_lote_191_210_2026_es_revisado.md",
+      "sha256": "0bcea2647ddff059b29ee5138a83c367c9aeb931f10e69e5e1b24bbadac31150"
+    },
+    {
+      "path": "static/documentos/digesto_lote_191_210_2026_pt.md",
+      "sha256": "07e6774901a151f62dd759342e02db32eabb40cdf2e1c0960eef2f0727402aea"
+    },
+    {
+      "path": "static/documentos/digesto_lote_211_230_2026_es_revisado.md",
+      "sha256": "d56823c71e2da5c711053a88455be709322644830bed5d689b18a1e2a54c02d3"
+    },
+    {
+      "path": "static/documentos/digesto_lote_211_230_2026_pt.md",
+      "sha256": "d94b534f0cdccf9054c91e2bf511ec52f530e75055a24deb8906425c10f765ed"
+    },
+    {
+      "path": "static/documentos/digesto_lote_231_250_2026_es_revisado.md",
+      "sha256": "6eae8ec7a5d40f0f1cf96c6bfb80f65a55930d86115de26d3db53fcf82400b96"
+    },
+    {
+      "path": "static/documentos/digesto_lote_231_250_2026_pt.md",
+      "sha256": "9ebd0c66cc3ad866419f4dbfa6627c8ac15c291be18283ba6273bf0d1b6e7086"
+    },
+    {
+      "path": "static/documentos/digesto_lote_251_260_2026_es_revisado.md",
+      "sha256": "010ff6a212fa3567d41a53452b4b7b7fe87b880e5d172131edbfc9c2c886a313"
+    },
+    {
+      "path": "static/documentos/digesto_lote_251_260_2026_pt.md",
+      "sha256": "d3802d54bd289d0e250c7cd4c048a624eb38f81a4eb0c568c12deff8b302c22d"
+    },
+    {
+      "path": "static/documentos/digesto_lote_261_2026_es_revisado.md",
+      "sha256": "7bf349d03d79ec78c81f63897365b5016bcda6869e91f07102e22eb789d3c517"
+    },
+    {
+      "path": "static/documentos/digesto_lote_261_2026_pt.md",
+      "sha256": "62bb94a04d99d797e040456e9c6e35d0dcca6265ca21851eed695f9814d0bfd3"
+    },
+    {
+      "path": "static/documentos/digesto_lote_262_271_2026_es_revisado.md",
+      "sha256": "0e52582d46c7e4a3a30e8f6051c0b6d5ac05c9e9ade99f563dbf1086ed8fcd38"
+    },
+    {
+      "path": "static/documentos/digesto_lote_262_271_2026_pt.md",
+      "sha256": "358b858520c4c46ab180a304747e6939bc2cf189b915c243534229534f260a2c"
+    },
+    {
+      "path": "static/documentos/digesto_lote_272_281_2026_es_revisado.md",
+      "sha256": "42adaf3937feb118a93c50812bbf59f43bf73b573863632f9c7281faf560bdf3"
+    },
+    {
+      "path": "static/documentos/digesto_lote_272_281_2026_pt.md",
+      "sha256": "f515904c5f48be5facc0532a570dfa41e68bc29d1bfcf2580755a07be4a86324"
+    },
+    {
+      "path": "static/documentos/digesto_lote_282_291_2026_es_revisado.md",
+      "sha256": "5aa268c1ce0837c0edb47a8a8395b7a7c9fd8b68b27719572e517b100a8c7ba1"
+    },
+    {
+      "path": "static/documentos/digesto_lote_282_291_2026_pt.md",
+      "sha256": "dfcce101c95bda46591f91f93230cf4df20dc3a58e85d04213e636ed418c840d"
+    },
+    {
+      "path": "static/documentos/digesto_lote_292_311_2026_es_revisado.md",
+      "sha256": "814d070eca441d0c76dd86720c901440d51fca6ca2ecc08d17c1cec527b512da"
+    },
+    {
+      "path": "static/documentos/digesto_lote_292_311_2026_pt.md",
+      "sha256": "b57b0abe3f2cc7901a781216d12d7e44570efff8a1cd863853f3ec231216fea9"
+    },
+    {
+      "path": "static/documentos/digesto_lote_312_331_2026_es_revisado.md",
+      "sha256": "8face60a8df92ddba90135b56f6c09e3237dfe016023f669a68860ca3553a290"
+    },
+    {
+      "path": "static/documentos/digesto_lote_312_331_2026_pt.md",
+      "sha256": "f914e2b73719a3e54471d867790d249dbaebb0286e94d88a44423ea02ecad9af"
+    },
+    {
+      "path": "static/documentos/digesto_lote_332_351_2026_es_revisado.md",
+      "sha256": "0362ddb4cba174a03543357154727f899e15351eae880169f37d695736de7e74"
+    },
+    {
+      "path": "static/documentos/digesto_lote_332_351_2026_pt.md",
+      "sha256": "13b68ece1d9cdfd5b598e29928d64fab41d23e1c481db2a5aeaaae0e20814acf"
+    },
+    {
+      "path": "static/documentos/digesto_lote_352_371_2026_es_revisado.md",
+      "sha256": "760a4af446cdf47691fd48b94132ed08a51a66504360fa0e4d647ca6459cf3ae"
+    },
+    {
+      "path": "static/documentos/digesto_lote_352_371_2026_pt.md",
+      "sha256": "645898fb30b50bb0499570bc7054ee57382eda3bf3e9abd32ffa23141031445e"
+    },
+    {
+      "path": "static/documentos/digesto_lote_372_391_2026_es_revisado.md",
+      "sha256": "c86ac1047ff890939c2a51779cc372552651dcc4c333577a6bdc4a01a2dd10dd"
+    },
+    {
+      "path": "static/documentos/digesto_lote_372_391_2026_pt.md",
+      "sha256": "65b62b832e325fddaeff34d56653ebccf1a8414102db47c41ebb1aaa88984fbd"
+    },
+    {
+      "path": "static/documentos/digesto_lote_392_398_2026_es_revisado.md",
+      "sha256": "7db041f1e2e79ee9344b36dc6aa616f8bcde8b3abf3d128562e15af27a822155"
+    },
+    {
+      "path": "static/documentos/digesto_lote_392_398_2026_pt.md",
+      "sha256": "4ad3a290553cfed1b1cdd960f0d785a8d618837b2269df3aff314a979d27b289"
+    },
+    {
+      "path": "static/documentos/digesto_pt_original.md",
+      "sha256": "a45d3bfdbd8887110baedfafb00876e92e084eb6ef9a6f386ead81dc729bdbcb"
+    },
+    {
+      "path": "static/documentos/estado_bilingue.json",
+      "sha256": "82e1c9949cb1127954a237b001e6bcc9d69a5d40410e973a67c48d05da6e92ea"
+    },
+    {
+      "path": "static/documentos/estado_bilingue_es.md",
+      "sha256": "f880341a3451d5d2aec9294d6b3031ccb5c7a09e3af1532e77931a9a775121e1"
+    },
+    {
+      "path": "static/documentos/estado_bilingue_pt.md",
+      "sha256": "e88be763ec2c32298d90bfd5a877ceaa47124b72178c3b7b494d6906e2f8a7ac"
+    },
+    {
+      "path": "static/documentos/estado_operativo_sistema_2026.json",
+      "sha256": "b470b8e59778758d3bd34e299d6bdbfcc3dfcb2451b43a6fea2fb7bdb8263d02"
+    },
+    {
+      "path": "static/documentos/estatuto_iglesia_2025_es_revisado.md",
+      "sha256": "dba92f2812e4455e2f1b40779f5a766f9c60659303a121347440314c1d979b56"
+    },
+    {
+      "path": "static/documentos/estatuto_igreja_2025_pt.md",
+      "sha256": "f9ace86934f780e167bd511aacd7b68f29f1722b22178f1abd4e03cdd5c188de"
+    },
+    {
+      "path": "static/documentos/estatuto_ipb_2025_es_revisado.md",
+      "sha256": "25a5fb8086d88c952932442f65f2a7d8d77904fc5d40acc0da040f28922b9193"
+    },
+    {
+      "path": "static/documentos/estatuto_ipb_2025_pt.md",
+      "sha256": "f48daf646c6bec262d5680dfaa157c5caac4f1ae316e07c07ccd3e49a2f06bd0"
+    },
+    {
+      "path": "static/documentos/estatuto_presbiterio_2025_es_revisado.md",
+      "sha256": "eaa6a6ce9a8df8ae53f5864d7f95182e59b26e5096e59eddb713a6a18826ba4b"
+    },
+    {
+      "path": "static/documentos/estatuto_presbiterio_2025_pt.md",
+      "sha256": "3430a0a8f3cb3d1b48d3cb02cec8fd97224b7abe51a7f5496f03e6db60f22dc9"
+    },
+    {
+      "path": "static/documentos/estatuto_sinodo_2025_es_revisado.md",
+      "sha256": "39098bbb3fd5a4cecd1659cfc39b794746d714bcc6f27c016c1b49559320eabf"
+    },
+    {
+      "path": "static/documentos/estatuto_sinodo_2025_pt.md",
+      "sha256": "d3952ac564b748c4d365581d81201b32d602f9f08bba8636ccf3057ad2ff4b41"
+    },
+    {
+      "path": "static/documentos/guia_inicio_sistema_2026_es.md",
+      "sha256": "bda16ad9001da04213f207e4932bafd5091bee8a93bedbc665d2b4c609ec8ea8"
+    },
+    {
+      "path": "static/documentos/guia_inicio_sistema_2026_pt.md",
+      "sha256": "b46cb376df2b913934c52e33a9150af16858480fce8b9660145509edbbd59e73"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_01_2026_es.md",
+      "sha256": "3c041cfbb4062c86b6d4d1ce0572ea7e705f565709838056e0d2efde75b3b2a8"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_01_2026_pt.md",
+      "sha256": "d9d633a2a468bb8700ef3741abce195b0517c113e5c0f3ad293077a09f660343"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_02_2026_es.md",
+      "sha256": "c07e6595ec9e32f80ce70534f3f64d183d70c110743aaceb66e2f512618fc3ae"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_02_2026_pt.md",
+      "sha256": "2157a2a88632f28c53b334ffce879b49966576a9b8e49e6c47357cf086fcfe35"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_03_2026_es.md",
+      "sha256": "b9a3aaa811cb7c479606af0e5f394b5f88dc42d4815d62c1af5c14abbeb5a3f7"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_03_2026_pt.md",
+      "sha256": "b53464548c2c8cb314e6738348b4b3f8a0904157262d101b3dd3e2eb7eaf27d5"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_04_2026_es.md",
+      "sha256": "9f5c7b21eb450acc19db325330b51159781dce70b6c3d2dd3508f1f44162ea95"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_04_2026_pt.md",
+      "sha256": "c297c8a15f8df635d5a47345dde72b3774bbf638577501d3970b6feec38ab520"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_05_2026_es.md",
+      "sha256": "d0fe3207ba77b3eb0b8a0c99c24be65fc0c5ae7e735b0abb94f5538ee99ef8cf"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_05_2026_pt.md",
+      "sha256": "f5ae86c86fc8ed486d88331806942fe241bdd41870234dc1c6bea1d3196e84c3"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_06_2026_es.md",
+      "sha256": "bdf5584c3ab6358fd409b381268b723c6bb4f159b6a2a199498695755f64ad6b"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_06_2026_pt.md",
+      "sha256": "cca36d5c57a4d9dd7ce2b9cafcc586fc5f1ea4096c6f351f0a713a28a2afc5d9"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_07_2026_es.md",
+      "sha256": "acea0856c512de20b138833973cd67ba58c246ee785756128411a9a161072a14"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_07_2026_pt.md",
+      "sha256": "4184522250b89d3811db9a80d09bc23590b3cdd4df5ea26abde11d06f5233e4c"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_08_2026_es.md",
+      "sha256": "6dafa326e1f4453752e93a57e8743db3eecc721e38f24ec4ea051ba69ee5113a"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_08_2026_pt.md",
+      "sha256": "250800748ca63805ebbb375cb53a12a1b0cdd0e9ac70fc259cc70ff759ac9805"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_09_2026_es.md",
+      "sha256": "a54d94cb6f8795060d3dfd58247da1c9280bd080744d1f4a158fe53d7fc88530"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_09_2026_pt.md",
+      "sha256": "e33a7fe51ee15d18fa82131f5b307f3182fdb0d0602b3bcfb79654370428efdc"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_10_2026_es.md",
+      "sha256": "6f2f215be5a178f98a258f8396def9524af6631d9ed7906f11c0dcf6756d21bf"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_10_2026_pt.md",
+      "sha256": "ea4f9d2a9a2cafc33a317839ca124d9392da758568c7fe9bca1ddc7dd610071d"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_11_2026_es.md",
+      "sha256": "1ca2fae8dfcba5e936881fd2ae6631236a5873a35ed6506acf2a1f577ce161b6"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_11_2026_pt.md",
+      "sha256": "a0772f504b7dfea7a1c1f6c5179ead94eb834d43807e6625aeb2b5f9d177088f"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_12_2026_es.md",
+      "sha256": "ecc05f7701344d4dcc3e68e408e923fdddbcef5828bbf1d664b098c9e33ba1e3"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_12_2026_pt.md",
+      "sha256": "40f4e01699373f2877d003226e58beb4448ec332dc22a933cd99a1bb93dc1bd6"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_13_2026_es.md",
+      "sha256": "5e260114354ef16a734f6ea70bb507a5e4e402b30c5d95e9797cf49cfedc6592"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_13_2026_pt.md",
+      "sha256": "5778c49f81012af654e3832ac03f73989fdff50eef449a34e6b7119cb518961d"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_14_2026_es.md",
+      "sha256": "ba09a77033994ec0e721bcdbedc6b8ba134ec27d08fed13443e56c763bd4ba30"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_14_2026_pt.md",
+      "sha256": "f26c8dd517323f00b13cef3abe373749f40f086ff3815c5b80c42d2bd2ee74f1"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_15_2026_es.md",
+      "sha256": "9ea7088d7afa86573a5fee21e8c414d4fb3513a3ab87381ab6a38197430758ea"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_15_2026_pt.md",
+      "sha256": "e6ef8db10888da82a8758b3417ec249525b5db9404ccc857029c232a133344af"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_16_2026_es.md",
+      "sha256": "999aa258d3ec799388d0fcda6503ac386668dc59f6846deabffcfa91bb7a2b89"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_16_2026_pt.md",
+      "sha256": "1bbd11f0c1fb7b643fe1f8d08b70d366fd0540be7e9a2f19a69364cbc5494f1d"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_17_2026_es.md",
+      "sha256": "b7486f59fcc3d501c231fc6f1a5c8211fa0548d0fa78241f871c55c60f0ce81b"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_17_2026_pt.md",
+      "sha256": "d9b63539f4dc95b6bc47deae4f317970639facc1dffbea7a3c34c2f936515fd4"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_18_2026_es.md",
+      "sha256": "5424c04c6f17224677b22e4386cae318e4de131a7e514125c2228139883d2074"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_18_2026_pt.md",
+      "sha256": "2a8750fd60ed614d86c02f6b9f3213c3372479cf37ea8f76e88dfe3b8f351a11"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_19_2026_es.md",
+      "sha256": "bade6b2cad6915a06a9d1e790c42eacdd2e54f4fb6eb092e63c2318c539f7cc5"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_19_2026_pt.md",
+      "sha256": "68a3a0c1059aebe8097e3283c496b0888734c21a1dbd504611a9755585ec86fe"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_20_2026_es.md",
+      "sha256": "1672502ccecfac7fb2190ab5766a1acb40b8e9fb2ba994db5ecf1585c4eae409"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_20_2026_pt.md",
+      "sha256": "4a74d8b6858bf25aa2e25c047f59364065f013e994c50ad6daa9cc643927eb4c"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_21_2026_es.md",
+      "sha256": "44c3c71c583a2c70488cde016443be95c2a9060a16eb24d87fa7d071b3348c85"
+    },
+    {
+      "path": "static/documentos/integracion_normativa_lote_21_2026_pt.md",
+      "sha256": "905d6ab3515c4f44c89ae9dbae8d89b39df203acf3b9e4baf30ef765efc6302a"
+    },
+    {
+      "path": "static/documentos/inventario_referencias_transversales_2026.json",
+      "sha256": "3dc1cb6d2595eeac111154900e90c982fde321b9aca82f7fd7264d682f6d3d12"
+    },
+    {
+      "path": "static/documentos/lista_trabajo_manual_presbiteriano.md",
+      "sha256": "735bc1322b3311597ccc1bf3c739ba48b8183b35a3c3243dd9bdc864c024084b"
+    },
+    {
+      "path": "static/documentos/lista_trabalho_manual_presbiteriano_pt.md",
+      "sha256": "a435f1d9f72e1f0e69637828b5cbc08f4ee8ecdf32a4befae5f2d70aff5a7e97"
+    },
+    {
+      "path": "static/documentos/manual.pdf",
+      "sha256": "2d8b728004e32995ee5f1600a7e4e0da94a7124e253bf1fac5322a2b93a083a3"
+    },
+    {
+      "path": "static/documentos/manual_2025_es.md",
+      "sha256": "7a00ec55c2d0e8332ad4c259fbd8c41aacfe1ced24cf13ddf32dec110e86c7a0"
+    },
+    {
+      "path": "static/documentos/manual_2025_pt.md",
+      "sha256": "8dfe35eb3608a49f45bda1cec15cf48afb9b512110a26f2a1a4317fd1b5d87a7"
+    },
+    {
+      "path": "static/documentos/manual_es_en_progreso.md",
+      "sha256": "7bb6716c87add2025bb8dea3991932c46f7b3f434c209d61fb096c852c9779e1"
+    },
+    {
+      "path": "static/documentos/manual_integrado_es.md",
+      "sha256": "3af9aa52d295fc536d29e24522904ba606332159bd5b4ed6a75bb5eefd070717"
+    },
+    {
+      "path": "static/documentos/manual_integrado_es_en_progreso.md",
+      "sha256": "c3b2037460b20f8e44c5a6233faebdd4312fde114eed84827fe98c417e1a4ac8"
+    },
+    {
+      "path": "static/documentos/manual_integrado_pt.md",
+      "sha256": "b7a30d03827c7fbd90f290eb021c7f3b9c8e223d4a2d46e0a7da571ad34734c8"
+    },
+    {
+      "path": "static/documentos/manual_pt_original.md",
+      "sha256": "8dfe35eb3608a49f45bda1cec15cf48afb9b512110a26f2a1a4317fd1b5d87a7"
+    },
+    {
+      "path": "static/documentos/pendientes_confirmacion_documental_2026.json",
+      "sha256": "febd55e9ddd9bdf722addaa88a3a7807d2e57dec86465f6b4efa0d86e5e47ab5"
+    },
+    {
+      "path": "static/documentos/pendientes_confirmacion_documental_2026_es.md",
+      "sha256": "5a665c84c1533c183b9d1dcc57f7b598c48f9db4a0197fbf13a1b50ffbc061e2"
+    },
+    {
+      "path": "static/documentos/pendientes_confirmacion_documental_2026_pt.md",
+      "sha256": "ae859bd3d33785f2e147f42b0a59e028d44eb924d6fa2f2c19193d7efe699e2d"
+    },
+    {
+      "path": "static/documentos/preliminares_separadores_2025_es_revisado.md",
+      "sha256": "7de200e0963fd728f623c5633252cd1573d9dc9434f0f8f2601302ab432c3b3f"
+    },
+    {
+      "path": "static/documentos/preliminares_separadores_2025_pt.md",
+      "sha256": "c85e9569483141dd41c6b701456f816e2eee4d689e3b69d3d33b3263eb541f5a"
+    },
+    {
+      "path": "static/documentos/principios_liturgia_2025_es_revisado.md",
+      "sha256": "35282ba470af382050d014252e90416ffe23d3a3d9007eba24f60f12bcf3f56a"
+    },
+    {
+      "path": "static/documentos/principios_liturgia_2025_pt.md",
+      "sha256": "8734cf326e88fb285155f12d071781b63c694663c6eb3299047843a51ec93e3a"
+    },
+    {
+      "path": "static/documentos/regimento_ce_2025_pt.md",
+      "sha256": "c49a22c37d9260eb3e0ab65f97c15ef52473fbb90f5cef8d7dc16e7e4780f980"
+    },
+    {
+      "path": "static/documentos/regimento_junta_diaconal_2025_pt.md",
+      "sha256": "91a932d3d77a1d4aeece09209e5836b8a8aaf3045de7a10fcb2619a3dd80f553"
+    },
+    {
+      "path": "static/documentos/regimento_presbiterio_2025_pt.md",
+      "sha256": "9ae84296e76d39cd2c214ea85fbc11fee2d72123444fe1f54bc460d22a5334b4"
+    },
+    {
+      "path": "static/documentos/regimento_sc_2025_pt.md",
+      "sha256": "0b36dc21d83794b99bfe5e350ba98f84ea7ab6ab506f6d1434e78ec5a61765c2"
+    },
+    {
+      "path": "static/documentos/regimento_sinodo_2025_pt.md",
+      "sha256": "1a805cbd4bb0924e2def53d36dc87dcc9447dc1a80cc3d8b7c1fa0179e962356"
+    },
+    {
+      "path": "static/documentos/reglamento_actas_2025_es_revisado.md",
+      "sha256": "4b0aeff63685b9d5567c6f1639eca9129052329902d37be6a8ebe7e831814704"
+    },
+    {
+      "path": "static/documentos/reglamento_ce_2025_es_revisado.md",
+      "sha256": "3500e7d6da355aa657787198e35b4c3d58d2244e77dae2615073370d2167eed5"
+    },
+    {
+      "path": "static/documentos/reglamento_junta_diaconal_2025_es_revisado.md",
+      "sha256": "b977e43e8c9fc4c28a153f9fed02ebdfa36147718908a3900cd4a1c283ddd4ac"
+    },
+    {
+      "path": "static/documentos/reglamento_presbiterio_2025_es_revisado.md",
+      "sha256": "13085ed1bc64ece87525b6280259731a174531d9670cfae6bdd9b76e7592f22d"
+    },
+    {
+      "path": "static/documentos/reglamento_sc_2025_es_revisado.md",
+      "sha256": "768ca4395079d54f12eae9d8714045c348fdbe5ef3736fd73c21fd06b145e0dc"
+    },
+    {
+      "path": "static/documentos/reglamento_sinodo_2025_es_revisado.md",
+      "sha256": "90b12163098596c1fcbb39059319b814ceb9ff552be5f77e17c87854cca690b4"
+    },
+    {
+      "path": "static/documentos/regulamento_atas_2025_pt.md",
+      "sha256": "0b984eb19ba95817148895c3b3cf5afbd21a52b02f9a7c74f9bbede944f16234"
+    },
+    {
+      "path": "static/documentos/revision_editorial_consolidacion_2026.json",
+      "sha256": "2fd3f06f925149ad93ab832b7fbdb7ab291f2018c12cdd27651abfbe9235a7ac"
+    },
+    {
+      "path": "static/documentos/revision_editorial_consolidacion_2026_es.md",
+      "sha256": "54e7794964d8c5b5a93195964ee08f9e2e677b9e9d7abda383d4b5184e420ea7"
+    },
+    {
+      "path": "static/documentos/revision_editorial_consolidacion_2026_pt.md",
+      "sha256": "5a621fc77ff0549caa6c4baa35bcab6c944128d99b41594d64979015d62dc005"
+    },
+    {
+      "path": "static/documentos/revision_manual_2025_es.md",
+      "sha256": "9d52b352d18e531b81194f5b7ead3c36a318755869db762bac701f2339bf0138"
+    },
+    {
+      "path": "static/documentos/revision_manual_2025_pt.md",
+      "sha256": "711a322a80eceef7e0ae74d184b97191d28a2a94e2546e89806ee6035da328be"
+    },
+    {
+      "path": "static/documentos/sumario_indices_2025_es_revisado.md",
+      "sha256": "e2d9292012fc6b952b1a40fd9125d40003591d3464519bae53ee63621feb0fa6"
+    },
+    {
+      "path": "static/documentos/sumario_indices_2025_pt.md",
+      "sha256": "6fda99eacf0cf893ba0ef742d7d678e52be5f5f10ce78a4589a5ae08205a85da"
+    },
+    {
+      "path": "static/documentos/suplemento_normativo_2026_es.md",
+      "sha256": "ac8e85092d778a0299d110278dcf52452d5a3cb88b1eea644bf76d8a67aafeb4"
+    },
+    {
+      "path": "static/documentos/suplemento_normativo_2026_pt.md",
+      "sha256": "8148438258871999d41086beae9321bb32da38976dd9f06a15717f6ec79e733c"
+    },
+    {
+      "path": "static/favicon.svg",
+      "sha256": "434c10d34101a1737e0f293fdbd89ee09bec8185e71201f0825f99e302e1ad23"
+    },
+    {
+      "path": "svelte.config.js",
+      "sha256": "0049bb90f034c2058a56203b026b4bb3cd98ce2466a1520edbedfcb3289c1ba6"
+    },
+    {
+      "path": "tests/bilingual.test.mjs",
+      "sha256": "e4cfef6eb1cbef0c72ae82a03bf88d7d006990b873642c7f9f069029c9d15c70"
+    },
+    {
+      "path": "tests/cross_final_compatibility.test.mjs",
+      "sha256": "0ee47d7dced6d80f059a5001a948e6351e73b10475ed9a1db12e64a620384d30"
+    },
+    {
+      "path": "tests/cross_historical_compatibility.test.mjs",
+      "sha256": "3ed092e09f048dd4787e02483598c9c71178066cfc50bf87d08e6be73e0da031"
+    },
+    {
+      "path": "tests/cross_presbytery_compatibility.test.mjs",
+      "sha256": "86fb969846320a5215b79629196b818f28b8ca15bd0a78c2b8e99cfac075c1eb"
+    },
+    {
+      "path": "tests/cross_reference_classification.test.mjs",
+      "sha256": "25740b4a5cd98f749fef2ce0e9dbc874869cdd9621de3fe73311fc8d5d72598b"
+    },
+    {
+      "path": "tests/cross_secretariat_compatibility.test.mjs",
+      "sha256": "2f151290f3011d5f2adf1b3c69609eb11359c698bf9a35fda64db2d2f7a0f11a"
+    },
+    {
+      "path": "tests/documentary_confirmations.test.mjs",
+      "sha256": "50622f7658f3d9e7746bd482344aff8407ccc5b5e9bce17e045a7e884f2d3c62"
+    },
+    {
+      "path": "tests/editorial_consolidation.test.mjs",
+      "sha256": "3e16bad3715c8364ba7bbd4dc42019f0dd893c612fa91229ad13ce2c6536cda2"
+    },
+    {
+      "path": "tests/historical_compatibility.test.mjs",
+      "sha256": "231cde897b61b5b9a35e8cac4f6d0add9e9fcc581c958eb8f9f87836403d7153"
+    },
+    {
+      "path": "tests/live_search.test.mjs",
+      "sha256": "850ebd283c5ae6bcbd99b4900c2ce213d9efe7b1875de03671a30e3f8587baa4"
+    },
+    {
+      "path": "tests/normative.test.mjs",
+      "sha256": "ddb2c2e2e209893c8fe92b38253c58ab6beb530397a466e641247e6e5fe940e5"
+    },
+    {
+      "path": "tests/normative_batch03.test.mjs",
+      "sha256": "a5abfe4f7fb554e487c25e99c81c353d130227fa21ae20930fc98b818bc8cb31"
+    },
+    {
+      "path": "tests/normative_batch04.test.mjs",
+      "sha256": "4a437aae7f0924a6bb4981326b7cb799147e07df0317106d0ecef533501c6f20"
+    },
+    {
+      "path": "tests/normative_batch05.test.mjs",
+      "sha256": "f4e7e29ce1212b99d0772da6e0e948235f5ee82027a8a6e6dd4c5ab7ca56dadb"
+    },
+    {
+      "path": "tests/normative_batch06.test.mjs",
+      "sha256": "125150b7c8267c39ddd028895ca2fa80affff312a7fe7ce8efc4e0f9fed4fbe6"
+    },
+    {
+      "path": "tests/normative_batch07.test.mjs",
+      "sha256": "0c69d2b542ff1da1ca01b863c3278adae82f3b7334e9c7be6b6e722b2366a1c1"
+    },
+    {
+      "path": "tests/normative_batch08.test.mjs",
+      "sha256": "c351cf2ef3e85032d4753f96c76d3feb239214b6cbe2ac332d9ab8c1eba38d4b"
+    },
+    {
+      "path": "tests/normative_batch09.test.mjs",
+      "sha256": "24eb61bd97bba47a883c4371714f815f18aa9c4e5332c94b7380c9c11161fa48"
+    },
+    {
+      "path": "tests/normative_batch10.test.mjs",
+      "sha256": "76c2062e3814659fbeab4a56c6675fa89175c2606f585ffc692b917e7655878b"
+    },
+    {
+      "path": "tests/normative_batch11.test.mjs",
+      "sha256": "29437b5fc8c84404a8ca3b6eb299620aaa310e6c54a81b6f6556a3aff9a81d21"
+    },
+    {
+      "path": "tests/normative_batch12.test.mjs",
+      "sha256": "4d72360689cb95bfe07ec497de709dcd266ad9dca982483af99522d503d361e8"
+    },
+    {
+      "path": "tests/normative_batch13.test.mjs",
+      "sha256": "e56bb94174f92570d1d91051f36cfd1f189d5c7cd70ae4c6c437093979a1bd94"
+    },
+    {
+      "path": "tests/normative_batch14.test.mjs",
+      "sha256": "f982d115f57d46eaa3caa7a46b8f523b202e7f4ebe49fd211e4909a41aeabe78"
+    },
+    {
+      "path": "tests/normative_batch15.test.mjs",
+      "sha256": "b57ebd9f4cd558a25762afad6e02627120c61eab3aca8fad6e4f65d4a4fea792"
+    },
+    {
+      "path": "tests/normative_batch16.test.mjs",
+      "sha256": "d610c4ecc3f20d8b210dfb5333dcd056d1636eea4220ac6eb0761957464a51ec"
+    },
+    {
+      "path": "tests/normative_batch17.test.mjs",
+      "sha256": "ae0fc9d67d9b52f7c8ad53823917ba0301d341190c3207cd659b612ce10d6057"
+    },
+    {
+      "path": "tests/normative_batch18.test.mjs",
+      "sha256": "c314887849e971ed2843311cf44c9b78cec423c35ec87c3ea0327840dec5988b"
+    },
+    {
+      "path": "tests/normative_batch19.test.mjs",
+      "sha256": "17995371e150dfc3983c2aea91d41cc964b509cb371e2be2b5f45ac98f63dff4"
+    },
+    {
+      "path": "tests/normative_batch20.test.mjs",
+      "sha256": "d49c099271c23e558c62d5346721654251d76864f824d72cafc7aaeb94686489"
+    },
+    {
+      "path": "tests/normative_batch21.test.mjs",
+      "sha256": "69ec03ae22005f980a3604603b0c80099b9e7000ba2b1941ee60bc4255641ec3"
+    },
+    {
+      "path": "tests/search.test.mjs",
+      "sha256": "b4fa95d34cd223aa70638162b1021b5f7039385e7b6257ff29590453e54214ce"
+    },
+    {
+      "path": "tests/search_precision.test.mjs",
+      "sha256": "4029b56412f0a869efc54840d5036ac95fbe984c494f07647078f263593196cd"
+    },
+    {
+      "path": "vite.config.js",
+      "sha256": "1e849563c7b7403a43680ae811628bef59bf4b008af9f2f76d8968c5101ddf5f"
+    }
+  ]
+}

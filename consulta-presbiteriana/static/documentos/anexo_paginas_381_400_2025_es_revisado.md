@@ -1,0 +1,526 @@
+# Anexo cotejado: páginas 381–400
+
+> Traducción no oficial. Avance acumulado: 400/560 páginas; 160 pendientes. Reglamento sinodal cotejado hasta el artículo 60. Sin continuaciones pendientes en este límite. Próximo lote: artículo 61, página 401. Conservado el impreso histórico de 2025.
+
+## Observaciones editoriales
+
+- Páginas 381–382: conservados el quórum de dos tercios para funcionamiento de la Comisión Ejecutiva y el voto unánime del § 3. La nota 2 conserva la decisión CE-2024-DOC. CLX sobre desempate.
+- Página 384: conservado el plazo de tres días para asuntos urgentes resueltos por Presidente y Secretario Ejecutivo, ad referendum de la Comisión Ejecutiva.
+- Páginas 385–386: conservadas las atribuciones documentales de los secretarios y el carácter temporal de los auxiliares que no integran la Comisión Ejecutiva.
+- Páginas 387–388: conservadas las reglas de convocatoria, respuesta «enterado» y exclusión de materias electrónicas por dos tercios.
+- Página 389, artículo 44: conservados «elegidos anualmente» y «mandato de dos años», sin armonizar esas formulaciones.
+- Páginas 391–393: completo el artículo 49 con atribuciones de las secretarías sinodales.
+- Páginas 395–396: conservada la distinción entre procedimiento persuasivo y actuación del Tribunal, incluidas actas separadas y reserva documental.
+- Página 397: conservado el plazo de sesenta días prorrogable por igual período tanto en artículo 55 § 3 como en artículo 56, sin eliminar la repetición.
+- Páginas 396 y 398–399: conservados los plazos de noventa días para recursos y treinta días para remitir los autos.
+- Página 400: comienza la Parte Especial; completos los artículos 59 y 60. Sin nota ni artículo abierto.
+
+## Índice por página
+
+[381](#anexo-pagina-381) · [382](#anexo-pagina-382) · [383](#anexo-pagina-383) · [384](#anexo-pagina-384) · [385](#anexo-pagina-385) · [386](#anexo-pagina-386) · [387](#anexo-pagina-387) · [388](#anexo-pagina-388) · [389](#anexo-pagina-389) · [390](#anexo-pagina-390) · [391](#anexo-pagina-391) · [392](#anexo-pagina-392) · [393](#anexo-pagina-393) · [394](#anexo-pagina-394) · [395](#anexo-pagina-395) · [396](#anexo-pagina-396) · [397](#anexo-pagina-397) · [398](#anexo-pagina-398) · [399](#anexo-pagina-399) · [400](#anexo-pagina-400)
+
+<a id="anexo-pagina-381"></a>
+
+## Página PDF 381
+
+TÍTULO II
+DE LA COMISIÓN EJECUTIVA
+
+CAPÍTULO I
+DE LA COMPOSICIÓN, DE LA COMPETENCIA
+Y DEL QUÓRUM DE FUNCIONAMIENTO
+
+Art. 31. La Comisión Ejecutiva, también llamada Mesa Directiva del Sínodo, está compuesta de Presidente, Vicepresidente, Secretario Ejecutivo, Primer Secretario, Segundo Secretario y Tesorero.
+§ 1º Corresponderá a la Comisión Ejecutiva:
+I - representar la personalidad jurídica del Concilio, por medio del Presidente, activa, pasiva, judicial y extrajudicialmente;
+II - administrar el patrimonio del Concilio;
+III - resolver asuntos de urgencia, de competencia del Concilio, cuando surjan en los interregnos, siempre ad referendum del Plenario;
+IV - velar por la pronta y fiel ejecución de las órdenes emanadas del Plenario, o emitidas en los interregnos, en carácter urgente, por el Supremo Concilio o por su Comisión Ejecutiva;
+V - nombrar subcomisiones para el análisis previo de documentos relacionados con materias de su competencia o competencia del Plenario;
+VI- nombrar consultorías técnicas para asesorarla en la solución de asuntos de su competencia;
+VII - cubrir las vacantes que se comprueben en las comisiones eclesiásticas, secretarías de trabajos especiales y encargos específicos, ocurridas en los interregnos;
+VIII - cubrir un cargo en la Comisión Ejecutiva en caso de vacancia;
+IX - convocar las reuniones del Sínodo.
+§ 2º Las deliberaciones de la Comisión Ejecutiva serán tomadas por la mayoría de votos de los miembros presentes en la reunión, exigiendo la presencia mínima de dos tercios de sus integrantes.[2]
+§ 3º Cuando concurran motivos serios y no siendo posible esperar la reunión plenaria del Sínodo, podrá la Comisión Ejecutiva, por el voto unánime de
+
+2 CE - 2024 - DOC. CLX: “[...] en caso de empate en las deliberaciones de la comisión ejecutiva del presbiterio o del sínodo, el desempate corresponderá al miembro que la esté presidiendo, aplicando por analogía al caso lo dispuesto en la parte final del art. 19,
+§ 3º, del RI-CE”
+
+<a id="anexo-pagina-382"></a>
+
+## Página PDF 382
+
+382 MANUAL PRESBITERIANO
+
+sus miembros, modificar la resolución o suspender la ejecución de medidas votadas por el Pleno del Concilio, ad referendum de éste, en su próxima reunión.
+
+Art. 32. La Comisión Ejecutiva podrá nombrar subcomisiones, compuestas de ministros y presbíteros representantes de los presbiterios jurisdicionados al Sínodo, para análisis previo de documentos encaminados a las reuniones ordinarias y extraordinarias del Concilio.
+Párrafo único. Las subcomisiones nombradas en la forma del encabezamiento presentarán los dictámenes a la Secretaría Ejecutiva del Sínodo, en el plazo que les sea concedido por la Comisión Ejecutiva, a fin de que el Secretario Ejecutivo reúna esos dictámenes y los remita al Concilio para discusión final, directamente en el Pleno.
+
+CAPÍTULO II
+DE LAS ATRIBUCIONES DE LOS MIEMBROS
+DE LA MESA DIRECTIVA
+
+Sección I
+Del Presidente
+
+Art. 33. Corresponde al Presidente, además de otras funciones previstas en el estatuto y en este Reglamento:
+I - convocar y presidir las reuniones de la Comisión Ejecutiva;
+II - presidir las reuniones del Sínodo;
+III - organizar el orden del día para cada sesión;
+IV - mantener el orden y encaminar todas las deliberaciones del Concilio a un resultado rápido y conveniente;
+V - sugerir las medidas que le parezcan más adecuadas y directas para llevar cualquier materia a la solución final;
+VI - anunciar los nombres de los miembros a los que se conceda la palabra, velando para que se dirijan a la Mesa;
+VII - llamar al orden al orador que se aleja del asunto;
+VIII - advertir a los que perturben el orden de los trabajos;
+IX - velar por que los miembros no se retiren de la sesión sin licencia de la Mesa Directiva;
+X - abreviar los debates, lo más posible, encaminándolos a la votación;
+XI - hablar con preferencia sobre cuestiones de orden, decidirlas o someterlas, cuando considere conveniente, a la decisión del Pleno;
+
+<a id="anexo-pagina-383"></a>
+
+## Página PDF 383
+
+383 MODELO DE REGLAMENTO INTERNO – SÍNODO
+
+XII - nombrar a las comisiones, salvo en el caso de que el Concilio prefiera indicarlas;
+XIII - prorrogar por hasta treinta minutos el horario reglamentario, para concluir la materia que esté en discusión, si la medida se muestra conveniente y siempre que no haya oposición de la mayoría del Pleno;
+XIV - ejercer las prerrogativas de miembro ex officio de los presbiterios jurisdicionados y de todas las comisiones del Sínodo.
+
+Art. 34. En sus ausencias o impedimentos, el Presidente será sustituido por el Vicepresidente.
+Párrafo único. En ausencia o impedimento del Presidente y del Vicepresidente, la reunión del Concilio será presidida, sucesivamente, en el siguiente orden:
+I - Secretario Ejecutivo;
+II - Primer Secretario;
+III - Segundo Secretario;
+IV - Tesorero;
+V - Ministro más antiguo en cuanto a la ordenación, entre los que están presentes en la reunión.
+
+Sección II
+Del Vicepresidente
+
+Art. 35. Corresponde al Vicepresidente:
+I - suceder al Presidente en caso de vacancia y sustituirlo en su ausencia o impedimento;
+II - ejercer otras atribuciones que le sean conferidas en forma de estatuto y de este Reglamento, así como aquellas que sean delegadas por el Pleno o por la Comisión Ejecutiva.
+§ 1º En caso de ausencia eventual del Vicepresidente, este será sustituido por el Secretario Ejecutivo, en forma del artículo 67, § 3º, de CI/IPB, acumulando las atribuciones de su cargo.
+§ 2º En caso de vacancia en la Vicepresidencia, las atribuciones del respectivo cargo serán ejercidas de forma acumulativa y provisional por el Secretario Ejecutivo, hasta que el Concilio o su Comisión Ejecutiva elija el sucesor.
+
+Sección III
+Del Secretario Ejecutivo
+
+Art. 36. Corresponde al Secretario Ejecutivo, además de otras atribuciones que le sean conferidas por el Concilio:
+
+<a id="anexo-pagina-384"></a>
+
+## Página PDF 384
+
+384 MANUAL PRESBITERIANO
+
+I - preparar, con antelación, la lista completa de los presbiterios jurisdicionados al Sínodo, cuyos representantes serán incluidos en la lista en el acto de la verificación de poderes;
+II - preparar la agenda de los trabajos de la Comisión Ejecutiva bajo la orientación del Presidente;
+III - archivar todos los documentos del Concilio y conservarlos en buen orden;
+IV - transcribir en libros, según el modelo oficial, las actas del Concilio y de su Comisión Ejecutiva;
+V - cumplir y orientar el cumplimiento de las deliberaciones del Concilio y de su Comisión Ejecutiva, excepto las que sean específicamente atribuidas a determinada persona o comisión;
+VI - encaminar al Plenario del Sínodo las resoluciones tomadas por la Comisión Ejecutiva ad referendum del Concilio.
+VII - hacer las comunicaciones oficiales del Concilio y de su Comisión Ejecutiva;
+VIII – firmar, con el Presidente, la correspondencia del Concilio, durante la reunión;
+IX - hacer las anotaciones en los carnés de los ministros y presbíteros, representantes de los presbiterios;
+X - presentar al Concilio el resumen de las actas de la última reunión del Sínodo y del Supremo Concilio;
+XI – redactar, bajo la orientación del Presidente, el informe de la Comisión Ejecutiva;
+XII - elaborar los informes estadísticos del Sínodo;
+XIII - informar a la Comisión Ejecutiva los trabajos que el Pleno determinó que se ejecutaran durante la legislatura;
+XIV- resolver, junto con el Presidente, asuntos urgentes, cuya solución no puede esperar más de tres días, y siempre que no sea posible reunir, en ese plazo, la mayoría de los miembros de la Comisión Ejecutiva, siempre ad referendum de esta;
+XV - sustituir al Vicepresidente y al Presidente en forma de estatuto y de este Reglamento.
+§ 1º En caso de ausencia o impedimento del Secretario Ejecutivo, lo reemplazará sucesivamente:
+I - el primer Secretario;
+II - el segundo Secretario.
+§ 2º En caso de vacancia en la Secretaría Ejecutiva, el cargo será ocupado por persona elegida por la Comisión Ejecutiva, para funcionar hasta la próxima reunión ordinaria del Concilio.
+
+<a id="anexo-pagina-385"></a>
+
+## Página PDF 385
+
+385 MODELO DE REGLAMENTO INTERNO – SÍNODO
+
+Sección IV
+Del Primer Secretario
+
+Art. 37. Corresponde al Primer Secretario, además de otras atribuciones que le sean conferidas por el Concilio:
+I - registrar y mantener en orden los documentos que sean presentados al Sínodo;
+II- actualizar y mantener en orden la relación de los miembros del Sínodo;
+III - proceder a la llamada de los miembros para verificar el quórum de las reuniones ordinarias y extraordinarias;
+IV – asentar, en los respectivos libros, los términos de aprobación de las actas de la Comisión Ejecutiva del Sínodo y de los presbiterios bajo la jurisdicción de éste;
+V - entregar el protocolo y los documentos al Secretario Ejecutivo, inmediatamente después del cierre de la reunión del Sínodo;
+VI - supervisar el sistema informatizado, cuando éste sea adoptado por el Concilio durante la realización de sus reuniones, buscando suplir los elementos que deben constar en el sistema, comprobando y actualizando los datos que deben ser incorporados con vistas a la elaboración de los dictámenes;
+VII - sustituir al Secretario Ejecutivo en sus ausencias o impedimentos.
+Párrafo único. En caso de vacancia en la Primera Secretaría, su cargo será ocupado por persona designada por la Comisión Ejecutiva, para funcionar hasta la próxima reunión ordinaria del Sínodo.
+
+Sección V
+Del Segundo Secretario
+
+Art. 38. Corresponde al Segundo Secretario, además de otras atribuciones que le sean conferidas por el Concilio:
+I - ejercer la secretaría de las reuniones ordinarias y extraordinarias del Sínodo, redactando y procediendo a la lectura de las correspondientes actas, las cuales deben ser entregadas al Secretario Ejecutivo, inmediatamente después del cierre de sus reuniones, con el fin de que sean debidamente transcritas en libro propio;
+II - ejercer la secretaría de las reuniones de la Comisión Ejecutiva;
+III - sustituir al Primer Secretario en sus ausencias o impedimentos.
+§ 1º En caso de ausencia o impedimento del Segundo Secretario, el Presidente designará, entre los demás miembros, un secretario “ad hoc” para funcionar durante la reunión del Concilio o de su Comisión Ejecutiva.
+
+<a id="anexo-pagina-386"></a>
+
+## Página PDF 386
+
+386 MANUAL PRESBITERIANO
+
+§ 2º En caso de vacancia, en la Segunda Secretaría, el cargo será ocupado por persona designada por la Comisión Ejecutiva, para funcionar hasta la próxima reunión ordinaria del Sínodo.
+
+Sección VI
+Del Tesorero
+
+Art. 39. Corresponde al Tesorero, además de otras atribuciones que le sean conferidas por el Concilio:
+I - recaudar los fondos presupuestados por el Plenario y las ofrendas destinadas al Sínodo;
+II - hacer los pagos presupuestados por el Sínodo;
+III - velar por la fiel ejecución de los ingresos presupuestados;
+IV - mantener al día la contabilidad correspondiente;
+V - presentar, periódicamente, un balance de comprobación a la Comisión Ejecutiva;
+VI - rendir cuentas al Sínodo, en las reuniones ordinarias;
+VII - disponer el depósito de los importes bajo su custodia, en una agencia bancaria de elección del Sínodo;
+VIII - mover las cuentas bancarias bajo la orientación de la Comisión Ejecutiva;
+IX - cobrar de los presbiterios jurisdicionados la remisión de las contribuciones determinadas por el Concilio;
+X - sustituir al Presidente en forma de este Reglamento.
+Párrafo único. En caso de vacancia en Tesorería, su cargo será ocupado por persona designada por la Comisión Ejecutiva, para funcionar hasta la próxima reunión ordinaria del Sínodo.
+
+Sección VII
+De los Secretarios Temporales
+
+Art. 40. El Sínodo podrá elegir secretarios temporales para ayudar en los trabajos de la Mesa Directiva, durante las reuniones del Concilio, correspondiéndoles ejercer los encargos que este les atribuya.
+Párrafo único. Los secretarios temporales sólo funcionan durante las reuniones ordinarias y extraordinarias del Concilio, no integrando su Comisión Ejecutiva.
+
+<a id="anexo-pagina-387"></a>
+
+## Página PDF 387
+
+387 MODELO DE REGLAMENTO INTERNO – SÍNODO
+
+CAPÍTULO III
+DE LAS REUNIONES DE LA COMISIÓN EJECUTIVA
+
+Art. 41. La Comisión Ejecutiva se reunirá siempre que sea convocada por su Presidente conforme al estatuto y a este Reglamento.
+§ 1º En ausencia o impedimento del Presidente y del Vicepresidente, la reunión de la Comisión Ejecutiva podrá ser presidida por el Secretario Ejecutivo, si la materia del orden del día es urgente e inaplazable, y los demás miembros están presentes.
+§ 2º La convocatoria de los miembros de la Comisión Ejecutiva es indispensable, pudiendo ser pública o individual, inclusive por medio electrónico que posibilite la comprobación, y será expedida con tiempo bastante para la comparecencia, bajo pena de nulidad.
+§ 3º Corresponde al Secretario Ejecutivo, atendiendo a la determinación del Presidente, expedir la convocatoria, en la que constarán los asuntos que se tratarán en la reunión.
+§ 4º Otros asuntos no indicados en la convocatoria podrán ser deliberados con la concordancia de la mayoría de los miembros presentes a la reunión.
+§ 5º Salvo los casos de reconocida urgencia, la convocatoria debe hacerse respetando el plazo estatutario.
+§ 6º En cualquier caso, habiendo concordancia de todos los miembros, la reunión podrá ocurrir en cualquier momento.
+
+Art. 42. Los secretarios de trabajos especiales, así como los ponentes de comisiones permanentes y especiales, podrán participar en las reuniones de la Comisión Ejecutiva y hacer uso de la palabra sobre asuntos pertinentes a su trabajo, sin derecho a voto.
+
+Art. 43. La Comisión Ejecutiva podrá discutir y decidir temas de su competencia en un entorno electrónico.
+§ 1º Las reuniones en ambiente electrónico solo podrán ser realizadas si todos los miembros de la Comisión Ejecutiva tienen acceso y se declaran aptos para operar la herramienta electrónica adoptada.
+§ 2º El entorno que soportará la reunión y el procedimiento para la realización de esta serán decididos por la propia Comisión Ejecutiva.
+§ 3º La convocatoria de los miembros de la Comisión Ejecutiva será realizada por el Presidente, con tiempo suficiente para que todos puedan acceder al entorno electrónico, y deberá constar el horario de inicio de la reunión y las materias del orden del día.
+§ 4º Al ser convocado, el miembro deberá responder con el “enterado”, para que no haya duda en cuanto a la entrega y lectura de la convocatoria.
+
+<a id="anexo-pagina-388"></a>
+
+## Página PDF 388
+
+388 MANUAL PRESBITERIANO
+
+§ 5º No se incluirán en el orden del día de la reunión en ambiente electrónico, o de él serán excluidos, los asuntos destacados para apreciación en ambiente presencial por al menos dos tercios de los miembros de la Comisión Ejecutiva.
+§ 6º Los puntos destacados para la exclusión de las materias del orden del día se presentarán antes del horario definido en la convocatoria para el inicio de la reunión.
+§ 7º Cuando la materia tenga origen en un documento, el Secretario Ejecutivo pondrá previamente una copia de este a disposición de todos los miembros de la Comisión Ejecutiva.
+
+<a id="anexo-pagina-389"></a>
+
+## Página PDF 389
+
+TÍTULO III
+DE LA ESTRUCTURA Y DE LA ACTIVIDAD
+DE DIVERSOS ORGANISMOS INTERNOS Y
+DE PERSONAS AL SERVICIO DEL CONCILIO
+
+CAPÍTULO I
+DEL CONSEJO FISCAL
+
+Sección I
+De la Elección de los Miembros y de la Presidencia
+del Consejo Fiscal
+
+Art. 44. El Consejo Fiscal estará compuesto de tres miembros titulares y igual número de suplentes, elegidos anualmente por el Pleno, para mandato de dos años, coincidente con la legislatura del Concilio, conforme a la previsión estatutaria.
+§ 1º Al elegir a los miembros del Consejo Fiscal, el Pleno designará entre ellos aquel que presidirá el órgano.
+§ 2º Corresponde al Presidente del Consejo Fiscal:
+I - convocar y presidir las reuniones del órgano;
+II – convocar a los suplentes, en caso de ausencia o impedimento de los titulares y de vacancia del cargo;
+III – encaminar los informes parciales y general al Sínodo, por medio de su Comisión Ejecutiva.
+§ 3º En caso de ausencia o impedimento del Presidente, o de vacancia del cargo, corresponderá al miembro más anciano sustituirlo o sucederlo.
+§ 4º Las vacantes que surjan en el Consejo Fiscal durante la legislatura serán cubiertas por la Comisión Ejecutiva.
+
+Sección II
+De las Atribuciones del Consejo Fiscal
+
+Art. 45. Corresponde al Consejo Fiscal:
+I - reunirse trimestral y anualmente para examinar los libros y demás documentos contables, con análisis riguroso de las cuentas de Tesorería;
+II - solicitar información y documentos a la Tesorería del Sínodo, cuando esto sea necesario para el examen de las cuentas;
+
+<a id="anexo-pagina-390"></a>
+
+## Página PDF 390
+
+390 MANUAL PRESBITERIANO
+
+III - someter a la Comisión Ejecutiva y al Pleno del Sínodo los informes de los exámenes periódicos procedidos, sugiriendo eventuales providencias y correcciones;
+IV - responder a las consultas formuladas por la Comisión Ejecutiva en materia contable y financiera;
+V - prestar un informe anual a la Comisión Ejecutiva y un informe general al Pleno del Concilio, al final de la legislatura, los cuales deberán ir acompañados de los balances de comprobación de Tesorería, con su documentación.
+
+CAPÍTULO II
+DE LAS COMISIONES ECLESIÁSTICAS
+
+Art. 46. Podrán ser nombradas comisiones constituidas de ministros y presbíteros, con poderes específicos, para funcionar durante las sesiones o en los interregnos, prestando informe del trabajo realizado.
+§ 1º Estas son las categorías de comisiones:
+I - comisiones temporales, que funcionan durante las reuniones ordinarias o extraordinarias del Concilio;
+II - comisiones permanentes, que funcionan durante los interregnos, para tratar de asuntos que les sean entregados por el Pleno y cuyo mandato se extingue con la siguiente reunión ordinaria del Concilio, al que deberán presentar un informe;
+III - comisiones especiales, compuestas por, como mínimo, tres ministros y dos presbíteros, las cuales reciben poderes específicos para tratar, en definitiva, de determinados asuntos, con mandato que se extingue cuando se presenta un informe final.
+§ 2º Es necesaria la presencia de la mayoría de los miembros para instalación y deliberación de las comisiones eclesiásticas.
+§ 3º En el acto de nombramiento de las comisiones eclesiásticas podrán ser nombrados suplentes, ministros y presbíteros, que actuarán en caso de vacancia, así como de ausencia o impedimento de los titulares.
+
+Art. 47. Al nombrar comisiones, el Concilio debe tener en cuenta el conocimiento, la experiencia y la capacidad técnica de sus componentes, así como la facilidad para reunirse.
+§ 1º El Concilio podrá incluir en sus comisiones, ministros y presbíteros que no estén en la reunión, pero que sean de su jurisdicción.
+§ 2º No podrán ser nombrados para integrar comisiones eclesiásticas ministros bajo disciplina o en goce de licencia, así como presbíteros en disponibilidad.
+
+<a id="anexo-pagina-391"></a>
+
+## Página PDF 391
+
+391 MODELO DE REGLAMENTO INTERNO – SÍNODO
+
+§ 3º Las vacantes que se produzcan en las comisiones durante el interregno serán cubiertas por la Comisión Ejecutiva.
+
+CAPÍTULO III
+DE LAS SECRETARÍAS DE TRABAJOS ESPECIALES
+
+Art. 48. El Concilio podrá mantener trabajos especiales, determinando a los respectivos secretarios los deberes inherentes al encargo.
+§ 1º El Plenario del Sínodo podrá establecer cuantas secretarías de trabajos especiales juzgue necesarias.
+§ 2º Solamente miembros de iglesias bajo la jurisdicción del Sínodo, en plena comunión, podrán ser elegidos para las secretarías de trabajos especiales.
+
+Art. 49. Corresponde a los Secretarios de Trabajos Especiales, en el ámbito de sus respectivas áreas de actuación, además de las atribuciones previstas en normas especiales que regulan los trabajos de las sociedades internas:
+I - servir de elemento de conexión entre el Concilio y las respectivas confederaciones de las sociedades internas para las cuales fueron designados;
+II - cumplir las determinaciones del Concilio en el marco de su secretaría;
+III - prestar informe al Concilio y sugerir medidas convenientes para el desarrollo de la obra relacionada con su secretaría;
+IV - hacer uso de la palabra en las reuniones del Concilio o de su Comisión Ejecutiva, por el tiempo que se conceda, para tratar de materia relacionada con el trabajo de sus secretarías;
+V - participar de congresos y otras reuniones de sus confederaciones;
+VI - orientar, estimular y supervisar el trabajo de las respectivas confederaciones en el territorio del Concilio;
+VII - promover la organización de la confederación, cuando no haya;
+VIII - asistir a los secretarios presbiteriales y orientarlos en la planificación y en la ejecución de su trabajo junto a las respectivas federaciones;
+IX - planificar, realizar y orientar la realización de actividades que contribuyan para la consolidación de las sociedades internas como importante fuerza de integración al servicio de la iglesia;
+X - ejercer otras atribuciones que les sean conferidas por el Concilio.
+§ 1º Al Secretario Sinodal del trabajo de la Unión Presbiteriana de Hombres (UPH), además de las atribuciones comunes a los demás, compete:
+I - organizar, orientar y estimular el trabajo cristiano de los hombres en el territorio del Concilio;
+
+<a id="anexo-pagina-392"></a>
+
+## Página PDF 392
+
+392 MANUAL PRESBITERIANO
+
+II - asistir a la confederación de UPHs en la planificación y en la ejecución de sus acciones;
+III - promover, siempre que sea oportuno y posible, reuniones, conferencias, simposios y congresos para hombres, estimulándolos al ejercicio de la masculinidad bíblica, en las esferas de la familia, de la iglesia y de la sociedad como un todo;
+IV - promover la organización de la confederación de UPH, cuando no haya.
+§ 2º Al Secretario Sinodal del trabajo de la Sociedad Auxiliadora Femenina (SAF), además de las atribuciones comunes a los demás, compete:
+I - organizar, orientar y estimular el trabajo cristiano de las mujeres en el territorio del Concilio;
+II - asistir a la confederación de SAFs en la planificación y en la ejecución de sus acciones;
+III - promover, siempre que sea oportuno y posible, reuniones, conferencias, simposios y congresos para mujeres, buscando el crecimiento espiritual y estimulándolas a influir en las más jóvenes con el buen testimonio de la sumisión bíblica;
+IV - promover la organización de la confederación de SAF, cuando no haya.
+§ 3º Al Secretario Sinodal del trabajo de la Unión de la Juventud Presbiteriana (UMP), además de las funciones comunes a los demás, compete:
+I - organizar, orientar y estimular el trabajo cristiano de los jóvenes en el territorio del Concilio;
+II - asistir a la confederación de UMPs en la planificación y en la ejecución de sus acciones;
+III - realizar trabajos que tengan por objeto el desarrollo de los jóvenes en los diversos sectores de su vida;
+IV - motivar la integración de los jóvenes en los servicios de la iglesia local, de las federaciones y de la confederación;
+V - promover la organización de la confederación de UMP, cuando no haya.
+§ 4º Al Secretario Sinodal del trabajo de la Unión Presbiteriana de Adolescentes (UPA), además de las atribuciones comunes a los demás, compete:
+I - orientar, estimular y supervisar el trabajo cristiano de los adolescentes en el territorio del Concilio;
+II - asistir a la confederación de UPAs en la planificación y en la ejecución de sus acciones;
+III - motivar la integración de los adolescentes en los servicios de la iglesia local, de las federaciones y de la confederación;
+IV - mantener contacto con los secretarios presbiteriales de las UPAs, en la jurisdicción del Concilio, con el fin de orientarlos y cooperar con sus actividades;
+V - promover, siempre que sea oportuno y posible, reuniones, la realización de conferencias, simposios y congresos para adolescentes, buscando el crecimiento
+
+<a id="anexo-pagina-393"></a>
+
+## Página PDF 393
+
+393 MODELO DE REGLAMENTO INTERNO – SÍNODO
+
+espiritual y estimulándolos a influenciar positivamente la sociedad, con el buen testimonio de vida cristiana;
+VI - fomentar la realización de reuniones y otros eventos que involucren a padres, profesores, adolescentes y consejeros de UPAs;
+VII - realizar trabajos que tengan por objeto el desarrollo de los adolescentes en los diversos sectores de su vida;
+VIII - promover la organización de la confederación de UPAs, cuando no haya.
+§ 5º Al Secretario Sinodal del trabajo de la Unión de Niños Presbiterianos (UCP), además de las atribuciones comunes a los demás, compete:
+I - asistir a la confederación de UCPs en la planificación y en la ejecución de sus acciones;
+II - velar por que, en la jurisdicción del Concilio, sean establecidas actividades apropiadas al cultivo espiritual del niño, dentro de los estándares presbiterianos;
+III - promover la organización de actividades infantiles para el desarrollo social y religioso del niño;
+IV - promover la distribución de literatura reformada para orientación de los padres, y material adecuado al interés de los propios niños;
+V - promover cursos para líderes del trabajo con la infancia;
+VI - promover reuniones de padres y profesores de educación religiosa, junto con líderes de la educación infantil;
+VII - estimular a los presbiterios a cooperar para el mayor provecho de las UCPs.
+§ 6º Al Secretario Sinodal del trabajo con la Persona Mayor, además de las atribuciones comunes a los demás, compete:
+I - prestar asistencia a las federaciones de la persona anciana en la planificación y en la ejecución de sus acciones en la jurisdicción del Concilio;
+II - buscar el apoyo de la Secretaría Nacional de la Persona Mayor para la implementación de medidas de interés de los ancianos en la jurisdicción del Concilio.
+III - incentivar la participación de los ancianos en las actividades de la iglesia local y de las secretarías presbiteriales, sinodal y nacional;
+IV - promover eventos dirigidos para la concientización de la calidad de vida espiritual, física y emocional de los ancianos.
+§ 7º Al Secretario Sinodal de Educación Religiosa, además de las atribuciones comunes a los demás, compete acompañar la situación pedagógica de las escuelas dominicales en las iglesias bajo la jurisdicción del Concilio.
+
+<a id="anexo-pagina-394"></a>
+
+## Página PDF 394
+
+394 MANUAL PRESBITERIANO
+
+CAPÍTULO IV
+DE LAS PERSONAS NOMBRADAS PARA
+ENCARGOS ESPECÍFICOS Y DE LOS SERVICIOS
+DE CONSULTORÍA TÉCNICA
+
+Art. 50. El Concilio o su Comisión Ejecutiva podrá nombrar personas para encargos específicos o contratar asesoramiento técnico para ayudar en la solución de asuntos de su competencia, dando preferencia a los miembros de iglesias bajo la jurisdicción del Sínodo.
+
+<a id="anexo-pagina-395"></a>
+
+## Página PDF 395
+
+LIBRO II
+DE LAS MEDIDAS QUE ANTECEDEN A LA
+INSTAURACIÓN DEL PROCESO DISCIPLINARIO Y
+DEL PROCEDIMIENTO PRELIMINAR PARA
+INVESTIGAR NOTICIAS DE HECHOS GRAVES
+DE FUENTE DESCONOCIDA
+
+TÍTULO I
+DE LAS MEDIDAS QUE ANTECEDEN A LA
+INSTAURACIÓN DEL PROCESO DISCIPLINARIO
+
+CAPÍTULO I
+DE LA COMUNICACIÓN DE FALTA DISCIPLINARIA
+
+Art. 51. Las faltas cometidas por cualquier Presbiterio bajo la jurisdicción del Sínodo serán llevadas al conocimiento de este a través de queja o denuncia.
+§ 1º Sólo será admitida queja o denuncia ofrecida por persona creyente, miembro de iglesia evangélica idónea, en plena comunión, o ministro del evangelio, de reconocida idoneidad.
+§ 2º Para el fin específico de ofrecimiento de la queja o denuncia, se equiparan a la persona creyente los consejos, presbiterios y sínodos jurisdicionados a la Iglesia Presbiteriana de Brasil.
+
+CAPÍTULO II
+DEL EXAMEN DE ADMISIBILIDAD DE LA QUEJA O
+DENUNCIA Y DEL PROCEDIMIENTO PERSUASIVO
+
+Art. 52. Ante la existencia de queja o denuncia, el Presidente convocará una reunión plenaria del Sínodo para conocer la materia.
+§ 1º Atendiendo a la convocatoria del Presidente, el Concilio se reunirá para tomar las siguientes providencias, entre otras que considere pertinentes:
+I - analizar la autenticidad y el contenido del documento en el que conste la queja o denuncia;
+II - verificar si el juicio de la materia es competencia del Sínodo;
+
+<a id="anexo-pagina-396"></a>
+
+## Página PDF 396
+
+396 MANUAL PRESBITERIANO
+
+III - evaluar la viabilidad de emplear esfuerzos para corrección de la falta por medios persuasivos;
+IV - considerar la utilidad de la instauración del proceso disciplinar a la vista de los hechos narrados en la queja o denuncia.
+§ 2º Tratándose de queja o denuncia desprovista de fundamento que justifique el proceso disciplinar, el Concilio no dará curso al caso y la devolverá al quejoso o denunciante, reteniendo copia del documento mantenida bajo reserva.
+§ 3º Constatando que no posee competencia legal para apreciar y juzgar la materia, el Concilio devolverá la queja o denuncia al autor para que éste pueda dirigirse al órgano eclesiástico competente.
+§ 4º De la decisión que deniegue dar curso al proceso disciplinar caberá recurso al Supremo Concilio en el plazo de noventa días, a ser encaminado por intermedio del Sínodo, observando lo dispuesto en el artículo 63 de la Constitución de la Iglesia Presbiteriana de Brasil.
+
+Art. 53. Siendo viable el empleo de esfuerzos para la corrección de la falta por medios persuasivos, el Sínodo se dedicará a ese objetivo, pudiendo designar a la Comisión Ejecutiva u otros miembros del Concilio para acompañar el caso pastoralmente.
+§ 1º Una vez alcanzado el objetivo mencionado en el encabezamiento de este artículo, el Concilio dará el caso por cerrado, devolviendo la queja o denuncia al autor, y conservando una copia del documento bajo reserva.
+§ 2º Cuando resulte inviable o se frustre el intento de solución del caso por medios persuasivos, el Concilio será convocado para funcionar como Tribunal Eclesiástico.
+
+Art. 54. En el acta de la reunión del Sínodo, relativa al procedimiento persuasivo, constará:
+I - el motivo de la convocatoria del Concilio, las providencias adoptadas y los objetivos alcanzados;
+II - la deliberación acerca de la convocatoria del Concilio para funcionar con fines judiciales, en caso de que sea inviable o se haya frustrado el intento de solución del caso por medios persuasivos.
+§ 1º Los actos practicados por el Sínodo durante el empleo de esfuerzos persuasivos, fase que antecede a la instalación del Tribunal, deberán constar de acta separada o memoria de la reunión, en la cual será registrada la suma de las providencias adoptadas y soluciones alcanzadas por el Concilio.
+§ 2º La queja o denuncia y los documentos o medios que la sustentan se pondrán en el lugar apropiado de la Secretaría Ejecutiva, junto con las actas relativas al procedimiento persuasivo, hasta que se ultime la solución en esa fase, o haya instalación del Tribunal Eclesiástico.
+
+<a id="anexo-pagina-397"></a>
+
+## Página PDF 397
+
+TÍTULO II
+DEL PROCEDIMIENTO PRELIMINAR PARA
+INVESTIGAR NOTICIAS DE HECHOS GRAVES
+DE FUENTE DESCONOCIDA
+
+CAPÍTULO I
+DE LA INVESTIGACIÓN PRELIMINAR
+
+Art. 55. En caso de que surja, en el ámbito del Sínodo, noticia de hecho grave de fuente desconocida, sin que haya denuncia o queja formal en cuanto a la materialidad y autoría de la falta, podrá el Concilio investigar el hecho mediante una investigación preliminar, como paso preliminar a la instalación del Tribunal.
+§ 1º La apertura del procedimiento preliminar previsto en este capítulo constará de acta específica, protegida por reserva.
+§ 2º La comisión especial de investigación preliminar será nombrada por el Presidente, salvo si el Concilio prefiere nombrarla.
+§ 3º Los trabajos de la comisión especial de investigación preliminar deberán completarse en un plazo de sesenta días, prorrogables por igual período, si hay justificación plausible.
+
+CAPÍTULO II
+DEL INFORME
+
+Art. 56. Los trabajos de la comisión especial de investigación preliminar deberán completarse en un plazo de sesenta días, prorrogables por igual período, si hay justificación plausible.
+§ 1º El informe será obligatoriamente escrito y firmado por los miembros de la comisión especial de investigación preliminar, quedando mantenido bajo reserva.
+§ 2º  De la investigación preliminar puede resultar:
+I - archivo del procedimiento;
+II - admisibilidad de la denuncia, siendo el informe de la comisión especial de investigación preliminar tomado como pieza equivalente a la comunicación escrita prevista en el artículo 42, letra "b", del Código de Disciplina.
+
+<a id="anexo-pagina-398"></a>
+
+## Página PDF 398
+
+LIBRO III
+DEL RECURSO ADMINISTRATIVO
+
+TÍTULO ÚNICO
+DE LOS RECURSOS CONTRA DECISIONES DEL PLENARIO
+Y DE LA COMISIÓN EJECUTIVA
+
+CAPÍTULO I
+DEL RECURSO CONTRA DECISIÓN DEL PLENARIO
+
+Art. 57. De la decisión del Pleno del Concilio, en materia administrativa, cabrá recurso al Supremo Concilio, en el plazo de noventa días, a contar de la notificación al interesado o de la publicación del acto impugnado, cuando no haya persona específicamente interesada y la materia sea de interés general de los miembros de la Iglesia.
+§ 1º El recurso será dirigido al Supremo Concilio por intermedio del Sínodo, observando lo dispuesto en el artículo 63 de la Constitución de la Iglesia Presbiteriana de Brasil.
+§ 2º El Sínodo hará el examen de admisibilidad del recurso y, siendo este presentado dentro del plazo, determinará que el Secretario Ejecutivo remita los autos al Supremo Concilio, en el plazo de treinta días, que solamente podrá ser suspendido en caso de grave situación que constituya un obstáculo plenamente justificable.
+§ 3º A la vista del recurso administrativo, el Concilio podrá reconsiderar su decisión total o parcialmente.
+§ 4º Una vez mantenida la decisión, aunque parcialmente, el recurso será remitido al Supremo Concilio.
+§ 5º El recurso no será admitido cuando sea presentado fuera del plazo legal, correspondiendo al Concilio deliberar por el archivamiento de la materia, con la indispensable notificación al interesado.
+§ 6º Quien se sienta perjudicado con la decisión que no admita el recurso o retrase injustificadamente el examen de admisibilidad podrá dirigirse directamente al Supremo Concilio, en la forma del artículo 63, in fine, de la Constitución de la Iglesia Presbiteriana de Brasil.
+§ 7º Se asegura a las partes, en cualquier fase del proceso administrativo, el derecho de designar un apoderado creyente, miembro de iglesia genuinamente evangélica, de idoneidad reconocida por el Concilio.
+
+<a id="anexo-pagina-399"></a>
+
+## Página PDF 399
+
+399 MODELO DE REGLAMENTO INTERNO – SÍNODO
+
+CAPÍTULO II
+DEL RECURSO CONTRA DECISIÓN
+DE LA COMISIÓN EJECUTIVA
+
+Art. 58. De la decisión de la Comisión Ejecutiva, corresponderá recurso administrativo al Plenario del Sínodo, en el plazo de noventa días, a contar de la notificación al interesado o de la publicación del acto impugnado.
+Párrafo único. Se aplican al recurso contra la decisión de la Comisión Ejecutiva, en lo que resulte aplicable, las disposiciones que rigen el recurso contra la decisión del Pleno.
+
+<a id="anexo-pagina-400"></a>
+
+## Página PDF 400
+
+PARTE ESPECIAL
+
+LIBRO I
+DEL TRIBUNAL PLENO
+
+TÍTULO I
+DE LA COMPOSICIÓN Y DE LA COMPETENCIA
+DEL TRIBUNAL PLENO
+
+CAPÍTULO I
+DE LA COMPOSICIÓN
+
+Art. 59. El Tribunal Pleno del Sínodo está compuesto de todos los miembros efectivos, cuyas credenciales hayan sido aceptadas por la Mesa.
+Párrafo único. El Tribunal Pleno será presidido por el Presidente del Sínodo o por su sustituto legal.
+
+CAPÍTULO II
+DE LA COMPETENCIA
+
+Art. 60. Corresponde al Tribunal Pleno del Sínodo:
+I - procesar y juzgar, originariamente:
+a) las quejas o denuncias contra los presbiterios bajo su jurisdicción;
+b) las excepciones de recusación opuestas contra sus miembros;
+c) los incidentes para aclarar obscuridad, eliminar contradicción, suplir omisión o corregir error material en sus propias decisiones.
+II - revisar, en beneficio de los condenados, sus propias decisiones en procesos concluidos;
+III - instaurar un procedimiento para la agravación de penas aplicadas en los juicios de su competencia.

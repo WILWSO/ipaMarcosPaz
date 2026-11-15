@@ -1,0 +1,380 @@
+{
+  "date": "2026-10-14",
+  "batch": 1,
+  "reviewedNotes": 20,
+  "scope": "Primer lote transversal: texto completo de 20 notas seleccionado del rastreo; clasificación editorial limitada a la relación con las reformas, no certificación general de vigencia.",
+  "globalCompatibilityReviewComplete": false,
+  "externalCertification": false,
+  "officialApproval": false,
+  "items": [
+    {
+      "id": "CI-nota-41",
+      "targets": [
+        "CI-art-44"
+      ],
+      "parents": [
+        "CI-art-9"
+      ],
+      "classification": "remision-que-requiere-nueva-redaccion",
+      "findingEs": "Remite a arts.44 y 57. La remisión al pastor emérito se debe abrir en la redacción EC4, sin trasladar el requisito nuevo de 25 años al régimen distinto de presbítero o diácono emérito del art.57.",
+      "findingPt": "Remete aos arts.44 e 57. A remissão ao pastor emérito deve abrir a redação EC4, sem transferir o novo requisito de 25 anos ao regime distinto do presbítero ou diácono emérito do art.57.",
+      "originalHash": "c93417d2dfbba259686c27f48283a881a80b1068a54fb206d9ae561bccd92c3c",
+      "translationHash": "f8b56519ec1bfa487685e626ff4ae4c2e75be14f5eb74bba77db81a957f0c3c7",
+      "pages": [
+        27
+      ],
+      "source": "SC-2026-CCI"
+    },
+    {
+      "id": "CI-nota-83",
+      "targets": [
+        "CI-art-27"
+      ],
+      "parents": [
+        "CI-art-23"
+      ],
+      "classification": "parrafo-no-modificado",
+      "findingEs": "Art.27 §2: se conserva la referencia de membresía del pastor para efectos civiles y jurisdicción presbiterial; EC3 no sustituye ese párrafo.",
+      "findingPt": "Art.27 §2: conservada a referência de membresia do pastor para efeitos civis e jurisdição presbiterial; EC3 não substitui esse parágrafo.",
+      "originalHash": "6b2463055513019ea525becf8f4519f9fc9dbad8a635cd0ba604a33792bf5616",
+      "translationHash": "b72b9dd3560dd78508d716b9b30af72b275b3b025580914b6f82c2cb18448e0e",
+      "pages": [
+        46
+      ],
+      "source": "SC-2026-CCI"
+    },
+    {
+      "id": "CI-nota-84",
+      "targets": [
+        "CI-art-27"
+      ],
+      "parents": [
+        "CI-art-23"
+      ],
+      "classification": "parrafo-no-modificado",
+      "findingEs": "La resolución de 2014 distingue jurisdicción del Presbiterio y consideración civil como miembro de iglesia. EC3 modifica el caput, no §2. No confundir miembro efectivo de un concilio con admisión al rol de miembros de iglesia local.",
+      "findingPt": "A resolução de 2014 distingue jurisdição do Presbitério e consideração civil como membro da igreja. EC3 altera o caput, não o §2. Não confundir membro efetivo de um concílio com admissão ao rol de membros da igreja local.",
+      "originalHash": "2bae0cbd8a3d02e6236b3998e5ea433f5e6adb2f8e69f816f51bd7aa8a5ea651",
+      "translationHash": "5bdc886d285cc38bbbc7d8daf90f4333bc88ce2fa2fb8c6228201d35485068f9",
+      "pages": [
+        46
+      ],
+      "source": "SC-2026-CCI"
+    },
+    {
+      "id": "CI-nota-93",
+      "targets": [
+        "CI-art-54"
+      ],
+      "parents": [
+        "CI-art-25"
+      ],
+      "classification": "sin-conflicto-directo-en-alcance",
+      "findingEs": "Perpetuidad del oficio, fin del mandato, deposición y restauración se distinguen en el texto histórico. EC5 añade disponibilidad del diácono, no reelección automática ni restauración automática del mandato.",
+      "findingPt": "Perpetuidade do ofício, fim do mandato, deposição e restauração são distinguidos no texto histórico. EC5 acrescenta disponibilidade do diácono, não reeleição automática nem restauração automática do mandato.",
+      "originalHash": "4417794aad528f17cea5c6eed1a6953161e5f75d2d41fd9965b1856cb47a3988",
+      "translationHash": "569ee011cc825d26c884a4ed744ff40f739506317f9ddaadeebac6eedf3d1768",
+      "pages": [
+        48
+      ],
+      "source": "SC-2026-CCI"
+    },
+    {
+      "id": "CI-nota-164",
+      "targets": [
+        "CI-art-54"
+      ],
+      "parents": [
+        "CI-art-56"
+      ],
+      "classification": "nota-mixta-con-lectura-conjunta",
+      "findingEs": "El pasaje de 1958 trata desplazamiento y remite a disponibilidad del presbítero bajo §2. EC5 incorpora §3 para el diácono que permanece miembro de la iglesia local; no extender ese permiso de participación a quien fue transferido a otra iglesia. El pasaje de 2024 sobre cese en la iglesia de origen se conserva.",
+      "findingPt": "A passagem de 1958 trata deslocamento e remete à disponibilidade do presbítero sob §2. EC5 incorpora §3 para o diácono que permanece membro da igreja local; não estender essa permissão de participação a quem foi transferido para outra igreja. Conservada a passagem de 2024 sobre cessação na igreja de origem.",
+      "originalHash": "ab28f69b37fa2c5daeafbaf5fb0e8c301daf905930411e301a51bcbe8089f1f9",
+      "translationHash": "43b8c28df32652ce303001119f012352014bffa619fe7c6b091571ca4e6eaa56",
+      "pages": [
+        82
+      ],
+      "source": "SC-2026-CCI"
+    },
+    {
+      "id": "CI-nota-167",
+      "targets": [
+        "CI-art-54"
+      ],
+      "parents": [
+        "CI-art-56"
+      ],
+      "classification": "parrafo-no-modificado",
+      "findingEs": "El caso de desvinculación de la IPB y retorno de presbítero se refiere a §2, conservado. El §3 nuevo trata diácono que continúa miembro de la iglesia local; no transforma al exmiembro de otra denominación en oficial disponible ni modifica el rito descrito por la resolución de 2021.",
+      "findingPt": "O caso de desvinculação da IPB e retorno de presbítero refere-se ao §2, conservado. O novo §3 trata do diácono que continua membro da igreja local; não transforma ex-membro de outra denominação em oficial disponível nem altera o rito descrito pela resolução de 2021.",
+      "originalHash": "fff31912dc57efab318cca7907dfffa9a098ec877924d7243bc03b400719ce39",
+      "translationHash": "c99a9d9cd44e40b8194520b932b6511c5d7e21d534bb7ecdc7f1eefd8d95cce0",
+      "pages": [
+        83
+      ],
+      "source": "SC-2026-CCI"
+    },
+    {
+      "id": "CI-nota-169",
+      "targets": [
+        "CI-art-44"
+      ],
+      "parents": [
+        "CI-art-57"
+      ],
+      "classification": "fundamentacion-historica-con-texto-sustituido",
+      "findingEs": "La resolución de 2022 sobre in memoriam cita el antiguo caput y párrafo único del art.44: esa transcripción no es la redacción integrada de 2026. EC4 no autoriza expresamente emerencia póstuma ni revoca por nombre esa resolución. Los pasajes de 1996/2010 sobre art.57 y cómputo entre iglesia madre e hija tratan otro régimen; no trasladarlos automáticamente al pastor emérito.",
+      "findingPt": "A resolução de 2022 sobre in memoriam cita o antigo caput e parágrafo único do art.44: essa transcrição não é a redação integrada de 2026. EC4 não autoriza expressamente emerência póstuma nem revoga nominalmente essa resolução. As passagens de 1996/2010 sobre art.57 e contagem entre igreja mãe e filha tratam de outro regime; não transferi-las automaticamente ao pastor emérito.",
+      "originalHash": "6abf8443050dfea5ae23ad0240c01535d0fab05416aeb4e14b0e3d2c50cd0210",
+      "translationHash": "986169638f178dea34d6ccab55c424ccc8b7fdbf606ec668f886df33df3fe5fa",
+      "pages": [
+        84,
+        85
+      ],
+      "source": "SC-2026-CCI"
+    },
+    {
+      "id": "CI-nota-179",
+      "targets": [
+        "CI-art-64"
+      ],
+      "parents": [
+        "CI-art-63"
+      ],
+      "classification": "plazo-historico-de-remision-afectado",
+      "findingEs": "SC1994-CX, respuesta al cuarto punto: 90 días para encaminhar el recurso administrativo es el plazo histórico de remisión, distinto del nuevo deber de elevarlo en 30 días desde recepción por el concilio (EC6). Se mantienen 90 días para interponerlo. La respuesta de CE2003-VIII sobre exigir negativa escrita y otros tramos de la nota requiere cotejo adicional; no reemplazar todos sus 90 días por 30 ni aplicar EC6 a plazos judiciales del CD.",
+      "findingPt": "SC1994-CX, resposta ao quarto ponto: 90 dias para encaminhar o recurso administrativo é o prazo histórico de remessa, distinto do novo dever de fazê-lo subir em 30 dias desde o recebimento pelo concílio (EC6). Mantidos 90 dias para interposição. A resposta CE2003-VIII sobre exigir negativa escrita e outros trechos da nota exige cotejo adicional; não substituir todos os seus 90 dias por 30 nem aplicar EC6 aos prazos judiciais do CD.",
+      "originalHash": "27031bde6527227b4f267f8b8816314d4b76a0de3d622c3d32a45279a66453ff",
+      "translationHash": "9d6c3059341d836d79852bd112984e5bce2f84f7679b66775f02681ed5c15ade",
+      "pages": [
+        86,
+        87
+      ],
+      "source": "SC-2026-CCI"
+    },
+    {
+      "id": "CI-nota-182",
+      "targets": [
+        "CI-art-27"
+      ],
+      "parents": [
+        "CI-art-66"
+      ],
+      "classification": "sin-conflicto-directo-en-alcance",
+      "findingEs": "La nota trata composición y quórum de la Comisión Ejecutiva. EC3 distingue membresía y voto en concilios; no establece un nuevo quórum ni modifica textualmente las cifras de esta resolución de 1955. No extender la regla de voto en pleno a todos los órganos ejecutivos.",
+      "findingPt": "A nota trata composição e quórum da Comissão Executiva. EC3 distingue membresia e voto nos concílios; não fixa novo quórum nem altera textualmente os números dessa resolução de 1955. Não estender a regra de voto no plenário a todos os órgãos executivos.",
+      "originalHash": "2a0416a14078c1b447be6ffe8ccac7352ba4fd2f7f08f3ff354946abf1b4f289",
+      "translationHash": "955f84393d82bb139c52cfaf07e4442d49cdeb5f4d33b9e64eb0003800a9edf0",
+      "pages": [
+        88
+      ],
+      "source": "SC-2026-CCI"
+    },
+    {
+      "id": "CI-nota-184",
+      "targets": [
+        "CI-art-27"
+      ],
+      "parents": [
+        "CI-art-66"
+      ],
+      "classification": "lectura-conjunta-sobre-ex-officio",
+      "findingEs": "La nota distingue poder ser elegido y no votar, admisión con informe/encargo y reuniones privativas. Leer con la definición nueva de EC3, sin llamar ex officio a todo ministro o presbítero que antes llevaba ese nombre en el caput. EC3 no suprime expresamente los requisitos de presentación ni decide aquí todas las condiciones de reuniones privativas.",
+      "findingPt": "A nota distingue poder ser votado e não votar, admissão com relatório/encargo e reuniões privativas. Ler com a nova definição da EC3, sem chamar ex officio todo ministro ou presbítero que antes recebia esse nome no caput. EC3 não suprime expressamente requisitos de apresentação nem decide aqui todas as condições de reuniões privativas.",
+      "originalHash": "b4af0313e94a18f53471150bb03905889bf3315452c37d288dcaf45a86812df1",
+      "translationHash": "8013fe45497c567bcd58e894fd269311daf0e493b04a27eebfb391201c3e63fe",
+      "pages": [
+        89
+      ],
+      "source": "SC-2026-CCI"
+    },
+    {
+      "id": "CI-nota-222",
+      "targets": [
+        "CI-art-44"
+      ],
+      "parents": [
+        "CI-art-78"
+      ],
+      "classification": "restriccion-historica-que-requiere-advertencia",
+      "findingEs": "Repite CE2012-CLXIV sobre prohibiciones de presidencia, firma y pastorado auxiliar en la iglesia que dio la emerencia. EC4 permite pastorado bajo condiciones: no aplicar la prohibición absoluta por el mero título, ni inferir autorización automática de firma o presidencia. La invitación ocasional de SC1978-LXXXV es un supuesto distinto y se conserva como antecedente.",
+      "findingPt": "Repete CE2012-CLXIV sobre proibições de presidência, assinatura e pastorado auxiliar na igreja que concedeu a emerência. EC4 permite pastorado sob condições: não aplicar proibição absoluta pelo simples título, nem inferir autorização automática de assinatura ou presidência. O convite eventual de SC1978-LXXXV é hipótese distinta e é conservado como antecedente.",
+      "originalHash": "79e12dbb13c44ceec0d1e70840bbb7a172fb3307efc5cb0f41bbc9e4916f1463",
+      "translationHash": "dab846c3291064b883aa752800e052ffb6d001f79b1747984c456aa3fd26af24",
+      "pages": [
+        109,
+        110
+      ],
+      "source": "SC-2026-CCI"
+    },
+    {
+      "id": "CI-nota-225",
+      "targets": [
+        "CI-art-27"
+      ],
+      "parents": [
+        "CI-art-80"
+      ],
+      "classification": "remision-que-requiere-nueva-redaccion",
+      "findingEs": "Remite a caput de art.27 y representación judicial/extrajudicial del presidente en modelo art.37. EC3 cambia la definición de miembro conciliar; no otorga por esa sola calidad representación civil a todos los miembros del Consejo.",
+      "findingPt": "Remete ao caput do art.27 e à representação judicial/extrajudicial do presidente no modelo art.37. EC3 altera a definição de membro conciliar; não concede, por essa simples qualidade, representação civil a todos os membros do Conselho.",
+      "originalHash": "c2695052c019d1b04522b58c01faaf058a78cc86819e13e0e6af67e36b0d6dba",
+      "translationHash": "c168aa2fbd56e8c9f161f350589ad831598bde2d3f33f15980f02db69124f2c3",
+      "pages": [
+        110
+      ],
+      "source": "SC-2026-CCI"
+    },
+    {
+      "id": "CI-nota-250",
+      "targets": [
+        "CI-art-27"
+      ],
+      "parents": [
+        "CI-art-85"
+      ],
+      "classification": "localizador-historico-que-requiere-advertencia",
+      "findingEs": "La remisión art.27 in fine aparece junto a la elección de un presbítero representante por iglesia (art.85, párrafo único). En ese contexto parece apuntar al segmento histórico del caput sobre el presbítero, pero la nota no explicita el párrafo. EC3 añade al final del caput la frase sobre ex officio sin voto. El localizador requiere confirmar el pasaje; no debe trasladarse automáticamente al nuevo final del caput ni reinterpretar la representación de la iglesia.",
+      "findingPt": "A remissão art.27 in fine aparece junto à eleição de um presbítero representante por igreja (art.85, parágrafo único). Nesse contexto parece apontar ao segmento histórico do caput sobre o presbítero, mas a nota não explicita o parágrafo. EC3 acrescenta ao final do caput a frase sobre ex officio sem voto. O localizador exige confirmar a passagem; não deve ser transferido automaticamente ao novo final do caput nem reinterpretar a representação da igreja.",
+      "originalHash": "c5848f6a21f82496eeb781762058c38f984af1a14758bd23f43d20de03d58f4c",
+      "translationHash": "b1554f5f76ac045da98ab1a07e831cb23af8f5511a7f1358b433e7d09973a417",
+      "pages": [
+        115
+      ],
+      "source": "SC-2026-CCI"
+    },
+    {
+      "id": "CI-nota-317",
+      "targets": [
+        "CI-art-54"
+      ],
+      "parents": [
+        "CI-art-111"
+      ],
+      "classification": "parrafo-no-modificado",
+      "findingEs": "Las instrucciones electorales, ausencia de previa y elección tres meses antes del fin del mandato corresponden a caput y §1 conservados. EC5 sólo añade §3; no reduce el mandato de cinco años ni convierte disponibilidad en renovación automática.",
+      "findingPt": "Instruções eleitorais, ausência de prévia e eleição três meses antes do fim do mandato correspondem ao caput e §1 conservados. EC5 só acrescenta §3; não reduz o mandato de cinco anos nem transforma disponibilidade em renovação automática.",
+      "originalHash": "a420d7d397324e86c6090df7ea24622bcff560c336dd9029ec00157c6b849309",
+      "translationHash": "6c03f69a7fc9aac33e5fbfae98bd805387483d9cecea366b9140b23e04ef67f5",
+      "pages": [
+        139
+      ],
+      "source": "SC-2026-CCI"
+    },
+    {
+      "id": "CI-nota-318",
+      "targets": [
+        "CI-art-54"
+      ],
+      "parents": [
+        "CI-art-111"
+      ],
+      "classification": "parrafo-no-modificado",
+      "findingEs": "Remisión a §1 de art.54 y resolución de 1962 sobre regularidad de asamblea. EC5 no sustituye ese párrafo; no se infiere un cambio del efecto descrito sobre validez de la elección.",
+      "findingPt": "Remissão ao §1 do art.54 e resolução de 1962 sobre regularidade da assembleia. EC5 não substitui esse parágrafo; não inferir alteração do efeito descrito sobre validade da eleição.",
+      "originalHash": "f7b12167aa067bbec1a52f9aa22904428a6dbd64310289dd59a6864ea715c8d6",
+      "translationHash": "978b5fc89da1e6b55a06747549259d68988ffb86eb4f7392c8fa2b310789c714",
+      "pages": [
+        139
+      ],
+      "source": "SC-2026-CCI"
+    },
+    {
+      "id": "CD-nota-85",
+      "targets": [
+        "CI-art-64"
+      ],
+      "parents": [
+        "CD-art-115"
+      ],
+      "classification": "distincion-de-regimen-administrativo-y-judicial",
+      "findingEs": "La resolución de 2014 afirma que el concilio actuando judicialmente aplica plazos del CD y no art.64 de CI. EC6 añade 30 días al recurso administrativo; no sustituye por ese plazo los recursos judiciales, extraordinarios o requisitos de tramitación descritos aquí.",
+      "findingPt": "A resolução de 2014 afirma que o concílio atuando judicialmente aplica prazos do CD e não art.64 da CI. EC6 acrescenta 30 dias ao recurso administrativo; não substitui por esse prazo recursos judiciais, extraordinários ou requisitos de tramitação descritos aqui.",
+      "originalHash": "72c0c3f1b04847099e9058224d9114d08503890cf7bdc8cd6d0622060af515ba",
+      "translationHash": "8df2462ac8bd90532cc837e482e2b44e8838acc438d20549220d02e423a8ff50",
+      "pages": [
+        203
+      ],
+      "source": "SC-2026-CCI"
+    },
+    {
+      "id": "EST-PRE-nota-65",
+      "targets": [
+        "CI-art-64"
+      ],
+      "parents": [
+        "EST-PRE-art-22"
+      ],
+      "classification": "remision-mixta-con-regimenes-distintos",
+      "findingEs": "La referencia art.64 CI incorpora el nuevo plazo administrativo de 30 días para remisión. Art.20 II CD pertenece a la vía disciplinaria; la nota no permite fusionar ambos regímenes.",
+      "findingPt": "A referência art.64 CI incorpora o novo prazo administrativo de 30 dias para remessa. Art.20 II CD pertence à via disciplinar; a nota não permite fundir os dois regimes.",
+      "originalHash": "49107e80a98b03360927890c1d2c84c81db8edb55990cbfa2577ffcddbc2f932",
+      "translationHash": "a4a6852895726857a5bc5010d031c4bce7a202ae68a2b10b96e3ce8d1a651775",
+      "pages": [
+        433
+      ],
+      "source": "SC-2026-CCI"
+    },
+    {
+      "id": "EST-PRE-nota-107",
+      "targets": [
+        "CI-art-64"
+      ],
+      "parents": [
+        "EST-PRE-art-38"
+      ],
+      "classification": "remision-que-requiere-nueva-redaccion",
+      "findingEs": "Remisión simple a art.64: leer la redacción EC6, con 90 días para interponer y 30 días desde recepción por el concilio para elevar, sin efecto suspensivo según párrafo único conservado.",
+      "findingPt": "Remissão simples ao art.64: ler a redação EC6, com 90 dias para interpor e 30 dias desde o recebimento pelo concílio para subir, sem efeito suspensivo segundo o parágrafo único conservado.",
+      "originalHash": "193a601d32cd2c0cd5e683c730c7878df7963eb42d30bd3ff13fc442d78f9fa9",
+      "translationHash": "227d0da223210d89d12fe4483358b06a363339423ee885ab2c9d293ec3c8bb11",
+      "pages": [
+        442
+      ],
+      "source": "SC-2026-CCI"
+    },
+    {
+      "id": "EST-PRE-nota-110",
+      "targets": [
+        "CI-art-64"
+      ],
+      "parents": [
+        "EST-PRE-art-41"
+      ],
+      "classification": "remision-mixta-con-regimenes-distintos",
+      "findingEs": "Art.64 CI debe abrirse con EC6. Los arts.8 y16 citados son del CD, no del RI-CE: la coincidencia del número 8 no los hace destinatarios de la revocación de SC2026-CXXIII. No trasladar plazos entre vías administrativa y judicial.",
+      "findingPt": "Art.64 CI deve abrir a EC6. Os arts.8 e16 citados são do CD, não do RI-CE: a coincidência do número 8 não os torna destinatários da revogação SC2026-CXXIII. Não transferir prazos entre vias administrativa e judicial.",
+      "originalHash": "e0877240285b9c9500b29f870ecc2a366a9a3eba5cb308a426d5f8254bbb484c",
+      "translationHash": "6d678a1b3e83f6eb9351655dea4752ac748a092a05dfe5e9d7c325a728c8a233",
+      "pages": [
+        442
+      ],
+      "source": "SC-2026-CCI"
+    },
+    {
+      "id": "EST-IG-nota-62",
+      "targets": [
+        "CI-art-84"
+      ],
+      "parents": [
+        "EST-IG-art-28"
+      ],
+      "classification": "divergencia-textual-con-modelo",
+      "findingEs": "La nota del modelo EST-IG art.28 remite a art.84 CI. EC7 permite mandato de hasta cinco años y uno o más tesoreros; el modelo conserva elección anual, un tesorero y un año de mandato en §4. Advertir la divergencia y mantener abierta la adecuación documental de estatutos; no crear una reforma textual del modelo por inferencia.",
+      "findingPt": "A nota do modelo EST-IG art.28 remete ao art.84 CI. EC7 permite mandato de até cinco anos e um ou mais tesoureiros; o modelo conserva eleição anual, um tesoureiro e um ano de mandato no §4. Advertir a divergência e manter aberta a adequação documental dos estatutos; não criar alteração textual do modelo por inferência.",
+      "originalHash": "ab045f5ca76a5ea97e13bbb3dded6568c2085b12ebc521f4dc85cd3fd1a7d7b4",
+      "translationHash": "e95b51dfe45ecde3659df2b2239fed992a617436eca8cad262b505e44717775e",
+      "pages": [
+        522
+      ],
+      "source": "SC-2026-CCI"
+    }
+  ],
+  "sourcePDFSHA256": {
+    "manual": "2d8b728004e32995ee5f1600a7e4e0da94a7124e253bf1fac5322a2b93a083a3",
+    "digesto": "e82955017938a555ab31a699d125b48fdfce686dd03d69b7b8dbbad1b03c2482"
+  },
+  "reformOriginalHash": "9a14825cd6b834a4646d6cbd96c45504452c5707d108045a39f1a9b30fd714cd",
+  "reformTranslationHash": "5f6c503c43bde2d72e770c8929f6168531cd4ccc1d6dc7e74be10da89735370e"
+}

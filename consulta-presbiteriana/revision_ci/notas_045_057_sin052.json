@@ -1,0 +1,124 @@
+{
+  "reviewedIds": [
+    "CI-nota-45",
+    "CI-nota-46",
+    "CI-nota-47",
+    "CI-nota-48",
+    "CI-nota-49",
+    "CI-nota-50",
+    "CI-nota-51",
+    "CI-nota-53",
+    "CI-nota-54",
+    "CI-nota-55",
+    "CI-nota-56",
+    "CI-nota-57"
+  ],
+  "replacements": {
+    "CI-nota-46": [
+      [
+        "apenas como miembros",
+        "únicamente como miembros"
+      ]
+    ],
+    "CI-nota-47": [
+      [
+        "Resolve",
+        "resuelve"
+      ],
+      [
+        "exarado",
+        "expresado"
+      ],
+      [
+        "crendo",
+        "creyendo"
+      ]
+    ],
+    "CI-nota-49": [
+      [
+        "– a CE-SC/IPB",
+        "– la CE-SC/IPB"
+      ],
+      [
+        "1Reafirmar",
+        "1. Reafirmar"
+      ],
+      [
+        "‘Cuánto al",
+        "‘En cuanto al"
+      ],
+      [
+        "Elemento a alguien que acepte",
+        "Una vez elegido alguien que acepte"
+      ],
+      [
+        "después de instruido, aceptar",
+        "después de ser instruido, acepte"
+      ],
+      [
+        "del art. 30 los Principios",
+        "del art. 30 de los Principios"
+      ],
+      [
+        "de IPB",
+        "de la IPB"
+      ],
+      [
+        "por rol de la Iglesia",
+        "en el registro de la Iglesia"
+      ],
+      [
+        "del art. 15 la CI/IPB",
+        "del art. 15 de la CI/IPB"
+      ],
+      [
+        "el curso de plazo elencado",
+        "el transcurso del plazo indicado"
+      ],
+      [
+        "párrafo 2º la CI/IPB",
+        "párrafo 2º de la CI/IPB"
+      ]
+    ],
+    "CI-nota-50": [
+      [
+        "CUANTO AL",
+        "EN CUANTO AL"
+      ],
+      [
+        "al art. 13 la CI/IPB",
+        "al art. 13 de la CI/IPB"
+      ],
+      [
+        "Confisión",
+        "Confesión"
+      ],
+      [
+        "ministración",
+        "administración"
+      ],
+      [
+        "guardia",
+        "guarda"
+      ],
+      [
+        "arrolado",
+        "inscrito"
+      ],
+      [
+        "Rejeitar",
+        "Rechazar"
+      ]
+    ],
+    "CI-nota-54": [
+      [
+        "(ofertas)",
+        "(ofrendas)"
+      ],
+      [
+        "Estatuto IPB",
+        "Estatuto de la IPB"
+      ]
+    ]
+  }
+}

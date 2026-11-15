@@ -1,0 +1,248 @@
+{
+  "date": "2026-10-14",
+  "consolidatedDecisions": 398,
+  "totalDecisions": 398,
+  "supplementComplete": true,
+  "editorialFinalReviewComplete": false,
+  "externalCertification": false,
+  "officialSpanishApproval": false,
+  "scope": "Consolidación de los efectos examinados; control de coherencia de informes y trazabilidad. No acredita ejecución posterior ni compatibilidad definitiva de todas las notas históricas.",
+  "documents": [
+    "suplemento_normativo_2026_es.md",
+    "suplemento_normativo_2026_pt.md",
+    "revision_editorial_consolidacion_2026_es.md",
+    "revision_editorial_consolidacion_2026_pt.md"
+  ],
+  "crossHistoricalCompatibilityProgress": {
+    "reviewDate": "2026-10-14",
+    "notesScanned": 816,
+    "directNotesExcluded": 25,
+    "crossNotesEligible": 791,
+    "candidateNotes": 142,
+    "reviewedCandidateNotes": 142,
+    "pendingCandidateNotes": 0,
+    "pendingIds": [],
+    "nextId": null,
+    "scanComplete": true,
+    "candidateReviewComplete": true,
+    "globalCompatibilityReviewComplete": false,
+    "officialApproval": false,
+    "externalCertification": false,
+    "documents": [
+      "compatibilidad_transversal_lote_01_2026_es.md",
+      "compatibilidad_transversal_lote_01_2026_pt.md",
+      "compatibilidad_transversal_lote_02_2026_es.md",
+      "compatibilidad_transversal_lote_02_2026_pt.md",
+      "compatibilidad_transversal_lote_03_2026_es.md",
+      "compatibilidad_transversal_lote_03_2026_pt.md",
+      "compatibilidad_transversal_lote_04_2026_es.md",
+      "compatibilidad_transversal_lote_04_2026_pt.md",
+      "compatibilidad_transversal_lote_05_2026_es.md",
+      "compatibilidad_transversal_lote_05_2026_pt.md"
+    ],
+    "scope": "Rastreo automático reproducible; números homónimos y coincidencias temáticas requieren clasificación individual. No detecta necesariamente referencias implícitas ni acredita vigencia general.",
+    "comparedReformRelatedNotes": 102,
+    "excludedOtherReferenceNotes": 40
+  },
+  "documentaryConfirmationProgress": {
+    "date": "2026-10-14",
+    "selectedIssueGroups": 7,
+    "reviewedSelectedGroups": 7,
+    "resolvedSelectedGroups": 2,
+    "openSelectedGroups": 5,
+    "partiallyResolvedGroups": 3,
+    "exhaustive": false,
+    "confirmationComplete": false,
+    "officialApproval": false,
+    "externalCertification": false,
+    "documents": [
+      "pendientes_confirmacion_documental_2026_es.md",
+      "pendientes_confirmacion_documental_2026_pt.md"
+    ]
+  },
+  "manualComparativeUnits": 1774,
+  "annexComparativePages": 560,
+  "sourceIntegrityChecks": "passed",
+  "sourceIssueSelection": [
+    {
+      "id": "SC-2026-CLXXXV",
+      "noteEs": "Falta la propuesta integral de los reglamentos de seminarios y la base RI-JET. Se conservan los 29 ajustes aprobados y la transición a 2030.",
+      "notePt": "Faltam a proposta integral dos regimentos dos seminários e a base RI-JET. Conservados os 29 ajustes aprovados e a transição para 2030."
+    },
+    {
+      "id": "CE-2026-CXXXV",
+      "noteEs": "Referencias LXXIII y LXXXIII distintas en la misma decisión; no se unifican silenciosamente.",
+      "notePt": "Referências LXXIII e LXXXIII distintas na mesma decisão; não são unificadas silenciosamente."
+    },
+    {
+      "id": "CE-2026-LXXXIII",
+      "noteEs": "No consta la base íntegra del estatuto Erasmo Braga; conservar las alteraciones y sus límites documentales.",
+      "notePt": "Não consta a base integral do estatuto Erasmo Braga; conservar as alterações e seus limites documentais."
+    },
+    {
+      "id": "CE-2026-CXLI",
+      "noteEs": "IBN: discrepancia del artículo 4 entre resolución y texto consolidado; registro y publicación condicionados sin ejecución acreditada.",
+      "notePt": "IBN: discrepância do artigo 4 entre resolução e texto consolidado; registro e publicação condicionados sem execução comprovada."
+    },
+    {
+      "id": "CE-2026-LXXXVI",
+      "noteEs": "Siglas PRCV/PRER distintas de PBCV/PBER en CE-XCVIII; no presumir identidad sin confirmar.",
+      "notePt": "Siglas PRCV/PRER distintas de PBCV/PBER em CE-XCVIII; não presumir identidade sem confirmar."
+    },
+    {
+      "id": "CE-2026-XII",
+      "noteEs": "Nacimiento 17.03.1978 y ordenación 08.01.1989: fechas de la fuente conservadas y pendientes de confirmación.",
+      "notePt": "Nascimento 17.03.1978 e ordenação 08.01.1989: datas da fonte conservadas e pendentes de confirmação."
+    },
+    {
+      "id": "CE-2026-VII",
+      "noteEs": "Cavalcante/Cavalcanti entre restauración y baja de CE-V: no fusionar identidades ni deducir una secuencia de efectos.",
+      "notePt": "Cavalcante/Cavalcanti entre restauração e baixa de CE-V: não fundir identidades nem deduzir uma sequência de efeitos."
+    },
+    {
+      "id": "CE-2026-XLIV",
+      "noteEs": "Referencia a 70 años junto a fecha de nacimiento de 1965; conservar la divergencia y confirmar documentalmente.",
+      "notePt": "Referência a 70 anos junto à data de nascimento de 1965; conservar a divergência e confirmar documentalmente."
+    },
+    {
+      "id": "SC-2026-CIX",
+      "noteEs": "Antecedente revocado por CE-CXIX. Se conserva para trazabilidad y no se presenta como decisión operativa vigente.",
+      "notePt": "Antecedente revogado por CE-CXIX. Conservado para rastreabilidade e não apresentado como decisão operativa vigente."
+    }
+  ],
+  "automaticSignalReviews": [
+    {
+      "id": "CI-nota-26",
+      "page": 22,
+      "reason": "posibles residuos portugueses; puede incluir nombres propios o citas",
+      "terms": [
+        "São"
+      ],
+      "classification": "proper-name-preserved",
+      "reviewDate": "2026-10-14",
+      "contexts": [
+        " – 1970 – DOC. LXX: «...Oficio del Sínodo de São Paulo sometiendo al S/C la resolución 69/3 de su Reunión de julio de 1969, encuad"
+      ],
+      "scope": "Señal São únicamente; no certifica la redacción completa de la unidad."
+    },
+    {
+      "id": "CI-nota-259",
+      "page": 117,
+      "reason": "posibles residuos portugueses; puede incluir nombres propios o citas",
+      "terms": [
+        "São"
+      ],
+      "classification": "proper-name-preserved",
+      "reviewDate": "2026-10-14",
+      "contexts": [
+        "as a presbiterios disueltos por el Sínodo de São Paulo, bajo la jurisdicción de otro Presbiterio”. CE – 1997 – DOC. CXVI: “transfe",
+        "Piratininga) al Presbiterio Unido (Sínodo de São Paulo). Declarar que en virtud del artículo 94 “a” es atribución del Sínodo: orga",
+        "Piratininga) al Presbiterio Unido (Sínodo de São Paulo). Declarar que con arreglo al artículo 94 “a” es atribución del Sínodo: org"
+      ],
+      "scope": "Señal São únicamente; no certifica la redacción completa de la unidad."
+    },
+    {
+      "id": "CI-nota-275",
+      "page": 126,
+      "reason": "posibles residuos portugueses; puede incluir nombres propios o citas",
+      "terms": [
+        "São"
+      ],
+      "classification": "proper-name-preserved",
+      "reviewDate": "2026-10-14",
+      "contexts": [
+        "Piratininga) al Presbiterio Unido (Sínodo de São Paulo). Declarar que con arreglo al artículo 94 “a” es atribución del Sínodo: org"
+      ],
+      "scope": "Señal São únicamente; no certifica la redacción completa de la unidad."
+    },
+    {
+      "id": "CD-nota-37",
+      "page": 179,
+      "reason": "posibles residuos portugueses; puede incluir nombres propios o citas",
+      "terms": [
+        "São"
+      ],
+      "classification": "proper-name-preserved",
+      "reviewDate": "2026-10-14",
+      "contexts": [
+        "do en Rua da Consolação, nº 930, Consolação, São Paulo, bajo la Presidencia del Presb. Jayro Boy de Vasconcelos Júnior, con la pre",
+        "do en Rua da Consolação, nº 930, Consolação, São Paulo, bajo la Presidencia del Presb. Jayro Boy de Vasconcelos Júnior, con la pre"
+      ],
+      "scope": "Señal São únicamente; no certifica la redacción completa de la unidad."
+    },
+    {
+      "id": "PL-nota-2",
+      "page": 222,
+      "reason": "posibles residuos portugueses; puede incluir nombres propios o citas",
+      "terms": [
+        "São"
+      ],
+      "classification": "proper-name-preserved",
+      "reviewDate": "2026-10-14",
+      "contexts": [
+        " – En cuanto al DOC. 86 – Del Presbiterio de São Carlos, sobre recepción de miembro que sea “deportista profesional”. Considerando"
+      ],
+      "scope": "Señal São únicamente; no certifica la redacción completa de la unidad."
+    },
+    {
+      "id": "PL-nota-3",
+      "page": 223,
+      "reason": "posibles residuos portugueses; puede incluir nombres propios o citas",
+      "terms": [
+        "São"
+      ],
+      "classification": "proper-name-preserved",
+      "reviewDate": "2026-10-14",
+      "contexts": [
+        "consulta ya fue hecha por el Sínodo Leste de São Paulo al Consejo de Curadores del Mackenzie (CCM). La CE/SC/IPB – 2009 resuelve: ",
+        "009 resuelve: 1. Informar al Sínodo Leste de São Paulo que el Consejo Deliberativo ya determinó que no ocurran más exámenes de ing"
+      ],
+      "scope": "Señal São únicamente; no certifica la redacción completa de la unidad."
+    },
+    {
+      "id": "PL-nota-15",
+      "page": 238,
+      "reason": "posibles residuos portugueses; puede incluir nombres propios o citas",
+      "terms": [
+        "São"
+      ],
+      "classification": "proper-name-preserved",
+      "reviewDate": "2026-10-14",
+      "contexts": [
+        "Ribeiro. Protestantismo y Cultura Brasileña. São Paulo: Casa Editora Presbiteriana, 1981, p. 25). Camilo Cardoso de Jesus por ser ",
+        "n, Historia del Culto Protestante en Brasil, São Paulo, ASTE, 1989, p.161); 4) En 1845, mediante consulta al Presbiterio de Ohio, "
+      ],
+      "scope": "Señal São únicamente; no certifica la redacción completa de la unidad."
+    },
+    {
+      "id": "RI-CE-nota-3",
+      "page": 346,
+      "reason": "posibles residuos portugueses; puede incluir nombres propios o citas",
+      "terms": [
+        "São"
+      ],
+      "classification": "proper-name-preserved",
+      "reviewDate": "2026-10-14",
+      "contexts": [
+        "XIII: “En cuanto al doc. 09, del Presbiterio São João do Meriti consulta sobre aplicación del párrafo único del art. 104 de la CI-"
+      ],
+      "scope": "Señal São únicamente; no certifica la redacción completa de la unidad."
+    },
+    {
+      "id": "manual-pagina-2",
+      "page": 2,
+      "reason": "posibles residuos portugueses; puede incluir nombres propios o citas",
+      "terms": [
+        "São"
+      ],
+      "classification": "proper-name-preserved",
+      "reviewDate": "2026-10-14",
+      "contexts": [
+        "teriano / Igreja Presbiteriana do Brasil.\n–- São Paulo: Cultura Cristã, 2025.\n560 p.\nISBN 978-65-5989-256-3\n1. Legislación. 2. Ecl",
+        "ua Miguel Teles Júnior, 394 – CEP 01540-040– São Paulo – SP\nTeléfonos (11) 3207-7215 | (11) 3346-4949 | (11) 97133-5653 WhatsApp\nw"
+      ],
+      "scope": "Señal São únicamente; no certifica la redacción completa de la unidad."
+    }
+  ],
+  "correctionLedger": "correcciones_editoriales_consolidacion_2026.json"
+}

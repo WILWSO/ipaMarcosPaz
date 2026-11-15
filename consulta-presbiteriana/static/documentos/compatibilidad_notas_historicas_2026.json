@@ -1,0 +1,593 @@
+{
+  "date": "2026-10-14",
+  "scope": "Ocho cambios incorporados, sus 25 notas directas y dos disposiciones relacionadas seleccionadas. Clasificación editorial documental, no certificación general de vigencia.",
+  "changedArticles": [
+    "CI-art-27",
+    "CI-art-44",
+    "CI-art-54",
+    "CI-art-64",
+    "CI-art-84",
+    "CI-art-88",
+    "RI-CE-art-8",
+    "ATAS-art-3"
+  ],
+  "directNoteIds": [
+    "CI-nota-98",
+    "CI-nota-99",
+    "CI-nota-100",
+    "CI-nota-139",
+    "CI-nota-140",
+    "CI-nota-161",
+    "CI-nota-162",
+    "CI-nota-163",
+    "CI-nota-180",
+    "CI-nota-247",
+    "CI-nota-253",
+    "CI-nota-254",
+    "CI-nota-255",
+    "CI-nota-256",
+    "CI-nota-257",
+    "CI-nota-258",
+    "CI-nota-259",
+    "CI-nota-260",
+    "CI-nota-261",
+    "CI-nota-262",
+    "CI-nota-263",
+    "CI-nota-264",
+    "CI-nota-265",
+    "CI-nota-266",
+    "CI-nota-267"
+  ],
+  "directScopeComplete": true,
+  "globalCompatibilityReviewComplete": false,
+  "officialApproval": false,
+  "externalCertification": false,
+  "items": [
+    {
+      "id": "CI-art-27",
+      "kind": "article",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "noteIds": [
+        "CI-nota-98",
+        "CI-nota-99",
+        "CI-nota-100"
+      ],
+      "classification": "alcance-y-notas-directas-examinados",
+      "findingEs": "EC 3: distingue miembro efectivo de miembro ex officio sin voto; los §§1–2 no se sustituyen. Las tres notas son remisiones, no permisos generales de voto.",
+      "findingPt": "EC 3: distingue membro efetivo de membro ex officio sem voto; os §§1–2 não são substituídos. As três notas são remissões, não permissões gerais de voto.",
+      "originalHash": "fb60e2a135517f30606fdd3356827cc164385ff65bc477c861d5cb97c302ad5a",
+      "translationHash": "10bf5ff9ffa868e083e93d6f482a640e662f1595ac02ef31fb50463f312b8b74",
+      "integratedHashPt": "fa4bdb6ae60ecafd40a9e22a74ad807342d35822e041ff4592c354b02bff4caf",
+      "integratedHashEs": "66ad0702ed537c53ea06a1454eda4c1c9cf9ffdef678c4baa276f40b7e8aca85"
+    },
+    {
+      "id": "CI-nota-98",
+      "kind": "note",
+      "article": "CI-art-27",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "classification": "remision-con-alcance-preservado",
+      "findingEs": "Remite a composición y representación de concilios. Leer las referencias con la distinción de EC3; la remisión no otorga voto a todos los ex officio.",
+      "findingPt": "Remete à composição e representação dos concílios. Ler as referências com a distinção da EC3; a remissão não concede voto a todos os ex officio.",
+      "originalHash": "971d657604afd24ef584280f9457b828f9dbf60f312833435379711dc61b1bb4",
+      "translationHash": "589660c29cd6ebb7bd84511b348a4b253c65ba46f580d7d9c22dcf4cf57d8a0a"
+    },
+    {
+      "id": "CI-nota-99",
+      "kind": "note",
+      "article": "CI-art-27",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "classification": "remision-con-alcance-preservado",
+      "findingEs": "Remisión al art.101, vinculada al §1 que EC3 conserva. Sin contradicción directa detectada en este alcance.",
+      "findingPt": "Remissão ao art.101, vinculada ao §1 conservado pela EC3. Sem contradição direta detectada nesse alcance.",
+      "originalHash": "affa9c7cfdc160f23ca7c80881633b8eed94fed37d172522e89086e67c0f902a",
+      "translationHash": "affa9c7cfdc160f23ca7c80881633b8eed94fed37d172522e89086e67c0f902a"
+    },
+    {
+      "id": "CI-nota-100",
+      "kind": "note",
+      "article": "CI-art-27",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "classification": "remision-con-alcance-preservado",
+      "findingEs": "Remisión al art.23 §3, relacionada con el §2 conservado; no redefine voto ni jurisdicción.",
+      "findingPt": "Remissão ao art.23 §3, ligada ao §2 conservado; não redefine voto nem jurisdição.",
+      "originalHash": "4b4ebc316c9a38e58a512aeb261f6b7786981cd173624c93dd29a04d10d2f230",
+      "translationHash": "4b4ebc316c9a38e58a512aeb261f6b7786981cd173624c93dd29a04d10d2f230"
+    },
+    {
+      "id": "CI-art-44",
+      "kind": "article",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "noteIds": [
+        "CI-nota-139",
+        "CI-nota-140"
+      ],
+      "classification": "alcance-y-notas-directas-examinados",
+      "findingEs": "EC 4: sustituye caput y párrafo único. Exige 25 años o más en la misma iglesia y permite el pastorado del emérito bajo las condiciones expresas. Las prohibiciones históricas absolutas deben advertirse por pasaje; no se declara revocada íntegramente cada resolución citada.",
+      "findingPt": "EC 4: substitui caput e parágrafo único. Exige 25 anos ou mais na mesma igreja e permite o pastorado do emérito sob as condições expressas. Advertir por passagem as proibições históricas absolutas; não declarar integralmente revogada cada resolução citada.",
+      "originalHash": "f8886174453cf3c84b2e75adefa563cdb12cfd5d0be0bd4b12090211d5a6674b",
+      "translationHash": "e1786fddac27aeb505d5c56f951e74b5f6627a0d9b85eeed91cfc51f301e46c9",
+      "integratedHashPt": "3f28acb0fb3cfa05314501e283cb03ebd0cfdf08017a668cefa08a7f45cdfab8",
+      "integratedHashEs": "b5ea5d50b5bae0085bb5ef2286f56ab44910e3d654ed79374c86bbedbffb25d7"
+    },
+    {
+      "id": "CI-nota-139",
+      "kind": "note",
+      "article": "CI-art-44",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "classification": "restriccion-historica-que-requiere-advertencia",
+      "findingEs": "Las letras a–d de CE2012-CLXIV se apoyan en el anterior art.44 y restringen presidencia, firma y pastorado auxiliar. EC4 ahora permite pastorado bajo condiciones. No aplicar esas prohibiciones como impedimento absoluto derivado del mero título; tampoco inferir firma o presidencia automática. Los demás extremos requieren lectura conjunta.",
+      "findingPt": "As alíneas a–d de CE2012-CLXIV apoiam-se no antigo art.44 e restringem presidência, assinatura e pastorado auxiliar. EC4 permite pastorado sob condições. Não aplicar tais proibições como impedimento absoluto decorrente do simples título; tampouco inferir assinatura ou presidência automática. Os demais pontos exigem leitura conjunta.",
+      "originalHash": "07aae57080c8a306c1a121cb584573f794bdd56e9d8f4bd3345beacb4c2f96b5",
+      "translationHash": "ff8e13c287a304fd5a4d9f69b5540d122d91f20bca7b3186418ca3020503ff9c"
+    },
+    {
+      "id": "CI-nota-140",
+      "kind": "note",
+      "article": "CI-art-44",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "classification": "nota-mixta-con-pasajes-afectados",
+      "findingEs": "CE2011-CXXXII niega pastorado en la iglesia que dio el título; ese impedimento absoluto contradice el permiso condicionado de EC4. También revisar las restricciones de CE2012-CLXIV. Las decisiones de 2022 sobre varios eméritos e in memoriam tratan otros supuestos y no se declaran revocadas por esta reforma.",
+      "findingPt": "CE2011-CXXXII nega pastorado na igreja que concedeu o título; esse impedimento absoluto contradiz a permissão condicionada da EC4. Rever também as restrições de CE2012-CLXIV. As decisões de 2022 sobre vários eméritos e in memoriam tratam de outras hipóteses e não são declaradas revogadas por essa alteração.",
+      "originalHash": "511f6cd74ff191ac0b1229d4599bf4998433f44235fdb1440bd9b3a2287096a2",
+      "translationHash": "82610fafbbc0a304114cc532f7813d187da35983f99acfce1fe32947c84c31d5"
+    },
+    {
+      "id": "CI-art-54",
+      "kind": "article",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "noteIds": [
+        "CI-nota-161",
+        "CI-nota-162",
+        "CI-nota-163"
+      ],
+      "classification": "alcance-y-notas-directas-examinados",
+      "findingEs": "EC 5: añade §3 para diáconos en disponibilidad, con invitación y sin voto en la Junta Diaconal. Mantiene caput, §§1–2 y la duración de cinco años; no traslada automáticamente al diácono las reglas históricas del presbítero.",
+      "findingPt": "EC 5: acrescenta §3 para diáconos em disponibilidade, mediante convite e sem voto na Junta Diaconal. Mantém caput, §§1–2 e a duração de cinco anos; não transfere automaticamente ao diácono as regras históricas do presbítero.",
+      "originalHash": "b7e877a695774bf1d6c358c6f29cc9a88049a2f53c752e6201ffded1e2fb5dea",
+      "translationHash": "3e87b4380aea5dacee79d958a3d2081aa194046c28ef2af482ca8dcc0c9c470d",
+      "integratedHashPt": "b785d91bb534a17fb58cc4259d6e152b9a868cd3eb05320c165c0f729967ea3f",
+      "integratedHashEs": "ca524e737f0d45916e5ab4936be6934dd1e9e1a3e6f065c494127d6cb6c3092d"
+    },
+    {
+      "id": "CI-nota-161",
+      "kind": "note",
+      "article": "CI-art-54",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "classification": "sin-conflicto-directo-en-alcance",
+      "findingEs": "Distingue vocaciones y ordenación, duración de cinco años, cartera del oficial y rechazo de cambiar mandatos. EC5 sólo añade disponibilidad del diácono; no cambia esos pasajes del caput.",
+      "findingPt": "Distingue vocações e ordenação, duração de cinco anos, carteira do oficial e rejeição da alteração de mandatos. EC5 só acrescenta disponibilidade do diácono; não altera essas passagens do caput.",
+      "originalHash": "d87cf39cd335eb2d8f13e841eb530182fee6e8e08222ef86fc206fc6d924f4ca",
+      "translationHash": "f412b4e5b9d591f3344082f5aa5b391ed7c4eae2b7ec3bc7e2c99b61b4181b6e"
+    },
+    {
+      "id": "CI-nota-162",
+      "kind": "note",
+      "article": "CI-art-54",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "classification": "remision-con-alcance-preservado",
+      "findingEs": "Remite a arts.110–111 sobre elección, en el §1 conservado. EC5 no modifica el plazo de tres meses de ese párrafo.",
+      "findingPt": "Remete aos arts.110–111 sobre eleição, no §1 conservado. EC5 não altera o prazo de três meses desse parágrafo.",
+      "originalHash": "b5187d477bda2882435a66381f73706d68bbbcc727286dd26332156a3ed0d505",
+      "translationHash": "cadacee21695a7b71ac3da0fdfe480786f3cd894d4784ec882824c824db05f78"
+    },
+    {
+      "id": "CI-nota-163",
+      "kind": "note",
+      "article": "CI-art-54",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "classification": "sin-conflicto-directo-en-alcance",
+      "findingEs": "Trata del presbítero en disponibilidad y cargos conciliares. EC5 no sustituye el §2; no usar esta nota como si prohibiera al diácono participar por invitación en la Junta sin voto, permiso expreso del nuevo §3.",
+      "findingPt": "Trata do presbítero em disponibilidade e cargos conciliares. EC5 não substitui o §2; não usar esta nota como proibição da participação do diácono por convite na Junta sem voto, permissão expressa do novo §3.",
+      "originalHash": "f468c19e19b9cd2d2d6d0dda0af9be62dbc0a97e70ba1badf82cc8fefcd0e03d",
+      "translationHash": "d066b98839516a67c578fcc11c6f79e949cfbcda144a14863f2ec21fd067e2d3"
+    },
+    {
+      "id": "CI-art-64",
+      "kind": "article",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "noteIds": [
+        "CI-nota-180"
+      ],
+      "classification": "alcance-y-notas-directas-examinados",
+      "findingEs": "EC 6: conserva 90 días para recurrir y añade 30 días para elevar el recurso desde su recepción por el concilio. El párrafo único sin efecto suspensivo permanece. La nota histórica debe leerse junto al nuevo plazo, sin confundir ambos cómputos.",
+      "findingPt": "EC 6: conserva 90 dias para recorrer e acrescenta 30 dias para subir o recurso desde o recebimento pelo concílio. Permanece o parágrafo único sem efeito suspensivo. Ler a nota histórica com o novo prazo, sem confundir os dois cômputos.",
+      "originalHash": "a3dd48426ac3179f88d4d5d3fbcab16a4666094d7d10537ffa9261aa73baf1bf",
+      "translationHash": "a83bb96d543fe226e315a0806d1663a6dcb2018025ce048f3132ed5632aa4f04",
+      "integratedHashPt": "f0d8433bf3e98aad3caf9eb802ad294de4ed895f44ab08246d4e07c94d477722",
+      "integratedHashEs": "41cb3e2abcb8b77fcba898477f765e43ba5614d9d6cc138a02d39063e5770a22"
+    },
+    {
+      "id": "CI-nota-180",
+      "kind": "note",
+      "article": "CI-art-64",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "classification": "lectura-complementaria-requerida",
+      "findingEs": "El cauce por intermedio del concilio recurrido, el caso de 2021 y la excepción descrita en 2025 no se suprimen textualmente por EC6. Debe añadirse a su lectura el plazo nuevo de 30 días; no sustituye los 90 días para recurrir ni elimina el grado inmediato.",
+      "findingPt": "O encaminhamento por intermédio do concílio recorrido, o caso de 2021 e a exceção descrita em 2025 não são textualmente suprimidos pela EC6. Acrescentar à leitura o novo prazo de 30 dias; não substitui os 90 dias para recorrer nem elimina a instância imediata.",
+      "originalHash": "8f79a207a173c4143fefdb4f2ba911f1f31dd1a922a36d028e7f20dc5639a6ae",
+      "translationHash": "0e14406ee7312e96985ff7b70306f1f3613de808728d4fec7f124bf972584a34"
+    },
+    {
+      "id": "CI-art-84",
+      "kind": "article",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "noteIds": [
+        "CI-nota-247"
+      ],
+      "classification": "alcance-y-notas-directas-examinados",
+      "findingEs": "EC 7: mandato de hasta cinco años y uno o más tesoreros. La nota 247 y el modelo EST-IG art.28 todavía dicen anualmente, un tesorero y mandato de un año. Registrar la divergencia; no reescribir silenciosamente estatutos locales ni declarar reformado todo el modelo.",
+      "findingPt": "EC 7: mandato de até cinco anos e um ou mais tesoureiros. A nota 247 e o modelo EST-IG art.28 ainda dizem anualmente, um tesoureiro e mandato de um ano. Registrar a divergência; não reescrever silenciosamente estatutos locais nem declarar reformado todo o modelo.",
+      "originalHash": "c48e9f7b650578490ea8fdd4af353e284f6c5366e822d80b66e2e693b3369437",
+      "translationHash": "8c7d2796223dc621633a2c8fd0f1c62f5639b29059f78ca9ff51bc4c77e0eddb",
+      "integratedHashPt": "f2f704e53c749b46c70e65b0e075aa9f713cfcbbc247025febc6d5f3b248ac75",
+      "integratedHashEs": "ea32528651e5410e21fe84c23865b41d6c4c89fa9a35b4344b20e4e1d3e84b86"
+    },
+    {
+      "id": "CI-nota-247",
+      "kind": "note",
+      "article": "CI-art-84",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "classification": "divergencia-textual-con-modelo",
+      "findingEs": "La elección anual y un tesorero reproducen el modelo histórico, no la nueva amplitud de EC7. El art.28 §4 del modelo también fija un año. Conservar el antecedente con advertencia de cotejo; la revisión de estatutos y condiciones de implementación queda abierta.",
+      "findingPt": "A eleição anual e um tesoureiro reproduzem o modelo histórico, não a nova amplitude da EC7. O art.28 §4 do modelo também fixa um ano. Conservar o antecedente com advertência de cotejo; permanece aberta a revisão dos estatutos e condições de implementação.",
+      "originalHash": "c81e0fb42a26544a5991bed0a0a25aa25f1e2c8935d17415c12b975dabf9c20f",
+      "translationHash": "09a21fc1956ac23ef6f5daa58d4ab657a6c2e6cc8fba7394b6e28dde626f4c5a"
+    },
+    {
+      "id": "CI-art-88",
+      "kind": "article",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "noteIds": [
+        "CI-nota-253",
+        "CI-nota-254",
+        "CI-nota-255",
+        "CI-nota-256",
+        "CI-nota-257",
+        "CI-nota-258",
+        "CI-nota-259",
+        "CI-nota-260",
+        "CI-nota-261",
+        "CI-nota-262",
+        "CI-nota-263",
+        "CI-nota-264",
+        "CI-nota-265",
+        "CI-nota-266",
+        "CI-nota-267"
+      ],
+      "classification": "alcance-y-notas-directas-examinados",
+      "findingEs": "EC 8: sustituye sólo la alínea a: elimina disciplinar de esa enumeración y añade revocar las candidaturas (original: cassar suas candidaturas). No modifica las demás alíneas ni demuestra por sí sola una abolición general de competencias disciplinarias. Las notas 254–267 se examinan dentro de ese límite; la nota 267 requiere además lectura conjunta con EC 3 sobre voto y representación.",
+      "findingPt": "EC 8: substitui apenas a alínea a: retira disciplinar dessa enumeração e acrescenta cassar suas candidaturas. Não altera as demais alíneas nem demonstra, por si só, abolição geral de competências disciplinares. As notas 254–267 são examinadas nesse limite; a nota 267 também exige leitura conjunta com EC 3 sobre voto e representação.",
+      "originalHash": "744e199ed863068dce18f7bfbc5cb96a97457202daa324c5b735c5eb69c83c95",
+      "translationHash": "9eb9c569f6682d3fdbcf4f3a0c7a44a4b9698b917196ac1f8d73d6602ae5a68b",
+      "integratedHashPt": "b32e91aa40809340165d5c0ac8c4fa5c322be4cc7bcb3187286e5cafc6b4f8f0",
+      "integratedHashEs": "1413ff367e2071bc15ab04314628747965e0b198fbda634e37418a3664d77837"
+    },
+    {
+      "id": "CI-nota-253",
+      "kind": "note",
+      "article": "CI-art-88",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "classification": "lectura-complementaria-requerida",
+      "findingEs": "Remisiones sobre candidatura y ordenación y resoluciones sobre obrero evangelista y ministro sin campo. EC8 cambia el texto de la alínea a y explicita cassar candidaturas; la nota no desarrolla ese nuevo extremo. No extender sus pasajes de evangelistas o sustento a una facultad disciplinaria general.",
+      "findingPt": "Remissões sobre candidatura e ordenação e resoluções sobre obreiro-evangelista e ministro sem campo. EC8 altera a alínea a e explicita cassar candidaturas; a nota não desenvolve esse novo ponto. Não estender suas passagens sobre evangelistas ou sustento a uma competência disciplinar geral.",
+      "originalHash": "ee4a9174e7cad504ca03b069c2ac7d26242d0647960835c57f53135934288670",
+      "translationHash": "bec4ac05e1c2530d6f6f4d30b033587fc23005ed7b60ab022bb8a832a68f3e76"
+    },
+    {
+      "id": "CI-nota-254",
+      "kind": "note",
+      "article": "CI-art-88",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "classification": "remision-con-alcance-preservado",
+      "findingEs": "Remisiones de la alínea b, conservada por EC8. Sin conflicto directo detectado con la sustitución limitada de a; no certifica todas las normas citadas.",
+      "findingPt": "Remissões da alínea b, conservada pela EC8. Sem conflito direto detectado com a substituição limitada de a; não certifica todas as normas citadas.",
+      "originalHash": "beebef74d6b7fb71358884c1beee6429cb1ac0268bcbd6cdc9840a2c558e127e",
+      "translationHash": "fa1a0f76fb6f126c5f9ad16cea17183c8b0c10bf7c47499f01e95ba91f9dbd68"
+    },
+    {
+      "id": "CI-nota-255",
+      "kind": "note",
+      "article": "CI-art-88",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "classification": "remision-con-alcance-preservado",
+      "findingEs": "Remisiones de la alínea c, conservada por EC8. Sin conflicto directo detectado con la sustitución limitada de a; no certifica todas las normas citadas.",
+      "findingPt": "Remissões da alínea c, conservada pela EC8. Sem conflito direto detectado com a substituição limitada de a; não certifica todas as normas citadas.",
+      "originalHash": "a2ddb0ebce44e5d98e300c821728c94ec238bca8f1b5d2da50e29143659de913",
+      "translationHash": "a4acd817c9c4c4720bb4c761d2742896a62409340ef4e015f5c725e95fc9b68a"
+    },
+    {
+      "id": "CI-nota-256",
+      "kind": "note",
+      "article": "CI-art-88",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "classification": "remision-con-alcance-preservado",
+      "findingEs": "Remisiones de la alínea d, conservada por EC8. Sin conflicto directo detectado con la sustitución limitada de a; no certifica todas las normas citadas.",
+      "findingPt": "Remissões da alínea d, conservada pela EC8. Sem conflito direto detectado com a substituição limitada de a; não certifica todas as normas citadas.",
+      "originalHash": "818420a7b632c51abbae1630526ab736b6fba36ea24aff2d403541f95a1bec9a",
+      "translationHash": "87221d856307d4307d0ce5df5496ceaaa8d235a7caeb8f2660a53f07b9a6cf60"
+    },
+    {
+      "id": "CI-nota-257",
+      "kind": "note",
+      "article": "CI-art-88",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "classification": "remision-con-alcance-preservado",
+      "findingEs": "Remisiones de la alínea d, conservada por EC8. Sin conflicto directo detectado con la sustitución limitada de a; no certifica todas las normas citadas.",
+      "findingPt": "Remissões da alínea d, conservada pela EC8. Sem conflito direto detectado com a substituição limitada de a; não certifica todas as normas citadas.",
+      "originalHash": "52e057799731a8a5daa42f19e1c45ca025627cbc4c5a40e528ba688fd76791bb",
+      "translationHash": "52e057799731a8a5daa42f19e1c45ca025627cbc4c5a40e528ba688fd76791bb"
+    },
+    {
+      "id": "CI-nota-258",
+      "kind": "note",
+      "article": "CI-art-88",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "classification": "remision-con-alcance-preservado",
+      "findingEs": "Remisiones de la alínea e, conservada por EC8. Sin conflicto directo detectado con la sustitución limitada de a; no certifica todas las normas citadas.",
+      "findingPt": "Remissões da alínea e, conservada pela EC8. Sem conflito direto detectado com a substituição limitada de a; não certifica todas as normas citadas.",
+      "originalHash": "4dfd626bb43c7a5672861bba14e2ddc2114a87148761b8c751e2a5e58ee1f6f0",
+      "translationHash": "4dfd626bb43c7a5672861bba14e2ddc2114a87148761b8c751e2a5e58ee1f6f0"
+    },
+    {
+      "id": "CI-nota-259",
+      "kind": "note",
+      "article": "CI-art-88",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "classification": "sin-conflicto-directo-en-alcance",
+      "findingEs": "Organización, disolución y transferencia de iglesias y campos transculturales: alínea f, no a. EC8 no sustituye esos pasajes. Las revocaciones y condiciones ya citadas en la nota se conservan; esta clasificación no acredita su vigencia general ni ejecución posterior.",
+      "findingPt": "Organização, dissolução e transferência de igrejas e campos transculturais: alínea f, não a. EC8 não substitui essas passagens. Conservadas as revogações e condições já citadas na nota; esta classificação não comprova vigência geral nem execução posterior.",
+      "originalHash": "b08158cc92142b0f38bed68ccc25adf82199dc70f6e1d6af88456024980b81ef",
+      "translationHash": "71a812e953d768ac5b89771b2829c510a186dd05e9af27798d5ad9e25fa5d98b"
+    },
+    {
+      "id": "CI-nota-260",
+      "kind": "note",
+      "article": "CI-art-88",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "classification": "remision-con-alcance-preservado",
+      "findingEs": "Remisiones de la alínea g, conservada por EC8. Sin conflicto directo detectado con la sustitución limitada de a; no certifica todas las normas citadas.",
+      "findingPt": "Remissões da alínea g, conservada pela EC8. Sem conflito direto detectado com a substituição limitada de a; não certifica todas as normas citadas.",
+      "originalHash": "2b346a47a407f9027fffc4364d5baaada78df734013000e60170f19099cc7114",
+      "translationHash": "7259e00fd8b37d4ebd4d93f7144c3396d4e0046be228334394b8c30663870d5a"
+    },
+    {
+      "id": "CI-nota-261",
+      "kind": "note",
+      "article": "CI-art-88",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "classification": "remision-con-alcance-preservado",
+      "findingEs": "Remisiones de la alínea h, conservada por EC8. Sin conflicto directo detectado con la sustitución limitada de a; no certifica todas las normas citadas.",
+      "findingPt": "Remissões da alínea h, conservada pela EC8. Sem conflito direto detectado com a substituição limitada de a; não certifica todas as normas citadas.",
+      "originalHash": "92b555c6a182ad5af1a71b5621f542774738c7c3f746680380470aaa1d549378",
+      "translationHash": "8eb2707244f383530cf6f29b1c04736d798c961d882023cef60e4ff59fb5b547"
+    },
+    {
+      "id": "CI-nota-262",
+      "kind": "note",
+      "article": "CI-art-88",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "classification": "lectura-complementaria-requerida",
+      "findingEs": "Examen de actas, alínea i sin cambio por EC8. La remisión general al Reglamento de Actas debe leerse con la corrección CE2026-CII sobre términos sin numeración; no se modifica aquí la distinción de regularidad y fidelidad de registros.",
+      "findingPt": "Exame de atas, alínea i sem alteração pela EC8. Ler a remissão geral ao Regulamento de Atas com a correção CE2026-CII sobre termos sem numeração; não alterar aqui a distinção de regularidade e fidelidade dos registros.",
+      "originalHash": "a4401ba26ed2c12f011db8a77e2d236f975370d8dae9ce2027b1ceee6490eeb4",
+      "translationHash": "c2a08b068ac5afd047e4a82aad0c0fa83f0ef482395662484c9f5f32c771da77"
+    },
+    {
+      "id": "CI-nota-263",
+      "kind": "note",
+      "article": "CI-art-88",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "classification": "sin-conflicto-directo-en-alcance",
+      "findingEs": "Dízimos y ofertas, alínea j conservada. EC8 no establece un porcentaje nuevo, no aprueba la propuesta rechazada de 5% ni suprime las excepciones históricas reproducidas.",
+      "findingPt": "Dízimos e ofertas, alínea j conservada. EC8 não estabelece novo percentual, não aprova a proposta rejeitada de 5% nem suprime as exceções históricas reproduzidas.",
+      "originalHash": "036f68525e67e6a3febac633505934c1f6bb1d1a6c399bab63223babd0e3db99",
+      "translationHash": "32bc72947b488435010d7a9cc095ef9bdadeb229adf0cf3204e9057dff86b0f0"
+    },
+    {
+      "id": "CI-nota-264",
+      "kind": "note",
+      "article": "CI-art-88",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "classification": "sin-conflicto-directo-en-alcance",
+      "findingEs": "Territorialidad y plantación, alínea l conservada. Mantener diferencias entre trabajos presbiteriales y de iglesias locales, delimitación sinodal y recomendación de proximidad; EC8 no unifica esas categorías.",
+      "findingPt": "Territorialidade e plantação, alínea l conservada. Manter diferenças entre trabalhos presbiteriais e de igrejas locais, delimitação sinodal e recomendação de proximidade; EC8 não unifica tais categorias.",
+      "originalHash": "789aa9a5b03096cbe9df1f4c4e40eac0798b8b216f2d56f319309f2d0616047c",
+      "translationHash": "e348d7f0af13855f2da8a0dbe7a22b2edf87ed20bf9fe3bfaaddd390e99e0b8a"
+    },
+    {
+      "id": "CI-nota-265",
+      "kind": "note",
+      "article": "CI-art-88",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "classification": "remision-con-alcance-preservado",
+      "findingEs": "Remisiones de la alínea m, conservada por EC8. Sin conflicto directo detectado con la sustitución limitada de a; no certifica todas las normas citadas.",
+      "findingPt": "Remissões da alínea m, conservada pela EC8. Sem conflito direto detectado com a substituição limitada de a; não certifica todas as normas citadas.",
+      "originalHash": "52bfa7173e00670975aa4918008462a965fc18ae7d1e9153e9e4c2ba7e0f2f44",
+      "translationHash": "587af9bc8f9984b48e9db298617164562d723064bfd651f40b25446f91ec7aaf"
+    },
+    {
+      "id": "CI-nota-266",
+      "kind": "note",
+      "article": "CI-art-88",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "classification": "sin-conflicto-directo-en-alcance",
+      "findingEs": "Propuesta de sustituir investigar por conocer en la alínea n rechazada en 2014. EC8 sólo cambia a; no convierte esa propuesta histórica en reforma aprobada.",
+      "findingPt": "Proposta de substituir investigar por conhecer na alínea n rejeitada em 2014. EC8 altera apenas a; não transforma essa proposta histórica em alteração aprovada.",
+      "originalHash": "0ebfdfb4f652b56f57316c47964d3510da25ec716e0cb8a0ca3e4e56d4094f06",
+      "translationHash": "63a9e8b25bf354454a2e4c04eedc2aca3162b0da7ca8597bd0aa2b9968a21a07"
+    },
+    {
+      "id": "CI-nota-267",
+      "kind": "note",
+      "article": "CI-art-88",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "classification": "nota-mixta-con-lectura-conjunta",
+      "findingEs": "EC8 no cambia la elección de representantes de la alínea p. El extracto CE2012-CCXIII distingue voto en pleno y Comisión Ejecutiva y miembros efectivos/ex officio: requiere lectura conjunta con EC3, sin extender la ausencia de voto en pleno a cualquier órgano. SC2022-XVIII rechazó otra propuesta y no se convierte en nueva regla.",
+      "findingPt": "EC8 não altera a eleição de representantes da alínea p. O excerto CE2012-CCXIII distingue voto no plenário e Comissão Executiva e membros efetivos/ex officio: exige leitura conjunta com EC3, sem estender a ausência de voto no plenário a qualquer órgão. SC2022-XVIII rejeitou outra proposta e não se transforma em nova regra.",
+      "originalHash": "e59ddf7a8be0278304387e9f92106a02a8ab11eb28ac4bbe24bcf5982b749a4f",
+      "translationHash": "5e59aa62188945e8f87b67be9cd58d705e21b3f62126289b89cbd28a21930971"
+    },
+    {
+      "id": "RI-CE-art-8",
+      "kind": "article",
+      "sources": [
+        "SC-2026-CXXIII"
+      ],
+      "noteIds": [],
+      "classification": "alcance-y-notas-directas-examinados",
+      "findingEs": "Revocación limitada al inciso X del cuerpo principal. El inciso X del párrafo único, sobre secretariar reuniones, permanece. No hay notas directas. La reforma paralela del RI de Secretaría Ejecutiva requiere la base no suministrada.",
+      "findingPt": "Revogação limitada ao inciso X do corpo principal. O inciso X do parágrafo único, sobre secretariar reuniões, permanece. Não há notas diretas. A alteração paralela do RI da Secretaria Executiva depende da base não fornecida.",
+      "originalHash": "51e63cc78d8fa9562dbbcfef700799f5cd794982d87c581c1bef728633efcaec",
+      "translationHash": "e2d1b1dd9a7114e19b1f6d2482244b467c892b7ee78a3a369fee98dfc8ae5555",
+      "integratedHashPt": "fc1a67d0847e00092f0a8ed9d7cca299bfb78a5c8fd268bed754096f33fb31b4",
+      "integratedHashEs": "e3a6eae52a00cca30775148b076151787ee15d628d1f78b72a833ae8d66c7eb6"
+    },
+    {
+      "id": "ATAS-art-3",
+      "kind": "article",
+      "sources": [
+        "CE-2026-CII"
+      ],
+      "noteIds": [],
+      "classification": "alcance-y-notas-directas-examinados",
+      "findingEs": "Sustitución del caput: apertura y cierre en hojas sin numeración. Los §§1–3 permanecen. No hay notas directas. Se coteja art.20: numeración del cuerpo de actas y excepción de los términos; no se renumeran párrafos ni se altera la fórmula de hasta 100 hojas.",
+      "findingPt": "Substituição do caput: abertura e encerramento em folhas sem numeração. Permanecem os §§1–3. Não há notas diretas. Conferido art.20: numeração do corpo de atas e exceção dos termos; não renumerar parágrafos nem alterar a fórmula de até 100 folhas.",
+      "originalHash": "77c60a22fc21bf6bad607fbbd4c9a99b22070b9a5a95a8196a8317aa3da5181e",
+      "translationHash": "30249bd0c3b14b4165a27e3d02f42cddd42f1bd405ffeb269882adb84d0f8d0c",
+      "integratedHashPt": "58d5c26148321b68099222d1fcf2b5a198bb90e1c87ce9ec05eab49d13b528b9",
+      "integratedHashEs": "f1e250d6e9666255d4307a6db846e1a9a2dcd5c9ec235e8c57939bce8cdfffca"
+    },
+    {
+      "id": "EST-IG-art-28",
+      "kind": "related-provision",
+      "article": "CI-art-84",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "classification": "dispositivo-relacionado-examinado",
+      "findingEs": "Modelo histórico: elección anual, un tesorero y mandato de un año en §4. Divergencia documental frente a EC7; no se crea una redacción integrada de este artículo por inferencia.",
+      "findingPt": "Modelo histórico: eleição anual, um tesoureiro e mandato de um ano no §4. Divergência documental diante da EC7; não criar redação integrada deste artigo por inferência.",
+      "originalHash": "69ef00be947e99b28be6f78ce98cd7f9876ce679d4e86c59ae836cf356461f4a",
+      "translationHash": "4779615a4fa3caf75624290e07b310c3096196692176b438bd9bcb5fb1dcecc2"
+    },
+    {
+      "id": "ATAS-art-20",
+      "kind": "related-provision",
+      "article": "ATAS-art-3",
+      "sources": [
+        "CE-2026-CII"
+      ],
+      "classification": "dispositivo-relacionado-examinado",
+      "findingEs": "La excepción expresa de términos sin numeración concuerda con CE2026-CII; se conserva el cuerpo numerado del libro.",
+      "findingPt": "A exceção expressa dos termos sem numeração concorda com CE2026-CII; conservado o corpo numerado do livro.",
+      "originalHash": "20983e05bad431353610e68aba52e3cd4ca1a8c719767849f16a1033ffd76991",
+      "translationHash": "90586b1743d5d91d4f2f63165bb50cded6e49ba021fe1583b92fb887a9f30bea"
+    }
+  ],
+  "pendingEs": [
+    "Rastrear menciones transversales de los artículos reformados en el resto de las 816 notas históricas; no se consideran cotejadas aquí.",
+    "Confirmar documentalmente la adecuación de modelos y estatutos locales al art.84 y el alcance actual de las restricciones históricas del art.44.",
+    "Obtener las bases no suministradas, incluido el RI de Secretaría Ejecutiva, y resolver las divergencias del informe editorial."
+  ],
+  "pendingPt": [
+    "Rastrear menções transversais dos artigos alterados nas demais 816 notas históricas; não são consideradas conferidas aqui.",
+    "Confirmar documentalmente a adequação de modelos e estatutos locais ao art.84 e o alcance atual das restrições históricas do art.44.",
+    "Obter as bases não fornecidas, inclusive o RI da Secretaria Executiva, e resolver as divergências do relatório editorial."
+  ],
+  "sourcePDFSHA256": {
+    "manual": "2d8b728004e32995ee5f1600a7e4e0da94a7124e253bf1fac5322a2b93a083a3",
+    "digesto": "e82955017938a555ab31a699d125b48fdfce686dd03d69b7b8dbbad1b03c2482"
+  },
+  "reformProvenance": {
+    "CE-2026-CII": {
+      "originalHash": "1bdeaa0744a0c664914b692e4c4c188abc15abd2a03acf2c05285a012c651cb9",
+      "translationHash": "ee680ddb88c23d8c5b59b7310af1923dd950e8e36c25eeec136b6e89433552b1",
+      "pdfSHA256": "e82955017938a555ab31a699d125b48fdfce686dd03d69b7b8dbbad1b03c2482",
+      "pages": [
+        305,
+        306
+      ]
+    },
+    "SC-2026-CCI": {
+      "originalHash": "9a14825cd6b834a4646d6cbd96c45504452c5707d108045a39f1a9b30fd714cd",
+      "translationHash": "5f6c503c43bde2d72e770c8929f6168531cd4ccc1d6dc7e74be10da89735370e",
+      "pdfSHA256": "e82955017938a555ab31a699d125b48fdfce686dd03d69b7b8dbbad1b03c2482",
+      "pages": [
+        27,
+        28
+      ]
+    },
+    "SC-2026-CXXIII": {
+      "originalHash": "64314e540c602bb55f76ce2b569dce1b1660cc5f7046355aaa14508282609ba3",
+      "translationHash": "4b747d2789d465b8ea7b131509dc1f36e9aa5ebdc18023b9c5c6cb27a02d51a9",
+      "pdfSHA256": "e82955017938a555ab31a699d125b48fdfce686dd03d69b7b8dbbad1b03c2482",
+      "pages": [
+        114,
+        115,
+        116
+      ]
+    }
+  }
+}

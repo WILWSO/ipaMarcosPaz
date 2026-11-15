@@ -1,0 +1,20 @@
+{
+  "reviewedIds": [
+    "CI-nota-15",
+    "CI-nota-16",
+    "CI-nota-17",
+    "CI-nota-18",
+    "CI-nota-19",
+    "CI-nota-20",
+    "CI-nota-21",
+    "CI-nota-22"
+  ],
+  "replacements": {
+    "CI-nota-15": [
+      [
+        "patrón “Iglesia Presbiteriana de...”",
+        "patrón “Igreja Presbiteriana de...”"
+      ]
+    ]
+  }
+}

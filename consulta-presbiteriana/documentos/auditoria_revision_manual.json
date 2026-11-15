@@ -1,0 +1,2635 @@
+{
+  "file": "manual_2025_es.md",
+  "date": "2026-10-14",
+  "approvedAsDefinitiveSource": false,
+  "semanticReviewComplete": false,
+  "structuredUnitsReviewComplete": true,
+  "frontMatterReviewProgress": {
+    "comparedPages": 58,
+    "totalPages": 58,
+    "comparedPreliminaryPages": 4,
+    "comparedSeparatorPages": 13,
+    "comparedContentsPages": 8,
+    "comparedIndexPages": 14,
+    "verifiedBlankPages": 19,
+    "pendingIds": [],
+    "reviewComplete": true,
+    "scope": "Preliminares e inventario OTROS; excluye el anexo automático de 560 páginas",
+    "externalCertification": false
+  },
+  "manualPageAnnexReviewComplete": true,
+  "pageAnnexReviewProgress": {
+    "comparedPages": 560,
+    "totalPages": 560,
+    "pendingPages": 0,
+    "reviewedPages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189,
+      190,
+      191,
+      192,
+      193,
+      194,
+      195,
+      196,
+      197,
+      198,
+      199,
+      200,
+      201,
+      202,
+      203,
+      204,
+      205,
+      206,
+      207,
+      208,
+      209,
+      210,
+      211,
+      212,
+      213,
+      214,
+      215,
+      216,
+      217,
+      218,
+      219,
+      220,
+      221,
+      222,
+      223,
+      224,
+      225,
+      226,
+      227,
+      228,
+      229,
+      230,
+      231,
+      232,
+      233,
+      234,
+      235,
+      236,
+      237,
+      238,
+      239,
+      240,
+      241,
+      242,
+      243,
+      244,
+      245,
+      246,
+      247,
+      248,
+      249,
+      250,
+      251,
+      252,
+      253,
+      254,
+      255,
+      256,
+      257,
+      258,
+      259,
+      260,
+      261,
+      262,
+      263,
+      264,
+      265,
+      266,
+      267,
+      268,
+      269,
+      270,
+      271,
+      272,
+      273,
+      274,
+      275,
+      276,
+      277,
+      278,
+      279,
+      280,
+      281,
+      282,
+      283,
+      284,
+      285,
+      286,
+      287,
+      288,
+      289,
+      290,
+      291,
+      292,
+      293,
+      294,
+      295,
+      296,
+      297,
+      298,
+      299,
+      300,
+      301,
+      302,
+      303,
+      304,
+      305,
+      306,
+      307,
+      308,
+      309,
+      310,
+      311,
+      312,
+      313,
+      314,
+      315,
+      316,
+      317,
+      318,
+      319,
+      320,
+      321,
+      322,
+      323,
+      324,
+      325,
+      326,
+      327,
+      328,
+      329,
+      330,
+      331,
+      332,
+      333,
+      334,
+      335,
+      336,
+      337,
+      338,
+      339,
+      340,
+      341,
+      342,
+      343,
+      344,
+      345,
+      346,
+      347,
+      348,
+      349,
+      350,
+      351,
+      352,
+      353,
+      354,
+      355,
+      356,
+      357,
+      358,
+      359,
+      360,
+      361,
+      362,
+      363,
+      364,
+      365,
+      366,
+      367,
+      368,
+      369,
+      370,
+      371,
+      372,
+      373,
+      374,
+      375,
+      376,
+      377,
+      378,
+      379,
+      380,
+      381,
+      382,
+      383,
+      384,
+      385,
+      386,
+      387,
+      388,
+      389,
+      390,
+      391,
+      392,
+      393,
+      394,
+      395,
+      396,
+      397,
+      398,
+      399,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405,
+      406,
+      407,
+      408,
+      409,
+      410,
+      411,
+      412,
+      413,
+      414,
+      415,
+      416,
+      417,
+      418,
+      419,
+      420,
+      421,
+      422,
+      423,
+      424,
+      425,
+      426,
+      427,
+      428,
+      429,
+      430,
+      431,
+      432,
+      433,
+      434,
+      435,
+      436,
+      437,
+      438,
+      439,
+      440,
+      441,
+      442,
+      443,
+      444,
+      445,
+      446,
+      447,
+      448,
+      449,
+      450,
+      451,
+      452,
+      453,
+      454,
+      455,
+      456,
+      457,
+      458,
+      459,
+      460,
+      461,
+      462,
+      463,
+      464,
+      465,
+      466,
+      467,
+      468,
+      469,
+      470,
+      471,
+      472,
+      473,
+      474,
+      475,
+      476,
+      477,
+      478,
+      479,
+      480,
+      481,
+      482,
+      483,
+      484,
+      485,
+      486,
+      487,
+      488,
+      489,
+      490,
+      491,
+      492,
+      493,
+      494,
+      495,
+      496,
+      497,
+      498,
+      499,
+      500,
+      501,
+      502,
+      503,
+      504,
+      505,
+      506,
+      507,
+      508,
+      509,
+      510,
+      511,
+      512,
+      513,
+      514,
+      515,
+      516,
+      517,
+      518,
+      519,
+      520,
+      521,
+      522,
+      523,
+      524,
+      525,
+      526,
+      527,
+      528,
+      529,
+      530,
+      531,
+      532,
+      533,
+      534,
+      535,
+      536,
+      537,
+      538,
+      539,
+      540,
+      541,
+      542,
+      543,
+      544,
+      545,
+      546,
+      547,
+      548,
+      549,
+      550,
+      551,
+      552,
+      553,
+      554,
+      555,
+      556,
+      557,
+      558,
+      559,
+      560
+    ],
+    "reviewComplete": true,
+    "scope": "Revisión independiente del anexo por páginas",
+    "pendingContinuation": null,
+    "completedContinuations": [
+      {
+        "note": 23,
+        "endsOnPage": 22,
+        "complete": true
+      },
+      {
+        "note": 33,
+        "endsOnPage": 24,
+        "complete": true
+      },
+      {
+        "note": 35,
+        "endsOnPage": 26,
+        "complete": true
+      },
+      {
+        "note": 43,
+        "endsOnPage": 28,
+        "complete": true
+      },
+      {
+        "note": 47,
+        "endsOnPage": 29,
+        "complete": true
+      },
+      {
+        "note": 49,
+        "endsOnPage": 30,
+        "complete": true
+      },
+      {
+        "note": 52,
+        "endsOnPage": 34,
+        "complete": true
+      },
+      {
+        "note": 58,
+        "endsOnPage": 37,
+        "complete": true
+      },
+      {
+        "note": 61,
+        "endsOnPage": 38,
+        "complete": true
+      },
+      {
+        "note": 62,
+        "endsOnPage": 40,
+        "complete": true
+      },
+      {
+        "note": 66,
+        "endsOnPage": 41,
+        "complete": true
+      },
+      {
+        "note": 70,
+        "endsOnPage": 42,
+        "complete": true
+      },
+      {
+        "note": 73,
+        "endsOnPage": 43,
+        "complete": true
+      },
+      {
+        "note": 79,
+        "endsOnPage": 45,
+        "complete": true
+      },
+      {
+        "note": 86,
+        "endsOnPage": 47,
+        "complete": true
+      },
+      {
+        "note": 92,
+        "endsOnPage": 48,
+        "complete": true
+      },
+      {
+        "note": 102,
+        "endsOnPage": 50,
+        "complete": true
+      },
+      {
+        "note": 105,
+        "endsOnPage": 51,
+        "complete": true
+      },
+      {
+        "note": 107,
+        "endsOnPage": 52,
+        "complete": true
+      },
+      {
+        "note": 109,
+        "endsOnPage": 53,
+        "complete": true
+      },
+      {
+        "note": 110,
+        "endsOnPage": 55,
+        "complete": true
+      },
+      {
+        "note": 111,
+        "endsOnPage": 56,
+        "complete": true
+      },
+      {
+        "note": 113,
+        "endsOnPage": 57,
+        "complete": true
+      },
+      {
+        "note": 115,
+        "endsOnPage": 58,
+        "complete": true
+      },
+      {
+        "note": 117,
+        "endsOnPage": 59,
+        "complete": true
+      },
+      {
+        "note": 118,
+        "endsOnPage": 60,
+        "complete": true
+      },
+      {
+        "note": 122,
+        "endsOnPage": 61,
+        "complete": true
+      },
+      {
+        "note": 124,
+        "endsOnPage": 63,
+        "complete": true
+      },
+      {
+        "note": 125,
+        "endsOnPage": 66,
+        "complete": true
+      },
+      {
+        "note": 131,
+        "endsOnPage": 67,
+        "complete": true
+      },
+      {
+        "note": 134,
+        "endsOnPage": 68,
+        "complete": true
+      },
+      {
+        "note": 136,
+        "endsOnPage": 69,
+        "complete": true
+      },
+      {
+        "note": 137,
+        "endsOnPage": 71,
+        "complete": true
+      },
+      {
+        "note": 140,
+        "endsOnPage": 72,
+        "complete": true
+      },
+      {
+        "note": 145,
+        "endsOnPage": 74,
+        "complete": true
+      },
+      {
+        "note": 146,
+        "endsOnPage": 75,
+        "complete": true
+      },
+      {
+        "note": 147,
+        "endsOnPage": 76,
+        "complete": true
+      },
+      {
+        "note": 149,
+        "endsOnPage": 77,
+        "complete": true
+      },
+      {
+        "note": 152,
+        "endsOnPage": 79,
+        "complete": true
+      },
+      {
+        "note": 158,
+        "endsOnPage": 80,
+        "complete": true
+      },
+      {
+        "note": 161,
+        "endsOnPage": 81,
+        "complete": true
+      },
+      {
+        "note": 163,
+        "endsOnPage": 82,
+        "complete": true
+      },
+      {
+        "note": 165,
+        "endsOnPage": 83,
+        "complete": true
+      },
+      {
+        "note": 168,
+        "endsOnPage": 84,
+        "complete": true
+      },
+      {
+        "note": 169,
+        "endsOnPage": 85,
+        "complete": true
+      },
+      {
+        "note": 179,
+        "endsOnPage": 87,
+        "complete": true
+      },
+      {
+        "note": 183,
+        "endsOnPage": 89,
+        "complete": true
+      },
+      {
+        "note": 187,
+        "endsOnPage": 91,
+        "complete": true
+      },
+      {
+        "note": 188,
+        "endsOnPage": 93,
+        "complete": true
+      },
+      {
+        "note": 189,
+        "endsOnPage": 94,
+        "complete": true
+      },
+      {
+        "note": 192,
+        "endsOnPage": 95,
+        "complete": true
+      },
+      {
+        "note": 193,
+        "endsOnPage": 97,
+        "complete": true
+      },
+      {
+        "note": 200,
+        "endsOnPage": 99,
+        "complete": true
+      },
+      {
+        "note": 204,
+        "endsOnPage": 100,
+        "complete": true
+      },
+      {
+        "note": 205,
+        "endsOnPage": 102,
+        "complete": true
+      },
+      {
+        "note": 208,
+        "endsOnPage": 103,
+        "complete": true
+      },
+      {
+        "note": 209,
+        "endsOnPage": 104,
+        "complete": true
+      },
+      {
+        "note": 210,
+        "endsOnPage": 105,
+        "complete": true
+      },
+      {
+        "note": 216,
+        "endsOnPage": 107,
+        "complete": true
+      },
+      {
+        "note": 218,
+        "endsOnPage": 109,
+        "complete": true
+      },
+      {
+        "note": 222,
+        "endsOnPage": 110,
+        "complete": true
+      },
+      {
+        "note": 239,
+        "endsOnPage": 113,
+        "complete": true
+      },
+      {
+        "note": 241,
+        "endsOnPage": 114,
+        "complete": true
+      },
+      {
+        "note": 253,
+        "endsOnPage": 116,
+        "complete": true
+      },
+      {
+        "note": 259,
+        "endsOnPage": 120,
+        "complete": true
+      },
+      {
+        "note": 263,
+        "endsOnPage": 121,
+        "complete": true
+      },
+      {
+        "note": 264,
+        "endsOnPage": 122,
+        "complete": true
+      },
+      {
+        "note": 267,
+        "endsOnPage": 123,
+        "complete": true
+      },
+      {
+        "note": 271,
+        "endsOnPage": 126,
+        "complete": true
+      },
+      {
+        "note": 275,
+        "endsOnPage": 127,
+        "complete": true
+      },
+      {
+        "note": 278,
+        "endsOnPage": 128,
+        "complete": true
+      },
+      {
+        "note": 295,
+        "endsOnPage": 131,
+        "complete": true
+      },
+      {
+        "note": 306,
+        "endsOnPage": 135,
+        "complete": true
+      },
+      {
+        "note": 312,
+        "endsOnPage": 137,
+        "complete": true
+      },
+      {
+        "note": 315,
+        "endsOnPage": 138,
+        "complete": true
+      },
+      {
+        "note": 316,
+        "endsOnPage": 139,
+        "complete": true
+      },
+      {
+        "note": 324,
+        "endsOnPage": 142,
+        "complete": true
+      },
+      {
+        "note": 327,
+        "endsOnPage": 143,
+        "complete": true
+      },
+      {
+        "note": 330,
+        "endsOnPage": 144,
+        "complete": true
+      },
+      {
+        "note": 331,
+        "endsOnPage": 146,
+        "complete": true
+      },
+      {
+        "note": 332,
+        "endsOnPage": 147,
+        "complete": true
+      },
+      {
+        "note": 334,
+        "endsOnPage": 148,
+        "complete": true
+      },
+      {
+        "note": 5,
+        "norm": "CD",
+        "endsOnPage": 169,
+        "complete": true
+      },
+      {
+        "note": 14,
+        "norm": "CD",
+        "endsOnPage": 172,
+        "complete": true
+      },
+      {
+        "note": 25,
+        "norm": "CD",
+        "endsOnPage": 175,
+        "complete": true
+      },
+      {
+        "note": 26,
+        "norm": "CD",
+        "endsOnPage": 176,
+        "complete": true
+      },
+      {
+        "note": 32,
+        "norm": "CD",
+        "endsOnPage": 178,
+        "complete": true
+      },
+      {
+        "note": 37,
+        "norm": "CD",
+        "endsOnPage": 181,
+        "complete": true
+      },
+      {
+        "note": 47,
+        "norm": "CD",
+        "endsOnPage": 186,
+        "complete": true
+      },
+      {
+        "note": 49,
+        "norm": "CD",
+        "endsOnPage": 188,
+        "complete": true
+      },
+      {
+        "note": 64,
+        "norm": "CD",
+        "endsOnPage": 192,
+        "complete": true
+      },
+      {
+        "note": 79,
+        "norm": "CD",
+        "endsOnPage": 201,
+        "complete": true
+      },
+      {
+        "note": 90,
+        "norm": "CD",
+        "endsOnPage": 206,
+        "complete": true
+      },
+      {
+        "note": 93,
+        "norm": "CD",
+        "endsOnPage": 207,
+        "complete": true
+      },
+      {
+        "note": 97,
+        "norm": "CD",
+        "endsOnPage": 209,
+        "complete": true
+      },
+      {
+        "note": 98,
+        "norm": "CD",
+        "endsOnPage": 210,
+        "complete": true
+      },
+      {
+        "note": 100,
+        "norm": "CD",
+        "endsOnPage": 211,
+        "complete": true
+      },
+      {
+        "note": 102,
+        "norm": "CD",
+        "endsOnPage": 212,
+        "complete": true
+      },
+      {
+        "note": 2,
+        "norm": "PL",
+        "endsOnPage": 223,
+        "complete": true
+      },
+      {
+        "note": 3,
+        "norm": "PL",
+        "endsOnPage": 225,
+        "complete": true
+      },
+      {
+        "note": 5,
+        "norm": "PL",
+        "endsOnPage": 228,
+        "complete": true
+      },
+      {
+        "note": 7,
+        "norm": "PL",
+        "endsOnPage": 233,
+        "complete": true
+      },
+      {
+        "note": 8,
+        "norm": "PL",
+        "endsOnPage": 234,
+        "complete": true
+      },
+      {
+        "note": 9,
+        "norm": "PL",
+        "endsOnPage": 236,
+        "complete": true
+      },
+      {
+        "note": 11,
+        "norm": "PL",
+        "endsOnPage": 237,
+        "complete": true
+      },
+      {
+        "note": 15,
+        "norm": "PL",
+        "endsOnPage": 241,
+        "complete": true
+      },
+      {
+        "note": 24,
+        "norm": "PL",
+        "endsOnPage": 246,
+        "complete": true
+      },
+      {
+        "note": 28,
+        "norm": "PL",
+        "endsOnPage": 250,
+        "complete": true
+      },
+      {
+        "note": 29,
+        "norm": "PL",
+        "endsOnPage": 251,
+        "complete": true
+      },
+      {
+        "note": 30,
+        "norm": "PL",
+        "endsOnPage": 253,
+        "complete": true
+      },
+      {
+        "note": 32,
+        "norm": "PL",
+        "endsOnPage": 254,
+        "complete": true
+      },
+      {
+        "note": 33,
+        "norm": "PL",
+        "endsOnPage": 255,
+        "complete": true
+      },
+      {
+        "note": 35,
+        "norm": "PL",
+        "endsOnPage": 257,
+        "complete": true
+      },
+      {
+        "note": 47,
+        "norm": "PL",
+        "endsOnPage": 260,
+        "complete": true
+      },
+      {
+        "note": 50,
+        "norm": "PL",
+        "endsOnPage": 262,
+        "complete": true
+      },
+      {
+        "note": 52,
+        "norm": "PL",
+        "endsOnPage": 263,
+        "complete": true
+      },
+      {
+        "note": 9,
+        "norm": "EST-SIN",
+        "endsOnPage": 366,
+        "complete": true
+      },
+      {
+        "note": 36,
+        "norm": "EST-PRE",
+        "endsOnPage": 428,
+        "complete": true
+      },
+      {
+        "note": 82,
+        "norm": "EST-PRE",
+        "endsOnPage": 436,
+        "complete": true
+      },
+      {
+        "note": 85,
+        "norm": "EST-PRE",
+        "endsOnPage": 437,
+        "complete": true
+      },
+      {
+        "note": 112,
+        "norm": "EST-PRE",
+        "endsOnPage": 444,
+        "complete": true
+      },
+      {
+        "note": 135,
+        "norm": "EST-PRE",
+        "endsOnPage": 449,
+        "complete": true
+      },
+      {
+        "note": 2,
+        "norm": "EST-IG",
+        "endsOnPage": 512,
+        "complete": true
+      },
+      {
+        "note": 5,
+        "norm": "ATAS",
+        "endsOnPage": 557,
+        "complete": true
+      }
+    ],
+    "pendingArticleContinuation": null,
+    "completedArticleContinuations": [
+      {
+        "article": 17,
+        "endsOnPage": 41,
+        "complete": true
+      },
+      {
+        "article": 34,
+        "endsOnPage": 61,
+        "complete": true
+      },
+      {
+        "article": 35,
+        "endsOnPage": 63,
+        "complete": true
+      },
+      {
+        "article": 41,
+        "endsOnPage": 69,
+        "complete": true
+      },
+      {
+        "article": 45,
+        "endsOnPage": 73,
+        "complete": true
+      },
+      {
+        "article": 48,
+        "endsOnPage": 76,
+        "complete": true
+      },
+      {
+        "article": 49,
+        "endsOnPage": 79,
+        "complete": true
+      },
+      {
+        "article": 54,
+        "endsOnPage": 82,
+        "complete": true
+      },
+      {
+        "article": 56,
+        "endsOnPage": 83,
+        "complete": true
+      },
+      {
+        "article": 57,
+        "endsOnPage": 85,
+        "complete": true
+      },
+      {
+        "article": 62,
+        "endsOnPage": 86,
+        "complete": true
+      },
+      {
+        "article": 66,
+        "endsOnPage": 90,
+        "complete": true
+      },
+      {
+        "article": 67,
+        "endsOnPage": 94,
+        "complete": true
+      },
+      {
+        "article": 70,
+        "endsOnPage": 100,
+        "complete": true
+      },
+      {
+        "article": 72,
+        "endsOnPage": 103,
+        "complete": true
+      },
+      {
+        "article": 74,
+        "endsOnPage": 106,
+        "complete": true
+      },
+      {
+        "article": 76,
+        "endsOnPage": 109,
+        "complete": true
+      },
+      {
+        "article": 78,
+        "endsOnPage": 110,
+        "complete": true
+      },
+      {
+        "article": 81,
+        "endsOnPage": 111,
+        "complete": true
+      },
+      {
+        "article": 83,
+        "endsOnPage": 114,
+        "complete": true
+      },
+      {
+        "article": 88,
+        "endsOnPage": 122,
+        "complete": true
+      },
+      {
+        "article": 89,
+        "endsOnPage": 124,
+        "complete": true
+      },
+      {
+        "article": 91,
+        "endsOnPage": 126,
+        "complete": true
+      },
+      {
+        "article": 94,
+        "endsOnPage": 128,
+        "complete": true
+      },
+      {
+        "article": 97,
+        "endsOnPage": 130,
+        "complete": true
+      },
+      {
+        "article": 99,
+        "endsOnPage": 131,
+        "complete": true
+      },
+      {
+        "article": 100,
+        "endsOnPage": 132,
+        "complete": true
+      },
+      {
+        "article": 102,
+        "endsOnPage": 133,
+        "complete": true
+      },
+      {
+        "article": 104,
+        "endsOnPage": 135,
+        "complete": true
+      },
+      {
+        "article": 106,
+        "endsOnPage": 136,
+        "complete": true
+      },
+      {
+        "article": 109,
+        "endsOnPage": 137,
+        "complete": true
+      },
+      {
+        "article": 114,
+        "endsOnPage": 141,
+        "complete": true
+      },
+      {
+        "article": 115,
+        "endsOnPage": 142,
+        "complete": true
+      },
+      {
+        "article": 116,
+        "endsOnPage": 143,
+        "complete": true
+      },
+      {
+        "article": 118,
+        "endsOnPage": 146,
+        "complete": true
+      },
+      {
+        "article": 123,
+        "endsOnPage": 149,
+        "complete": true
+      },
+      {
+        "article": 141,
+        "endsOnPage": 154,
+        "complete": true
+      },
+      {
+        "article": 4,
+        "norm": "CD",
+        "endsOnPage": 169,
+        "complete": true
+      },
+      {
+        "article": 7,
+        "norm": "CD",
+        "endsOnPage": 170,
+        "complete": true
+      },
+      {
+        "article": 9,
+        "norm": "CD",
+        "endsOnPage": 172,
+        "complete": true
+      },
+      {
+        "article": 13,
+        "norm": "CD",
+        "endsOnPage": 174,
+        "complete": true
+      },
+      {
+        "article": 14,
+        "norm": "CD",
+        "endsOnPage": 175,
+        "complete": true
+      },
+      {
+        "article": 22,
+        "norm": "CD",
+        "endsOnPage": 181,
+        "complete": true
+      },
+      {
+        "article": 28,
+        "norm": "CD",
+        "endsOnPage": 183,
+        "complete": true
+      },
+      {
+        "article": 34,
+        "norm": "CD",
+        "endsOnPage": 184,
+        "complete": true
+      },
+      {
+        "article": 42,
+        "norm": "CD",
+        "endsOnPage": 187,
+        "complete": true
+      },
+      {
+        "article": 48,
+        "norm": "CD",
+        "endsOnPage": 190,
+        "complete": true
+      },
+      {
+        "article": 55,
+        "norm": "CD",
+        "endsOnPage": 191,
+        "complete": true
+      },
+      {
+        "article": 61,
+        "norm": "CD",
+        "endsOnPage": 192,
+        "complete": true
+      },
+      {
+        "article": 92,
+        "norm": "CD",
+        "endsOnPage": 198,
+        "complete": true
+      },
+      {
+        "article": 105,
+        "norm": "CD",
+        "endsOnPage": 202,
+        "complete": true
+      },
+      {
+        "article": 116,
+        "norm": "CD",
+        "endsOnPage": 204,
+        "complete": true
+      },
+      {
+        "article": 128,
+        "norm": "CD",
+        "endsOnPage": 207,
+        "complete": true
+      },
+      {
+        "article": 134,
+        "norm": "CD",
+        "endsOnPage": 211,
+        "complete": true
+      },
+      {
+        "article": 7,
+        "norm": "PL",
+        "endsOnPage": 228,
+        "complete": true
+      },
+      {
+        "article": 8,
+        "norm": "PL",
+        "endsOnPage": 237,
+        "complete": true
+      },
+      {
+        "article": 11,
+        "norm": "PL",
+        "endsOnPage": 242,
+        "complete": true
+      },
+      {
+        "article": 15,
+        "norm": "PL",
+        "endsOnPage": 245,
+        "complete": true
+      },
+      {
+        "article": 20,
+        "norm": "PL",
+        "endsOnPage": 251,
+        "complete": true
+      },
+      {
+        "article": 21,
+        "norm": "PL",
+        "endsOnPage": 254,
+        "complete": true
+      },
+      {
+        "article": 30,
+        "norm": "PL",
+        "endsOnPage": 258,
+        "complete": true
+      },
+      {
+        "article": 33,
+        "norm": "PL",
+        "endsOnPage": 260,
+        "complete": true
+      },
+      {
+        "article": 39,
+        "norm": "PL",
+        "endsOnPage": 262,
+        "complete": true
+      },
+      {
+        "article": 5,
+        "norm": "EST-IPB",
+        "endsOnPage": 271,
+        "complete": true
+      },
+      {
+        "article": 20,
+        "norm": "EST-IPB",
+        "endsOnPage": 275,
+        "complete": true
+      },
+      {
+        "article": 22,
+        "norm": "EST-IPB",
+        "endsOnPage": 277,
+        "complete": true
+      },
+      {
+        "article": 28,
+        "norm": "EST-IPB",
+        "endsOnPage": 280,
+        "complete": true
+      },
+      {
+        "article": 36,
+        "norm": "EST-IPB",
+        "endsOnPage": 284,
+        "complete": true
+      },
+      {
+        "article": 39,
+        "norm": "EST-IPB",
+        "endsOnPage": 285,
+        "complete": true
+      },
+      {
+        "article": 2,
+        "norm": "RI-SC",
+        "endsOnPage": 290,
+        "complete": true
+      },
+      {
+        "article": 6,
+        "norm": "RI-SC",
+        "endsOnPage": 292,
+        "complete": true
+      },
+      {
+        "article": 8,
+        "norm": "RI-SC",
+        "endsOnPage": 293,
+        "complete": true
+      },
+      {
+        "article": 12,
+        "norm": "RI-SC",
+        "endsOnPage": 295,
+        "complete": true
+      },
+      {
+        "article": 19,
+        "norm": "RI-SC",
+        "endsOnPage": 299,
+        "complete": true
+      },
+      {
+        "article": 22,
+        "norm": "RI-SC",
+        "endsOnPage": 300,
+        "complete": true
+      },
+      {
+        "article": 24,
+        "norm": "RI-SC",
+        "endsOnPage": 301,
+        "complete": true
+      },
+      {
+        "article": 27,
+        "norm": "RI-SC",
+        "endsOnPage": 302,
+        "complete": true
+      },
+      {
+        "article": 32,
+        "norm": "RI-SC",
+        "endsOnPage": 304,
+        "complete": true
+      },
+      {
+        "article": 34,
+        "norm": "RI-SC",
+        "endsOnPage": 306,
+        "complete": true
+      },
+      {
+        "article": 35,
+        "norm": "RI-SC",
+        "endsOnPage": 307,
+        "complete": true
+      },
+      {
+        "article": 37,
+        "norm": "RI-SC",
+        "endsOnPage": 309,
+        "complete": true
+      },
+      {
+        "article": 39,
+        "norm": "RI-SC",
+        "endsOnPage": 310,
+        "complete": true
+      },
+      {
+        "article": 42,
+        "norm": "RI-SC",
+        "endsOnPage": 311,
+        "complete": true
+      },
+      {
+        "article": 47,
+        "norm": "RI-SC",
+        "endsOnPage": 315,
+        "complete": true
+      },
+      {
+        "article": 54,
+        "norm": "RI-SC",
+        "endsOnPage": 319,
+        "complete": true
+      },
+      {
+        "article": 61,
+        "norm": "RI-SC",
+        "endsOnPage": 322,
+        "complete": true
+      },
+      {
+        "article": 63,
+        "norm": "RI-SC",
+        "endsOnPage": 323,
+        "complete": true
+      },
+      {
+        "article": 65,
+        "norm": "RI-SC",
+        "endsOnPage": 324,
+        "complete": true
+      },
+      {
+        "article": 67,
+        "norm": "RI-SC",
+        "endsOnPage": 326,
+        "complete": true
+      },
+      {
+        "article": 69,
+        "norm": "RI-SC",
+        "endsOnPage": 327,
+        "complete": true
+      },
+      {
+        "article": 73,
+        "norm": "RI-SC",
+        "endsOnPage": 328,
+        "complete": true
+      },
+      {
+        "article": 75,
+        "norm": "RI-SC",
+        "endsOnPage": 330,
+        "complete": true
+      },
+      {
+        "article": 76,
+        "norm": "RI-SC",
+        "endsOnPage": 331,
+        "complete": true
+      },
+      {
+        "article": 77,
+        "norm": "RI-SC",
+        "endsOnPage": 332,
+        "complete": true
+      },
+      {
+        "article": 4,
+        "norm": "RI-CE",
+        "endsOnPage": 339,
+        "complete": true
+      },
+      {
+        "article": 8,
+        "norm": "RI-CE",
+        "endsOnPage": 342,
+        "complete": true
+      },
+      {
+        "article": 10,
+        "norm": "RI-CE",
+        "endsOnPage": 343,
+        "complete": true
+      },
+      {
+        "article": 15,
+        "norm": "RI-CE",
+        "endsOnPage": 345,
+        "complete": true
+      },
+      {
+        "article": 20,
+        "norm": "RI-CE",
+        "endsOnPage": 348,
+        "complete": true
+      },
+      {
+        "article": 27,
+        "norm": "RI-CE",
+        "endsOnPage": 350,
+        "complete": true
+      },
+      {
+        "article": 33,
+        "norm": "RI-CE",
+        "endsOnPage": 352,
+        "complete": true
+      },
+      {
+        "article": 2,
+        "norm": "EST-SIN",
+        "endsOnPage": 358,
+        "complete": true
+      },
+      {
+        "article": 10,
+        "norm": "EST-SIN",
+        "endsOnPage": 360,
+        "complete": true
+      },
+      {
+        "article": 13,
+        "norm": "EST-SIN",
+        "endsOnPage": 361,
+        "complete": true
+      },
+      {
+        "article": 16,
+        "norm": "EST-SIN",
+        "endsOnPage": 362,
+        "complete": true
+      },
+      {
+        "article": 22,
+        "norm": "EST-SIN",
+        "endsOnPage": 364,
+        "complete": true
+      },
+      {
+        "article": 5,
+        "norm": "RI-SIN",
+        "endsOnPage": 371,
+        "complete": true
+      },
+      {
+        "article": 9,
+        "norm": "RI-SIN",
+        "endsOnPage": 373,
+        "complete": true
+      },
+      {
+        "article": 13,
+        "norm": "RI-SIN",
+        "endsOnPage": 375,
+        "complete": true
+      },
+      {
+        "article": 15,
+        "norm": "RI-SIN",
+        "endsOnPage": 376,
+        "complete": true
+      },
+      {
+        "article": 18,
+        "norm": "RI-SIN",
+        "endsOnPage": 377,
+        "complete": true
+      },
+      {
+        "article": 21,
+        "norm": "RI-SIN",
+        "endsOnPage": 378,
+        "complete": true
+      },
+      {
+        "article": 23,
+        "norm": "RI-SIN",
+        "endsOnPage": 379,
+        "complete": true
+      },
+      {
+        "article": 31,
+        "norm": "RI-SIN",
+        "endsOnPage": 382,
+        "complete": true
+      },
+      {
+        "article": 33,
+        "norm": "RI-SIN",
+        "endsOnPage": 383,
+        "complete": true
+      },
+      {
+        "article": 36,
+        "norm": "RI-SIN",
+        "endsOnPage": 384,
+        "complete": true
+      },
+      {
+        "article": 38,
+        "norm": "RI-SIN",
+        "endsOnPage": 386,
+        "complete": true
+      },
+      {
+        "article": 43,
+        "norm": "RI-SIN",
+        "endsOnPage": 388,
+        "complete": true
+      },
+      {
+        "article": 45,
+        "norm": "RI-SIN",
+        "endsOnPage": 390,
+        "complete": true
+      },
+      {
+        "article": 47,
+        "norm": "RI-SIN",
+        "endsOnPage": 391,
+        "complete": true
+      },
+      {
+        "article": 49,
+        "norm": "RI-SIN",
+        "endsOnPage": 393,
+        "complete": true
+      },
+      {
+        "article": 52,
+        "norm": "RI-SIN",
+        "endsOnPage": 396,
+        "complete": true
+      },
+      {
+        "article": 72,
+        "norm": "RI-SIN",
+        "endsOnPage": 406,
+        "complete": true
+      },
+      {
+        "article": 74,
+        "norm": "RI-SIN",
+        "endsOnPage": 408,
+        "complete": true
+      },
+      {
+        "article": 79,
+        "norm": "RI-SIN",
+        "endsOnPage": 410,
+        "complete": true
+      },
+      {
+        "article": 81,
+        "norm": "RI-SIN",
+        "endsOnPage": 412,
+        "complete": true
+      },
+      {
+        "article": 85,
+        "norm": "RI-SIN",
+        "endsOnPage": 414,
+        "complete": true
+      },
+      {
+        "article": 7,
+        "norm": "EST-PRE",
+        "endsOnPage": 424,
+        "complete": true
+      },
+      {
+        "article": 8,
+        "norm": "EST-PRE",
+        "endsOnPage": 425,
+        "complete": true
+      },
+      {
+        "article": 16,
+        "norm": "EST-PRE",
+        "endsOnPage": 429,
+        "complete": true
+      },
+      {
+        "article": 21,
+        "norm": "EST-PRE",
+        "endsOnPage": 431,
+        "complete": true
+      },
+      {
+        "article": 22,
+        "norm": "EST-PRE",
+        "endsOnPage": 433,
+        "complete": true
+      },
+      {
+        "article": 23,
+        "norm": "EST-PRE",
+        "endsOnPage": 434,
+        "complete": true
+      },
+      {
+        "article": 24,
+        "norm": "EST-PRE",
+        "endsOnPage": 435,
+        "complete": true
+      },
+      {
+        "article": 26,
+        "norm": "EST-PRE",
+        "endsOnPage": 438,
+        "complete": true
+      },
+      {
+        "article": 34,
+        "norm": "EST-PRE",
+        "endsOnPage": 441,
+        "complete": true
+      },
+      {
+        "article": 36,
+        "norm": "EST-PRE",
+        "endsOnPage": 442,
+        "complete": true
+      },
+      {
+        "article": 43,
+        "norm": "EST-PRE",
+        "endsOnPage": 443,
+        "complete": true
+      },
+      {
+        "article": 46,
+        "norm": "EST-PRE",
+        "endsOnPage": 444,
+        "complete": true
+      },
+      {
+        "article": 48,
+        "norm": "EST-PRE",
+        "endsOnPage": 445,
+        "complete": true
+      },
+      {
+        "article": 52,
+        "norm": "EST-PRE",
+        "endsOnPage": 446,
+        "complete": true
+      },
+      {
+        "article": 59,
+        "norm": "EST-PRE",
+        "endsOnPage": 448,
+        "complete": true
+      },
+      {
+        "article": 2,
+        "norm": "RI-PRE",
+        "endsOnPage": 454,
+        "complete": true
+      },
+      {
+        "article": 6,
+        "norm": "RI-PRE",
+        "endsOnPage": 456,
+        "complete": true
+      },
+      {
+        "article": 8,
+        "norm": "RI-PRE",
+        "endsOnPage": 457,
+        "complete": true
+      },
+      {
+        "article": 12,
+        "norm": "RI-PRE",
+        "endsOnPage": 459,
+        "complete": true
+      },
+      {
+        "article": 14,
+        "norm": "RI-PRE",
+        "endsOnPage": 460,
+        "complete": true
+      },
+      {
+        "article": 19,
+        "norm": "RI-PRE",
+        "endsOnPage": 462,
+        "complete": true
+      },
+      {
+        "article": 22,
+        "norm": "RI-PRE",
+        "endsOnPage": 463,
+        "complete": true
+      },
+      {
+        "article": 29,
+        "norm": "RI-PRE",
+        "endsOnPage": 465,
+        "complete": true
+      },
+      {
+        "article": 33,
+        "norm": "RI-PRE",
+        "endsOnPage": 468,
+        "complete": true
+      },
+      {
+        "article": 35,
+        "norm": "RI-PRE",
+        "endsOnPage": 469,
+        "complete": true
+      },
+      {
+        "article": 37,
+        "norm": "RI-PRE",
+        "endsOnPage": 471,
+        "complete": true
+      },
+      {
+        "article": 42,
+        "norm": "RI-PRE",
+        "endsOnPage": 473,
+        "complete": true
+      },
+      {
+        "article": 44,
+        "norm": "RI-PRE",
+        "endsOnPage": 475,
+        "complete": true
+      },
+      {
+        "article": 46,
+        "norm": "RI-PRE",
+        "endsOnPage": 476,
+        "complete": true
+      },
+      {
+        "article": 48,
+        "norm": "RI-PRE",
+        "endsOnPage": 478,
+        "complete": true
+      },
+      {
+        "article": 51,
+        "norm": "RI-PRE",
+        "endsOnPage": 481,
+        "complete": true
+      },
+      {
+        "article": 53,
+        "norm": "RI-PRE",
+        "endsOnPage": 482,
+        "complete": true
+      },
+      {
+        "article": 59,
+        "norm": "RI-PRE",
+        "endsOnPage": 487,
+        "complete": true
+      },
+      {
+        "article": 61,
+        "norm": "RI-PRE",
+        "endsOnPage": 489,
+        "complete": true
+      },
+      {
+        "article": 67,
+        "norm": "RI-PRE",
+        "endsOnPage": 491,
+        "complete": true
+      },
+      {
+        "article": 69,
+        "norm": "RI-PRE",
+        "endsOnPage": 492,
+        "complete": true
+      },
+      {
+        "article": 72,
+        "norm": "RI-PRE",
+        "endsOnPage": 493,
+        "complete": true
+      },
+      {
+        "article": 75,
+        "norm": "RI-PRE",
+        "endsOnPage": 494,
+        "complete": true
+      },
+      {
+        "article": 78,
+        "norm": "RI-PRE",
+        "endsOnPage": 496,
+        "complete": true
+      },
+      {
+        "article": 84,
+        "norm": "RI-PRE",
+        "endsOnPage": 500,
+        "complete": true
+      },
+      {
+        "article": 85,
+        "norm": "RI-PRE",
+        "endsOnPage": 501,
+        "complete": true
+      },
+      {
+        "article": 88,
+        "norm": "RI-PRE",
+        "endsOnPage": 502,
+        "complete": true
+      },
+      {
+        "article": 92,
+        "norm": "RI-PRE",
+        "endsOnPage": 505,
+        "complete": true
+      },
+      {
+        "article": 1,
+        "norm": "EST-IG",
+        "endsOnPage": 512,
+        "complete": true
+      },
+      {
+        "article": 6,
+        "norm": "EST-IG",
+        "endsOnPage": 515,
+        "complete": true
+      },
+      {
+        "article": 9,
+        "norm": "EST-IG",
+        "endsOnPage": 516,
+        "complete": true
+      },
+      {
+        "article": 12,
+        "norm": "EST-IG",
+        "endsOnPage": 517,
+        "complete": true
+      },
+      {
+        "article": 18,
+        "norm": "EST-IG",
+        "endsOnPage": 519,
+        "complete": true
+      },
+      {
+        "article": 21,
+        "norm": "EST-IG",
+        "endsOnPage": 520,
+        "complete": true
+      },
+      {
+        "article": 24,
+        "norm": "EST-IG",
+        "endsOnPage": 521,
+        "complete": true
+      },
+      {
+        "article": 27,
+        "norm": "EST-IG",
+        "endsOnPage": 522,
+        "complete": true
+      },
+      {
+        "article": 29,
+        "norm": "EST-IG",
+        "endsOnPage": 523,
+        "complete": true
+      },
+      {
+        "article": 30,
+        "norm": "EST-IG",
+        "endsOnPage": 524,
+        "complete": true
+      },
+      {
+        "article": 33,
+        "norm": "EST-IG",
+        "endsOnPage": 525,
+        "complete": true
+      },
+      {
+        "article": 34,
+        "norm": "EST-IG",
+        "endsOnPage": 526,
+        "complete": true
+      },
+      {
+        "article": 39,
+        "norm": "EST-IG",
+        "endsOnPage": 527,
+        "complete": true
+      },
+      {
+        "article": 45,
+        "norm": "EST-IG",
+        "endsOnPage": 528,
+        "complete": true
+      },
+      {
+        "article": 47,
+        "norm": "EST-IG",
+        "endsOnPage": 529,
+        "complete": true
+      },
+      {
+        "article": 50,
+        "norm": "EST-IG",
+        "endsOnPage": 530,
+        "complete": true
+      },
+      {
+        "article": 3,
+        "norm": "RI-JD",
+        "endsOnPage": 536,
+        "complete": true
+      },
+      {
+        "article": 5,
+        "norm": "RI-JD",
+        "endsOnPage": 538,
+        "complete": true
+      },
+      {
+        "article": 8,
+        "norm": "RI-JD",
+        "endsOnPage": 539,
+        "complete": true
+      },
+      {
+        "article": 9,
+        "norm": "RI-JD",
+        "endsOnPage": 540,
+        "complete": true
+      },
+      {
+        "article": 12,
+        "norm": "RI-JD",
+        "endsOnPage": 541,
+        "complete": true
+      },
+      {
+        "article": 13,
+        "norm": "RI-JD",
+        "endsOnPage": 542,
+        "complete": true
+      },
+      {
+        "article": 2,
+        "norm": "ATAS",
+        "endsOnPage": 550,
+        "complete": true
+      },
+      {
+        "article": 6,
+        "norm": "ATAS",
+        "endsOnPage": 553,
+        "complete": true
+      },
+      {
+        "article": 8,
+        "norm": "ATAS",
+        "endsOnPage": 554,
+        "complete": true
+      },
+      {
+        "article": 10,
+        "norm": "ATAS",
+        "endsOnPage": 556,
+        "complete": true
+      },
+      {
+        "article": 12,
+        "norm": "ATAS",
+        "endsOnPage": 558,
+        "complete": true
+      },
+      {
+        "article": 18,
+        "norm": "ATAS",
+        "endsOnPage": 559,
+        "complete": true
+      }
+    ],
+    "pendingIndexContinuation": null,
+    "completedIndexContinuations": [
+      {
+        "entry": "Liturgia",
+        "norm": "CI",
+        "endsOnPage": 161,
+        "complete": true
+      },
+      {
+        "entry": "Oficiales",
+        "norm": "CI",
+        "endsOnPage": 162,
+        "complete": true
+      }
+    ]
+  },
+  "constitutionReviewProgress": {
+    "comparedArticles": 152,
+    "totalArticles": 152,
+    "comparedNotes": 361,
+    "totalNotes": 361,
+    "reviewComplete": true,
+    "scope": "texto histórico 2025; revisión comparada por asistente",
+    "externalCertification": false
+  },
+  "disciplineReviewProgress": {
+    "comparedArticles": 135,
+    "totalArticles": 135,
+    "comparedNotes": 104,
+    "totalNotes": 104,
+    "reviewComplete": true,
+    "scope": "texto histórico 2025; revisión comparada por asistente",
+    "externalCertification": false
+  },
+  "liturgyReviewProgress": {
+    "comparedArticles": 44,
+    "totalArticles": 44,
+    "comparedNotes": 59,
+    "totalNotes": 59,
+    "reviewComplete": true,
+    "pendingIds": [],
+    "scope": "texto histórico 2025; revisión por asistente",
+    "externalCertification": false
+  },
+  "minutesRulesReviewProgress": {
+    "comparedArticles": 24,
+    "totalArticles": 24,
+    "comparedNotes": 6,
+    "totalNotes": 6,
+    "reviewComplete": true,
+    "scope": "Reglamento para la confección de actas histórico 2025; cotejo por asistente",
+    "externalCertification": false
+  },
+  "deaconRulesReviewProgress": {
+    "comparedArticles": 34,
+    "totalArticles": 34,
+    "comparedNotes": 1,
+    "totalNotes": 1,
+    "reviewComplete": true,
+    "scope": "Reglamento Interno de la Junta Diaconal histórico 2025; cotejo por asistente",
+    "externalCertification": false
+  },
+  "churchStatuteReviewProgress": {
+    "comparedArticles": 57,
+    "totalArticles": 57,
+    "comparedNotes": 116,
+    "totalNotes": 116,
+    "reviewComplete": true,
+    "scope": "Modelo de Estatuto de la Iglesia histórico 2025; cotejo por asistente",
+    "externalCertification": false
+  },
+  "presbyteryRulesReviewProgress": {
+    "comparedArticles": 99,
+    "totalArticles": 99,
+    "comparedNotes": 2,
+    "totalNotes": 2,
+    "reviewComplete": true,
+    "scope": "Modelo de Reglamento Interno del Presbiterio histórico 2025; cotejo por asistente",
+    "externalCertification": false
+  },
+  "presbyteryStatuteReviewProgress": {
+    "comparedArticles": 62,
+    "totalArticles": 62,
+    "comparedNotes": 135,
+    "totalNotes": 135,
+    "reviewComplete": true,
+    "scope": "Modelo de Estatuto del Presbiterio histórico 2025; cotejo por asistente",
+    "externalCertification": false
+  },
+  "synodRulesReviewProgress": {
+    "comparedArticles": 96,
+    "totalArticles": 96,
+    "comparedNotes": 2,
+    "totalNotes": 2,
+    "reviewComplete": true,
+    "scope": "Modelo de Reglamento Interno del Sínodo histórico 2025; cotejo por asistente",
+    "externalCertification": false
+  },
+  "synodStatuteReviewProgress": {
+    "comparedArticles": 31,
+    "totalArticles": 31,
+    "comparedNotes": 9,
+    "totalNotes": 9,
+    "reviewComplete": true,
+    "scope": "Modelo de Estatuto del Sínodo histórico 2025; revisión por asistente",
+    "externalCertification": false
+  },
+  "executiveRulesReviewProgress": {
+    "comparedArticles": 37,
+    "totalArticles": 37,
+    "comparedNotes": 3,
+    "totalNotes": 3,
+    "reviewComplete": true,
+    "scope": "Reglamento Interno de la Comisión Ejecutiva histórico 2025; revisión por asistente",
+    "externalCertification": false
+  },
+  "supremeRulesReviewProgress": {
+    "comparedArticles": 82,
+    "totalArticles": 82,
+    "comparedNotes": 3,
+    "totalNotes": 3,
+    "reviewComplete": true,
+    "scope": "Reglamento Interno del Supremo Concilio histórico 2025; revisión por asistente",
+    "externalCertification": false
+  },
+  "ipbStatuteReviewProgress": {
+    "comparedArticles": 47,
+    "totalArticles": 47,
+    "comparedNotes": 15,
+    "totalNotes": 15,
+    "reviewComplete": true,
+    "scope": "Estatuto histórico 2025; 47 bloques; número 44 duplicado en original",
+    "externalCertification": false
+  },
+  "integrityUnitsChecked": 1774,
+  "unitsIndividuallyComparedAndCorrected": 1774,
+  "remainingUnitsWithoutThisComparativeReview": 0,
+  "emptySourceUnits": 19,
+  "notesComparedAndCorrected": 816,
+  "sourcePDFSHA256": "2d8b728004e32995ee5f1600a7e4e0da94a7124e253bf1fac5322a2b93a083a3",
+  "markdownSHA256": "7a00ec55c2d0e8332ad4c259fbd8c41aacfe1ced24cf13ddf32dec110e86c7a0",
+  "integrityChecks": {
+    "noteMarkers": "passed",
+    "recordAnchors": "passed",
+    "pageSequence560": "passed"
+  },
+  "candidatePortugueseResidueUnits": 9,
+  "candidates": [
+    {
+      "id": "CI-nota-26",
+      "page": 22,
+      "reason": "posibles residuos portugueses; puede incluir nombres propios o citas",
+      "terms": [
+        "São"
+      ]
+    },
+    {
+      "id": "CI-nota-259",
+      "page": 117,
+      "reason": "posibles residuos portugueses; puede incluir nombres propios o citas",
+      "terms": [
+        "São"
+      ]
+    },
+    {
+      "id": "CI-nota-275",
+      "page": 126,
+      "reason": "posibles residuos portugueses; puede incluir nombres propios o citas",
+      "terms": [
+        "São"
+      ]
+    },
+    {
+      "id": "CD-nota-37",
+      "page": 179,
+      "reason": "posibles residuos portugueses; puede incluir nombres propios o citas",
+      "terms": [
+        "São"
+      ]
+    },
+    {
+      "id": "PL-nota-2",
+      "page": 222,
+      "reason": "posibles residuos portugueses; puede incluir nombres propios o citas",
+      "terms": [
+        "São"
+      ]
+    },
+    {
+      "id": "PL-nota-3",
+      "page": 223,
+      "reason": "posibles residuos portugueses; puede incluir nombres propios o citas",
+      "terms": [
+        "São"
+      ]
+    },
+    {
+      "id": "PL-nota-15",
+      "page": 238,
+      "reason": "posibles residuos portugueses; puede incluir nombres propios o citas",
+      "terms": [
+        "São"
+      ]
+    },
+    {
+      "id": "RI-CE-nota-3",
+      "page": 346,
+      "reason": "posibles residuos portugueses; puede incluir nombres propios o citas",
+      "terms": [
+        "São"
+      ]
+    },
+    {
+      "id": "manual-pagina-2",
+      "page": 2,
+      "reason": "posibles residuos portugueses; puede incluir nombres propios o citas",
+      "terms": [
+        "São"
+      ]
+    }
+  ],
+  "limitations": [
+    "Control de estructura no demuestra equivalencia normativa.",
+    "El cotejo de 1774 registros y 560 páginas está completo; la aprobación editorial definitiva sigue pendiente.",
+    "Las señales automáticas no son errores confirmados; requieren lectura comparada.",
+    "La redacción de 2025 es histórica y no garantiza vigencia normativa en 2026."
+  ]
+}

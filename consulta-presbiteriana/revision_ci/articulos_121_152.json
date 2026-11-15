@@ -1,0 +1,159 @@
+{
+  "reviewedIds": [
+    "CI-art-121",
+    "CI-art-122",
+    "CI-art-123",
+    "CI-art-124",
+    "CI-art-125",
+    "CI-art-126",
+    "CI-art-127",
+    "CI-art-128",
+    "CI-art-129",
+    "CI-art-130",
+    "CI-art-131",
+    "CI-art-132",
+    "CI-art-133",
+    "CI-art-134",
+    "CI-art-135",
+    "CI-art-136",
+    "CI-art-137",
+    "CI-art-138",
+    "CI-art-139",
+    "CI-art-140",
+    "CI-art-141",
+    "CI-art-142",
+    "CI-art-143",
+    "CI-art-144",
+    "CI-art-145",
+    "CI-art-146",
+    "CI-art-147",
+    "CI-art-148",
+    "CI-art-149",
+    "CI-art-150",
+    "CI-art-151",
+    "CI-art-152"
+  ],
+  "replacements": {
+    "CI-art-122": [
+      [
+        "la licenciatura",
+        "la licenciatura ministerial"
+      ]
+    ],
+    "CI-art-124": [
+      [
+        "después de la licenciatura",
+        "después de la licenciatura ministerial"
+      ],
+      [
+        "hará experiencia de sus dones",
+        "pondrá a prueba sus dones"
+      ]
+    ],
+    "CI-art-125": [
+      [
+        "se cambie",
+        "se mude"
+      ]
+    ],
+    "CI-art-126": [
+      [
+        "La licenciatura puede ser cassada",
+        "La licenciatura ministerial puede ser revocada"
+      ]
+    ],
+    "CI-art-127": [
+      [
+        "juzga",
+        "considere"
+      ]
+    ],
+    "CI-art-128": [
+      [
+        "mormente",
+        "especialmente"
+      ]
+    ],
+    "CI-art-130": [
+      [
+        "Julgadas suficientes",
+        "Consideradas suficientes"
+      ]
+    ],
+    "CI-art-134": [
+      [
+        "invitar, a su pastor, ministro",
+        "invitar como su pastor a un ministro"
+      ]
+    ],
+    "CI-art-135": [
+      [
+        "ordenando al mismo Presbiterio",
+        "ordenando del mismo Presbiterio"
+      ]
+    ],
+    "CI-art-138": [
+      [
+        "Efetivo",
+        "Efectivo"
+      ],
+      [
+        "a petición del pastor, escucha la iglesia",
+        "a petición del pastor, después de oír a la iglesia"
+      ]
+    ],
+    "CI-art-142": [
+      [
+        "Confisión",
+        "Confesión"
+      ],
+      [
+        "llevará en cuenta",
+        "tendrá en cuenta"
+      ]
+    ],
+    "CI-art-143": [
+      [
+        "Concilio Supremo",
+        "Supremo Concilio"
+      ],
+      [
+        "regimiento",
+        "reglamento"
+      ]
+    ],
+    "CI-art-144": [
+      [
+        "regimiento",
+        "reglamento"
+      ]
+    ],
+    "CI-art-146": [
+      [
+        "resalvadas",
+        "con excepción de"
+      ],
+      [
+        "regerse",
+        "regirse"
+      ]
+    ],
+    "CI-art-152": [
+      [
+        "vigorarán",
+        "estarán en vigor"
+      ],
+      [
+        "contrarien",
+        "contravengan"
+      ],
+      [
+        "ora promulgada",
+        "ahora promulgada"
+      ]
+    ]
+  },
+  "texts": {
+    "CI-art-123": "Art. 123. Consideradas suficientes esas pruebas, el Presbiterio procederá a la licenciatura ministerial de conformidad con la liturgia de la Iglesia Presbiteriana de Brasil.[337]\nPárrafo único. El Presbiterio podrá delegar en una comisión especial[338] el examen, la aprobación o no, y la licenciatura ministerial del candidato."
+  }
+}

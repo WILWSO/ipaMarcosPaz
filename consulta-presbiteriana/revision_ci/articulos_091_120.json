@@ -1,0 +1,254 @@
+{
+  "reviewedIds": [
+    "CI-art-91",
+    "CI-art-92",
+    "CI-art-93",
+    "CI-art-94",
+    "CI-art-95",
+    "CI-art-96",
+    "CI-art-97",
+    "CI-art-98",
+    "CI-art-99",
+    "CI-art-100",
+    "CI-art-101",
+    "CI-art-102",
+    "CI-art-103",
+    "CI-art-104",
+    "CI-art-105",
+    "CI-art-106",
+    "CI-art-107",
+    "CI-art-108",
+    "CI-art-109",
+    "CI-art-110",
+    "CI-art-111",
+    "CI-art-112",
+    "CI-art-113",
+    "CI-art-114",
+    "CI-art-115",
+    "CI-art-116",
+    "CI-art-117",
+    "CI-art-118",
+    "CI-art-119",
+    "CI-art-120"
+  ],
+  "texts": {
+    "CI-art-95": "Art. 95. El Supremo Concilio es la asamblea de diputados elegidos por los presbiterios[283] y el órgano de unidad de toda la Iglesia Presbiteriana de Brasil, ejerciendo jurisdicción sobre iglesias y concilios que mantienen el mismo gobierno, disciplina y norma de vida.[284]",
+    "CI-art-103": "Art. 103. El Secretario Ejecutivo del Supremo Concilio[301] tiene por función cumplir y hacer cumplir las deliberaciones de dicho órgano o de su Comisión Ejecutiva, impulsar las actividades de la iglesia bajo la orientación de esa comisión y cuidar del archivo y de la correspondencia de la iglesia.[302]",
+    "CI-art-105": "Art. 105. Los concilios podrán organizar, siempre que lo consideren oportuno, entidades autónomas para atender los intereses generales de la iglesia.\n§ 1º Las entidades autónomas tienen autonomía en cuanto a su gobierno y administración interna, pero están subordinadas al concilio competente.\n§ 2º Las entidades autónomas se rigen por estatutos aprobados por los respectivos concilios, a los que deberán presentar informes de las actividades realizadas.",
+    "CI-art-118": "Art. 118. Nadie podrá presentarse para la licenciatura ministerial sin haber completado el estudio de las materias de los cursos regulares de cualquiera de los seminarios de la Iglesia Presbiteriana de Brasil.[330]\n§ 1º En casos excepcionales, podrá ser aceptado para la licenciatura ministerial un candidato que haya realizado un curso en otro seminario idóneo o un curso teológico conforme al programa que le haya establecido el Presbiterio.[331]\n§ 2º El Presbiterio acompañará la preparación de los candidatos por medio de un tutor eclesiástico.[332]"
+  },
+  "replacements": {
+    "CI-art-94": [
+      [
+        "que subam de los presbiterios",
+        "que se eleven desde los presbiterios"
+      ],
+      [
+        "superintender",
+        "supervisar"
+      ],
+      [
+        "lanzando en los libros sus observaciones necesarias",
+        "registrando en los respectivos libros las observaciones necesarias"
+      ]
+    ],
+    "CI-art-97": [
+      [
+        "subam legalmente de",
+        "se eleven legalmente desde"
+      ],
+      [
+        "filiarse",
+        "afiliarse"
+      ],
+      [
+        "Comité Ejecutivo",
+        "Comisión Ejecutiva"
+      ],
+      [
+        "superintender",
+        "supervisar"
+      ],
+      [
+        "preteológica y teológico",
+        "preteológica y teológica"
+      ],
+      [
+        "en lo que juzgar oportuno",
+        "en lo que considere oportuno"
+      ],
+      [
+        "desde que no sea herida",
+        "siempre que no se vulnere"
+      ],
+      [
+        "alienar o grabar con carga",
+        "enajenar o gravar con cargas"
+      ]
+    ],
+    "CI-art-98": [
+      [
+        "Pueden nombrar comisiones",
+        "Los concilios pueden nombrar comisiones"
+      ]
+    ],
+    "CI-art-100": [
+      [
+        "Las vacantes que se verificarán",
+        "Las vacantes que se produzcan"
+      ],
+      [
+        "serán rellenadas",
+        "serán cubiertas"
+      ]
+    ],
+    "CI-art-101": [
+      [
+        "Poderan",
+        "Podrán"
+      ]
+    ],
+    "CI-art-102": [
+      [
+        "Secretario-Executivo",
+        "Secretario Ejecutivo"
+      ],
+      [
+        "Tesoureiro",
+        "Tesorero"
+      ]
+    ],
+    "CI-art-104": [
+      [
+        "bajadas en los interregnos",
+        "dictadas en los interregnos"
+      ],
+      [
+        "derogar la resolución",
+        "revocar una resolución"
+      ],
+      [
+        "modificar la resolución",
+        "modificar una resolución"
+      ]
+    ],
+    "CI-art-106": [
+      [
+        "superintender",
+        "supervisar"
+      ],
+      [
+        "votar por la organización y el expediente de cada secretaría",
+        "aprobar una partida para la organización y el funcionamiento administrativo de cada secretaría"
+      ]
+    ],
+    "CI-art-109": [
+      [
+        "una persona que está dirigida al desempeño",
+        "una persona llamada al desempeño"
+      ],
+      [
+        "invertir la persona en el cargo para que",
+        "investir a la persona en el cargo para el que"
+      ]
+    ],
+    "CI-art-110": [
+      [
+        "juzga oportuno",
+        "considere oportuno"
+      ],
+      [
+        "Efetivo",
+        "Efectivo"
+      ]
+    ],
+    "CI-art-111": [
+      [
+        "y descargar instrucciones",
+        "y dictará instrucciones"
+      ],
+      [
+        "instruirá la iglesia",
+        "instruirá a la iglesia"
+      ]
+    ],
+    "CI-art-112": [
+      [
+        "ser votados",
+        "ser elegidos"
+      ],
+      [
+        "en el rol",
+        "en el registro"
+      ]
+    ],
+    "CI-art-113": [
+      [
+        "Ocho a alguien que acepte",
+        "Una vez elegido alguien que acepte"
+      ]
+    ],
+    "CI-art-114": [
+      [
+        "después de instruido, aceptar",
+        "después de ser instruido, acepte"
+      ]
+    ],
+    "CI-art-115": [
+      [
+        "se siente llamado",
+        "se sienta llamado"
+      ],
+      [
+        "debe presentar",
+        "deberá presentar"
+      ],
+      [
+        "de sanidad física y mental",
+        "de salud física y mental"
+      ]
+    ],
+    "CI-art-116": [
+      [
+        "Aceitos",
+        "Aceptados"
+      ],
+      [
+        "examinará el aspirante",
+        "examinará al aspirante"
+      ]
+    ],
+    "CI-art-117": [
+      [
+        "cassar",
+        "revocar"
+      ]
+    ],
+    "CI-art-120": [
+      [
+        "candidato a la licenciatura",
+        "candidato a la licenciatura ministerial"
+      ],
+      [
+        "exegese",
+        "exégesis"
+      ],
+      [
+        "un paso de las Escrituras",
+        "un pasaje de las Escrituras"
+      ],
+      [
+        "claridad en el destacar",
+        "claridad al destacar"
+      ],
+      [
+        "Confisión",
+        "Confesión"
+      ],
+      [
+        "se puede dispensar a exégesis",
+        "podrá dispensarse la exégesis"
+      ]
+    ]
+  }
+}

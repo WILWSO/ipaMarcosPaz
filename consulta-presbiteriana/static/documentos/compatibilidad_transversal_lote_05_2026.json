@@ -1,0 +1,716 @@
+{
+  "batch": 5,
+  "date": "2026-10-14",
+  "reviewedNotes": 28,
+  "items": [
+    {
+      "id": "CI-nota-102",
+      "targets": [
+        "CI-art-27",
+        "CI-art-54"
+      ],
+      "parents": [
+        "CI-art-28"
+      ],
+      "classification": "candidatura-y-oficialato-distinguidos",
+      "findingEs": "La coincidencia PL27 pertenece a Liturgia, no CI27. La resolución distingue candidatura al ministerio de elección/ordenación como presbítero o diácono, y representación si es elegido. EC3/EC5 no otorgan voto conciliar por ser candidato ni sustituyen la ceremonia o el registro del inicio del mandato.",
+      "findingPt": "A coincidência PL27 é da Liturgia, não CI27. A resolução distingue candidatura ao ministério de eleição/ordenação como presbítero ou diácono, e representação se eleito. EC3/EC5 não concedem voto conciliar por ser candidato nem substituem cerimônia ou registro do início do mandato.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "d5b6595c948998da0ffb62abf85d4a8d43a30fa1b60f09d0e29adb71b006310a",
+      "translationHash": "dabc887fc495bd58c3a707890fe35218e34145379c6fe22207b51875da71797d",
+      "pages": [
+        49,
+        50
+      ],
+      "scope": "Clasificación documental de la coincidencia y relación con fuentes identificadas; no certifica compatibilidad global ni vigencia civil/médica actual."
+    },
+    {
+      "id": "CI-nota-105",
+      "targets": [
+        "RI-CE-art-8"
+      ],
+      "parents": [
+        "CI-art-30"
+      ],
+      "classification": "numero-homonimo-con-alcance-limitado",
+      "findingEs": "La remisión es al modelo de Estatuto de Iglesia art.8, no RI-CE8. SC2026-CXXIII no modifica por igualdad numérica las opiniones laborales de 2014 ni su decisión sobre CTPS. Esas afirmaciones se conservan atribuidas a la resolución histórica, sin validación de legislación laboral actual.",
+      "findingPt": "A remissão é ao modelo de Estatuto de Igreja art.8, não RI-CE8. SC2026-CXXIII não altera pela igualdade numérica opiniões trabalhistas de 2014 nem sua decisão sobre CTPS. Conservar afirmações atribuídas à resolução histórica, sem validação da legislação trabalhista atual.",
+      "sources": [
+        "SC-2026-CXXIII"
+      ],
+      "originalHash": "e0a705d29f5972893e12ffca5c792f264d29923ebdf96997a9cb94168fb7f2c4",
+      "translationHash": "efe5d1f0dd3867a07a5dd289d4134fd6293ff330a0650800c7cbd8f8678dd6c3",
+      "pages": [
+        50,
+        51
+      ],
+      "scope": "Clasificación documental de la coincidencia y relación con fuentes identificadas; no certifica compatibilidad global ni vigencia civil/médica actual."
+    },
+    {
+      "id": "CI-nota-117",
+      "targets": [
+        "CI-art-84"
+      ],
+      "parents": [
+        "CI-art-34"
+      ],
+      "classification": "eleccion-de-pastor-y-oficiales-distinta-de-cargos-del-consejo",
+      "findingEs": "Las coincidencias CI3 no son ATAS3. Se preservan las reglas históricas de elección/designación pastoral, instrucciones electorales, parentesco y número de vacantes en su respectivo contexto. EC7 modifica cargos internos del Consejo (CI84), no impone cinco años a todo pastor ni modifica por sí sola todos los procesos de elección de oficiales.",
+      "findingPt": "Coincidências CI3 não são ATAS3. Preservadas regras históricas de eleição/designação pastoral, instruções eleitorais, parentesco e número de vagas no respectivo contexto. EC7 altera cargos internos do Conselho (CI84), não impõe cinco anos a todo pastor nem altera, por si só, todos os processos de eleição de oficiais.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "9a255df798016b9752d367a979b27e1e59456b8a0e5955222576c141484f74fd",
+      "translationHash": "834d52ba4451997e403c00d6763e9c8a6a60e700e99e07d46419e613f82226d9",
+      "pages": [
+        58,
+        59
+      ],
+      "scope": "Clasificación documental de la coincidencia y relación con fuentes identificadas; no certifica compatibilidad global ni vigencia civil/médica actual."
+    },
+    {
+      "id": "CI-nota-208",
+      "targets": [
+        "CI-art-54"
+      ],
+      "parents": [
+        "CI-art-72"
+      ],
+      "classification": "ordenacion-y-disponibilidad-distintas",
+      "findingEs": "Las citas PL26–30/PL27 pertenecen a Liturgia, no a membresía conciliar de CI27. EC5 añade disponibilidad del diácono y conserva el caput de cinco años de CI54; no cambia el acto de ordenación ante la iglesia, el registro de su fecha ni aprueba por sí sola nuevos criterios de acceso al diaconato. Los pasajes históricos sobre diaconisas se conservan como decisiones atribuidas a sus fuentes, sin dar por hecha su sustitución por EC5.",
+      "findingPt": "Citações PL26–30/PL27 são da Liturgia, não da membresia conciliar de CI27. EC5 acrescenta disponibilidade do diácono e conserva caput de cinco anos de CI54; não altera ordenação perante a igreja, registro da data nem aprova, por si só, novos critérios de acesso ao diaconato. Conservar passagens históricas sobre diaconisas atribuídas às fontes, sem presumir substituição pela EC5.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "3388ca4f1db1420ef86d24528811480fba1b27bbdc923e9253e26f182472ff6e",
+      "translationHash": "280f705d02fd2c377f693f0c32cec172e420065199170617682a47b6eb467bf4",
+      "pages": [
+        102,
+        103
+      ],
+      "scope": "Clasificación documental de la coincidencia y relación con fuentes identificadas; no certifica compatibilidad global ni vigencia civil/médica actual."
+    },
+    {
+      "id": "CI-nota-241",
+      "targets": [
+        "RI-CE-art-8"
+      ],
+      "parents": [
+        "CI-art-83"
+      ],
+      "classification": "organizaciones-internas-distintas-de-secretaria",
+      "findingEs": "La cita es CI8 sobre gobierno local, no RI-CE8. La revocación puntual del archivo histórico no redefine personalidad jurídica o reglamentos de sociedades internas. Las afirmaciones de 1955/1958/1978 se conservan como antecedentes sin dictamen civil actual.",
+      "findingPt": "A citação é CI8 sobre governo local, não RI-CE8. A revogação pontual do arquivo histórico não redefine personalidade jurídica ou regimentos de sociedades internas. Conservar afirmações de 1955/1958/1978 como antecedentes sem parecer civil atual.",
+      "sources": [
+        "SC-2026-CXXIII"
+      ],
+      "originalHash": "6fdabcdb376456e5489a7d67e97008a6f160dd7935c403203b0966276eedca03",
+      "translationHash": "6906f6ac73563c3cec46035ec4d55ad55dd30e49921a26fbaefc3a2ca143c854",
+      "pages": [
+        113,
+        114
+      ],
+      "scope": "Clasificación documental de la coincidencia y relación con fuentes identificadas; no certifica compatibilidad global ni vigencia civil/médica actual."
+    },
+    {
+      "id": "CI-nota-303",
+      "targets": [
+        "CI-art-27",
+        "CI-art-88"
+      ],
+      "parents": [
+        "CI-art-104"
+      ],
+      "classification": "poderes-de-la-ejecutiva-y-membresia-no-fusionados",
+      "findingEs": "Las referencias RI-CE3 y modelo estatutario art.27 no son los artículos reformados de igual número. La nota distingue concilio y Ejecutiva para anular actos o tramitar documentos. CE2026-CXVII añade aclaración específica sobre transferencia de ministros: exige poderes del Plenario para la solicitud y distingue recepción válida, membresía y asiento. Conserva su cita discrepante CI88 l (la alínea l del Manual trata evangelización); no corregirla a c ni convertir la aclaración en poder irrestricto de la Ejecutiva.",
+      "findingPt": "Referências RI-CE3 e modelo estatutário art.27 não são artigos alterados de igual número. A nota distingue concílio e Executiva para anular atos ou tramitar documentos. CE2026-CXVII acrescenta esclarecimento específico sobre transferência de ministros: exige poderes do Plenário para solicitação e distingue recebimento válido, membresia e assento. Conservar citação discrepante CI88 l (a alínea l do Manual trata evangelização); não corrigi-la para c nem transformar esclarecimento em poder irrestrito da Executiva.",
+      "sources": [
+        "SC-2026-CCI",
+        "CE-2026-CXVII"
+      ],
+      "originalHash": "cdee054fdd3bc283aa294c0deb88372fce97b9c5a12f90fd3cc015eecee99d57",
+      "translationHash": "9754218178465116243bf17b6930f7e36a182703d000bf1ec63de5aab9066586",
+      "pages": [
+        134
+      ],
+      "scope": "Clasificación documental de la coincidencia y relación con fuentes identificadas; no certifica compatibilidad global ni vigencia civil/médica actual."
+    },
+    {
+      "id": "CI-nota-312",
+      "targets": [
+        "CI-art-54"
+      ],
+      "parents": [
+        "CI-art-109"
+      ],
+      "classification": "ordenacion-y-disponibilidad-distintas",
+      "findingEs": "Las citas PL26–30/PL27 pertenecen a Liturgia, no a membresía conciliar de CI27. EC5 añade disponibilidad del diácono y conserva el caput de cinco años de CI54; no cambia el acto de ordenación ante la iglesia, el registro de su fecha ni aprueba por sí sola nuevos criterios de acceso al diaconato. Los pasajes históricos sobre diaconisas se conservan como decisiones atribuidas a sus fuentes, sin dar por hecha su sustitución por EC5.",
+      "findingPt": "Citações PL26–30/PL27 são da Liturgia, não da membresia conciliar de CI27. EC5 acrescenta disponibilidade do diácono e conserva caput de cinco anos de CI54; não altera ordenação perante a igreja, registro da data nem aprova, por si só, novos critérios de acesso ao diaconato. Conservar passagens históricas sobre diaconisas atribuídas às fontes, sem presumir substituição pela EC5.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "8823a45487bb0389e5ca823bedd783da9668d8e8fb228305603efb6478835119",
+      "translationHash": "3d05e1d48df2521e666f7f3dcdbaeaad2c3867e2a402a7c7bfc70097806d265c",
+      "pages": [
+        136,
+        137
+      ],
+      "scope": "Clasificación documental de la coincidencia y relación con fuentes identificadas; no certifica compatibilidad global ni vigencia civil/médica actual."
+    },
+    {
+      "id": "CI-nota-316",
+      "targets": [
+        "CI-art-84"
+      ],
+      "parents": [
+        "CI-art-110"
+      ],
+      "classification": "eleccion-de-pastor-y-oficiales-distinta-de-cargos-del-consejo",
+      "findingEs": "Las coincidencias CI3 no son ATAS3. Se preservan las reglas históricas de elección/designación pastoral, instrucciones electorales, parentesco y número de vacantes en su respectivo contexto. EC7 modifica cargos internos del Consejo (CI84), no impone cinco años a todo pastor ni modifica por sí sola todos los procesos de elección de oficiales.",
+      "findingPt": "Coincidências CI3 não são ATAS3. Preservadas regras históricas de eleição/designação pastoral, instruções eleitorais, parentesco e número de vagas no respectivo contexto. EC7 altera cargos internos do Conselho (CI84), não impõe cinco anos a todo pastor nem altera, por si só, todos os processos de eleição de oficiais.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "a49f018fd2417178829403c04e785a9af1074a128eece885571d7a23e7fc4350",
+      "translationHash": "ffd53d82e5d006780ecb7a8a7fe2099f8ffb79df37dcb8e96c0810650bb1189d",
+      "pages": [
+        138,
+        139
+      ],
+      "scope": "Clasificación documental de la coincidencia y relación con fuentes identificadas; no certifica compatibilidad global ni vigencia civil/médica actual."
+    },
+    {
+      "id": "CI-nota-330",
+      "targets": [
+        "CI-art-44",
+        "CI-art-88"
+      ],
+      "parents": [
+        "CI-art-118"
+      ],
+      "classification": "reglamento-seminarios-con-base-integral-pendiente",
+      "findingEs": "El art.44 citado pertenece al reglamento de seminarios, no al pastor emérito de CI44. SC2026-CLXXXV aprueba una reforma y 29 ajustes, no sólo un estudio; la transición hasta 2030 no aplaza toda la aprobación. Los RIs actuales continúan sólo donde no confronten el nuevo texto, y la revocación expresa alcanza el RI-JET. Falta la propuesta íntegra: no certificar el porcentaje histórico de 40% de créditos como regla consolidada vigente, ni declararlo eliminado sin base. La idoneidad y demás decisiones históricas se mantienen identificadas por fecha/fuente.",
+      "findingPt": "O art.44 citado é do regimento de seminários, não do pastor emérito de CI44. SC2026-CLXXXV aprova reforma e 29 ajustes, não apenas estudo; transição até 2030 não adia toda aprovação. Os RIs atuais continuam só onde não confrontem o novo texto, e a revogação expressa alcança o RI-JET. Falta proposta integral: não certificar percentual histórico de 40% de créditos como regra consolidada vigente nem declará-lo eliminado sem base. Conservar idoneidade e demais decisões históricas identificadas por data/fonte.",
+      "sources": [
+        "SC-2026-CLXXXV"
+      ],
+      "originalHash": "ccfc4c82c9c2a3a2126442312485210567fecffebc1646dd2c000b1afd2faebf",
+      "translationHash": "fdbdb2b97d31b62c8c9cec41e1b7855fd5e46e9870fb58f0141dd04eb4f6e2d8",
+      "pages": [
+        143,
+        144
+      ],
+      "scope": "Clasificación documental de la coincidencia y relación con fuentes identificadas; no certifica compatibilidad global ni vigencia civil/médica actual."
+    },
+    {
+      "id": "CI-nota-331",
+      "targets": [
+        "CI-art-44",
+        "CI-art-88"
+      ],
+      "parents": [
+        "CI-art-118"
+      ],
+      "classification": "reglamento-seminarios-con-base-integral-pendiente",
+      "findingEs": "El art.44 citado pertenece al reglamento de seminarios, no al pastor emérito de CI44. SC2026-CLXXXV aprueba una reforma y 29 ajustes, no sólo un estudio; la transición hasta 2030 no aplaza toda la aprobación. Los RIs actuales continúan sólo donde no confronten el nuevo texto, y la revocación expresa alcanza el RI-JET. Falta la propuesta íntegra: no certificar el porcentaje histórico de 40% de créditos como regla consolidada vigente, ni declararlo eliminado sin base. La idoneidad y demás decisiones históricas se mantienen identificadas por fecha/fuente.",
+      "findingPt": "O art.44 citado é do regimento de seminários, não do pastor emérito de CI44. SC2026-CLXXXV aprova reforma e 29 ajustes, não apenas estudo; transição até 2030 não adia toda aprovação. Os RIs atuais continuam só onde não confrontem o novo texto, e a revogação expressa alcança o RI-JET. Falta proposta integral: não certificar percentual histórico de 40% de créditos como regra consolidada vigente nem declará-lo eliminado sem base. Conservar idoneidade e demais decisões históricas identificadas por data/fonte.",
+      "sources": [
+        "SC-2026-CLXXXV"
+      ],
+      "originalHash": "91a4c4ffc89bcbc360dd0042b4ffe9160421669c2bb1fd2eba900122c18e2b96",
+      "translationHash": "455e0c39faa4121c233655065f29683f2776d0d144825a3e49cd03ba90b747e2",
+      "pages": [
+        144,
+        145,
+        146
+      ],
+      "scope": "Clasificación documental de la coincidencia y relación con fuentes identificadas; no certifica compatibilidad global ni vigencia civil/médica actual."
+    },
+    {
+      "id": "CD-nota-33",
+      "targets": [
+        "CI-art-54",
+        "CI-art-64"
+      ],
+      "parents": [
+        "CD-art-20"
+      ],
+      "classification": "regimen-judicial-y-numeros-homonimos",
+      "findingEs": "Los rangos citados pertenecen a reglamentos de Presbiterio/Sínodo/Supremo Concilio; el art.54 de CD-nota79 es del Código de Disciplina, no CI54. EC5/EC6 no convierten plazos administrativos ni disponibilidad del diácono en reglas de proceso disciplinario. Conservar convocatoria de tribunal, quórum y rito en el contexto de cada fuente; no aplicar automáticamente los 30 días de CI64 a recursos judiciales.",
+      "findingPt": "Intervalos citados pertencem a regimentos de Presbitério/Sínodo/Supremo Concílio; art.54 de CD-nota79 é do Código de Disciplina, não CI54. EC5/EC6 não transformam prazos administrativos nem disponibilidade do diácono em regras de processo disciplinar. Conservar convocação do tribunal, quórum e rito no contexto de cada fonte; não aplicar automaticamente os 30 dias de CI64 a recursos judiciais.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "63e2d22e98eaad777ab3cbe0842633e6d3756597b507e0e917d773eb4fb692e3",
+      "translationHash": "4822c39fe93181dc9e5c29d982ef03de291427fadf56b8eb3b84a98581b455e4",
+      "pages": [
+        178
+      ],
+      "scope": "Clasificación documental de la coincidencia y relación con fuentes identificadas; no certifica compatibilidad global ni vigencia civil/médica actual."
+    },
+    {
+      "id": "CD-nota-34",
+      "targets": [
+        "CI-art-54",
+        "CI-art-64"
+      ],
+      "parents": [
+        "CD-art-21"
+      ],
+      "classification": "regimen-judicial-y-numeros-homonimos",
+      "findingEs": "Los rangos citados pertenecen a reglamentos de Presbiterio/Sínodo/Supremo Concilio; el art.54 de CD-nota79 es del Código de Disciplina, no CI54. EC5/EC6 no convierten plazos administrativos ni disponibilidad del diácono en reglas de proceso disciplinario. Conservar convocatoria de tribunal, quórum y rito en el contexto de cada fuente; no aplicar automáticamente los 30 días de CI64 a recursos judiciales.",
+      "findingPt": "Intervalos citados pertencem a regimentos de Presbitério/Sínodo/Supremo Concílio; art.54 de CD-nota79 é do Código de Disciplina, não CI54. EC5/EC6 não transformam prazos administrativos nem disponibilidade do diácono em regras de processo disciplinar. Conservar convocação do tribunal, quórum e rito no contexto de cada fonte; não aplicar automaticamente os 30 dias de CI64 a recursos judiciais.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "7d054e4a155fe955ae1fab4387aaa3e10a79c84749ef2586c595c97c0db21817",
+      "translationHash": "ab6dc6833834e313f6ccaeebba06a642455815126b07a5c4ff4e8a631b379750",
+      "pages": [
+        178
+      ],
+      "scope": "Clasificación documental de la coincidencia y relación con fuentes identificadas; no certifica compatibilidad global ni vigencia civil/médica actual."
+    },
+    {
+      "id": "CD-nota-35",
+      "targets": [
+        "CI-art-88"
+      ],
+      "parents": [
+        "CD-art-21"
+      ],
+      "classification": "decision-judicial-historica-con-aclaracion-administrativa",
+      "findingEs": "La ementa de 2021 distingue Tribunal del Sínodo y competencias administrativas del Presbiterio; su referencia a RI-Sínodo81–89 no es CI88. La mención de CE2009-CXXVIII sobre sustento debe leerse con CE2026-CIV, que distingue afastamento/deposición y permite deliberación contextual. No convertir socorro en pago universal obligatorio ni eliminar por esa aclaración los requisitos del proceso judicial.",
+      "findingPt": "A ementa de 2021 distingue Tribunal do Sínodo e competências administrativas do Presbitério; referência a RI-Sínodo81–89 não é CI88. Ler menção à CE2009-CXXVIII sobre sustento com CE2026-CIV, que distingue afastamento/deposição e permite deliberação contextual. Não transformar socorro em pagamento universal obrigatório nem eliminar requisitos do processo judicial.",
+      "sources": [
+        "CE-2026-CIV"
+      ],
+      "originalHash": "17e3f038071765212589e15b08f1f7096da1f9f648075e05f34270ca257884d6",
+      "translationHash": "5b358094214ce2d555eff56384184e0cb92a62566a6c8003d4485e516a5672d1",
+      "pages": [
+        178
+      ],
+      "scope": "Clasificación documental de la coincidencia y relación con fuentes identificadas; no certifica compatibilidad global ni vigencia civil/médica actual."
+    },
+    {
+      "id": "CD-nota-36",
+      "targets": [
+        "CI-art-54",
+        "CI-art-64"
+      ],
+      "parents": [
+        "CD-art-22"
+      ],
+      "classification": "regimen-judicial-y-numeros-homonimos",
+      "findingEs": "Los rangos citados pertenecen a reglamentos de Presbiterio/Sínodo/Supremo Concilio; el art.54 de CD-nota79 es del Código de Disciplina, no CI54. EC5/EC6 no convierten plazos administrativos ni disponibilidad del diácono en reglas de proceso disciplinario. Conservar convocatoria de tribunal, quórum y rito en el contexto de cada fuente; no aplicar automáticamente los 30 días de CI64 a recursos judiciales.",
+      "findingPt": "Intervalos citados pertencem a regimentos de Presbitério/Sínodo/Supremo Concílio; art.54 de CD-nota79 é do Código de Disciplina, não CI54. EC5/EC6 não transformam prazos administrativos nem disponibilidade do diácono em regras de processo disciplinar. Conservar convocação do tribunal, quórum e rito no contexto de cada fonte; não aplicar automaticamente os 30 dias de CI64 a recursos judiciais.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "3b16adb42bb7f00c9907e4ee57cbf527a846a7843d8526146a1287fef2010c39",
+      "translationHash": "5670cea5527d91a8c04bcaa47f01214970c1a8ae30a43e4d03ee40423b9825b9",
+      "pages": [
+        179
+      ],
+      "scope": "Clasificación documental de la coincidencia y relación con fuentes identificadas; no certifica compatibilidad global ni vigencia civil/médica actual."
+    },
+    {
+      "id": "CD-nota-79",
+      "targets": [
+        "CI-art-54",
+        "CI-art-64"
+      ],
+      "parents": [
+        "CD-art-97"
+      ],
+      "classification": "regimen-judicial-y-numeros-homonimos",
+      "findingEs": "Los rangos citados pertenecen a reglamentos de Presbiterio/Sínodo/Supremo Concilio; el art.54 de CD-nota79 es del Código de Disciplina, no CI54. EC5/EC6 no convierten plazos administrativos ni disponibilidad del diácono en reglas de proceso disciplinario. Conservar convocatoria de tribunal, quórum y rito en el contexto de cada fuente; no aplicar automáticamente los 30 días de CI64 a recursos judiciales.",
+      "findingPt": "Intervalos citados pertencem a regimentos de Presbitério/Sínodo/Supremo Concílio; art.54 de CD-nota79 é do Código de Disciplina, não CI54. EC5/EC6 não transformam prazos administrativos nem disponibilidade do diácono em regras de processo disciplinar. Conservar convocação do tribunal, quórum e rito no contexto de cada fonte; não aplicar automaticamente os 30 dias de CI64 a recursos judiciais.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "bb861e5ce21b884dfe91aa9ede2cd129deda356ab6845c463f79940dc8964ccf",
+      "translationHash": "85e188fd6f3200c85ac59632e72fa7df4581be890542be9545abd65252c75355",
+      "pages": [
+        199,
+        200,
+        201
+      ],
+      "scope": "Clasificación documental de la coincidencia y relación con fuentes identificadas; no certifica compatibilidad global ni vigencia civil/médica actual."
+    },
+    {
+      "id": "PL-nota-3",
+      "targets": [
+        "RI-CE-art-8"
+      ],
+      "parents": [
+        "PL-art-2"
+      ],
+      "classification": "liturgia-y-atribuciones-de-secretaria-no-confundidas",
+      "findingEs": "Los arts.7/8 citados son de Liturgia, no RI-CE8. Conservar la diversidad de asuntos y las citas antiguas como antecedentes; una coincidencia numérica no crea reforma doctrinal. CE2026-LX ordena disponibilizar una Carta Pastoral y Teológica ya adoptada, no promulga por ese acto una nueva redacción de PL8 ni acredita que la publicación se ejecutó. No armonizar silenciosamente todas las decisiones históricas de esta nota.",
+      "findingPt": "Arts.7/8 citados são da Liturgia, não RI-CE8. Conservar diversidade dos assuntos e citações antigas como antecedentes; coincidência numérica não cria alteração doutrinária. CE2026-LX manda disponibilizar Carta Pastoral e Teológica já adotada, não promulga por esse ato nova redação de PL8 nem comprova execução da publicação. Não harmonizar silenciosamente todas as decisões históricas da nota.",
+      "sources": [
+        "SC-2026-CXXIII",
+        "CE-2026-LX"
+      ],
+      "originalHash": "92823c7027670f2886d7f51a489134eb2e2e4d786f23ae78d9377616e7c6819e",
+      "translationHash": "d07a5122e8f3e5f04c6a0138b6a5cfff9208e27bd68817f23c7635d68d132065",
+      "pages": [
+        223,
+        224,
+        225
+      ],
+      "scope": "Clasificación documental de la coincidencia y relación con fuentes identificadas; no certifica compatibilidad global ni vigencia civil/médica actual."
+    },
+    {
+      "id": "PL-nota-5",
+      "targets": [
+        "CI-art-88",
+        "CI-art-54"
+      ],
+      "parents": [
+        "PL-art-7"
+      ],
+      "classification": "alineas-conservadas-y-doctrina-no-reformada-por-inferencia",
+      "findingEs": "EC8 sustituye sólo CI88 a; las referencias e/m/n sobre supervisión litúrgica y corrección no fueron reemplazadas por esa enmienda. PL8 tampoco es RI-CE8. EC5 permite participación del diácono disponible en su Junta por invitación y sin voto: no constituye una nueva regla de distribución de la Cena ni autorización automática de otros oficios. CE2026-LX dispone divulgar carta existente, no reescribe en bloque las decisiones litúrgicas históricas.",
+      "findingPt": "EC8 substitui só CI88 a; referências e/m/n sobre supervisão litúrgica e correção não foram substituídas por essa emenda. PL8 tampouco é RI-CE8. EC5 permite participação do diácono disponível na sua Junta mediante convite e sem voto: não constitui nova regra de distribuição da Ceia nem autorização automática de outros ofícios. CE2026-LX manda divulgar carta existente, não reescreve em bloco decisões litúrgicas históricas.",
+      "sources": [
+        "SC-2026-CCI",
+        "CE-2026-LX"
+      ],
+      "originalHash": "55229d93910cc66b52baada139b42eaec4b4ee4a75883ef3f5eb7229dcef32f3",
+      "translationHash": "d7298dacf8e96dec6d46ef207b15148c6ecef4113d2386d7b163ec259b8b7162",
+      "pages": [
+        226,
+        227,
+        228
+      ],
+      "scope": "Clasificación documental de la coincidencia y relación con fuentes identificadas; no certifica compatibilidad global ni vigencia civil/médica actual."
+    },
+    {
+      "id": "PL-nota-7",
+      "targets": [
+        "RI-CE-art-8"
+      ],
+      "parents": [
+        "PL-art-7"
+      ],
+      "classification": "liturgia-y-atribuciones-de-secretaria-no-confundidas",
+      "findingEs": "Los arts.7/8 citados son de Liturgia, no RI-CE8. Conservar la diversidad de asuntos y las citas antiguas como antecedentes; una coincidencia numérica no crea reforma doctrinal. CE2026-LX ordena disponibilizar una Carta Pastoral y Teológica ya adoptada, no promulga por ese acto una nueva redacción de PL8 ni acredita que la publicación se ejecutó. No armonizar silenciosamente todas las decisiones históricas de esta nota.",
+      "findingPt": "Arts.7/8 citados são da Liturgia, não RI-CE8. Conservar diversidade dos assuntos e citações antigas como antecedentes; coincidência numérica não cria alteração doutrinária. CE2026-LX manda disponibilizar Carta Pastoral e Teológica já adotada, não promulga por esse ato nova redação de PL8 nem comprova execução da publicação. Não harmonizar silenciosamente todas as decisões históricas da nota.",
+      "sources": [
+        "SC-2026-CXXIII",
+        "CE-2026-LX"
+      ],
+      "originalHash": "9b6e88a1604fc8ff30d6b9a20d0a0f4b80af944d919010f901e84913868b5ea5",
+      "translationHash": "c6345dfd3105e44ec66909a02cae4d890017ed189859991f0889cd3797b43666",
+      "pages": [
+        228,
+        229,
+        230,
+        231,
+        232,
+        233
+      ],
+      "scope": "Clasificación documental de la coincidencia y relación con fuentes identificadas; no certifica compatibilidad global ni vigencia civil/médica actual."
+    },
+    {
+      "id": "PL-nota-8",
+      "targets": [
+        "CI-art-88",
+        "CI-art-54"
+      ],
+      "parents": [
+        "PL-art-8"
+      ],
+      "classification": "alineas-conservadas-y-doctrina-no-reformada-por-inferencia",
+      "findingEs": "EC8 sustituye sólo CI88 a; las referencias e/m/n sobre supervisión litúrgica y corrección no fueron reemplazadas por esa enmienda. PL8 tampoco es RI-CE8. EC5 permite participación del diácono disponible en su Junta por invitación y sin voto: no constituye una nueva regla de distribución de la Cena ni autorización automática de otros oficios. CE2026-LX dispone divulgar carta existente, no reescribe en bloque las decisiones litúrgicas históricas.",
+      "findingPt": "EC8 substitui só CI88 a; referências e/m/n sobre supervisão litúrgica e correção não foram substituídas por essa emenda. PL8 tampouco é RI-CE8. EC5 permite participação do diácono disponível na sua Junta mediante convite e sem voto: não constitui nova regra de distribuição da Ceia nem autorização automática de outros ofícios. CE2026-LX manda divulgar carta existente, não reescreve em bloco decisões litúrgicas históricas.",
+      "sources": [
+        "SC-2026-CCI",
+        "CE-2026-LX"
+      ],
+      "originalHash": "423b20626e316ef22824701359b0aacc8da89c87648600380bfe5c1390d30621",
+      "translationHash": "f309681420e8a3da46b4d4d5181a138cbfcb8188bcc27be1c379b1cc39e0a5dd",
+      "pages": [
+        233,
+        234
+      ],
+      "scope": "Clasificación documental de la coincidencia y relación con fuentes identificadas; no certifica compatibilidad global ni vigencia civil/médica actual."
+    },
+    {
+      "id": "PL-nota-10",
+      "targets": [
+        "CI-art-88",
+        "CI-art-54"
+      ],
+      "parents": [
+        "PL-art-8"
+      ],
+      "classification": "alineas-conservadas-y-doctrina-no-reformada-por-inferencia",
+      "findingEs": "EC8 sustituye sólo CI88 a; las referencias e/m/n sobre supervisión litúrgica y corrección no fueron reemplazadas por esa enmienda. PL8 tampoco es RI-CE8. EC5 permite participación del diácono disponible en su Junta por invitación y sin voto: no constituye una nueva regla de distribución de la Cena ni autorización automática de otros oficios. CE2026-LX dispone divulgar carta existente, no reescribe en bloque las decisiones litúrgicas históricas.",
+      "findingPt": "EC8 substitui só CI88 a; referências e/m/n sobre supervisão litúrgica e correção não foram substituídas por essa emenda. PL8 tampouco é RI-CE8. EC5 permite participação do diácono disponível na sua Junta mediante convite e sem voto: não constitui nova regra de distribuição da Ceia nem autorização automática de outros ofícios. CE2026-LX manda divulgar carta existente, não reescreve em bloco decisões litúrgicas históricas.",
+      "sources": [
+        "SC-2026-CCI",
+        "CE-2026-LX"
+      ],
+      "originalHash": "c9e8b86b4e5997230a6ea0d703f856614bba5cf8b28805c5320a344c4dcfa672",
+      "translationHash": "f05bd85ba7f0cb7a6c27d4e40f344a5cdd4099cfdae563a9a699c3f34bd4c9b7",
+      "pages": [
+        236
+      ],
+      "scope": "Clasificación documental de la coincidencia y relación con fuentes identificadas; no certifica compatibilidad global ni vigencia civil/médica actual."
+    },
+    {
+      "id": "PL-nota-24",
+      "targets": [
+        "CI-art-88",
+        "CI-art-54"
+      ],
+      "parents": [
+        "PL-art-15"
+      ],
+      "classification": "alineas-conservadas-y-doctrina-no-reformada-por-inferencia",
+      "findingEs": "EC8 sustituye sólo CI88 a; las referencias e/m/n sobre supervisión litúrgica y corrección no fueron reemplazadas por esa enmienda. PL8 tampoco es RI-CE8. EC5 permite participación del diácono disponible en su Junta por invitación y sin voto: no constituye una nueva regla de distribución de la Cena ni autorización automática de otros oficios. CE2026-LX dispone divulgar carta existente, no reescribe en bloque las decisiones litúrgicas históricas.",
+      "findingPt": "EC8 substitui só CI88 a; referências e/m/n sobre supervisão litúrgica e correção não foram substituídas por essa emenda. PL8 tampouco é RI-CE8. EC5 permite participação do diácono disponível na sua Junta mediante convite e sem voto: não constitui nova regra de distribuição da Ceia nem autorização automática de outros ofícios. CE2026-LX manda divulgar carta existente, não reescreve em bloco decisões litúrgicas históricas.",
+      "sources": [
+        "SC-2026-CCI",
+        "CE-2026-LX"
+      ],
+      "originalHash": "dd8fafd86add33591a2179f4a8d0991f5e196c667ea5099e31588c02b26aebff",
+      "translationHash": "fa71aac48c3ee0ed2c6b236190d46d5af9abe9a86465e0309d6fb6a65d12b601",
+      "pages": [
+        245,
+        246
+      ],
+      "scope": "Clasificación documental de la coincidencia y relación con fuentes identificadas; no certifica compatibilidad global ni vigencia civil/médica actual."
+    },
+    {
+      "id": "PL-nota-28",
+      "targets": [
+        "ATAS-art-3",
+        "CI-art-44"
+      ],
+      "parents": [
+        "PL-art-18"
+      ],
+      "classification": "citas-civiles-distintas-de-las-reformas-eclesiasticas",
+      "findingEs": "La coincidencia de PL-nota28 se refiere al Decreto-ley3.200/41 arts.1–3; la de PL-nota50 al Código Civil art.44. No son ATAS3 ni CI44. Se preservan las opiniones jurídicas, médicas y confesionales como afirmaciones de las resoluciones históricas transcritas, sin convertirlas en asesoramiento civil/médico actual ni atribuirles una actualización por las reformas de 2026.",
+      "findingPt": "A coincidência de PL-nota28 refere-se ao Decreto-lei3.200/41 arts.1–3; a de PL-nota50 ao Código Civil art.44. Não são ATAS3 nem CI44. Conservar opiniões jurídicas, médicas e confessionais como afirmações das resoluções históricas transcritas, sem transformá-las em orientação civil/médica atual nem atribuir atualização pelas alterações de 2026.",
+      "sources": [
+        "SC-2026-CCI",
+        "CE-2026-CII"
+      ],
+      "originalHash": "33cb72728431bbf8f9b43681299127c736511478fd6577fec6ddbc19195d365a",
+      "translationHash": "d5d835184fd0f5f945c1ba3993fa9f3dbc66243e03118198756ea49286a5ea2f",
+      "pages": [
+        247,
+        248,
+        249,
+        250
+      ],
+      "scope": "Clasificación documental de la coincidencia y relación con fuentes identificadas; no certifica compatibilidad global ni vigencia civil/médica actual."
+    },
+    {
+      "id": "PL-nota-32",
+      "targets": [
+        "RI-CE-art-8"
+      ],
+      "parents": [
+        "PL-art-21"
+      ],
+      "classification": "liturgia-y-atribuciones-de-secretaria-no-confundidas",
+      "findingEs": "Los arts.7/8 citados son de Liturgia, no RI-CE8. Conservar la diversidad de asuntos y las citas antiguas como antecedentes; una coincidencia numérica no crea reforma doctrinal. CE2026-LX ordena disponibilizar una Carta Pastoral y Teológica ya adoptada, no promulga por ese acto una nueva redacción de PL8 ni acredita que la publicación se ejecutó. No armonizar silenciosamente todas las decisiones históricas de esta nota.",
+      "findingPt": "Arts.7/8 citados são da Liturgia, não RI-CE8. Conservar diversidade dos assuntos e citações antigas como antecedentes; coincidência numérica não cria alteração doutrinária. CE2026-LX manda disponibilizar Carta Pastoral e Teológica já adotada, não promulga por esse ato nova redação de PL8 nem comprova execução da publicação. Não harmonizar silenciosamente todas as decisões históricas da nota.",
+      "sources": [
+        "SC-2026-CXXIII",
+        "CE-2026-LX"
+      ],
+      "originalHash": "4a107b5acd1630a690dd186e3bd8a047dab853686aba1b6cde33f91f93c49129",
+      "translationHash": "c963b79074f2abe9004c0bc8fa76a6e71cc100154a594ad8bf34c8e64c3c2ae0",
+      "pages": [
+        253,
+        254
+      ],
+      "scope": "Clasificación documental de la coincidencia y relación con fuentes identificadas; no certifica compatibilidad global ni vigencia civil/médica actual."
+    },
+    {
+      "id": "PL-nota-35",
+      "targets": [
+        "CI-art-54"
+      ],
+      "parents": [
+        "PL-art-26"
+      ],
+      "classification": "ordenacion-y-disponibilidad-distintas",
+      "findingEs": "Las citas PL26–30/PL27 pertenecen a Liturgia, no a membresía conciliar de CI27. EC5 añade disponibilidad del diácono y conserva el caput de cinco años de CI54; no cambia el acto de ordenación ante la iglesia, el registro de su fecha ni aprueba por sí sola nuevos criterios de acceso al diaconato. Los pasajes históricos sobre diaconisas se conservan como decisiones atribuidas a sus fuentes, sin dar por hecha su sustitución por EC5.",
+      "findingPt": "Citações PL26–30/PL27 são da Liturgia, não da membresia conciliar de CI27. EC5 acrescenta disponibilidade do diácono e conserva caput de cinco anos de CI54; não altera ordenação perante a igreja, registro da data nem aprova, por si só, novos critérios de acesso ao diaconato. Conservar passagens históricas sobre diaconisas atribuídas às fontes, sem presumir substituição pela EC5.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "c97f332fce33d50f602454976cbb0ab1e8e5f6fbce236589187f972c82b23892",
+      "translationHash": "0749f619236637aed44cc9091b065f0086ccb83a1036b6779a88c2da748a4665",
+      "pages": [
+        256,
+        257
+      ],
+      "scope": "Clasificación documental de la coincidencia y relación con fuentes identificadas; no certifica compatibilidad global ni vigencia civil/médica actual."
+    },
+    {
+      "id": "PL-nota-41",
+      "targets": [
+        "CI-art-54"
+      ],
+      "parents": [
+        "PL-art-30"
+      ],
+      "classification": "ordenacion-y-disponibilidad-distintas",
+      "findingEs": "Las citas PL26–30/PL27 pertenecen a Liturgia, no a membresía conciliar de CI27. EC5 añade disponibilidad del diácono y conserva el caput de cinco años de CI54; no cambia el acto de ordenación ante la iglesia, el registro de su fecha ni aprueba por sí sola nuevos criterios de acceso al diaconato. Los pasajes históricos sobre diaconisas se conservan como decisiones atribuidas a sus fuentes, sin dar por hecha su sustitución por EC5.",
+      "findingPt": "Citações PL26–30/PL27 são da Liturgia, não da membresia conciliar de CI27. EC5 acrescenta disponibilidade do diácono e conserva caput de cinco anos de CI54; não altera ordenação perante a igreja, registro da data nem aprova, por si só, novos critérios de acesso ao diaconato. Conservar passagens históricas sobre diaconisas atribuídas às fontes, sem presumir substituição pela EC5.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "e5c3bcf26df1a8ea8f0f9471adedaadef8a31849665584204bac4ae524d40af7",
+      "translationHash": "b3f832a9509b1a261c8a90332f6a39bd19278dda931ff932de4678bdfb849cd5",
+      "pages": [
+        258
+      ],
+      "scope": "Clasificación documental de la coincidencia y relación con fuentes identificadas; no certifica compatibilidad global ni vigencia civil/médica actual."
+    },
+    {
+      "id": "PL-nota-50",
+      "targets": [
+        "ATAS-art-3",
+        "CI-art-44"
+      ],
+      "parents": [
+        "PL-art-39"
+      ],
+      "classification": "citas-civiles-distintas-de-las-reformas-eclesiasticas",
+      "findingEs": "La coincidencia de PL-nota28 se refiere al Decreto-ley3.200/41 arts.1–3; la de PL-nota50 al Código Civil art.44. No son ATAS3 ni CI44. Se preservan las opiniones jurídicas, médicas y confesionales como afirmaciones de las resoluciones históricas transcritas, sin convertirlas en asesoramiento civil/médico actual ni atribuirles una actualización por las reformas de 2026.",
+      "findingPt": "A coincidência de PL-nota28 refere-se ao Decreto-lei3.200/41 arts.1–3; a de PL-nota50 ao Código Civil art.44. Não são ATAS3 nem CI44. Conservar opiniões jurídicas, médicas e confessionais como afirmações das resoluções históricas transcritas, sem transformá-las em orientação civil/médica atual nem atribuir atualização pelas alterações de 2026.",
+      "sources": [
+        "SC-2026-CCI",
+        "CE-2026-CII"
+      ],
+      "originalHash": "010ddedd80e70e24038c132628189e29817db32c0b4f7a233a96390ea76ea5f7",
+      "translationHash": "94a54c97de5d17a4f678c4b89a6e08c7c6d7d5ceaf4efe7b1fcf882f83570541",
+      "pages": [
+        260,
+        261,
+        262
+      ],
+      "scope": "Clasificación documental de la coincidencia y relación con fuentes identificadas; no certifica compatibilidad global ni vigencia civil/médica actual."
+    },
+    {
+      "id": "PL-nota-57",
+      "targets": [
+        "CI-art-54"
+      ],
+      "parents": [
+        "PL-art-42"
+      ],
+      "classification": "remisiones-de-rango-con-alcance-limitado",
+      "findingEs": "PL-nota57 incluye CI50–54, cuyo art.54 conserva caput/§§1–2 y añade §3 por EC5. En EST-IG-nota10, CI3/8 y PL26–30 son referencias a cuerpos distintos de ATAS3, RI-CE8 y CI27. No reformar en bloque los rangos ni deducir nuevas reglas de gobierno/ordenación de una coincidencia numérica.",
+      "findingPt": "PL-nota57 inclui CI50–54, cujo art.54 conserva caput/§§1–2 e acrescenta §3 pela EC5. Em EST-IG-nota10, CI3/8 e PL26–30 são referências a diplomas distintos de ATAS3, RI-CE8 e CI27. Não alterar intervalos em bloco nem deduzir novas regras de governo/ordenação pela coincidência numérica.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "43a1b37bf437ace9baeebe7ac871a9407a8373f61bd7fe258369750f95b6af5b",
+      "translationHash": "34c4eaf07be0242986d9fa3aefc682c75805875149118e0be337c13e278b9ca6",
+      "pages": [
+        263
+      ],
+      "scope": "Clasificación documental de la coincidencia y relación con fuentes identificadas; no certifica compatibilidad global ni vigencia civil/médica actual."
+    },
+    {
+      "id": "EST-IG-nota-10",
+      "targets": [
+        "CI-art-54"
+      ],
+      "parents": [
+        "EST-IG-art-2"
+      ],
+      "classification": "remisiones-de-rango-con-alcance-limitado",
+      "findingEs": "PL-nota57 incluye CI50–54, cuyo art.54 conserva caput/§§1–2 y añade §3 por EC5. En EST-IG-nota10, CI3/8 y PL26–30 son referencias a cuerpos distintos de ATAS3, RI-CE8 y CI27. No reformar en bloque los rangos ni deducir nuevas reglas de gobierno/ordenación de una coincidencia numérica.",
+      "findingPt": "PL-nota57 inclui CI50–54, cujo art.54 conserva caput/§§1–2 e acrescenta §3 pela EC5. Em EST-IG-nota10, CI3/8 e PL26–30 são referências a diplomas distintos de ATAS3, RI-CE8 e CI27. Não alterar intervalos em bloco nem deduzir novas regras de governo/ordenação pela coincidência numérica.",
+      "sources": [
+        "SC-2026-CCI"
+      ],
+      "originalHash": "700e54a9e7878c6abc32561dc34e4ed7b4ef8ff5499c734ecbf6ffac21bd5e58",
+      "translationHash": "ad1314ccfad7096bd57e5c9d48a71d7ae9b6bc178a5cb8ee491267954abd8b44",
+      "pages": [
+        513
+      ],
+      "scope": "Clasificación documental de la coincidencia y relación con fuentes identificadas; no certifica compatibilidad global ni vigencia civil/médica actual."
+    }
+  ],
+  "reformProvenance": {
+    "CE-2026-CXVII": {
+      "originalHash": "a7a8b7f33c86cafd0154f5584ce4d2b701e7d24fa79a692df06b7775bfc10ed6",
+      "translationHash": "b8b027a0aeaeda4bdc73bdda2bc19e40bd9a18438c09b1ff7f146fb4eeb15fca",
+      "pages": [
+        296
+      ]
+    },
+    "SC-2026-CCI": {
+      "originalHash": "9a14825cd6b834a4646d6cbd96c45504452c5707d108045a39f1a9b30fd714cd",
+      "translationHash": "5f6c503c43bde2d72e770c8929f6168531cd4ccc1d6dc7e74be10da89735370e",
+      "pages": [
+        27,
+        28
+      ]
+    },
+    "SC-2026-CLXXXV": {
+      "originalHash": "99c5834fb1871d83e7b2efd66556c6bdad88709c692f18eebfc67d222772c09c",
+      "translationHash": "d3b5cecbfe069587e0d071e8dcbb463c3ae5f846a6f89c6825357f9a89c15a80",
+      "pages": [
+        36,
+        37,
+        38,
+        39
+      ]
+    },
+    "CE-2026-LX": {
+      "originalHash": "cc42161ffe04e4a68628d37f907ab4784de428376f65125282f2f98bb845c62b",
+      "translationHash": "8e432d2bbbaf6fe31557ba1ffcc86f2bb09ac2a72ea36085a0e1c33682efff7a",
+      "pages": [
+        327
+      ]
+    },
+    "SC-2026-CXXIII": {
+      "originalHash": "64314e540c602bb55f76ce2b569dce1b1660cc5f7046355aaa14508282609ba3",
+      "translationHash": "4b747d2789d465b8ea7b131509dc1f36e9aa5ebdc18023b9c5c6cb27a02d51a9",
+      "pages": [
+        114,
+        115,
+        116
+      ]
+    },
+    "CE-2026-CII": {
+      "originalHash": "1bdeaa0744a0c664914b692e4c4c188abc15abd2a03acf2c05285a012c651cb9",
+      "translationHash": "ee680ddb88c23d8c5b59b7310af1923dd950e8e36c25eeec136b6e89433552b1",
+      "pages": [
+        305,
+        306
+      ]
+    },
+    "CE-2026-CIV": {
+      "originalHash": "00dd6567a0dd99a6688a52292f03fb9519b9d58bf36e2f60e9f58f394816a8b7",
+      "translationHash": "2d00423df3428da28b504ccf6178e16d541c9c7a271cf513a8db643a3e6dfd88",
+      "pages": [
+        302,
+        303,
+        304
+      ]
+    }
+  },
+  "globalCompatibilityReviewComplete": false,
+  "officialApproval": false,
+  "externalCertification": false,
+  "sourcePDFSHA256": {
+    "manual": "2d8b728004e32995ee5f1600a7e4e0da94a7124e253bf1fac5322a2b93a083a3",
+    "digesto": "e82955017938a555ab31a699d125b48fdfce686dd03d69b7b8dbbad1b03c2482"
+  }
+}

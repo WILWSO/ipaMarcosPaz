@@ -1,0 +1,87 @@
+{
+  "date": "2026-10-14",
+  "edition": "working-unofficial",
+  "scope": "Operational HTTP checks; no visual browser or user-device certification",
+  "checks": {
+    "status": "passed",
+    "html": true,
+    "initialAssets": 12,
+    "documentDownloads": 209,
+    "pdfDownloads": 2,
+    "bilingualQueries": 8,
+    "records": 2172,
+    "normativeEffects": 398,
+    "integratedReading": true,
+    "documentaryIssuesReviewed": 7,
+    "documentaryIssuesClosed": 2,
+    "documentaryIssuesRemaining": 5,
+    "missingFile404": true,
+    "method405": true,
+    "traversalBlocked": true,
+    "corpusBytes": 9129909,
+    "browserVisualCheck": "pending"
+  },
+  "standalonePackageBoot": "passed-without-npm-dependencies",
+  "unitTests": {
+    "passed": 204,
+    "failed": 0
+  },
+  "productionBuild": "passed",
+  "localUsePrepared": true,
+  "nodeRuntimeBundled": false,
+  "localHost": "127.0.0.1",
+  "defaultPort": 4173,
+  "remotePublished": false,
+  "visualBrowserReviewComplete": false,
+  "userDeviceReviewComplete": false,
+  "officialApproval": false,
+  "globalCompatibilityReviewComplete": false,
+  "documentaryConfirmations": {
+    "selectedIssueGroups": 7,
+    "selectedClosedGroups": 2,
+    "selectedOpenGroups": 5,
+    "exhaustive": false
+  },
+  "artifacts": [
+    "consulta_presbiteriana_lista_para_usar.zip",
+    "guia_inicio_sistema_2026_es.md",
+    "guia_inicio_sistema_2026_pt.md",
+    "consulta_presbiteriana.zip"
+  ],
+  "primaryArchive": "consulta_presbiteriana.zip",
+  "deliveryCommand": "npm run entrega",
+  "searchPrecision": {
+    "defaultMode": "words",
+    "expandedModeAvailable": true,
+    "exampleQuery": "membresía en iglesia local",
+    "exampleDirectResults": 12,
+    "exampleExpandedResults": 187,
+    "sourcePassageExcerpts": true,
+    "bilingualQueryEquivalence": "passed",
+    "linkedNotesAndDecisionsPreserved": true,
+    "arbitraryResultCap": false,
+    "exhaustiveImplicitRelationDetection": false,
+    "topicMode": "precise"
+  },
+  "liveSearch": {
+    "enabled": true,
+    "lastWordPrefix": true,
+    "sourceSuggestions": true,
+    "ranking": [
+      "phrase",
+      "sentence",
+      "article"
+    ],
+    "allTermsInSameSourceVersion": true,
+    "highlightSourceText": true,
+    "highlightPreservesOriginalText": true,
+    "highlightEscapesHTML": true,
+    "keyboardSuggestions": [
+      "ArrowDown",
+      "ArrowUp",
+      "Enter",
+      "Escape"
+    ],
+    "visualBrowserCheck": "pending"
+  }
+}

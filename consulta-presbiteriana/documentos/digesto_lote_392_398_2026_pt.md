@@ -1,0 +1,56 @@
+# Digesto 2026 — vigésimo sexto e último lote: decisões 392–398
+
+> Texto português de referência. Sete decisões completas CE X–IV, páginas 352–355; as páginas também contêm decisões fora do lote. Avanço espanhol: 398/398 traduzidas e conferidas; 0 pendentes de tradução ou cotejo. Integração parcial: seis emendas; efeitos adicionais pendentes de integrar ao Manual. Revisão editorial final e aprovação definitiva pendentes.
+
+## Observações editoriais
+
+- X e IX: jubilações integrais sem ônus IPB, art. 49, caput e § 6º, históricos, datas, famílias e distinções preservados. IX conserva Carlim/Carlin e ausência da letra b. Períodos sobrepostos preservados.
+- VIII registra reforma de sentença pelo Tribunal do Sínodo, de deposição a afastamento por tempo indeterminado (suspensión em ES), sem atribuir nova sentença à CE. Mojiana/Mojyana preservados.
+- VII conserva restauração/reintegração e Cavalcante; V conserva Cavalcanti, sem presumir identidade entre grafias.
+- VI, V e IV mantêm exoneração nos títulos e deposições nos acordos, sem acrescentar causa disciplinar. Listas integrais de dois, vinte e um e quinze nomes, com documentos e letras.
+- V mantém Correa/Corrêa e Pedregosa/Pedregoza; IV mantém Nickson Rezende/Resende, Luís Sérgio/Luiz Sergio e Aluizio/Aluízio. Sem correções por conjectura.
+- O fechamento editorial «Foram encontradas 398 resoluções» é conservado em IV, sem criar outra decisão. Corpus termina em CE IV; não se inventam CE III, II ou I.
+- Original PDF conferido normalizando espaços e hífens; cifras, referências, nomes, ordem e sinais § mantidos. Sem certificação externa. Próxima fase: integração dos efeitos normativos e revisão editorial do conjunto.
+
+## CE-2026-X
+
+Páginas PDF: 352, 353
+
+CE - 2026 - DOC. X: Quanto ao documento 090 - Pedido de Jubilação - Rev. Adler Silvio Coelho : Considerando: 1. O histórico ministerial do Rev. Adler Silvio Coelho, nascido em 15/02/1971; 2. Que é da competência do Supremo Concílio, jubilar ministros, segundo estabelece o Art. 97, alínea "e" da CI/IPB; 3. Que a documentação preenche os pressupostos constitucionais; A CE-SC/IPB - 2026 Resolve: I. Tomar conhecimento. II. Jubilar o referido Ministro nos termos do Art. 49, caput e § 6º, sem ônus para a IPB. III. Agradecer a Deus pela vida do nobre ministro e pelo exercício do seu ministério, no período em que atuou na Igreja Presbiteriana do Brasil. IV. Salientar o que segue: a. Ordenado ao Sagrado Ministério em 07/12/1997, pelo Presbitério Litorâneo de Pernambuco - PLPE b. Pastoreou as seguintes Igrejas: 1998 A 2006 - IP em São João do Paraiso 2007 a 2013 - IP de Araras 2016 a 2019 - Licença para trabalhar na Missão Amém em Montes Claros, MG 2020 a 2022 - IP de Taiobeiras c. Atividades Conciliares: Ocupou as funções de Presidente, Vice-Presidente e secretário nos Presbitérios Vale do Jequitinhonha, Salinas e Leme, bem como Secretarias Presbiteriais e Sinodais Representante nas Reuniões do Sínodo Norte de Minas, bem como nas 36ª, 37ª do SC/IPB; V. Congratular-se com sua digníssima esposa Paula Cristina Pereira dos Santos Coelho e suas filhas Gabrielle e Bianca dos Santos Coelho. VI. Conferir ao Ministro o Diploma de Jubilação e a Medalha do Mérito, e a sua esposa, a Medalha da Gratidão. VII. Suplicar as bênçãos de Deus sobre a vida do amado ministro e sua família.
+
+## CE-2026-IX
+
+Páginas PDF: 353
+
+CE - 2026 - DOC. IX: Quanto ao documento 212 - Pedido de Jubilação - Rev. Aderbal Carlim do Prado : Considerando: 1. O histórico ministerial do Rev. Aderbal Carlin do Prado, nascido em 20/03/1947; 2. Que é da competência do Supremo Concílio, jubilar ministros, segundo estabelece o Art. 97, alínea "e" da CI/IPB; 3. Que a documentação preenche os pressupostos constitucionais; A CE-SC/IPB - 2026 Resolve: I. Tomar conhecimento. II. Jubilar o referido Ministro nos termos do Art. 49, caput e § 6º, sem ônus para a IPB. III. Agradecer a Deus pela vida do nobre ministro e pelo exercício do seu ministério, no período em que atuou na Igreja Presbiteriana do Brasil. IV. Salientar o que segue: a. Ordenado ao Sagrado Ministério em 17/05/1972, pelo Presbitério Catarinense da Igreja Presbiteriana Independente do Brasil. Pastoreou as seguintes Igrejas: 1972 - 1982 - IPI de Florianópolis 1984 e 1985 - JMN/IPB em Porto Alegre, RS 1985 - 2014 - IP de Jordão e Três Riachos, Tijuquinhas e diversas Congregações - PMNF 2010 a 2014 - IP Palhoça, SC c. Atividades Conciliares: Ocupou cargo em diversas Secretarias nos Campos do PFLO; Representante do PFLO nas reuniões do SC/IPB em 1998, 1999; SE do Sínodo em 2001 V. Congratular-se com sua digníssima esposa Lygia Ferreira do Prado e seus filhos Daysy, Aderbal Jr., Cibele e Débora. VI. Conferir ao Ministro o Diploma de Jubilação e a Medalha do Mérito, e a sua esposa, a Medalha da Gratidão. VII. Suplicar as bênçãos de Deus sobre a vida do amado ministro e sua família.
+
+## CE-2026-VIII
+
+Páginas PDF: 353
+
+CE - 2026 - DOC. VIII: Quanto ao documento 229 - Reforma de Sentença - Dirceu Alves da Silva: Considerando: 1. Que na CE-SC 2025 tomou-se conhecimento da Deposição do Ministério Pastoral do Rev. Dirceu Alves da Silva, fazendo-se o devido registro. 2. Que o Tribunal do Sínodo Mojiana (SIM) reformou a sentença aplicada pelo Presbitério Vale do Rio Pardo (PVRP) de Deposição do Rev. Dirceu Alves da Silva para a pena de afastamento por tempo indeterminado A CE-SC/IPB - 2026 Resolve: I- Tomar conhecimento. II- Registrar a atual condição do Rev. Dirceu Alves da Silva como Ministro da IPB, cumprindo a pena de afastamento por tempo indeterminado. III- Rogar as bênçãos de Deus sobre o referido Ministro e sua família, bem como sobre o Presbitério Vale do Rio Pardo e Sínodo Mojyana.
+
+## CE-2026-VII
+
+Páginas PDF: 353, 354
+
+CE - 2026 - DOC. VII: Quanto aos documentos: 099 - Restauração do Ministro Roberto Leite Dias ; 249 - Reintegração ao Ministério Rev. Raphael Monteiro Cavalcante : Considerando cumpridas as disposições preceituadas no art. 134, alínea "d" do CD/IPB. A CE-SC/IPB - 2026 Resolve: I. Tomar conhecimento; II. Registrar a restauração do Rev. Roberto Leite Dias e do Rev. Raphael Monteiro Cavalcante; III. Rogar as bênçãos de Deus sobre suas vidas, famílias e ministérios; IV. Congratular-se com os Presbitérios, pelas referidas deliberações.
+
+## CE-2026-VI
+
+Páginas PDF: 354
+
+CE - 2026 - DOC. VI: Quanto aos documentos: 059 - Comunicado de Exoneração Alínea C  -  Luiz Emanuel de Souza Deslandes ; 060 - Comunicado de Exoneração Alínea C -  Edmilson Francisco Ribeiro : Considerando o que preceitua o artigo 48, alínea "c", CI/IPB. A CE-SC/IPB - 2026 Resolve: I. Tomar conhecimento; II. Registrar as seguintes deposições e dar baixa no rol de ministros da IPB os seguintes irmãos, a saber: a. Luiz Emanuel de Souza Deslandes; b. Edmilson Francisco Ribeiro. III. Rogar ao Senhor pela vida dos irmãos, bem como, de suas respectivas famílias.
+
+## CE-2026-V
+
+Páginas PDF: 354, 355
+
+CE - 2026 - DOC. V: Quanto aos documentos: 004 - Comunicado de Exoneração Alínea B -  Jaciel Estevão dos Santos ; 005 - Comunicado de Exoneração Alínea B -  José Reginaldo Silva Prudente ; 008 - Comunicado de Exoneração Alínea B -  Saulo Rodrigues de Carvalho ; 009 - Comunicado de Exoneração Alínea B - Raphael Monteiro Cavalcanti ; 011 - Comunicado de Exoneração Alínea B - Helber de Almeida Silva ; 015 - Comunicado de Exoneração Alínea B  - Renan Eurípedes Correa ; 026 - Comunicado de Exoneração Alínea B - Júnio Marcos Madureira de Souza ; 027 - Comunicado de Exoneração Alínea B - Adilson Batista Borges Filho ; 028 - Comunicado de Exoneração Alínea B -  Antônio Roberto Dusi ; 033 - Comunicado de Exoneração Alínea B  - Fábio Marconi Silva Fonseca ; 050 - Comunicado de Exoneração Alínea B  - Samuel Gomes de Oliveira Sobrinho ; 051 - Comunicado de Exoneração Alínea B -  Edson Duque ; 069 - Comunicado de Exoneração Alínea B - André Silva de Oliveira ; 072 - Comunicado de Exoneração Alínea B -  Adilson dos Reis Nobre ; 073 - Comunicado de Exoneração Alínea B -  Moisés Rodrigues Alves ; 082 - Comunicado de Exoneração Alínea B -  José Agnaldo Carvalho Everton ; 102 - Comunicado de Exoneração Alínea B -  Manoel Pedregosa Dias ; 115 - Comunicado de Exoneração Alínea B -  Lindomar Adriano de Souza ; 124 - Comunicado de Exoneração Alínea B -  Diego Honorato de Almeida ; 183 - Comunicado de Exoneração Alínea B -  Flávio Sousa de Figueiredo; 188 - Comunicado de Exoneração Alínea B -  Claudiney Leite Machado : Considerando o que preceitua o artigo 48, alínea "b", CI/IPB. A CE-SC/IPB - 2026 Resolve: I. Tomar conhecimento; II. Registrar as seguintes deposições e dar baixa no rol de ministros da IPB os seguintes irmãos, a saber: a. Jaciel Estevão dos Santos; b. José Reginaldo Silva Prudente; c. Saulo Rodrigues de Carvalho; d. Raphael Monteiro Cavalcanti; e. Helber de Almeida Silva; f. Renan Eurípedes Corrêa; g. Júnio Marcos Madureira de Souza; h. Adilson Batista Borges Filho; i. Antônio Roberto Dusi; j. Fábio Marconi Silva Fonseca; k. Samuel Gomes de Oliveira Sobrinho; l. Edson Duque; m. André Silva de Oliveira; n. Adilson dos Reis Nobre; o. Moisés Rodrigues Alves; p. José Agnaldo Carvalho Everton; q. Manoel Pedregoza Dias; r. Lindomar Adriano de Souza; s. Diego Honorato de Almeida; t. Flávio Sousa de Figueiredo; u. Claudiney Leite Machado. III. Rogar ao Senhor pela vida dos irmãos, bem como, de suas respectivas famílias.
+
+## CE-2026-IV
+
+Páginas PDF: 355
+
+CE - 2026 - DOC. IV: Quanto aos documentos: 002 - Comunicado de Exoneração Alínea A -  Nickson Rezende do Prado ; 003 - Comunicado de Exoneração Alínea A -  Sandro Márcio de Almeida ; 006 - Comunicado de Exoneração Alínea A -  Luís Sérgio de Souza Ferreira ; 016 - Comunicado de Exoneração Alínea A -  Walace da Cunha Barbosa ; 017 - Comunicado de Exoneração Alínea A - Ricardo Xavier de Castro ; 018 - Comunicado de Exoneração Alínea A -  Diogo Jorge Gonçalo ; 047 - Comunicado de Exoneração Alínea A -  Adenawer Emerick da Cunha ; 054 - Comunicado de Exoneração Alínea A -  Saulo Pereira Lima ; 076 - Comunicado de Exoneração Alínea A -  Edson Márcio Lima do Carmo ; 080 - Comunicado de Exoneração Alínea A -  Gabriel Filipe Martins Rocha ; 121 - Comunicado de Exoneração Alínea A -  Valdenio Pessoa da Silva ; 130 - Comunicado de Exoneração Alínea A -  Marcos Martins ; 165 - Comunicado de Exoneração Alínea A -  Aluizio Gomes Silva Filho ; 187 - Comunicado de Exoneração Alínea A -  Ricardo Pereira da Costa ; 213 - Comunicado de Exoneração Alínea A - Wagner Batista Borges : Considerando o que preceitua o artigo 48, alínea "a", CI/IPB. A CE-SC/IPB - 2026 Resolve: I. Tomar conhecimento; II. Registrar as seguintes deposições e dar baixa no rol de ministros da IPB os seguintes irmãos, a saber: a. Nickson Resende do Prado; b. Sandro Márcio de Almeida; c. Luiz Sergio de Souza Ferreira; d. Walace da Cunha Barbosa; e. Ricardo Xavier de Castro; f. Diogo Jorge Gonçalo; g. Adenawer Emerick da Cunha; h. Saulo Pereira Lima; i. Edson Márcio Lima do Carmo; j. Gabriel Filipe Martins Rocha; k. Valdenio Pessoa da Silva; l. Marcos Martins; m. Aluízio Gomes Silva Filho; n. Ricardo Pereira da Costa; o. Wagner Batista Borges. III. Rogar ao Senhor pela vida dos irmãos, bem como, de suas respectivas famílias. Foram encontradas 398 resoluções.
+

@@ -1,0 +1,3784 @@
+{
+  "reviewDate": "2026-10-14",
+  "notesScanned": 816,
+  "directNotesExcluded": 25,
+  "crossNotesEligible": 791,
+  "candidateNotes": 142,
+  "reviewedCandidateNotes": 142,
+  "pendingCandidateNotes": 0,
+  "pendingIds": [],
+  "nextId": null,
+  "scanComplete": true,
+  "candidateReviewComplete": true,
+  "globalCompatibilityReviewComplete": false,
+  "officialApproval": false,
+  "externalCertification": false,
+  "documents": [
+    "compatibilidad_transversal_lote_01_2026_es.md",
+    "compatibilidad_transversal_lote_01_2026_pt.md",
+    "compatibilidad_transversal_lote_02_2026_es.md",
+    "compatibilidad_transversal_lote_02_2026_pt.md",
+    "compatibilidad_transversal_lote_03_2026_es.md",
+    "compatibilidad_transversal_lote_03_2026_pt.md",
+    "compatibilidad_transversal_lote_04_2026_es.md",
+    "compatibilidad_transversal_lote_04_2026_pt.md",
+    "compatibilidad_transversal_lote_05_2026_es.md",
+    "compatibilidad_transversal_lote_05_2026_pt.md"
+  ],
+  "scope": "Rastreo automático reproducible; números homónimos y coincidencias temáticas requieren clasificación individual. No detecta necesariamente referencias implícitas ni acredita vigencia general.",
+  "candidateNotesInventory": [
+    {
+      "id": "CI-nota-5",
+      "norm": "CI",
+      "pages": [
+        16
+      ],
+      "originalHash": "16224588df2777e67c61ad84564fba73ff1c94fe528fcb9133575c610e536056",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 3º",
+          "candidateNumbers": [
+            3
+          ],
+          "contextPt": "Art. 3º, § 2º, e arts. 59, 60, 75, 85, 89, 90, 91 e 96.",
+          "start": 0,
+          "end": 7
+        }
+      ],
+      "classificationStatus": "resolved-other-body"
+    },
+    {
+      "id": "CI-nota-21",
+      "norm": "CI",
+      "pages": [
+        20
+      ],
+      "originalHash": "25e445ff82d0ab4c5ee55a01e982da66a590a9807bfe1519f57e6b22ca83d256",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "artigo 88 ",
+          "candidateNumbers": [
+            88
+          ],
+          "contextPt": "a da Junta de Missões Nacionais para organizar igrejas. Considerando: a) O constante da alínea “f”, artigo 88 da CI/IPB, que diz: “São funções privativas do Presbitério: f) Organizar, dissolver, unir e dividir igrejas e congregações. “b) Que, às Juntas de Missões da Igreja, cumpre superintender e encaminhar a organização de igre",
+          "start": 180,
+          "end": 190
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-23",
+      "norm": "CI",
+      "pages": [
+        20,
+        21,
+        22
+      ],
+      "originalHash": "3144ba3ee2e4dbbb0d3e6ee307f5a77ebe5a9793a0233767f5fe4b536664b096",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 44",
+          "candidateNumbers": [
+            44
+          ],
+          "contextPt": "e 60 do Código Civil (Lei 10.406, de 10/01/2002) têm como destinatárias as associações referidas no art. 44, inciso I, desse diploma legal, não alcançando as organizações religiosas mencionadas no inciso IV do mesmo artigo, porquanto essas organizações gozam da liberdade assegurada pelo art. 5º, inciso VI, da Constituição Fed",
+          "start": 821,
+          "end": 828
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 44",
+          "candidateNumbers": [
+            44
+          ],
+          "contextPt": "ões gozam da liberdade assegurada pelo art. 5º, inciso VI, da Constituição Federal, combinado com o art. 44, § 1º, do Código Civil, que prevê: “São livres a criação, a organização, a estruturação interna e o funcionamento das organizações religiosas, sendo vedado ao poder público negar-lhes reconhecimento ou registro dos atos",
+          "start": 1070,
+          "end": 1077
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 44",
+          "candidateNumbers": [
+            44
+          ],
+          "contextPt": "mposta e recusar-se a cumprir prestação alternativa, fixada em lei. Código Civil (Lei 10.406/2002):\nArt. 44. São pessoas jurídicas de direito privado:\nI - [...]\nII - [...]\nIII - [...]\nIV - as organizações religiosas (incluído pela Lei 10.825, de 22 de dezembro de 2003):\n§ 1º  “São livres a criação, a organização, a estruturaç",
+          "start": 2798,
+          "end": 2805
+        }
+      ],
+      "classificationStatus": "resolved-other-body"
+    },
+    {
+      "id": "CI-nota-28",
+      "norm": "CI",
+      "pages": [
+        23
+      ],
+      "originalHash": "35a214f3eb62fcddaa8c09d67cd13634fc73adf94933c3993c675966920d3f98",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Arts. 75 a 84",
+          "candidateNumbers": [
+            84
+          ],
+          "contextPt": "Arts. 75 a 84.",
+          "start": 0,
+          "end": 13
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-35",
+      "norm": "CI",
+      "pages": [
+        24,
+        25,
+        26
+      ],
+      "originalHash": "3b95eb88bb5efc07e6d37ad1abac41b89cdd3809559b62dcf3d6b630a3b2f266",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "arts. 33, 88, 122 e 138 ",
+          "candidateNumbers": [
+            88
+          ],
+          "contextPt": "t. 17 do modelo de Estatuto para Igreja Local. CE – 2000 – DOC. CLVI: “[…] o Presbitério, à luz dos arts. 33, 88, 122 e 138 da CI/IPB, não pode obrigar a igreja local a eleger pastor, por ser competência da assembleia da igreja local constituída [...]” SC – 2018 – DOC. CCXXX: “Consulta do PSEP - IP de Vila Mariana sobre a forma de condução da",
+          "start": 123,
+          "end": 147
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-36",
+      "norm": "CI",
+      "pages": [
+        26
+      ],
+      "originalHash": "b84fadac51a49da4812124a049615352d15519e04bdec5e516337814ba79d1a8",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 3º",
+          "candidateNumbers": [
+            3
+          ],
+          "contextPt": "Art. 3º, § 1º, alínea “a”; art. 56, alínea “e”; art.138, alíneas “a”, “b” e “c”.",
+          "start": 0,
+          "end": 7
+        }
+      ],
+      "classificationStatus": "resolved-other-body"
+    },
+    {
+      "id": "CI-nota-39",
+      "norm": "CI",
+      "pages": [
+        27
+      ],
+      "originalHash": "c40f0b6fe91bcc31d472b5673bb1ce233f02770a72500a01255c46612e59fcdc",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 3º",
+          "candidateNumbers": [
+            3
+          ],
+          "contextPt": "Art. 3º, alínea “b”.",
+          "start": 0,
+          "end": 7
+        }
+      ],
+      "classificationStatus": "resolved-other-body"
+    },
+    {
+      "id": "CI-nota-40",
+      "norm": "CI",
+      "pages": [
+        27
+      ],
+      "originalHash": "da7f5c7ac601268581942ccdb34ae06125f416647095cb6973e123169e78d3e2",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 3º",
+          "candidateNumbers": [
+            3
+          ],
+          "contextPt": "Art. 3º, alínea “c”.",
+          "start": 0,
+          "end": 7
+        }
+      ],
+      "classificationStatus": "resolved-other-body"
+    },
+    {
+      "id": "CI-nota-41",
+      "norm": "CI",
+      "pages": [
+        27
+      ],
+      "originalHash": "c93417d2dfbba259686c27f48283a881a80b1068a54fb206d9ae561bccd92c3c",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Arts. 44 e 57",
+          "candidateNumbers": [
+            44
+          ],
+          "contextPt": "Arts. 44 e 57.",
+          "start": 0,
+          "end": 13
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-51",
+      "norm": "CI",
+      "pages": [
+        30
+      ],
+      "originalHash": "4132df7724608d050fbae684fc8fabbd61bc025a4973dd750ec7cd2cb1df6ce4",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 8º",
+          "candidateNumbers": [
+            8
+          ],
+          "contextPt": "Art. 8º, incisos I a VII, do modelo de Estatuto para Igreja Local.",
+          "start": 0,
+          "end": 7
+        }
+      ],
+      "classificationStatus": "resolved-other-body"
+    },
+    {
+      "id": "CI-nota-54",
+      "norm": "CI",
+      "pages": [
+        34
+      ],
+      "originalHash": "a6f83a784c0abca8b5410cad95b0934a3b7cc4ee58f43f94fb3e295d133e2aca",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 8º",
+          "candidateNumbers": [
+            8
+          ],
+          "contextPt": "Art. 8º do PL (ofertas); art.  14, inciso VI, art. 28, inciso I e art. 39, caput, do Estatuto da IPB; art.  10, inciso I, do RI-CE; art. 27, alínea “c”, e 32, alínea “e”, do Modelo de Estatuto para o Presbitério; art. 8º, incis",
+          "start": 0,
+          "end": 7
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 27",
+          "candidateNumbers": [
+            27
+          ],
+          "contextPt": "4, inciso VI, art. 28, inciso I e art. 39, caput, do Estatuto da IPB; art.  10, inciso I, do RI-CE; art. 27, alínea “c”, e 32, alínea “e”, do Modelo de Estatuto para o Presbitério; art. 8º, inciso III, do Modelo de Estatuto para Igreja Local. SC – 2018 – DOC. CLXVI – aprova carta pastoral sobre o dízimo.",
+          "start": 132,
+          "end": 139
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 8º",
+          "candidateNumbers": [
+            8
+          ],
+          "contextPt": "nciso I, do RI-CE; art. 27, alínea “c”, e 32, alínea “e”, do Modelo de Estatuto para o Presbitério; art. 8º, inciso III, do Modelo de Estatuto para Igreja Local. SC – 2018 – DOC. CLXVI – aprova carta pastoral sobre o dízimo.",
+          "start": 213,
+          "end": 220
+        }
+      ],
+      "classificationStatus": "resolved-other-body"
+    },
+    {
+      "id": "CI-nota-83",
+      "norm": "CI",
+      "pages": [
+        46
+      ],
+      "originalHash": "6b2463055513019ea525becf8f4519f9fc9dbad8a635cd0ba604a33792bf5616",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Arts. 27",
+          "candidateNumbers": [
+            27
+          ],
+          "contextPt": "Arts. 27, § 2º, 38 e 85.",
+          "start": 0,
+          "end": 8
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-84",
+      "norm": "CI",
+      "pages": [
+        46
+      ],
+      "originalHash": "2bae0cbd8a3d02e6236b3998e5ea433f5e6adb2f8e69f816f51bd7aa8a5ea651",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "artigo 27",
+          "candidateNumbers": [
+            27
+          ],
+          "contextPt": "emente das duas instâncias, ou seja, IGREJA LOCAL E PRESBITÉRIO; 4) Que ainda, em consonância com o artigo 27, § 2º da CI/IPB, o pastor jurisdicionado pelo Presbitério, “para atender às leis civis”, será considerado membro da igreja; destacando-se aqui a diferença entre o ser membro da igreja local e a palavra “considerado”; o ",
+          "start": 1424,
+          "end": 1433
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-93",
+      "norm": "CI",
+      "pages": [
+        48
+      ],
+      "originalHash": "4417794aad528f17cea5c6eed1a6953161e5f75d2d41fd9965b1856cb47a3988",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 54",
+          "candidateNumbers": [
+            54
+          ],
+          "contextPt": "Art.33, § 1º; art. 34, alíneas “a”, “b” e “c”; art. 54, caput. CE – 2003 – DOC. VIII: “[...] Considerando a Resolução SC-IPB – 1994 – DOC. CX, o Supremo Concílio resolve: [...] 2. Reafirmar que os ofícios são perpétuos, portanto, não perde o seu ofício o oficial da IPB que ",
+          "start": 47,
+          "end": 54
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-96",
+      "norm": "CI",
+      "pages": [
+        48
+      ],
+      "originalHash": "688cdc33b7b41655d26ceb0b3da9dbe21f1581542cd45cf2d1cbe808b1b5f4b3",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 8º",
+          "candidateNumbers": [
+            8
+          ],
+          "contextPt": "Art. 30, caput; art. 50; art. 51, alínea “h”, e art. 52.\nArt. 8º, § 1º, do Modelo de Estatuto para Igreja Local: “O vínculo de ministros e presbíteros com o Presbitério é de natureza exclusivamente eclesiástica, não se formando relação de emprego”.",
+          "start": 57,
+          "end": 64
+        }
+      ],
+      "classificationStatus": "resolved-other-body"
+    },
+    {
+      "id": "CI-nota-102",
+      "norm": "CI",
+      "pages": [
+        49,
+        50
+      ],
+      "originalHash": "d5b6595c948998da0ffb62abf85d4a8d43a30fa1b60f09d0e29adb71b006310a",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "arts. 26 a 30 e 32 a 38 ",
+          "candidateNumbers": [
+            27
+          ],
+          "contextPt": "Art. 109 da CI/IPB; arts. 26 a 30 e 32 a 38 do PL. SC – 1970 – DOC. XCII: “[...] O Supremo Concílio resolve: Admitir a possibilidade de ser encaminhado à eleição, ordenação e instalação no ofício de Presbítero ou Diácono, de membro da Igreja que tenha sido apresen",
+          "start": 20,
+          "end": 44
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "arts. 26, 27 e 28 ",
+          "candidateNumbers": [
+            27
+          ],
+          "contextPt": "ia e hora por este designados (arts. 113 e 114 da CI); que o termo “reunião pública”, mencionada no arts. 26, 27 e 28 dos Princípios de Liturgia se refere claramente à reunião pública da Igreja prevista no art. 113 da CI; A CE/SC esclarece que a ordenação dos Presbíteros e Diáconos não é parte de uma reunião privativa do Conselho, mas d",
+          "start": 800,
+          "end": 818
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-105",
+      "norm": "CI",
+      "pages": [
+        50,
+        51
+      ],
+      "originalHash": "e0a705d29f5972893e12ffca5c792f264d29923ebdf96997a9cb94168fb7f2c4",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 8º",
+          "candidateNumbers": [
+            8
+          ],
+          "contextPt": "Art. 8º, § 1º, do Modelo de Estatuto para Igreja Local: “O vínculo de ministros e presbíteros com o Presbitério é de natureza exclusivamente eclesiástica, não se formando relação de emprego”. SC-E – 2014 – DOC. LXXXVIII: “[...]",
+          "start": 0,
+          "end": 7
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-114",
+      "norm": "CI",
+      "pages": [
+        57
+      ],
+      "originalHash": "b1dfe5c09ce478475ec1a4e84a5a30a49453b6e6d1e3a9d12a89e38ae1d8e041",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "artigos 33, 88, 122 e 138 ",
+          "candidateNumbers": [
+            88
+          ],
+          "contextPt": "rigar as Igrejas a elegerem pastores – “A CE-SC/IPB – 2000 resolve: 1. Que o Presbitério, à luz dos artigos 33, 88, 122 e 138 da CI/IPB, não pode obrigar a Igreja local a eleger pastor, por ser competência da assembleia da igreja legalmente constituída; 2. Que o Conselho não pode determinar o nome do pastor a ser designado, nem muito menos, a d",
+          "start": 177,
+          "end": 203
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-115",
+      "norm": "CI",
+      "pages": [
+        57,
+        58
+      ],
+      "originalHash": "fc768d27466aaf19d361b36c567a5c0099d853f9c6f02b044202ad3105e05e02",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 88",
+          "candidateNumbers": [
+            88
+          ],
+          "contextPt": "Art. 88, alínea “h”. SC – 2018 – DOC. CCXVII: “Consulta se uma igreja pode ter dois pastores efetivos por decisão do seu conselho: Considerando: 1) Os termos da proposta enviada pelo Sínodo Central Espiritossantense, de origem ",
+          "start": 0,
+          "end": 7
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "artigo 8º",
+          "candidateNumbers": [
+            8
+          ],
+          "contextPt": "tivo”, o “Pastor-Efetivo Eleito e Instalado” e o “Pastor-Efetivo Designado”. 3) Que a CI/IPB em seu artigo 8º prevê que: “ art. 8º  O governo e administração de uma igreja local competem ao Conselho que se compõe de pastor ou pastores e dos presbíteros.”, não deixando clara a condição dos referidos pastores, se todos são pastor",
+          "start": 836,
+          "end": 845
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 8º",
+          "candidateNumbers": [
+            8
+          ],
+          "contextPt": "o Eleito e Instalado” e o “Pastor-Efetivo Designado”. 3) Que a CI/IPB em seu artigo 8º prevê que: “ art. 8º  O governo e administração de uma igreja local competem ao Conselho que se compõe de pastor ou pastores e dos presbíteros.”, não deixando clara a condição dos referidos pastores, se todos são pastores-efetivos ou se tra",
+          "start": 859,
+          "end": 866
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-117",
+      "norm": "CI",
+      "pages": [
+        58,
+        59
+      ],
+      "originalHash": "9a255df798016b9752d367a979b27e1e59456b8a0e5955222576c141484f74fd",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 3º",
+          "candidateNumbers": [
+            3
+          ],
+          "contextPt": "te regulamentada na CI/IPB tanto quanto à eleição como o sustento do ministro, conforme adiante: a) art. 3º, parágrafo 1º, alínea “a” da CI/IPB: “O poder da Igreja é espiritual e administrativo, residindo na corporação, isto é, nos que governam e nos que são governados. §1º. A autoridade dos que são governados é exercida pelo",
+          "start": 262,
+          "end": 269
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 3º",
+          "candidateNumbers": [
+            3
+          ],
+          "contextPt": "inários do Presbitério de Porto Velho; 2) Que a eleição de pastor está amplamente regulamentada nos art. 3º, parágrafo 1º, alínea “a” da CI/IPB: “O poder da Igreja é espiritual e administrativo, residindo na corporação, isto é, nos que governam e nos que são governados. §1º. A autoridade dos que são governados é exercida pelo",
+          "start": 1840,
+          "end": 1847
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "artigo 3º",
+          "candidateNumbers": [
+            3
+          ],
+          "contextPt": "pelo Conselho sem a designação de pessoa; 3. Registrar que, à luz da alínea “a” do parágrafo 1º  do artigo 3º  da CI/IPB há princípio geral de interpretação que define a autoridade dos que são governados tendo como prerrogativa “eleger pastores e oficiais da igreja ou pedir a sua exoneração”. 4. Rogar as bênçãos de Deus sobre e",
+          "start": 3740,
+          "end": 3749
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-118",
+      "norm": "CI",
+      "pages": [
+        59,
+        60
+      ],
+      "originalHash": "4eba544d6549c62c543391ace7d9b1ca0b9928fe7735ffd7c671df66892f1a8a",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 88",
+          "candidateNumbers": [
+            88
+          ],
+          "contextPt": "ncia (art. 111); 4. Ao Presbitério cabe julgar da legalidade e conveniência da eleição de pastores (art. 88, letra “h”), resolve: a) Esclarecer que não existe na CI um limite mínimo para o tempo de eleição pastoral. O prazo máximo, porém, será de cinco anos, podendo haver reeleição (art. 34, letra “a”); b) A indicação de cand",
+          "start": 506,
+          "end": 513
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-124",
+      "norm": "CI",
+      "pages": [
+        62,
+        63
+      ],
+      "originalHash": "4acdb999631e5f76dac32535c5f9537c40d057fc52363d855dccceab59030a6c",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "artigo 88 ",
+          "candidateNumbers": [
+            88
+          ],
+          "contextPt": " certa forma, isto inclui o acompanhamento do cumprimento das obrigações legais e fiscais, conforme artigo 88 e suas alíneas, da CI/IPB. O SC/IPB – 2014 resolve: 1. Tomar conhecimento. 2. Determinar que os concílios acompanhem o devido recolhimento de INSS dos seus Pastores, de forma que os mesmos não fiquem desprotegidos em cas",
+          "start": 2235,
+          "end": 2245
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-125",
+      "norm": "CI",
+      "pages": [
+        63,
+        64,
+        65,
+        66
+      ],
+      "originalHash": "e62e1473815a8166e2491b2286120c9e60a218f6ecb727b2e2ea709e7cace491",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 88",
+          "candidateNumbers": [
+            88
+          ],
+          "contextPt": " administrativo do exercício ministerial do obreiro para informar as causas e tratar delas conforme art. 88, alíneas “b”, “d”, “e”, “g” e “n” e art. 36, alínea “c”. CE - 2007 - DOC. CCXXIX: “[...] A CE-SC/IPB-2007 RESOLVE aprovar a seguinte emenda aditiva: 08) Fica ainda assegurado aos pastores o direito à casa pastoral.” CE ",
+          "start": 1059,
+          "end": 1066
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-132",
+      "norm": "CI",
+      "pages": [
+        67
+      ],
+      "originalHash": "3c8270b85163111810f112092970c7e3d1aa8dd679612e77a231694f6d87f046",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 88",
+          "candidateNumbers": [
+            88
+          ],
+          "contextPt": "Art. 88, alínea “g”, da CI/IPB. Consultar também o art. 12, § 2º, do Regulamento para Confecção de Atas dos Concílios da IPB.",
+          "start": 0,
+          "end": 7
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-151",
+      "norm": "CI",
+      "pages": [
+        78
+      ],
+      "originalHash": "f4725a16b60df48f4c05a5c8b0ebb1b829f72dbea55061bf22e9f9549a38f83d",
+      "hits": [
+        {
+          "method": "topic-keyword",
+          "citation": "secretário executivo",
+          "contextPt": "l preservando porém os seus privilégios de ministro, bem como a possibilidade de o mesmo ser eleito secretário executivo ou tesoureiro de concílio; c) no parágrafo esclarece que o ministro jubilado, sendo membro do concílio não terá direito a voto, exceto se eleito secretário executivo ou tesoureiro; d) não há qualquer outro impedimento c",
+          "start": 1342,
+          "end": 1362
+        },
+        {
+          "method": "topic-keyword",
+          "citation": "secretário executivo",
+          "contextPt": "clarece que o ministro jubilado, sendo membro do concílio não terá direito a voto, exceto se eleito secretário executivo ou tesoureiro; d) não há qualquer outro impedimento constitucional que proíba assumir cargos em juntas, comissões, órgãos ou autarquias da IPB; O SC-E/IPB – 2010 resolve: Declarar que os ministros jubilados podem ser el",
+          "start": 1508,
+          "end": 1528
+        },
+        {
+          "method": "topic-keyword",
+          "citation": "Secretário Executivo",
+          "contextPt": "e cada setor. CE – 2012 – DOC. CCXIII: “[...] caso o Presbítero representante da Igreja seja eleito Secretário Executivo ou Tesoureiro do Presbitério, e o Conselho o substitua na função de representante, ele continua até o fim do mandato para o qual foi eleito, mas perde o direito a voto, que passa para o novo representante; 2. Quanto aos",
+          "start": 1940,
+          "end": 1960
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-152",
+      "norm": "CI",
+      "pages": [
+        78,
+        79
+      ],
+      "originalHash": "1055c74cb8a29226ae0344fc95251b5aa5b43713ad45e7ab7953dd57afcd334d",
+      "hits": [
+        {
+          "method": "topic-keyword",
+          "citation": "Secretário Executivo",
+          "contextPt": "ubilado, embora membro efetivo do Presbitério, não tem direito a voto no Plenário; caso seja eleito Secretário Executivo ou Tesoureiro, o ministro jubilado terá direito a voto, na Comissão Executiva”. SC – 1954 – DOC. XCVIII: “[...] membro ex officio pode ser votado, embora não tenha direito a votar”. CE – 1980 – DOC. LIII: “Ministro Jubi",
+          "start": 182,
+          "end": 202
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-157",
+      "norm": "CI",
+      "pages": [
+        79
+      ],
+      "originalHash": "bb6bab7e02c9f7dc8a3a9db26c541e2f58f604d3650a41cba10a7b65f4e5768d",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Arts. 27 e 32 ",
+          "candidateNumbers": [
+            27
+          ],
+          "contextPt": "Arts. 27 e 32 do PL.",
+          "start": 0,
+          "end": 14
+        }
+      ],
+      "classificationStatus": "resolved-other-body"
+    },
+    {
+      "id": "CI-nota-158",
+      "norm": "CI",
+      "pages": [
+        79,
+        80
+      ],
+      "originalHash": "500c3a13208cfbaaf883186d9795d5d6605c7d6232e6a59e7dd28b86b70bf655",
+      "hits": [
+        {
+          "method": "topic-keyword",
+          "citation": "Secretário Executivo",
+          "contextPt": "arte), 89 e 90. CE – 2012 – DOC. CCVI: “[...] caso o Presbítero representante da Igreja seja eleito Secretário Executivo ou Tesoureiro do Presbitério, e o Conselho o substitua na função de representante, ele continua até o fim do mandato para o qual foi eleito, mas perde o direito a voto, que passa para o novo representante; 2. Quanto aos",
+          "start": 120,
+          "end": 140
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-164",
+      "norm": "CI",
+      "pages": [
+        82
+      ],
+      "originalHash": "ab28f69b37fa2c5daeafbaf5fb0e8c301daf905930411e301a51bcbe8089f1f9",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 54",
+          "candidateNumbers": [
+            54
+          ],
+          "contextPt": "l do exercício da função; 3) Em correlação com o disposto na citada alínea, determinou a CI/IPB, no art. 54, que em tal caso, fique o Presbítero em disponibilidade, sem entrar na razão de sua mudança; visa-se, somente, assegurar a regularidade dos serviços eclesiásticos. 4) Assim sendo, se um oficial se afasta para longe dos ",
+          "start": 631,
+          "end": 638
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 54",
+          "candidateNumbers": [
+            54
+          ],
+          "contextPt": "ócios semelhantes, deverá ser automaticamente declarado em disponibilidade, de acordo com a CI/IPB, art. 54, § 2º c/c o artigo 56, letra ‘d’”. CE - 2024 - DOC. CLXIV: “[...] as funções de presbítero ou de diácono cessam automaticamente na igreja de origem quando o membro for transferido para outra igreja, independentemente da",
+          "start": 1083,
+          "end": 1090
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-167",
+      "norm": "CI",
+      "pages": [
+        83
+      ],
+      "originalHash": "fff31912dc57efab318cca7907dfffa9a098ec877924d7243bc03b400719ce39",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 54",
+          "candidateNumbers": [
+            54
+          ],
+          "contextPt": "ra “distribuir os elementos da Santa Ceia” e “tomar parte na ordenação de novos oficiais”, conforme art. 54, § 2º, alíneas “a” e “b”, da CI/IPB). Essa é uma norma que regula prerrogativas exclusivamente de membros da IPB. Aqueles que se desvinculam desta Igreja perdem esse privilégio, porquanto essa desvinculação faz cessar o",
+          "start": 1547,
+          "end": 1554
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-168",
+      "norm": "CI",
+      "pages": [
+        83,
+        84
+      ],
+      "originalHash": "4c704b3402cacd21a870201c12e3937cf2a8049e9faa1c6925fe248c222a2fc1",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 3º",
+          "candidateNumbers": [
+            3
+          ],
+          "contextPt": "Art. 3º, § 1º, alínea “a”; art. 9º, § 1º alínea “b”; art. 138, alíneas “a”, “b” e “c”. SC – 1958 – DOC. XCVI: “Presbítero Exonerado – Quanto ao DOC. 108 – respondendo à consulta do PJDI, ‘Se um Presbítero que pediu exoneração d",
+          "start": 0,
+          "end": 7
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "artigo 3º",
+          "candidateNumbers": [
+            3
+          ],
+          "contextPt": "sta da Assembleia, artigo 9º, § 1º, letra “a” da CI/IPB; 3) Pode dar-se por iniciativa do Conselho, artigo 3º, letra “b” da CI; 4) Pode dar-se por iniciativa pessoal, ouvida a Igreja, artigo 56, letra “e” da CI/IPB”.",
+          "start": 899,
+          "end": 908
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-169",
+      "norm": "CI",
+      "pages": [
+        84,
+        85
+      ],
+      "originalHash": "6abf8443050dfea5ae23ad0240c01535d0fab05416aeb4e14b0e3d2c50cd0210",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 44",
+          "candidateNumbers": [
+            44
+          ],
+          "contextPt": "ASTOR EMÉRITO IN MEMORIAM?» 2. Que a CI/IPB prevê a concessão do título de Pastor Emérito, conforme art. 44, caput e parágrafo único: “Ao ministro que tenha servido, por longo tempo e satisfatoriamente, a uma igreja, poderá esta, pelo voto da assembleia e aprovação do Presbitério, oferecer-lhe, com ou sem vencimentos, o títul",
+          "start": 1473,
+          "end": 1480
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 44",
+          "candidateNumbers": [
+            44
+          ],
+          "contextPt": "or prever a concessão do título de emerência à pessoa viva, tanto assim que, no parágrafo único, do art. 44, da CI/IPB, emprega os verbos “ter” e “continuar” no tempo presente - “não tem parte na administração da igreja, embora continue a ter voto nos concílios superiores ao Conselho”, expressão que denota a existência de que",
+          "start": 2060,
+          "end": 2067
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 8º",
+          "candidateNumbers": [
+            8
+          ],
+          "contextPt": "  favoreça a concessão do título a pessoas mortas.  5. Que os Princípios de Liturgia da IPB, em seu art. 8º, parágrafo único, proíbem o culto em memória de pessoas mortas, sendo isto uma referência importante para que nenhuma celebração seja feita em memória delas. 6. Que a concessão de um título, pelo reconhecimento do que a",
+          "start": 2565,
+          "end": 2572
+        },
+        {
+          "method": "topic-keyword",
+          "citation": "PASTOR EMÉRITO",
+          "contextPt": " Westminster, na Palavra de Deus e nas doutrinas reformadas, a concessão ou designação do título de PASTOR EMÉRITO IN MEMORIAM?» 2. Que a CI/IPB prevê a concessão do título de Pastor Emérito, conforme art. 44, caput e parágrafo único: “Ao ministro que tenha servido, por longo tempo e satisfatoriamente, a uma igreja, poderá esta, pel",
+          "start": 1372,
+          "end": 1386
+        },
+        {
+          "method": "topic-keyword",
+          "citation": "Pastor Emérito",
+          "contextPt": "designação do título de PASTOR EMÉRITO IN MEMORIAM?» 2. Que a CI/IPB prevê a concessão do título de Pastor Emérito, conforme art. 44, caput e parágrafo único: “Ao ministro que tenha servido, por longo tempo e satisfatoriamente, a uma igreja, poderá esta, pelo voto da assembleia e aprovação do Presbitério, oferecer-lhe, com ou sem ve",
+          "start": 1448,
+          "end": 1462
+        },
+        {
+          "method": "topic-keyword",
+          "citation": "Pastor Emérito",
+          "contextPt": "lo voto da assembleia e aprovação do Presbitério, oferecer-lhe, com ou sem vencimentos, o título de Pastor Emérito. O Pastor Emérito não tem parte na administração da igreja, embora continue a ter voto nos concílios superiores ao Conselho”. 3. Que a dicção do dispositivo constitucional permite ao intérprete da norma concluir que foi",
+          "start": 1705,
+          "end": 1719
+        },
+        {
+          "method": "topic-keyword",
+          "citation": "Pastor Emérito",
+          "contextPt": "eia e aprovação do Presbitério, oferecer-lhe, com ou sem vencimentos, o título de Pastor Emérito. O Pastor Emérito não tem parte na administração da igreja, embora continue a ter voto nos concílios superiores ao Conselho”. 3. Que a dicção do dispositivo constitucional permite ao intérprete da norma concluir que foi intenção do legis",
+          "start": 1723,
+          "end": 1737
+        },
+        {
+          "method": "topic-keyword",
+          "citation": "pastor emérito",
+          "contextPt": "7. Que a ausência de base constitucional, confessional e escriturística para a outorga do título de pastor emérito in memorian também inibe a concessão do título de presbítero emérito in memoriam e diácono emérito in memorian. O SC/ IPB - 2022 Resolve: 1. Tomar conhecimento. 2. Enaltecer a iniciativa da consulta; 3. Responder ao con",
+          "start": 3085,
+          "end": 3099
+        },
+        {
+          "method": "topic-keyword",
+          "citation": "Pastor Emérito",
+          "contextPt": " legal, constitucional, confessional, muito menos escriturística para apoiar a outorga do título de Pastor Emérito in memoriam, entendimento que também se aplica ao título de presbítero emérito in memoriam e diácono emérito in memorian.”",
+          "start": 3442,
+          "end": 3456
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-171",
+      "norm": "CI",
+      "pages": [
+        85
+      ],
+      "originalHash": "667cb13a84376d592234384e8e914fbb7115ac24595b680be86e90be3575f782",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "arts. 26, 27, 30 e 50",
+          "candidateNumbers": [
+            27
+          ],
+          "contextPt": "Art. 25, alíneas “a” e “b”; arts. 26, 27, 30 e 50.",
+          "start": 28,
+          "end": 49
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-173",
+      "norm": "CI",
+      "pages": [
+        85
+      ],
+      "originalHash": "e1ad36ed73408df23b61fe816a5ecd8cabf5cef9fab996ba4547b13e4eb248a3",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Arts. 83, 88, 94 e 97",
+          "candidateNumbers": [
+            88
+          ],
+          "contextPt": "Arts. 83, 88, 94 e 97.",
+          "start": 0,
+          "end": 21
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-174",
+      "norm": "CI",
+      "pages": [
+        85
+      ],
+      "originalHash": "ee6735677a3b22b5382997df19ceba5b294eed536ed35808611b8ebb4c9813fe",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 88",
+          "candidateNumbers": [
+            88
+          ],
+          "contextPt": "Art. 88, alíneas “f”, “g”, “h”, “i”, “j”, “n”; art. 94, alíneas “a”, “b”, “g” e “h”; art. 97, “a”, “b”, “c”, “e”, “p”, e parágrafo único.",
+          "start": 0,
+          "end": 7
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-179",
+      "norm": "CI",
+      "pages": [
+        86,
+        87
+      ],
+      "originalHash": "27031bde6527227b4f267f8b8816314d4b76a0de3d622c3d32a45279a66453ff",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "artigos 63, 64 e 70",
+          "candidateNumbers": [
+            64
+          ],
+          "contextPt": "verem esgotadas todas as possibilidades de resposta”. SC – 1994 – DOC. CX: “[...] consulta sobre os artigos 63, 64 e 70, alínea “i” da CI/ IPB, o SC resolve: 1) Quanto ao 1º item que diz o seguinte: “Pode um Presbitério recusar-se a encaminhar ao Sínodo recursos interpostos por Conselho sob sua jurisdição, por discordar do mérito?”, resp",
+          "start": 840,
+          "end": 859
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 64 ",
+          "candidateNumbers": [
+            64
+          ],
+          "contextPt": "onder que em caso administrativo o prazo é de 90 (noventa) dias para encaminhar o recurso, conforme art. 64 da CI/IPB e, em se tratando de tribunal, o prazo é de 5 (cinco) dias, conforme o artigo 117 do CD/IPB.” CE – 2003 – DOC. VIII: “[...] o ministro somente pode remeter documento a Presbitério, que não o seu, por meio do se",
+          "start": 2673,
+          "end": 2681
+        },
+        {
+          "method": "topic-keyword",
+          "citation": "Secretário Executivo",
+          "contextPt": "egam à CE-SC/ IPB e a inobservância do artigo 63 da CI/IPB. 3) O Supremo Concílio resolve: a) Que o Secretário Executivo do Supremo Concílio, ao receber documento sem a observância do artigo 63 da CI/IPB, devolva-o ao concílio ou à Instituição de origem. b) Que os Presbitérios se pronunciem a respeito das matérias que lhe sejam encaminhad",
+          "start": 314,
+          "end": 334
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-182",
+      "norm": "CI",
+      "pages": [
+        88
+      ],
+      "originalHash": "2a0416a14078c1b447be6ffe8ccac7352ba4fd2f7f08f3ff354946abf1b4f289",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Arts. 27 e 52",
+          "candidateNumbers": [
+            27
+          ],
+          "contextPt": "Arts. 27 e 52; art. 6º, incisos I e II, do RI-SC e dos modelos de RI-Sínodo e RI-Presbitério. CE – 1955 – DOC. LXVI: “Quanto a uma consulta do PCPN sobre a Constituição e o quórum da Comissão Executiva dos presbitérios, a CE-SC/IPB r",
+          "start": 0,
+          "end": 13
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-183",
+      "norm": "CI",
+      "pages": [
+        88,
+        89
+      ],
+      "originalHash": "801bfba0b316f5cdd4947c12115f2f260e04b1f07a4aaf607d64ece09fcf652e",
+      "hits": [
+        {
+          "method": "topic-keyword",
+          "citation": "Secretário-Executivo",
+          "contextPt": "z que não é membro efetivo do concílio (art. 66, alínea “a”), a exceção, entretanto, dos cargos de “Secretário-Executivo” e “Tesoureiro” (Art. 67, § 5º), cargos estes para os quais poderão ser eleitos ministros e presbíteros em atividade, membros do Presbitério ou de igrejas do concílio, porém, “sem direito a voto” (art. 67, § 5º) [...]”.",
+          "start": 786,
+          "end": 806
+        },
+        {
+          "method": "topic-keyword",
+          "citation": "Secretário Executivo",
+          "contextPt": " ao item primeiro da consulta, confirmar que, caso o Presbítero representante da Igreja seja eleito Secretário Executivo ou Tesoureiro do Presbitério, e o Conselho o substitua na função de representante, ele continua até o fim do mandato para o qual foi eleito, mas perde o direito a voto, que passa para o novo representante; 2. Quanto aos",
+          "start": 1900,
+          "end": 1920
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-184",
+      "norm": "CI",
+      "pages": [
+        89
+      ],
+      "originalHash": "b4af0313e94a18f53471150bb03905889bf3315452c37d288dcaf45a86812df1",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 27",
+          "candidateNumbers": [
+            27
+          ],
+          "contextPt": "Art. 27, caput e § 1º, e art. 67, § 5º, da CI/IPB; art. art. 17, do RI-SC/IPB, e dos modelos de RI-Sínodo e RI-Presbitério; art. 30 do RI-CE. SC – 1954 – DOC. XCVIII: “[...] membro ex officio pode ser votado, embora não tenha d",
+          "start": 0,
+          "end": 7
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-187",
+      "norm": "CI",
+      "pages": [
+        90,
+        91
+      ],
+      "originalHash": "8a49d65ad42af8c1e81e098bb1541127a43ca6165f4f88978986157690517f56",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 3º",
+          "candidateNumbers": [
+            3
+          ],
+          "contextPt": " conhecimento; 2. Não atender a solicitação de declaração de inconstitucionalidade do parágrafo 1º, art. 3º do Regimento Interno do Presbitério, Sínodo e Supremo Concílio”.",
+          "start": 3728,
+          "end": 3735
+        },
+        {
+          "method": "topic-keyword",
+          "citation": "Secretário-Executivo",
+          "contextPt": "tora será procedida para cada cargo, separadamente, na seguinte ordem: Presidente, Vice-Presidente, Secretário-Executivo, Primeiro-Secretário, Segundo-Secretário e Tesoureiro”. Consultar também o art. 40, do Modelo de RI-Sínodo e o art. 39 do Modelo de RI-Presbitérios. SC - 2022 - DOC.XXIV – [...] Consulta sobre Eleição de Mesa de Presbit",
+          "start": 192,
+          "end": 212
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-188",
+      "norm": "CI",
+      "pages": [
+        91,
+        92,
+        93
+      ],
+      "originalHash": "cc01fd55760e8a53f414f60c887fce8016bded02cbfb02467a1e268f6791cfd3",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 54",
+          "candidateNumbers": [
+            54
+          ],
+          "contextPt": "eiro do Presbitério, o SC resolve: É ilegal: 1) Desde que ficou em disponibilidade, de acordo com o art. 54, §2°, só poderá, quando convidado, distribuir os elementos da Santa Ceia e tomar parte na ordenação de novos oficiais. 2) Conforme o art. 67, § 5º, para o cargo de Secretário Executivo e Tesoureiro, poderão ser eleitos ",
+          "start": 421,
+          "end": 428
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 54",
+          "candidateNumbers": [
+            54
+          ],
+          "contextPt": " ou tesoureiro de concílios, pois, desde que o presbítero ficou em disponibilidade, de acordo com o art. 54, parágrafo 2º, só poderá, quando convidado, distribuir os elementos da Santa Ceia e tomar parte na ordenação de novos oficiais. 4. Que conforme o art. 67, parágrafo 5º, para o cargo de Secretário-Executivo e Tesoureiro,",
+          "start": 6273,
+          "end": 6280
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 54",
+          "candidateNumbers": [
+            54
+          ],
+          "contextPt": "eiro do Presbitério, o SC resolve: É ilegal: 1) Desde que ficou em disponibilidade, de acordo com o art. 54, parágrafo 2º, só poderá, quando convidado, distribuir os elementos da Santa Ceia e tomar parte na ordenação de novos oficiais. 2) Conforme o art. 67, parágrafo 5º, para o cargo de Secretário-Executivo e Tesoureiro, pod",
+          "start": 7168,
+          "end": 7175
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 54",
+          "candidateNumbers": [
+            54
+          ],
+          "contextPt": "quer dos casos acima o presbítero não poderá ocupar cargos, em concílios, os quais são vedados pelo art. 54, parágrafo 2º; 2. Caso o presbítero fique em disponibilidade durante o exercício de suas funções conciliares, o cargo que ocupa ficará vago a partir da sua disponibilidade.",
+          "start": 8133,
+          "end": 8140
+        },
+        {
+          "method": "topic-keyword",
+          "citation": "Secretário Executivo",
+          "contextPt": "nta Ceia e tomar parte na ordenação de novos oficiais. 2) Conforme o art. 67, § 5º, para o cargo de Secretário Executivo e Tesoureiro, poderão ser eleitos ministros e presbíteros que não sejam membros do concílio, porém, é inadmissível que este parágrafo se refira tanto a pastores em licença como presbíteros em disponibilidade”. SC – 1994",
+          "start": 593,
+          "end": 613
+        },
+        {
+          "method": "topic-keyword",
+          "citation": "Secretário-Executivo",
+          "contextPt": "z que não é membro efetivo do concílio (art. 66, alínea “a”), a exceção, entretanto, dos cargos de “Secretário-Executivo” e “Tesoureiro” (art. 67, § 5º), cargos estes para os quais poderão ser eleitos ministros e presbíteros em atividade, membros do Presbitério ou de igrejas do concílio, porém, “sem direito a voto” (art. 67, § 5º)”. CE – ",
+          "start": 1085,
+          "end": 1105
+        },
+        {
+          "method": "topic-keyword",
+          "citation": "Secretário Executivo",
+          "contextPt": " efetivos do Sínodo, exceção feita ao Presidente da legislatura anterior, bem como o tesoureiro e o Secretário Executivo no decurso de seu mandato;  3. Que os cargos de Secretário Executivo e Tesoureiro do Sínodo podem ser ocupados por Ministros ou Presbíteros que não sejam membros do Concílio, mas que o sejam das Igrejas por ele jurisdic",
+          "start": 2673,
+          "end": 2693
+        },
+        {
+          "method": "topic-keyword",
+          "citation": "Secretário Executivo",
+          "contextPt": "ior, bem como o tesoureiro e o Secretário Executivo no decurso de seu mandato;  3. Que os cargos de Secretário Executivo e Tesoureiro do Sínodo podem ser ocupados por Ministros ou Presbíteros que não sejam membros do Concílio, mas que o sejam das Igrejas por ele jurisdicionadas; 4. Que o modelo de Regimento Interno para os Sínodos  [...] ",
+          "start": 2742,
+          "end": 2762
+        },
+        {
+          "method": "topic-keyword",
+          "citation": "Secretário Executivo",
+          "contextPt": "a Legislatura anterior, até três mandatos, que é membro efetivo, conf. art. 66, letra “a” CI/IPB; o Secretário Executivo e o tesoureiro, que podem ser membros das Igrejas jurisdicionadas pelo Sínodo sem que sejam representantes de seus Presbitérios (art. 67, § 5º)” [A expressão “até três mandatos” foi revogada pela resolução SC – 2002 – D",
+          "start": 3366,
+          "end": 3386
+        },
+        {
+          "method": "topic-keyword",
+          "citation": "secretário executivo",
+          "contextPt": "SC/IPB – 2006, DOC. 134; 3. É ilegal a eleição de presbíteros em disponibilidade, para os cargos de secretário executivo ou tesoureiro de concílios, pois, desde que o presbítero ficou em disponibilidade, de acordo com o art. 54, parágrafo 2º, só poderá, quando convidado, distribuir os elementos da Santa Ceia e tomar parte na ordenação de ",
+          "start": 6153,
+          "end": 6173
+        },
+        {
+          "method": "topic-keyword",
+          "citation": "Secretário-Executivo",
+          "contextPt": "omar parte na ordenação de novos oficiais. 4. Que conforme o art. 67, parágrafo 5º, para o cargo de Secretário-Executivo e Tesoureiro, poderão ser eleitos ministros e presbíteros que não sejam membros do concílio, porém, é inadmissível que este parágrafo se refira tanto a pastores em licença como presbíteros em disponibilidade. 5. Todos o",
+          "start": 6466,
+          "end": 6486
+        },
+        {
+          "method": "topic-keyword",
+          "citation": "Secretário-Executivo",
+          "contextPt": " e tomar parte na ordenação de novos oficiais. 2) Conforme o art. 67, parágrafo 5º, para o cargo de Secretário-Executivo e Tesoureiro, poderão ser eleitos ministros e presbíteros que não sejam membros do concílio, porém, é inadmissível que este parágrafo se refira tanto a pastores em licença como presbíteros em disponibilidade.” 4. Reafir",
+          "start": 7357,
+          "end": 7377
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-189",
+      "norm": "CI",
+      "pages": [
+        93,
+        94
+      ],
+      "originalHash": "7a3e4c3a7a403f48ae9f1e6fcc0e4ee8dea99efe7521803e0eb9567ed94d2ad3",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 3º",
+          "candidateNumbers": [
+            3
+          ],
+          "contextPt": "gos da mesa do Supremo Concílio é atribuição do concílio, conforme se pode verificar do disposto no art. 3º do seu Regimento Interno. 2) Que, entretanto, o art. 71 da CI/IPB atribui ao concílio decisão sobre questões de doutrina e prática, disciplinares ou administrativas, a respeito das quais não haja lei ou interpretação fi",
+          "start": 1161,
+          "end": 1168
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-191",
+      "norm": "CI",
+      "pages": [
+        94
+      ],
+      "originalHash": "c22d7d342b1de822b848a08f8c26597b13472782c33a434aeec38f45c29931e1",
+      "hits": [
+        {
+          "method": "topic-keyword",
+          "citation": "Secretário Executivo",
+          "contextPt": "SC – 1958 – DOC. XCVII: “[...] Conforme o art. 67, §5º, para o cargo de Secretário Executivo e Tesoureiro, poderão ser eleitos ministros e presbíteros que não sejam membros do concílio, porém, é inadmissível que este parágrafo se refira tanto a pastores em licença como presbíteros em disponibilidade”. CE – 2009",
+          "start": 72,
+          "end": 92
+        },
+        {
+          "method": "topic-keyword",
+          "citation": "Secretário Executivo",
+          "contextPt": "solve: 1. Tomar conhecimento; 2. Responder ao Sínodo consulente nos seguintes termos: CONSULTA 01 – Secretário Executivo de um Presbitério quando Presbítero Regente: 2.1. Um Presbítero não sendo representante de sua Igreja numa reunião de Presbitério não possui o direito ao exercício do voto, como Secretário-Executivo, nos termos do art. ",
+          "start": 503,
+          "end": 523
+        },
+        {
+          "method": "topic-keyword",
+          "citation": "Secretário-Executivo",
+          "contextPt": "esentante de sua Igreja numa reunião de Presbitério não possui o direito ao exercício do voto, como Secretário-Executivo, nos termos do art. 29 do RI/Presbitérios. 2.2. Cada conselho tem apenas um representante nas reuniões dos Presbitérios, sendo, portanto, impossível que o mesmo conselho tenha a prerrogativa de mais de um voto, nos term",
+          "start": 702,
+          "end": 722
+        },
+        {
+          "method": "topic-keyword",
+          "citation": "Secretário-Executivo",
+          "contextPt": " mais de um voto, nos termos do art. 29 do RI/Presbitérios; 2.3. O artigo 67, § 5º estabelece que o Secretário-Executivo do Presbitério, sendo presbítero só terá o exercício do voto, se também for na mesma reunião representante de sua Igreja. 2.4 – O quórum do Presbitério é definido no art. 86 da CI/ IPB, sendo três ministros e dois presb",
+          "start": 1016,
+          "end": 1036
+        },
+        {
+          "method": "topic-keyword",
+          "citation": "Secretário-Executivo",
+          "contextPt": " quórum do Presbitério é definido no art. 86 da CI/ IPB, sendo três ministros e dois presbíteros. O Secretário-Executivo será contabilizado como parte do quórum se for ministro ou representante de uma Igreja do concílio [...]”.",
+          "start": 1266,
+          "end": 1286
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-192",
+      "norm": "CI",
+      "pages": [
+        94,
+        95
+      ],
+      "originalHash": "3d256121d143392d0db22cedd09bc0b6ac6799a9774f8bae42f95ace1b5b02ad",
+      "hits": [
+        {
+          "method": "topic-keyword",
+          "citation": "Secretário-Executivo",
+          "contextPt": " e unitário”. CE – 2012 – DOC. CCXIII: “[...] caso o Presbítero representante da Igreja seja eleito Secretário-Executivo ou Tesoureiro do Presbitério, e o Conselho o substitua na função de representante, ele continua até o fim do mandato para o qual foi eleito, mas perde o direito a voto, que passa para o novo representante; 2. Quanto aos",
+          "start": 533,
+          "end": 553
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-193",
+      "norm": "CI",
+      "pages": [
+        95,
+        96,
+        97
+      ],
+      "originalHash": "2753c8cace82f9959fc1e62187543d8fbdca56833f729a0589f720d523354711",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Arts. 27",
+          "candidateNumbers": [
+            27
+          ],
+          "contextPt": "Arts. 27, § 1º, 99, itens 1 e 2, e 101, da CI/IPB;\nArt. 6º, § 7º, do Modelo de RI-Sínodo: “Na falta do livro de atas ou do relatório com a estatística, que devem ser apresentados na reunião ordinária bienal, toda a delegação do ",
+          "start": 0,
+          "end": 8
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 88",
+          "candidateNumbers": [
+            88
+          ],
+          "contextPt": " Determinar aos Sínodos que orientem os Presbitérios quanto à necessidade de estrita observância do art. 88, alínea “j”, da CI/IPB, com o fim de conscientizar as Igrejas sobre a importância de pontualidade e fidelidade na remessa dos dízimos ao Supremo Concílio, para que sejam viabilizadas e realizadas as metas e os programas",
+          "start": 2846,
+          "end": 2853
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-194",
+      "norm": "CI",
+      "pages": [
+        97
+      ],
+      "originalHash": "e4d2655490cc5cd0040d02ce57f9cc0dfacbcee20506515c5d44d5c0a631ed35",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 3º",
+          "candidateNumbers": [
+            3
+          ],
+          "contextPt": "Art. 3º, § 2º, da CI/IPB; arts. 1º, 2º e 4º, parágrafo único, do CD.",
+          "start": 0,
+          "end": 7
+        }
+      ],
+      "classificationStatus": "resolved-other-body"
+    },
+    {
+      "id": "CI-nota-197",
+      "norm": "CI",
+      "pages": [
+        98
+      ],
+      "originalHash": "28a3ff5a6990fa27d0d7f893ee99e4fe0ab481947d74bf0db19e050f5969e156",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 88",
+          "candidateNumbers": [
+            88
+          ],
+          "contextPt": "Art. 83, alínea “t”; art. 88, alínea “p”; arts. 89 e 90. CE - 2021 - DOC. XVI: “[...] Consulta quanto a traslado e hospedagem dos Deputados dos Presbitérios para as Reuniões do Supremo Concílio/IPB. Sobre pastores e presbíteros que não são fiéis a ",
+          "start": 21,
+          "end": 28
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-204",
+      "norm": "CI",
+      "pages": [
+        99,
+        100
+      ],
+      "originalHash": "2a8d02ab598024ef5b0dc65fc42a4a3b23d3c894af31d274932a48658d94319e",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "artigo 64",
+          "candidateNumbers": [
+            64
+          ],
+          "contextPt": " que se deve observar o que está preceituado no artigo 65, letra “b”, parágrafo II, combinado com o artigo 64, todos da CI/IPB. 6. Lamentar que um Concílio situado na megalópole paulistana com concílios da mais alta representatividade dentro da IPB, com recursos humanos, financeiros e tecnológicos incontestavelmente evidentes, ",
+          "start": 1207,
+          "end": 1216
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-208",
+      "norm": "CI",
+      "pages": [
+        102,
+        103
+      ],
+      "originalHash": "3388ca4f1db1420ef86d24528811480fba1b27bbdc923e9253e26f182472ff6e",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "arts. 26, 27 e 28 ",
+          "candidateNumbers": [
+            27
+          ],
+          "contextPt": "e hora por este designados (art. 113 e 114 da CI); 3. Que o termo “reunião pública”, mencionado nos arts. 26, 27 e 28 dos Princípios de Liturgia se refere claramente à reunião pública da Igreja prevista no art. 113 da CI; A CE/SC esclarece que a ordenação dos Presbíteros e Diáconos não é parte de uma reunião privativa do Conselho, mas d",
+          "start": 352,
+          "end": 370
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "arts. 26-30 ",
+          "candidateNumbers": [
+            27
+          ],
+          "contextPt": "realizadas perante a igreja em local, dia e hora designados pelo Conselho (art. 113-114 da CI/ IPB, arts. 26-30 dos PL/IPB); 3. O art. 27 dos PL/IPB menciona “reunião pública” e se refere ao ministro como “presidente do Conselho”, e não como pastor da igreja, com atribuições de realizar a cerimônia envolvendo leitura bíblica, oraç",
+          "start": 1304,
+          "end": 1316
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 27 ",
+          "candidateNumbers": [
+            27
+          ],
+          "contextPt": " local, dia e hora designados pelo Conselho (art. 113-114 da CI/ IPB, arts. 26-30 dos PL/IPB); 3. O art. 27 dos PL/IPB menciona “reunião pública” e se refere ao ministro como “presidente do Conselho”, e não como pastor da igreja, com atribuições de realizar a cerimônia envolvendo leitura bíblica, oração, imposição das mãos sob",
+          "start": 1334,
+          "end": 1342
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-210",
+      "norm": "CI",
+      "pages": [
+        104,
+        105
+      ],
+      "originalHash": "d5106f21744a31d1ed4d75bc73a20cff4d4303b8dcf1421382d7b6b9b767e2c1",
+      "hits": [
+        {
+          "method": "topic-keyword",
+          "citation": "Secretário-Executivo",
+          "contextPt": "soureiro e, quando for o caso, o Vice-Presidente do Presbitério, são eleitos anualmente, enquanto o Secretário-Executivo o será por três anos, como estabelece os artigos 4º, 5º e 6º do modelo de Estatutos para o Presbitério”. CE – 2013 – DOC. LX: “Consulta sobre Ano Eclesiástico. Considerando 1. Que o ano civil vai de 1º de janeiro a 31 d",
+          "start": 506,
+          "end": 526
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-218",
+      "norm": "CI",
+      "pages": [
+        107,
+        108,
+        109
+      ],
+      "originalHash": "c0acbe6be3ac811f54b3ea36d11b39eb40574e7a47b1c4b4123001f19b6a5285",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 54",
+          "candidateNumbers": [
+            54
+          ],
+          "contextPt": "para, no menor tempo possível, recompor o conselho da igreja, levando em consideração o disposto no art. 54, §1º, da CI/IPB, que estabelece prazo de 90 dias para eleição de oficiais. Não havendo condição de recompor este conselho, esta igreja deve retornar à condição de Congregação Presbiterial ou de uma igreja local, a juízo",
+          "start": 4662,
+          "end": 4669
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-220",
+      "norm": "CI",
+      "pages": [
+        109
+      ],
+      "originalHash": "2caf6b3bd62e73429fcfc65f834d7147c8d76e7a5b8ebf7edfc25ba1c0bd0af7",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 8º",
+          "candidateNumbers": [
+            8
+          ],
+          "contextPt": "Art. 8º, § 2º SC – 1962 – DOC. XLIV: “[...] enquanto o art. 83 com suas alíneas da CI/IPB trata das atribuições gerais do Conselho, o art. 76 estabelece o quórum mínimo para o funcionamento do mesmo e o art. 77 preceitua sobre ",
+          "start": 0,
+          "end": 7
+        }
+      ],
+      "classificationStatus": "resolved-other-body"
+    },
+    {
+      "id": "CI-nota-221",
+      "norm": "CI",
+      "pages": [
+        109
+      ],
+      "originalHash": "d3a9c28b0b33f58a30423c871ac1dd69b6daa48aaab1351777719da3b1dd2bd9",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 27 ",
+          "candidateNumbers": [
+            27
+          ],
+          "contextPt": "Art. 27 e § 1º do Modelo de Estatuto para Igreja Local.",
+          "start": 0,
+          "end": 8
+        }
+      ],
+      "classificationStatus": "resolved-other-body"
+    },
+    {
+      "id": "CI-nota-222",
+      "norm": "CI",
+      "pages": [
+        109,
+        110
+      ],
+      "originalHash": "79e12dbb13c44ceec0d1e70840bbb7a172fb3307efc5cb0f41bbc9e4916f1463",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 44",
+          "candidateNumbers": [
+            44
+          ],
+          "contextPt": "] a) não poderá o pastor emérito presidir reunião de Conselho na Igreja em que recebeu a emerência (art. 44, parágrafo único); b) as eventuais reuniões por ele presididas são passíveis de anulação; c) o pastor emérito não poderá assinar pela igreja, nem civil, nem eclesiasticamente; d) ele não poderá ser convidado a ser pasto",
+          "start": 692,
+          "end": 699
+        },
+        {
+          "method": "topic-keyword",
+          "citation": "Pastor emérito",
+          "contextPt": "teriana do Brasil, pode presidir o Conselho (art. 78, parágrafo 1º) – O Supremo Concílio resolve: o Pastor emérito pode, a convite, presidir eventualmente o Conselho da Igreja”. Essa permissão, todavia, sofre restrição quando se tratar da igreja na qual o ministro recebeu o título de emerência, conforme resolução CE – 2012 – DOC. CL",
+          "start": 348,
+          "end": 362
+        },
+        {
+          "method": "topic-keyword",
+          "citation": "pastor emérito",
+          "contextPt": "ro recebeu o título de emerência, conforme resolução CE – 2012 – DOC. CLXIV: “[...] a) não poderá o pastor emérito presidir reunião de Conselho na Igreja em que recebeu a emerência (art. 44, parágrafo único); b) as eventuais reuniões por ele presididas são passíveis de anulação; c) o pastor emérito não poderá assinar pela igreja, ne",
+          "start": 610,
+          "end": 624
+        },
+        {
+          "method": "topic-keyword",
+          "citation": "pastor emérito",
+          "contextPt": ". 44, parágrafo único); b) as eventuais reuniões por ele presididas são passíveis de anulação; c) o pastor emérito não poderá assinar pela igreja, nem civil, nem eclesiasticamente; d) ele não poderá ser convidado a ser pastor auxiliar na igreja em que recebeu a emerência em razão dos privilégios de pastor auxiliar (art. 33, parágraf",
+          "start": 795,
+          "end": 809
+        },
+        {
+          "method": "topic-keyword",
+          "citation": "pastor emérito",
+          "contextPt": "erência em razão dos privilégios de pastor auxiliar (art. 33, parágrafo 2º); e) quando convidado, o pastor emérito pode participar das reuniões do Conselho e; f) podem existir consequências eclesiásticas e legais, caso tenha ocorrido alguma dessas possibilidades”.",
+          "start": 1059,
+          "end": 1073
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-223",
+      "norm": "CI",
+      "pages": [
+        110
+      ],
+      "originalHash": "b2e386832c87753e2fb1ce8c0862afc360684ff5e1804f771b6b1b6d833cf1dc",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 27",
+          "candidateNumbers": [
+            27
+          ],
+          "contextPt": "Art. 27, § 2º, do Modelo de Estatuto de Igreja Local.",
+          "start": 0,
+          "end": 7
+        }
+      ],
+      "classificationStatus": "resolved-other-body"
+    },
+    {
+      "id": "CI-nota-225",
+      "norm": "CI",
+      "pages": [
+        110
+      ],
+      "originalHash": "c2695052c019d1b04522b58c01faaf058a78cc86819e13e0e6af67e36b0d6dba",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 27",
+          "candidateNumbers": [
+            27
+          ],
+          "contextPt": "Art. 27, caput, da CI/IPB; art. 37, caput, do Modelo de Estatuto para Igreja Local.",
+          "start": 0,
+          "end": 7
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-241",
+      "norm": "CI",
+      "pages": [
+        113,
+        114
+      ],
+      "originalHash": "6fdabcdb376456e5489a7d67e97008a6f160dd7935c403203b0966276eedca03",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "artigos 8 e 83",
+          "candidateNumbers": [
+            8
+          ],
+          "contextPt": "aprovação ou não dos seus estatutos, no todo ou em parte, é da exclusiva competência dos conselhos, artigos 8 e 83, letras A, G, H, e Q, da CI/IPB, observadas as disposições constitucionais”. CE – 1955 – DOC. LXX: “[...] de acordo com o sistema presbiteriano de subordinação das sociedades internas locais aos respectivos conselhos, n",
+          "start": 230,
+          "end": 244
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-250",
+      "norm": "CI",
+      "pages": [
+        115
+      ],
+      "originalHash": "c5848f6a21f82496eeb781762058c38f984af1a14758bd23f43d20de03d58f4c",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art.27",
+          "candidateNumbers": [
+            27
+          ],
+          "contextPt": "Art.27, in fine; art. 50; e art. 83, alínea “t”.",
+          "start": 0,
+          "end": 6
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-271",
+      "norm": "CI",
+      "pages": [
+        124,
+        125,
+        126
+      ],
+      "originalHash": "eec3c0d58da9dfc49b2a74225a9e5da6326d2f10a8d1ec518a51db9a91b98e5e",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 88 ",
+          "candidateNumbers": [
+            88
+          ],
+          "contextPt": "rios; 3) A decisão CE-SC/IPB - 2017 que respondeu a consulta sobre territorialidade afirmando que o art. 88 alínea “l“ da CI/IPB se aplica a trabalhos estabelecidos e mantidos pelo presbitério, não contemplando trabalhos estabelecidos e mantidos por igrejas locais de outros presbitérios; 4) Que em caso de plantação de novas ig",
+          "start": 506,
+          "end": 514
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 88 ",
+          "candidateNumbers": [
+            88
+          ],
+          "contextPt": "s concílios, a CE/SC-IPB 2019 resolve: [...] 2. Ratificar o entendimento da CE-SC/IPB - 2017, que o art. 88 alínea “l“ da CI/IPB se aplica a trabalhos estabelecidos e mantidos pelo presbitério, não contemplando trabalhos estabelecidos e mantidos por igrejas locais de outros presbitérios; 3. Responder ao consulente nos seguinte",
+          "start": 935,
+          "end": 943
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "artigo 88",
+          "candidateNumbers": [
+            88
+          ],
+          "contextPt": "ros presbitérios; 3. Responder ao consulente nos seguintes termos: [...] 3.1 Qual o entendimento do artigo 88, alínea “l“, quando diz “dentro dos seus próprios limites“? Resposta: Trata-se da área de jurisdição de um Presbitério, que só existirá como matéria de fato ser for delineada pelo Sínodo ao qual esteja jurisdicionado. 3",
+          "start": 1206,
+          "end": 1215
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-275",
+      "norm": "CI",
+      "pages": [
+        126,
+        127
+      ],
+      "originalHash": "382826971a33696efcfd105acb872b297c74f0b240a405a97247497ef83d86d2",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 88",
+          "candidateNumbers": [
+            88
+          ],
+          "contextPt": "SC – 2014 – DOC. LXIV: Transferência de Igreja para a jurisdição de outro Sínodo. Consultar nota ao art. 88, alínea “f”.",
+          "start": 2498,
+          "end": 2505
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-283",
+      "norm": "CI",
+      "pages": [
+        128
+      ],
+      "originalHash": "19abe3776762e610b58d09fd9370ee2cad2d4e8ca06ab5f81ef555933641ef0f",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 88",
+          "candidateNumbers": [
+            88
+          ],
+          "contextPt": "Art. 88, alínea “p”, e art. 90.",
+          "start": 0,
+          "end": 7
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-287",
+      "norm": "CI",
+      "pages": [
+        129
+      ],
+      "originalHash": "07d98260ea7b07bfc9bde914e621249337ee8cef986adb9120fcfc5986f1995b",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 88",
+          "candidateNumbers": [
+            88
+          ],
+          "contextPt": "Art. 88, alínea “j”. SC – 2014 – DOC. CLIV: Proposta de Emenda Constitucional – “[...] redução da contribuição ao Supremo Concílio, de 10% (dez por cento) para 5% (cinco por cento), considerando: 1) a natureza federativa da Igr",
+          "start": 0,
+          "end": 7
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-293",
+      "norm": "CI",
+      "pages": [
+        130
+      ],
+      "originalHash": "87800ffe91c6fed02d42e673f3aa04a2b33592c7bab5b0eed90774c6f2b91b79",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 3º",
+          "candidateNumbers": [
+            3
+          ],
+          "contextPt": "Art. 3º, § 2º, Art, 27, § 1º, art. 52, art. 66, alíneas “a” e “b”, e art. 101, da CI/ IPB; art. 6º, § 1º, incisos I e II, e art. 17, do RI-SC/IPB, e dos modelos de RI-Sínodo e RI-Presbitério. SC – 1954 – DOC. XCV: “Quanto à con",
+          "start": 0,
+          "end": 7
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art, 27",
+          "candidateNumbers": [
+            27
+          ],
+          "contextPt": "Art. 3º, § 2º, Art, 27, § 1º, art. 52, art. 66, alíneas “a” e “b”, e art. 101, da CI/ IPB; art. 6º, § 1º, incisos I e II, e art. 17, do RI-SC/IPB, e dos modelos de RI-Sínodo e RI-Presbitério. SC – 1954 – DOC. XCV: “Quanto à consulta acerca da",
+          "start": 15,
+          "end": 22
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "artigos 27",
+          "candidateNumbers": [
+            27
+          ],
+          "contextPt": "to à consulta acerca da constituição das comissões dos concílios, o SC resolve responder, à luz dos artigos 27, § 1º, 98, 99, item 3, § 1º, e 101 da CI/IPB, que as comissões deverão, sempre ser constituídas de ministros e presbíteros”. SC – 1962 – DOC. CXXVIII: “[...] Comissão de Consultas, inclusão de diáconos em comissões ecle",
+          "start": 319,
+          "end": 329
+        },
+        {
+          "method": "topic-keyword",
+          "citation": "Secretário-Executivo",
+          "contextPt": "ítero em Disponibilidade e Pastores em Licença – “conforme o art. 67, parágrafo 5º, para o cargo de Secretário-Executivo e Tesoureiro, poderão ser eleitos ministros e presbíteros que não sejam membros do concílio, porém, é inadmissível que este parágrafo se refira tanto a pastores em licença como presbíteros em disponibilidade [...]. Caso",
+          "start": 836,
+          "end": 856
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-295",
+      "norm": "CI",
+      "pages": [
+        130,
+        131
+      ],
+      "originalHash": "58b55b643a4af92131f8048f655845250106db0ac1d8bcbaf8bfa52c3077dec1",
+      "hits": [
+        {
+          "method": "topic-keyword",
+          "citation": "Secretário-Executivo",
+          "contextPt": "I/IPB, e que a matéria seja referida ao SC”. SC – 1962 – DOC. CLXXII: “Participação do Presidente e Secretário-Executivo do Supremo Concílio nas Comissões – o SC resolve: 1) O Presidente e o Secretário-Executivo do Supremo Concílio não devem ser eleitos ou nomeados para as Comissões Permanentes às quais comparecerão por iniciativa própria",
+          "start": 271,
+          "end": 291
+        },
+        {
+          "method": "topic-keyword",
+          "citation": "Secretário-Executivo",
+          "contextPt": "idente e Secretário-Executivo do Supremo Concílio nas Comissões – o SC resolve: 1) O Presidente e o Secretário-Executivo do Supremo Concílio não devem ser eleitos ou nomeados para as Comissões Permanentes às quais comparecerão por iniciativa própria ou por convocação dos mesmos, sem direito a voto [...]”.",
+          "start": 362,
+          "end": 382
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-297",
+      "norm": "CI",
+      "pages": [
+        132
+      ],
+      "originalHash": "d500298d247677c7e017519a82e1ec06e65e3570c83181923a595547cc13e57c",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 27",
+          "candidateNumbers": [
+            27
+          ],
+          "contextPt": "Art. 27, § 1º. SC-E – 2010 – DOC. LXXIX: “Consulta se os Ministros Jubilados podem ser eleitos ou nomeados para ocuparem cargos em Juntas, Comissões, Autarquias e Órgãos da IPB. REVISÃO DE MATÉRIA QUANTO À RESOLUÇÃO LV: Conside",
+          "start": 0,
+          "end": 7
+        },
+        {
+          "method": "topic-keyword",
+          "citation": "Secretário-Executivo",
+          "contextPt": "l preservando porém os seus privilégios de ministro, bem como a possibilidade de o mesmo ser eleito Secretário-Executivo ou Tesoureiro de concílio; c) No parágrafo esclarece que o ministro jubilado, sendo membro do concílio não terá direito a voto, exceto se eleito Secretário-Executivo ou Tesoureiro; d) Não há qualquer outro impedimento c",
+          "start": 554,
+          "end": 574
+        },
+        {
+          "method": "topic-keyword",
+          "citation": "Secretário-Executivo",
+          "contextPt": "clarece que o ministro jubilado, sendo membro do concílio não terá direito a voto, exceto se eleito Secretário-Executivo ou Tesoureiro; d) Não há qualquer outro impedimento constitucional que proíba assumir cargos em juntas, comissões, órgãos ou autarquias da IPB; O SC-E/IPB – 2010 resolve: Declarar que os ministros jubilados podem ser el",
+          "start": 720,
+          "end": 740
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-302",
+      "norm": "CI",
+      "pages": [
+        133
+      ],
+      "originalHash": "3bf734aa40c2a226f31def5c90b2baf753677513b3180d7f1ce420d3f52e1713",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "arts. 7º e 8º",
+          "candidateNumbers": [
+            8
+          ],
+          "contextPt": "Art. 22, do Estatuto da IPB; arts. 7º e 8º, do RI-CE; arts. 3º, 4º e 5º, do RI-SE. SC – 1958 – DOC. CI: “[...] sobre extensão dos poderes da sua Secretaria diante dos termos da CI/IPB, em comparação com o disposto sobre o assunto no RI-CE-SC/ IPB, o SC/IPB, inte",
+          "start": 29,
+          "end": 42
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "arts. 3º, 4º e 5º",
+          "candidateNumbers": [
+            3
+          ],
+          "contextPt": "Art. 22, do Estatuto da IPB; arts. 7º e 8º, do RI-CE; arts. 3º, 4º e 5º, do RI-SE. SC – 1958 – DOC. CI: “[...] sobre extensão dos poderes da sua Secretaria diante dos termos da CI/IPB, em comparação com o disposto sobre o assunto no RI-CE-SC/ IPB, o SC/IPB, interpretando os aludidos disposi",
+          "start": 54,
+          "end": 71
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 8º",
+          "candidateNumbers": [
+            8
+          ],
+          "contextPt": "anto as deliberações do plenário como as da sua CE-SC/IPB. 2) O RI-CE-SC/IPB, no seu art. 7º [atual art. 8º, inciso II], reproduziu o disposto no art. 103, da CI/IPB, mas acrescentou uma frase restritiva, que veio da regulamentação anterior a 1950: ‘exceto as (deliberações) que forem especificamente atribuídas a determinada p",
+          "start": 523,
+          "end": 530
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-303",
+      "norm": "CI",
+      "pages": [
+        134
+      ],
+      "originalHash": "cdee054fdd3bc283aa294c0deb88372fce97b9c5a12f90fd3cc015eecee99d57",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 3º",
+          "candidateNumbers": [
+            3
+          ],
+          "contextPt": "Art. 3º do RI-CE; art. 17 do Modelo de Estatuto para o Sínodo; art. 27 do Modelo de Estatuto para o Presbitério. CE - 2023 - DOC.XIV – “[...] Encaminhamento de Consultas[...]. Quanto à Consulta 1: 1 - Pode o Conselho de uma Igr",
+          "start": 0,
+          "end": 7
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 27 ",
+          "candidateNumbers": [
+            27
+          ],
+          "contextPt": "Art. 3º do RI-CE; art. 17 do Modelo de Estatuto para o Sínodo; art. 27 do Modelo de Estatuto para o Presbitério. CE - 2023 - DOC.XIV – “[...] Encaminhamento de Consultas[...]. Quanto à Consulta 1: 1 - Pode o Conselho de uma Igreja recorrer à Comissão Executiva do Presbitério ao qual ela é j",
+          "start": 63,
+          "end": 71
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-311",
+      "norm": "CI",
+      "pages": [
+        136
+      ],
+      "originalHash": "6d58eccb8acc8aa90e2eb5b72d9ae4522ed60affeb116890e6c00f5219428b86",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 8º",
+          "candidateNumbers": [
+            8
+          ],
+          "contextPt": "Art. 28, alínea “a”, da CI/IPB; art. 8º, § § 1º e 2º do Modelo de Estatuto para o Presbitério. CE – 1961 – DOC. I: “CE-SC/IPB resolve: 1) Que a vocação religiosa do Ministério Cristão não torna o homem vocacionado um profissional de salário, pelo que não comp",
+          "start": 32,
+          "end": 39
+        }
+      ],
+      "classificationStatus": "resolved-other-body"
+    },
+    {
+      "id": "CI-nota-312",
+      "norm": "CI",
+      "pages": [
+        136,
+        137
+      ],
+      "originalHash": "8823a45487bb0389e5ca823bedd783da9668d8e8fb228305603efb6478835119",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "arts. 26 a 30",
+          "candidateNumbers": [
+            27
+          ],
+          "contextPt": "Art. 28, alínea “b” da CI/IPB, e arts. 26 a 30, e 32 a 38 do PL. SC-E – 1999 – DOC. LXXV: “[...] consulta sobre ordenação de Oficiais e resolução da CE/IPB sobre a matéria, aprova-se nos seguintes termos: considerando que: 1. As reuniões do Conselho se distinguem da",
+          "start": 33,
+          "end": 46
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "arts. 26-30 ",
+          "candidateNumbers": [
+            27
+          ],
+          "contextPt": "ealizadas perante a igreja em local, dia e hora designados pelo Conselho (arts. 113-114 da CI/ IPB, arts. 26-30 dos PL/IPB); 3. O art. 27 dos PL/IPB menciona “reunião pública”; se refere ao ministro como “presidente do Conselho”, e não como pastor da igreja, com atribuições de realizar a cerimônia envolvendo leitura bíblica, oraçã",
+          "start": 562,
+          "end": 574
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 27 ",
+          "candidateNumbers": [
+            27
+          ],
+          "contextPt": "local, dia e hora designados pelo Conselho (arts. 113-114 da CI/ IPB, arts. 26-30 dos PL/IPB); 3. O art. 27 dos PL/IPB menciona “reunião pública”; se refere ao ministro como “presidente do Conselho”, e não como pastor da igreja, com atribuições de realizar a cerimônia envolvendo leitura bíblica, oração, imposição das mãos sobr",
+          "start": 592,
+          "end": 600
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-313",
+      "norm": "CI",
+      "pages": [
+        137
+      ],
+      "originalHash": "2d7a4c16eb8c3b7b95bbe0811f63cfe2acc9b25da122d61c506e6db84eb234bc",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Arts. 27 e 33",
+          "candidateNumbers": [
+            27
+          ],
+          "contextPt": "Arts. 27 e 33, parágrafo único, do  PL.",
+          "start": 0,
+          "end": 13
+        }
+      ],
+      "classificationStatus": "resolved-other-body"
+    },
+    {
+      "id": "CI-nota-316",
+      "norm": "CI",
+      "pages": [
+        138,
+        139
+      ],
+      "originalHash": "a49f018fd2417178829403c04e785a9af1074a128eece885571d7a23e7fc4350",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 3º",
+          "candidateNumbers": [
+            3
+          ],
+          "contextPt": "Art. 3º, § 1º, alíneas “a” e “b”; art. 9º  § 1º, alínea “a”; art. 33, § 1º; art. 34, alínea “a”; art. 108; e art. 109, caput. SC – 1954 – DOC. CVIII: “Quanto à consulta do Presbitério de Sorocaba sobre se é legal fazer-se eleiç",
+          "start": 0,
+          "end": 7
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-317",
+      "norm": "CI",
+      "pages": [
+        139
+      ],
+      "originalHash": "a420d7d397324e86c6090df7ea24622bcff560c336dd9029ec00157c6b849309",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 54",
+          "candidateNumbers": [
+            54
+          ],
+          "contextPt": "Art. 54, caput e § 1º; art. 83, alíneas “d” e “e”. SC – 1954 – DOC. CVIII: “[...] o Conselho, no caso de Igreja que ainda não tenha Regimento Interno, de acordo com o art. 111 da CI/IPB, “é competente para baixar instruções par",
+          "start": 0,
+          "end": 7
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "artigo 54",
+          "candidateNumbers": [
+            54
+          ],
+          "contextPt": " legalidade para a utilização de prévia para a eleição de oficiais?” Resposta: Não; Pergunta 4 – “O artigo 54, parágrafo 1º, preceitua que: “Três meses antes de terminar o mandato o conselho fará proceder a nova eleição. Caso haja esquecimento do conselho quanto à observância desse prazo, como proceder?” Resposta: Em havendo es",
+          "start": 1253,
+          "end": 1262
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-318",
+      "norm": "CI",
+      "pages": [
+        139
+      ],
+      "originalHash": "f7b12167aa067bbec1a52f9aa22904428a6dbd64310289dd59a6864ea715c8d6",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 54",
+          "candidateNumbers": [
+            54
+          ],
+          "contextPt": "Art. 54, § 1º SC – 1962 – DOC. XXXV: “[...] o não cumprimento do Parágrafo único, do art. 111 da CI/IPB constitui falta passível de censura, porém não invalida o resultado de uma assembleia que tenha funcionado regularmente”.",
+          "start": 0,
+          "end": 7
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-328",
+      "norm": "CI",
+      "pages": [
+        143
+      ],
+      "originalHash": "1b25a521f5d6c39965eac131c7a6a11692df454fc478488e6af6df2538bf0492",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 88",
+          "candidateNumbers": [
+            88
+          ],
+          "contextPt": "Art. 88, alínea “a”. CE – 1976 – DOC. XLIV: “A Comissão Executiva do Supremo Concílio, resolve: [...] a respeito do sustento de Seminarista, informar que o referido sustento de candidato ao Ministério é de competência dos Presb",
+          "start": 0,
+          "end": 7
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-330",
+      "norm": "CI",
+      "pages": [
+        143,
+        144
+      ],
+      "originalHash": "ccfc4c82c9c2a3a2126442312485210567fecffebc1646dd2c000b1afd2faebf",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 44",
+          "candidateNumbers": [
+            44
+          ],
+          "contextPt": "te regulamentação que estabelece o limite para aproveitamento de créditos (RI  – Seminários da IPB, art. 44); 5. Sobre a consulta 4: ‘Sendo orientação do SC/IPB pelo envio de candidatos exclusivamente a seminários da IPB é possível que se mude a redação da resolução SC-E – 2014 – DOC. XIV a fim de eliminar a alegada ambiguida",
+          "start": 1510,
+          "end": 1517
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-331",
+      "norm": "CI",
+      "pages": [
+        144,
+        145,
+        146
+      ],
+      "originalHash": "91a4c4ffc89bcbc360dd0042b4ffe9160421669c2bb1fd2eba900122c18e2b96",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 44 ",
+          "candidateNumbers": [
+            44
+          ],
+          "contextPt": " disciplinas devidamente cursadas nessas instituições, do currículo aprovado pelo Supremo Concílio. Art. 44 - Recebem-se, em transferência, após aprovação no Processo Nacional de Seleção, alunos oriundos de seminários evangélicos idôneos, aos quais serão creditadas as disciplinas equivalentes, mediante deliberação da congregaç",
+          "start": 3966,
+          "end": 3974
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-333",
+      "norm": "CI",
+      "pages": [
+        147
+      ],
+      "originalHash": "47285ff47921badf67e482ca83b0de941747d05ba19474c4cc41a45ce07ddc64",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 88",
+          "candidateNumbers": [
+            88
+          ],
+          "contextPt": "Art. 88, alínea “a”.",
+          "start": 0,
+          "end": 7
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-341",
+      "norm": "CI",
+      "pages": [
+        149
+      ],
+      "originalHash": "551774075131482b6b5a0e60b4779a08bf5003c2a071b84891100e4c27687f62",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 88",
+          "candidateNumbers": [
+            88
+          ],
+          "contextPt": "Art. 88, alínea “a” da CI/IPB, e arts. 32 a 36 do PL. CE – 2012 – DOC. CCV: “[...] a situação de ‘pastor sem campo’ não é contemplada na CI/IPB”.",
+          "start": 0,
+          "end": 7
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-350",
+      "norm": "CI",
+      "pages": [
+        151
+      ],
+      "originalHash": "a6e5c463c7c3ae7b2df5494fe7718faec2130463b241030bbe02c9635b87437a",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 88",
+          "candidateNumbers": [
+            88
+          ],
+          "contextPt": "Art. 45, caput e § § 1º e 2º; art. 88, alínea “a”.",
+          "start": 30,
+          "end": 37
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-351",
+      "norm": "CI",
+      "pages": [
+        152
+      ],
+      "originalHash": "dd72c9c930cfe89bb82edf37056abb3bfcc87b51d474ea179ed6fa3a1a3170d3",
+      "hits": [
+        {
+          "method": "topic-keyword",
+          "citation": "Secretário-Executivo",
+          "contextPt": "Art. 103. Refere-se ao Secretário-Executivo, responsável pela correspondência.",
+          "start": 23,
+          "end": 43
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-352",
+      "norm": "CI",
+      "pages": [
+        152
+      ],
+      "originalHash": "72414ee863eb58e96bbcd990cad57153a6d36a593ce0fd5cdfb2b226098cf39d",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 3º",
+          "candidateNumbers": [
+            3
+          ],
+          "contextPt": "Art. 3º, § 1º, alínea “a”; art. 9º, § 1º, alíneas “a” e “b”; art. 56, alínea “e” e art. 110, CI/IPB. O disposto neste artigo aplica-se indistintamente ao pastor efetivo eleito e ao pastor efetivo designado (SC – 1994 – DOC. CX ",
+          "start": 0,
+          "end": 7
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-353",
+      "norm": "CI",
+      "pages": [
+        152
+      ],
+      "originalHash": "0ece6532a96daa49e9d83d09adf51e9deda1e020124819807a336f228401a7dd",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 4º e 8º",
+          "candidateNumbers": [
+            8
+          ],
+          "contextPt": "or efetivo nos termos do art. 33, §1º da CI/IPB é de exclusiva competência do Conselho, conforme os art. 4º e 8º da CI/IPB”. CE – 2009 – DOC. CLIV: “Ouvida a Igreja significa uma manifestação formal da igreja local reunida em assembleia extraordinária [...]”.",
+          "start": 1306,
+          "end": 1318
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CI-nota-356",
+      "norm": "CI",
+      "pages": [
+        154
+      ],
+      "originalHash": "4cec4c6025fed439013617bd0b0dadec88badd89fd5c83ff88b77a4571fa6485",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 3º",
+          "candidateNumbers": [
+            3
+          ],
+          "contextPt": "SC – 1954 – DOC. CVI: “Quanto ao ofício do Presbitério de Pernambuco pedindo alteração do art. 3º, Cap. V, do Modelo de Estatuto para Igreja Local, o SC resolve declarar que esse modelo, como os demais fornecidos pelo SC, não são obrigatórios senão em matéria que faça parte da CI/IPB. No caso em questão, cada Igreja",
+          "start": 90,
+          "end": 97
+        }
+      ],
+      "classificationStatus": "resolved-other-body"
+    },
+    {
+      "id": "CD-nota-4",
+      "norm": "CD",
+      "pages": [
+        168
+      ],
+      "originalHash": "5c863abfceb5b99856e9f19bdd92a321d868e376a08ea3581e44896bac875901",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 3º",
+          "candidateNumbers": [
+            3
+          ],
+          "contextPt": "Art. 3º CE – 2017 – DOC. CXXV: “Consulta sobre como o conselho da igreja deve proceder no caso de membros comungantes civilmente menores sem pais ou responsáveis na igreja: Considerando: 1) Ser matéria já apreciada pela CE/IPB;",
+          "start": 0,
+          "end": 7
+        }
+      ],
+      "classificationStatus": "resolved-other-body"
+    },
+    {
+      "id": "CD-nota-26",
+      "norm": "CD",
+      "pages": [
+        175,
+        176
+      ],
+      "originalHash": "b2a828dd3e3df199eccac65d1a3a268685eaae7c655e45f7089624a4f1ba03cb",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "artigo 88",
+          "candidateNumbers": [
+            88
+          ],
+          "contextPt": "PB estabelece que todo o trato com pastores é de competência exclusiva do Presbitério nos termos do artigo 88, alíneas “a”, “b”, “c”, “d” e “e”; 4. Que nas designações elencadas nos artigos 33, 34, 35, da CI/IPB, as condições de sustento são definidas constitucionalmente ou através de decisão do presbitério; 5. Que nos casos pr",
+          "start": 472,
+          "end": 481
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CD-nota-28",
+      "norm": "CD",
+      "pages": [
+        176
+      ],
+      "originalHash": "d35a5d90da521195f288e06e4119c2cdc42de08f92fdf60943945120559f509c",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 8º",
+          "candidateNumbers": [
+            8
+          ],
+          "contextPt": "Art. 8º. EMENTA Nº 30 DO TR-SC/IPB. CERCEAMENTO DE DEFESA. INOCORRÊN- CIA. A negativa de pleitos formulados pela parte, em decisão fundamentada que guarda harmonia com os preceitos legais, não constitui violação do contraditóri",
+          "start": 0,
+          "end": 7
+        }
+      ],
+      "classificationStatus": "resolved-other-body"
+    },
+    {
+      "id": "CD-nota-33",
+      "norm": "CD",
+      "pages": [
+        178
+      ],
+      "originalHash": "63e2d22e98eaad777ab3cbe0842633e6d3756597b507e0e917d773eb4fb692e3",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Arts. 58 a 92 ",
+          "candidateNumbers": [
+            64,
+            84,
+            88
+          ],
+          "contextPt": "Art. 86 da CI/IPB. Arts. 58 a 92 do modelo de RI-Presbitério. CE – 2013 – DOC. CCXX: “Encaminhamento de Consulta acerca de Juízes ausentes em Tribunal: Considerando: 1. Que o nosso Código de Disciplina foi formulado em oração por competentes juristas; 2",
+          "start": 19,
+          "end": 33
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CD-nota-34",
+      "norm": "CD",
+      "pages": [
+        178
+      ],
+      "originalHash": "7d054e4a155fe955ae1fab4387aaa3e10a79c84749ef2586c595c97c0db21817",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Arts. 59 a 80 ",
+          "candidateNumbers": [
+            64
+          ],
+          "contextPt": "Arts. 59 a 80 do modelo de RI-Sínodo.",
+          "start": 0,
+          "end": 14
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CD-nota-35",
+      "norm": "CD",
+      "pages": [
+        178
+      ],
+      "originalHash": "17e3f038071765212589e15b08f1f7096da1f9f648075e05f34270ca257884d6",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 81 a 89 ",
+          "candidateNumbers": [
+            84,
+            88
+          ],
+          "contextPt": "Art. 81 a 89 do modelo de RI-Sínodo. EMENTA Nº 04 DO TR-SC/IPB. PROCESSO DISCIPLINAR. DECISÃO DO TRIBUNAL DO SÍNODO QUE RECOMENDA A CONVOCAÇÃO DE REUNIÃO DO PRESBITÉRIO PARA VOTAR VERBA DESTINADA AO SUSTENTO DO MI- NISTRO SOB DISCIPL",
+          "start": 0,
+          "end": 13
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CD-nota-36",
+      "norm": "CD",
+      "pages": [
+        179
+      ],
+      "originalHash": "3b16adb42bb7f00c9907e4ee57cbf527a846a7843d8526146a1287fef2010c39",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Arts. 49 a 66 ",
+          "candidateNumbers": [
+            54,
+            64
+          ],
+          "contextPt": "Arts. 49 a 66 do RI-SC.",
+          "start": 0,
+          "end": 14
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CD-nota-52",
+      "norm": "CD",
+      "pages": [
+        189
+      ],
+      "originalHash": "6930a99af4a62c5e798e7b787ba1f997dd8a0f40ce1ea19a2a99e5a8dc0483cd",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 27",
+          "candidateNumbers": [
+            27
+          ],
+          "contextPt": "Art. 27, § 2º e art. 36, parágrafo único.",
+          "start": 0,
+          "end": 7
+        }
+      ],
+      "classificationStatus": "resolved-other-body"
+    },
+    {
+      "id": "CD-nota-62",
+      "norm": "CD",
+      "pages": [
+        191
+      ],
+      "originalHash": "ebb95b32a11938381a898d47643f2b4f29e307c54250d0ff2fe70e0e1ed3a444",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Arts. 44 e 68",
+          "candidateNumbers": [
+            44
+          ],
+          "contextPt": "Arts. 44 e 68, alínea “g”. Tratando-se de concílio, consulte-se o art. 65.",
+          "start": 0,
+          "end": 13
+        }
+      ],
+      "classificationStatus": "resolved-other-body"
+    },
+    {
+      "id": "CD-nota-63",
+      "norm": "CD",
+      "pages": [
+        191
+      ],
+      "originalHash": "e3cfb4a1505ed0925648411ea625d2b62f52802944011553e32d972e611fc799",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Arts. 44 e 68",
+          "candidateNumbers": [
+            44
+          ],
+          "contextPt": "Arts. 44 e 68, alínea “g”.",
+          "start": 0,
+          "end": 13
+        }
+      ],
+      "classificationStatus": "resolved-other-body"
+    },
+    {
+      "id": "CD-nota-68",
+      "norm": "CD",
+      "pages": [
+        193
+      ],
+      "originalHash": "0f7d4b66308bc85066bbea165dfd674c4767101d9924d0f25857a87b3e4134fc",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Arts. 44, 56 e 58",
+          "candidateNumbers": [
+            44
+          ],
+          "contextPt": "Arts. 44, 56 e 58.",
+          "start": 0,
+          "end": 17
+        }
+      ],
+      "classificationStatus": "resolved-other-body"
+    },
+    {
+      "id": "CD-nota-79",
+      "norm": "CD",
+      "pages": [
+        199,
+        200,
+        201
+      ],
+      "originalHash": "bb861e5ce21b884dfe91aa9ede2cd129deda356ab6845c463f79940dc8964ccf",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "arts. 48 e 54",
+          "candidateNumbers": [
+            54
+          ],
+          "contextPt": "sso disciplinar, muito menos decidir sobre o recebimento da queixa ou denúncia, já que a dicção dos arts. 48 e 54, do CD, é expressa quanto à atividade de um tribunal regularmente convocado; b.7.) em relação à expressão empregada no título da Seção 10 do CD - “Do Processo Sumaríssimo perante Conselho” -, é necessário admitir que o ",
+          "start": 2127,
+          "end": 2140
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 54 ",
+          "candidateNumbers": [
+            54
+          ],
+          "contextPt": "A definição do rito a ser adotado deve ser feita no momento em que a queixa ou denúncia é recebida (art. 54 do CD), podendo ocorrer alteração pelo tribunal, conforme se verifique, após o interrogatório e defesa, a necessidade de fazê-lo a bem do andamento do feito; 2.4 Independentemente do rito a ser aplicado – até mesmo no ch",
+          "start": 5037,
+          "end": 5045
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "arts. 48, 50 e 54 ",
+          "candidateNumbers": [
+            54
+          ],
+          "contextPt": "mo no chamado “rito sumaríssimo perante o Conselho” –, é necessário que se cumpra o determinado nos arts. 48, 50 e 54 do CD/IPB, a fim de se verificar o cumprimento dos artigos 43 e 46 do CD/IPB, inclusive autuando as peças que deram origem ao processo juntamente com os demais expedientes e dando número ao processo? Sim! Os artigos 48, ",
+          "start": 5357,
+          "end": 5375
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "artigos 48, 50 e 54 ",
+          "candidateNumbers": [
+            54
+          ],
+          "contextPt": "e deram origem ao processo juntamente com os demais expedientes e dando número ao processo? Sim! Os artigos 48, 50 e 54 do CD se aplicam aos ritos sumaríssimo, sumário e ordinário [do CD/IPB], pois é a formalização do processo, ressaltando que: “a adjetivação (sumaríssimo) é indicativa de algo breve, rápido, simples e sem formalidades; po",
+          "start": 5583,
+          "end": 5603
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "CD-nota-85",
+      "norm": "CD",
+      "pages": [
+        203
+      ],
+      "originalHash": "72c0c3f1b04847099e9058224d9114d08503890cf7bdc8cd6d0622060af515ba",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 64 ",
+          "candidateNumbers": [
+            64
+          ],
+          "contextPt": "/IPB) respeitando a gradação conciliar ascendente (art. 63 CI/IPB), não tendo havido o impedimento (art. 64 CI/IPB) para tanto?’. Resposta: O concílio convocado para fins judiciais (art. 18 CD/IPB), embora permaneça com as características de concílio, o próprio diploma legal citado o determina que age como tribunal fosse, port",
+          "start": 425,
+          "end": 433
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 64 ",
+          "candidateNumbers": [
+            64
+          ],
+          "contextPt": "age como tribunal fosse, portanto, os prazos são aqueles previstos no CD, não podendo ser avocado o art. 64 da CI/IPB. Cabe recurso extraordinário previsto nos arts. 127 e seguintes do CD/IPB; Pergunta 2. ‘Qual a validade legal de um documento recursal apelatório que chega a um Tribunal de Recursos do SAS sem tramitar pelo res",
+          "start": 724,
+          "end": 732
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "PL-nota-3",
+      "norm": "PL",
+      "pages": [
+        223,
+        224,
+        225
+      ],
+      "originalHash": "92823c7027670f2886d7f51a489134eb2e2e4d786f23ae78d9377616e7c6819e",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "arts. 7ºe 8º",
+          "candidateNumbers": [
+            8
+          ],
+          "contextPt": "uações específicas, seja feita com bom senso, levando-se sempre em consideração o que preceituam os arts. 7ºe 8º dos Princípios de Liturgia da IPB”.",
+          "start": 5938,
+          "end": 5950
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "PL-nota-5",
+      "norm": "PL",
+      "pages": [
+        226,
+        227,
+        228
+      ],
+      "originalHash": "55229d93910cc66b52baada139b42eaec4b4ee4a75883ef3f5eb7229dcef32f3",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "artigos 71 e 88 ",
+          "candidateNumbers": [
+            88
+          ],
+          "contextPt": "itério tem competência para deliberar matéria que envolva a liturgia da igreja local, fulcrados nos artigos 71 e 88 da Constituição da Igreja Presbiteriana do Brasil: art. 71 “Quando um concílio tiver de decidir questões de doutrina e prática, disciplinares ou administrativas, a respeito das quais não haja lei ou interpretação firmada",
+          "start": 5929,
+          "end": 5945
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 88 ",
+          "candidateNumbers": [
+            88
+          ],
+          "contextPt": " nosso). 4. Considerando que a matéria em pauta, foi definida em decisão do SC-IPB/98 – DOC. CXIII. Art. 88 – Quanto às funções privativas dos presbitérios – sublinhando as alíneas “e”, “m”, “n” (Alínea “e” – Velar para que os ministros se dediquem diligentemente à sua sagrada missão (entre as quais se encontra a condução litú",
+          "start": 6363,
+          "end": 6371
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "arts. 7º e 8º",
+          "candidateNumbers": [
+            8
+          ],
+          "contextPt": "eunião Ordinária, considerando: 1) Que os Princípios de Liturgia da IPB prescrevem no Capítulo III, arts. 7º e 8º, que, “O Culto público é um ato religioso, através do qual o povo de Deus adora o Senhor, entrando em comunhão com Ele, fazendo-lhe confissão de pecados e buscando pela mediação de Jesus Cristo, o perdão, a santificação",
+          "start": 7393,
+          "end": 7406
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "arts. 7º e 8º",
+          "candidateNumbers": [
+            8
+          ],
+          "contextPt": "ios cumpram o que prescrevem os Princípios de Liturgia da Igreja Presbiteriana do Brasil, Cap. III, arts. 7º e 8º, e zelem para que façam o mesmo os Pastores e Igrejas por eles jurisdicionadas; 3. Recomendar que os Sínodos e Presbitérios promovam simpósios regionais sobre os Princípios Bíblicos-Reformados da Adoração Cristã.”) Reso",
+          "start": 9603,
+          "end": 9616
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "PL-nota-7",
+      "norm": "PL",
+      "pages": [
+        228,
+        229,
+        230,
+        231,
+        232,
+        233
+      ],
+      "originalHash": "9b6e88a1604fc8ff30d6b9a20d0a0f4b80af944d919010f901e84913868b5ea5",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "arts. 7º e 8º",
+          "candidateNumbers": [
+            8
+          ],
+          "contextPt": "eunião Ordinária, considerando: 1) Que os Princípios de Liturgia da IPB prescrevem no Capítulo III, arts. 7º e 8º, que “O Culto público é um ato religioso, através do qual o povo de Deus adora o Senhor, entrando em comunhão com Ele, fazendo-lhe confissão de pecados e buscando pela mediação de Jesus Cristo, o perdão, a santificação ",
+          "start": 7647,
+          "end": 7660
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "arts. 7º e 8º",
+          "candidateNumbers": [
+            8
+          ],
+          "contextPt": "nar que os Sínodos e Presbitérios cumpram o que prescrevem os Princípios de Liturgia/IPB, Cap. III, arts. 7º e 8º, e zelem para que façam o mesmo os Pastores e Igrejas por eles jurisdicionadas; 3) Recomendar que os Sínodos e Presbitérios promovam simpósios regionais sobre os Princípios Bíblicos-Reformados da Adoração Cristã”. SC – ",
+          "start": 9778,
+          "end": 9791
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 8º",
+          "candidateNumbers": [
+            8
+          ],
+          "contextPt": "ariamente de leitura da Palavra de Deus, pregação, cânticos sagrados, orações e ofertas“ (PL - IPB, art. 8º); 4) que as decisões do SC/IPB sobre a matéria proíbem a celebração conjunta de cultos e de casamentos, e não de cerimônias de colação de grau, a CE-SC/IPB – 2019 resolve: 1. Tomar conhecimento; 2. Responder ao colendo ",
+          "start": 15491,
+          "end": 15498
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "PL-nota-8",
+      "norm": "PL",
+      "pages": [
+        233,
+        234
+      ],
+      "originalHash": "423b20626e316ef22824701359b0aacc8da89c87648600380bfe5c1390d30621",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 88",
+          "candidateNumbers": [
+            88
+          ],
+          "contextPt": "e coreografias; 3. Determinar aos ministros (Cf. art. 31, alínea “d” da CI) e aos presbitérios (Cf. art. 88, alínea “e” da CI) que sejam zelosos quanto ao santo culto do Senhor, repudiando todo “fogo estranho”, não ordenado na Palavra, e que, consequentemente, provoca a sua santa ira sobre os displicentes e infiéis (Cf. Levít",
+          "start": 2236,
+          "end": 2243
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "PL-nota-10",
+      "norm": "PL",
+      "pages": [
+        236
+      ],
+      "originalHash": "c9e8b86b4e5997230a6ea0d703f856614bba5cf8b28805c5320a344c4dcfa672",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "artigo 8º",
+          "candidateNumbers": [
+            8
+          ],
+          "contextPt": " seus vários tempos e ocasiões próprias, deve ser usado de um modo santo e religioso“ (Hb 12.28), e artigo 8º dos Princípios de Liturgia da IPB, onde se lê: “O culto público consta ordinariamente de leitura da Palavra de Deus, pregação, cânticos sagrados, orações e ofertas (Cl 3.16; Ef 5.19; Tg 5.13)“; ii. Que compete aos minis",
+          "start": 752,
+          "end": 761
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "artigo 88",
+          "candidateNumbers": [
+            88
+          ],
+          "contextPt": "a sob sua jurisdição tem utilizado música secular no culto solene, seja observado o que preceitua o artigo 88, alínea “n“ da CI/IPB que diz: “visitar as igrejas com o fim de investigar e corrigir quaisquer males que nelas se tenham suscitado“, podendo tomar as medidas que julgar necessárias à luz das Escrituras , Símbolos de Fé",
+          "start": 1394,
+          "end": 1403
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "PL-nota-24",
+      "norm": "PL",
+      "pages": [
+        245,
+        246
+      ],
+      "originalHash": "dd8fafd86add33591a2179f4a8d0991f5e196c667ea5099e31588c02b26aebff",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 88 ",
+          "candidateNumbers": [
+            88
+          ],
+          "contextPt": "endo entre suas competências o dever de “...corrigir quaisquer males que nelas se tenha suscitado“ (Art. 88 alínea “n“ da CI/IPB), devendo, portanto, fundamentado pelas Escrituras e íntimo do compromisso do agir servido do amor e firmeza cristã, tratar toda e qualquer matéria e prática que esteja em desconformidade com os ensi",
+          "start": 1678,
+          "end": 1686
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 88",
+          "candidateNumbers": [
+            88
+          ],
+          "contextPt": "e ministros das igrejas locais, cabe a ele “corrigir quaisquer males que nela se tenham suscitado” (Art. 88, alínea “n” da CI/IPB), sob pena de prevaricação. De modo que, ocorrendo-se tais casos, os responsáveis devem ser denunciados, processados e julgados conforme as Escrituras, em consonância com a interpretação fiel dos n",
+          "start": 3419,
+          "end": 3426
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "PL-nota-28",
+      "norm": "PL",
+      "pages": [
+        247,
+        248,
+        249,
+        250
+      ],
+      "originalHash": "33cb72728431bbf8f9b43681299127c736511478fd6577fec6ddbc19195d365a",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "artigos 1º, 2º e 3º",
+          "candidateNumbers": [
+            3
+          ],
+          "contextPt": "te a casamento de colaterais em terceiro grau: Considerando: 1) Que o Decreto-lei 3.200/41, em seus artigos 1º, 2º e 3º, como lei especial, passou a disciplinar a matéria suscitada, permitindo o casamento dos colaterais em 3º grau, mediante laudo médico; 2) Que a Lei nº 10.406/2002, novo Código Civil, promulgado em 2002, como lei geral, ",
+          "start": 7386,
+          "end": 7405
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "PL-nota-32",
+      "norm": "PL",
+      "pages": [
+        253,
+        254
+      ],
+      "originalHash": "4a107b5acd1630a690dd186e3bd8a047dab853686aba1b6cde33f91f93c49129",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 8º",
+          "candidateNumbers": [
+            8
+          ],
+          "contextPt": "es e ofertas. A ministração dos sacramentos, quando realizada no culto público, faz parte dele” (PL art. 8º); 7) Que o Antigo Testamento usa a palavra mashah (chrio na LXX) na unção com óleo de reis, profetas e sacerdotes para a consagração em seus respectivos ofícios (1Sm 9.16; Êx. 29.7; 1Rs 19.16). No Novo Testamento a orde",
+          "start": 1748,
+          "end": 1755
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "PL-nota-35",
+      "norm": "PL",
+      "pages": [
+        256,
+        257
+      ],
+      "originalHash": "c97f332fce33d50f602454976cbb0ab1e8e5f6fbce236589187f972c82b23892",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "arts. 26-30 ",
+          "candidateNumbers": [
+            27
+          ],
+          "contextPt": "ealizadas perante a igreja em local, dia e hora designados pelo Conselho (arts. 113-114 da CI/ IPB, arts. 26-30 dos PL/IPB); 3. O art. 27 dos PL/IPB menciona “reunião pública”; se refere ao ministro como “presidente do Conselho”, e não como pastor da igreja, com atribuições de realizar a cerimônia envolvendo leitura bíblica, oraçã",
+          "start": 615,
+          "end": 627
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 27 ",
+          "candidateNumbers": [
+            27
+          ],
+          "contextPt": "local, dia e hora designados pelo Conselho (arts. 113-114 da CI/ IPB, arts. 26-30 dos PL/IPB); 3. O art. 27 dos PL/IPB menciona “reunião pública”; se refere ao ministro como “presidente do Conselho”, e não como pastor da igreja, com atribuições de realizar a cerimônia envolvendo leitura bíblica, oração, imposição das mãos sobr",
+          "start": 645,
+          "end": 653
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "PL-nota-41",
+      "norm": "PL",
+      "pages": [
+        258
+      ],
+      "originalHash": "e5c3bcf26df1a8ea8f0f9471adedaadef8a31849665584204bac4ae524d40af7",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "arts. 26, 27 e 28 ",
+          "candidateNumbers": [
+            27
+          ],
+          "contextPt": "a e hora por este designados (arts. 113 e 114 da CI); que o termo “reunião pública”, mencionada nos arts. 26, 27 e 28 dos Princípios de Liturgia se refere claramente à reunião pública da Igreja prevista no art. 113 da CI; a CE-SC esclarece que a ordenação dos Presbíteros e Diáconos não é parte de uma reunião privativa do Conselho, mas d",
+          "start": 788,
+          "end": 806
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "PL-nota-50",
+      "norm": "PL",
+      "pages": [
+        260,
+        261,
+        262
+      ],
+      "originalHash": "010ddedd80e70e24038c132628189e29817db32c0b4f7a233a96390ea76ea5f7",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 44",
+          "candidateNumbers": [
+            44
+          ],
+          "contextPt": "e 60 do Código Civil (Lei 10.406, de 10/01/2002) têm como destinatárias as associações referidas no art. 44, inciso I, desse diploma legal, não alcançando as organizações religiosas mencionadas no inciso IV do mesmo artigo, porquanto essas organizações gozam da liberdade assegurada pelo art. 5º, inciso VI, da Constituição Fed",
+          "start": 824,
+          "end": 831
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 44",
+          "candidateNumbers": [
+            44
+          ],
+          "contextPt": "ões gozam da liberdade assegurada pelo art. 5º, inciso VI, da Constituição Federal, combinado com o art. 44, § 1º, do Código Civil, que prevê: “São livres a criação, a organização, a estruturação interna e o funcionamento das organizações religiosas, sendo vedado ao poder público negar-lhes reconhecimento ou registro dos atos",
+          "start": 1073,
+          "end": 1080
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 44",
+          "candidateNumbers": [
+            44
+          ],
+          "contextPt": "mposta e recusar-se a cumprir prestação alternativa, fixada em lei. CÓDIGO CIVIL (Lei 10.406/2002):\nArt. 44. São pessoas jurídicas de direito privado:\nI - [...]\nII - [...]\nIII - [...]\nIV - as organizações religiosas (incluído pela Lei 10.825, de 22 de dezembro de 2003):\n§ 1º  “São livres a criação, a organização, a estruturaç",
+          "start": 2839,
+          "end": 2846
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "PL-nota-57",
+      "norm": "PL",
+      "pages": [
+        263
+      ],
+      "originalHash": "43a1b37bf437ace9baeebe7ac871a9407a8373f61bd7fe258369750f95b6af5b",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "arts. 50 a 54",
+          "candidateNumbers": [
+            54
+          ],
+          "contextPt": "alíneas “a” e “c”, art. 13, §§ 1º e 2º, art. 14 alínea “e”, art. 25 alíneas “a”, “b” e “c”, e § 2º, arts. 50 a 54, arts. 110 a 114, todos da CI/IPB.",
+          "start": 122,
+          "end": 135
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "EST-IPB-nota-3",
+      "norm": "EST-IPB",
+      "pages": [
+        270
+      ],
+      "originalHash": "4775ba6cbfecf6157e267c799c5c723bdbd450f020bb73f8bb8744cc1f7e9568",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 88",
+          "candidateNumbers": [
+            88
+          ],
+          "contextPt": "Art. 2º, art. 51, alínea “h”, art. 88, alínea “p”, art. 90 e art. 95, da CI/IPB.",
+          "start": 30,
+          "end": 37
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "EST-IPB-nota-4",
+      "norm": "EST-IPB",
+      "pages": [
+        275
+      ],
+      "originalHash": "f4e3a186ae1f81375f6bb27b9ab3095e274c08e0cd259cbbc3d97166e049cefc",
+      "hits": [
+        {
+          "method": "topic-keyword",
+          "citation": "Secretário-Executivo",
+          "contextPt": "rgentes às quais é relevante um pronunciamento da Igreja Presbiteriana do Brasil, conforme aponta o Secretário-Executivo do Supremo Concílio em seu pleito perante esta CE; 2. Que devem o Presidente e o Secretário-Executivo apontar a marcha da Igreja, de forma interna e externa, e o seu testemunho perante as autoridades civis e eclesiástic",
+          "start": 196,
+          "end": 216
+        },
+        {
+          "method": "topic-keyword",
+          "citation": "Secretário-Executivo",
+          "contextPt": "cretário-Executivo do Supremo Concílio em seu pleito perante esta CE; 2. Que devem o Presidente e o Secretário-Executivo apontar a marcha da Igreja, de forma interna e externa, e o seu testemunho perante as autoridades civis e eclesiásticas da nossa nação; O CE-SC/IPB – 2008 resolve: 1. Tomar conhecimento; 2. Autorizar ao Presidente do Su",
+          "start": 298,
+          "end": 318
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "EST-IPB-nota-6",
+      "norm": "EST-IPB",
+      "pages": [
+        276
+      ],
+      "originalHash": "f706896b942897690674ad22e3405ce6c27de08de648d5874565a13bb287cd91",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art.8º",
+          "candidateNumbers": [
+            8
+          ],
+          "contextPt": "ro de Atas e publicações oficiais, desde que, não altere o sentido das resoluções [...]”. Consultar art.8º, parágrafo único, inciso XI, do RI-CE e o art. 4º, § 1º, alínea “l”, do RI-SE.",
+          "start": 508,
+          "end": 514
+        },
+        {
+          "method": "topic-keyword",
+          "citation": "Secretário-Executivo",
+          "contextPt": "cisões desta Executiva na legislatura finda com as seguintes observações: a) Que se autorize ao Sr. Secretário-Executivo do Supremo Concílio a corrigir as falhas redacionais porventura existentes nos relatórios da Comissões de Expediente, para o registro no Livro de Atas e publicações oficiais, desde que, não altere o sentido das resoluçõ",
+          "start": 247,
+          "end": 267
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "EST-SIN-nota-2",
+      "norm": "EST-SIN",
+      "pages": [
+        357
+      ],
+      "originalHash": "93f357a858057708b91c9458133beb03a165256e476691f4773ae368edac80fc",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 3º",
+          "candidateNumbers": [
+            3
+          ],
+          "contextPt": ". XCVII). SC – 1954 – DOC. CVI: “Quanto ao ofício do Presbitério de Pernambuco pedindo alteração do art. 3º, Cap. V, do Modelo de Estatuto para Igreja local, o SC resolve declarar que esse modelo, como os demais fornecidos pelo SC, não são obrigatórios senão em matéria que faça parte da CI/IPB. No caso em questão, cada Igreja",
+          "start": 251,
+          "end": 258
+        }
+      ],
+      "classificationStatus": "resolved-other-body"
+    },
+    {
+      "id": "EST-SIN-nota-6",
+      "norm": "EST-SIN",
+      "pages": [
+        361
+      ],
+      "originalHash": "9230819fc21e7113a60e868d1041abc55e7b3db43a2fb59d68b694cc7f2b6bb6",
+      "hits": [
+        {
+          "method": "topic-keyword",
+          "citation": "Secretário-Executivo",
+          "contextPt": "cisões desta Executiva na legislatura finda com as seguintes observações: a) Que se autorize ao Sr. Secretário-Executivo do Supremo Concílio a corrigir as falhas redacionais porventura existentes nos relatórios da Comissões de Expediente, para o registro no Livro de Atas e publicações oficiais, desde que, não altere o sentido das resoluçõ",
+          "start": 248,
+          "end": 268
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "EST-SIN-nota-9",
+      "norm": "EST-SIN",
+      "pages": [
+        365,
+        366
+      ],
+      "originalHash": "de6ea3bea25f8231d1a0c81658b5e50badcc60f365c1c4744dc39517bc153bb7",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 44",
+          "candidateNumbers": [
+            44
+          ],
+          "contextPt": "mposta e recusar-se a cumprir prestação alternativa, fixada em lei. CÓDIGO CIVIL (Lei 10.406/2002):\nArt. 44. São pessoas jurídicas de direito privado: I – [...]; II – [...]; III – [...]; IV – as organizações religiosas (incluído pela Lei 10.825, de 22 de dezembro de 2003):\n§ 1º  “São livres a criação, a organização, a estrutu",
+          "start": 788,
+          "end": 795
+        }
+      ],
+      "classificationStatus": "resolved-other-body"
+    },
+    {
+      "id": "EST-PRE-nota-1",
+      "norm": "EST-PRE",
+      "pages": [
+        421
+      ],
+      "originalHash": "80d590b5c100d8893d9dc2d38c961c82a015cdb1368d0c5fc2eecfa49255a497",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 44",
+          "candidateNumbers": [
+            44
+          ],
+          "contextPt": "mas”. Modelo aprovado pela CE – 2017 – DOC. CL com poderes delegados pelo SC-E – 2014 – DOC. CXXXV.\nArt. 44, inciso IV e § 1º, do Código Civil (incluídos pela Lei 10.825, de 22 de dezembro de 2003): “São pessoas jurídicas de direito privado: [...] IV - as organizações religiosas”. § 1º “São livres a criação, a organização, a ",
+          "start": 708,
+          "end": 715
+        }
+      ],
+      "classificationStatus": "resolved-other-body"
+    },
+    {
+      "id": "EST-PRE-nota-5",
+      "norm": "EST-PRE",
+      "pages": [
+        422
+      ],
+      "originalHash": "4ae133047552fed679fe1c35cd3b453b1b2dfe170d97704e7fb854b27e8d515c",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 3º",
+          "candidateNumbers": [
+            3
+          ],
+          "contextPt": "Art. 3º, § 2º, da CI/IPB.",
+          "start": 0,
+          "end": 7
+        }
+      ],
+      "classificationStatus": "resolved-other-body"
+    },
+    {
+      "id": "EST-PRE-nota-15",
+      "norm": "EST-PRE",
+      "pages": [
+        424
+      ],
+      "originalHash": "64ae397ed109f6130dd7543c11346f8272e758c68e4d74d5ffdae43099287d2f",
+      "hits": [
+        {
+          "method": "topic-keyword",
+          "citation": "Secretário-Executivo",
+          "contextPt": "nos termos do art. 67\n§ 5º da CI/IPB – “[...] caso o Presbítero representante da Igreja seja eleito Secretário-Executivo ou Tesoureiro do Presbitério, e o Conselho o substitua na função de representante, ele continua até o fim do mandato para o qual foi eleito, mas perde o direito a voto, que passa para o novo representante; 2. Quanto aos",
+          "start": 1102,
+          "end": 1122
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "EST-PRE-nota-24",
+      "norm": "EST-PRE",
+      "pages": [
+        426
+      ],
+      "originalHash": "d7d661942cb04e7063e5d250f9975009374abd0c791a546df9e031617b623634",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Arts. 27 a 30 ",
+          "candidateNumbers": [
+            27
+          ],
+          "contextPt": "Arts. 27 a 30 da CI/IPB.",
+          "start": 0,
+          "end": 14
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "EST-PRE-nota-55",
+      "norm": "EST-PRE",
+      "pages": [
+        430
+      ],
+      "originalHash": "c0d51300f64c6da3e31b7c3b2749d630eb171cbcf149793abfbd9bec9f8e6003",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 3º",
+          "candidateNumbers": [
+            3
+          ],
+          "contextPt": "Art. 67 e §§, da CI/IPB, e art. 3º, inciso I, do  Modelo de RI-Presbitério.",
+          "start": 27,
+          "end": 34
+        }
+      ],
+      "classificationStatus": "resolved-other-body"
+    },
+    {
+      "id": "EST-PRE-nota-58",
+      "norm": "EST-PRE",
+      "pages": [
+        431
+      ],
+      "originalHash": "9a172488bf5b8551aef40dd7062427a5072214afafeab1c4088a52a710313e8e",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 3º",
+          "candidateNumbers": [
+            3
+          ],
+          "contextPt": "Art. 3º, § 4º, do Modelo de RI-Presbitério.",
+          "start": 0,
+          "end": 7
+        }
+      ],
+      "classificationStatus": "resolved-other-body"
+    },
+    {
+      "id": "EST-PRE-nota-61",
+      "norm": "EST-PRE",
+      "pages": [
+        431
+      ],
+      "originalHash": "f1cd8ac75cf37d7a05fda8cd483a8fa6031bcbe5b86c8b46b45aad1fd0014612",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 88",
+          "candidateNumbers": [
+            88
+          ],
+          "contextPt": "Art. 70, combinado com o art. 88, da CI/IPB.",
+          "start": 25,
+          "end": 32
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "EST-PRE-nota-65",
+      "norm": "EST-PRE",
+      "pages": [
+        433
+      ],
+      "originalHash": "49107e80a98b03360927890c1d2c84c81db8edb55990cbfa2577ffcddbc2f932",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 64 ",
+          "candidateNumbers": [
+            64
+          ],
+          "contextPt": "Art. 64 da CI/IPB e art. 20, inciso II, do CD.",
+          "start": 0,
+          "end": 8
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "EST-PRE-nota-85",
+      "norm": "EST-PRE",
+      "pages": [
+        436,
+        437
+      ],
+      "originalHash": "9fabdffd77c2bc567e0b7bfdeff85a02e1e22331615b097cbbd3887d82f1f4a9",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 3º",
+          "candidateNumbers": [
+            3
+          ],
+          "contextPt": "gos da mesa do Supremo Concílio é atribuição do concílio, conforme se pode verificar do disposto no art. 3º do seu Regimento Interno; 2) Que, entretanto, o art. 71 da CI/IPB atribui ao concílio a decisão sobre questões de doutrina e prática, disciplinares ou administrativas, a respeito das quais não haja lei ou interpretação ",
+          "start": 443,
+          "end": 450
+        }
+      ],
+      "classificationStatus": "resolved-other-body"
+    },
+    {
+      "id": "EST-PRE-nota-89",
+      "norm": "EST-PRE",
+      "pages": [
+        437
+      ],
+      "originalHash": "8666f1753754e55a63ad5361df153d57fe5c1a30fea3187cb9429e2fb1201e63",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 8º",
+          "candidateNumbers": [
+            8
+          ],
+          "contextPt": "Art. 8º, § 2º, do Modelo de RI-Presbitério.",
+          "start": 0,
+          "end": 7
+        }
+      ],
+      "classificationStatus": "resolved-other-body"
+    },
+    {
+      "id": "EST-PRE-nota-94",
+      "norm": "EST-PRE",
+      "pages": [
+        438
+      ],
+      "originalHash": "30d3ee2d72d035630f184c0868407107ccb560115eac7a576703d1c801c7e031",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 88",
+          "candidateNumbers": [
+            88
+          ],
+          "contextPt": "Art. 88, alínea “j”, da CI/IPB.",
+          "start": 0,
+          "end": 7
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "EST-PRE-nota-100",
+      "norm": "EST-PRE",
+      "pages": [
+        439
+      ],
+      "originalHash": "a12acb90c5174a253453b01168735da656c8fa0762ac7bba3e7ba0c83b202cfe",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 27",
+          "candidateNumbers": [
+            27
+          ],
+          "contextPt": "Art. 27, inciso I.",
+          "start": 0,
+          "end": 7
+        }
+      ],
+      "classificationStatus": "resolved-other-body"
+    },
+    {
+      "id": "EST-PRE-nota-107",
+      "norm": "EST-PRE",
+      "pages": [
+        442
+      ],
+      "originalHash": "193a601d32cd2c0cd5e683c730c7878df7963eb42d30bd3ff13fc442d78f9fa9",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 64 ",
+          "candidateNumbers": [
+            64
+          ],
+          "contextPt": "Art. 64 da CI/IPB.",
+          "start": 0,
+          "end": 8
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "EST-PRE-nota-110",
+      "norm": "EST-PRE",
+      "pages": [
+        442
+      ],
+      "originalHash": "e0877240285b9c9500b29f870ecc2a366a9a3eba5cb308a426d5f8254bbb484c",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 64 ",
+          "candidateNumbers": [
+            64
+          ],
+          "contextPt": "Art. 64 da CI/IPB e arts. 8º e 16, do CD.",
+          "start": 0,
+          "end": 8
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "arts. 8º e 16",
+          "candidateNumbers": [
+            8
+          ],
+          "contextPt": "Art. 64 da CI/IPB e arts. 8º e 16, do CD.",
+          "start": 20,
+          "end": 33
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "EST-PRE-nota-116",
+      "norm": "EST-PRE",
+      "pages": [
+        445
+      ],
+      "originalHash": "85925ed6d595b45704ba1d56a8566f390fa48185baa6fdd175448cb4278080b5",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 8º",
+          "candidateNumbers": [
+            8
+          ],
+          "contextPt": "Art. 8º e art. 16 do CD.",
+          "start": 0,
+          "end": 7
+        }
+      ],
+      "classificationStatus": "resolved-other-body"
+    },
+    {
+      "id": "EST-PRE-nota-135",
+      "norm": "EST-PRE",
+      "pages": [
+        448,
+        449
+      ],
+      "originalHash": "620f13b6506b9a204c6fe296b146a000c22d2718f0df6deb0d41fe7009296dff",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 44",
+          "candidateNumbers": [
+            44
+          ],
+          "contextPt": "mposta e recusar-se a cumprir prestação alternativa, fixada em lei. CÓDIGO CIVIL (Lei 10.406/2002):\nArt. 44. São pessoas jurídicas de direito privado: I – [...]; II – [...]; III – [...]; IV – as organizações religiosas (Incluído pela Lei 10.825, de 22 de dezembro de 2003):\n§ 1º  “São livres a criação, a organização, a estrutu",
+          "start": 827,
+          "end": 834
+        }
+      ],
+      "classificationStatus": "resolved-other-body"
+    },
+    {
+      "id": "EST-IG-nota-1",
+      "norm": "EST-IG",
+      "pages": [
+        511
+      ],
+      "originalHash": "6bc8da5b762d59c3dc0e70513260e86cd925cd2f40b335c2f106dcea2db1f543",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 3º",
+          "candidateNumbers": [
+            3
+          ],
+          "contextPt": " CI/IPB. SC – 1954 – DOC. CVI – “Quanto ao ofício do Presbitério de Pernambuco pedindo alteração do art. 3º, Cap. V, do Modelo de Estatuto para Igreja local, o SC resolve declarar que esse modelo, como os demais fornecidos pelo SC, não são obrigatórios senão em matéria que faça parte da CI/IPB. No caso em questão, cada Igreja",
+          "start": 222,
+          "end": 229
+        }
+      ],
+      "classificationStatus": "resolved-other-body"
+    },
+    {
+      "id": "EST-IG-nota-2",
+      "norm": "EST-IG",
+      "pages": [
+        511,
+        512
+      ],
+      "originalHash": "9b2851fffc399850417fa5536366a98bb604b32133b78c8d809d3ddc283bf550",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 44",
+          "candidateNumbers": [
+            44
+          ],
+          "contextPt": "e 60 do Código Civil (Lei 10.406, de 10/01/2002) têm como destinatárias as associações referidas no art. 44, inciso I, desse diploma legal, não alcançando as organizações religiosas mencionadas no inciso IV do mesmo artigo, porquanto essas organizações gozam da liberdade assegurada pelo art. 5º, inciso VI, da Constituição Fed",
+          "start": 618,
+          "end": 625
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 44",
+          "candidateNumbers": [
+            44
+          ],
+          "contextPt": "ões gozam da liberdade assegurada pelo art. 5º, inciso VI, da Constituição Federal, combinado com o art. 44, § 1º, do Código Civil, que prevê: “São livres a criação, a organização, a estruturação interna e o funcionamento das organizações religiosas, sendo vedado ao poder público negar-lhes reconhecimento ou registro dos atos",
+          "start": 867,
+          "end": 874
+        }
+      ],
+      "classificationStatus": "resolved-other-body"
+    },
+    {
+      "id": "EST-IG-nota-3",
+      "norm": "EST-IG",
+      "pages": [
+        512
+      ],
+      "originalHash": "f4fc36d380949ca3daaf16495685b10bf66c6f28f843a895c26646d43fe45e88",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 44",
+          "candidateNumbers": [
+            44
+          ],
+          "contextPt": "Art. 1º da CI/IPB.\nArt. 44, inciso IV e § 1º, do Código Civil (incluídos pela Lei 10.825, de 22 de dezembro de 2003): “São pessoas jurídicas de direito privado: [...] IV - as organizações religiosas”. § 1º  “São livres a criação, a organização, a",
+          "start": 19,
+          "end": 26
+        }
+      ],
+      "classificationStatus": "resolved-other-body"
+    },
+    {
+      "id": "EST-IG-nota-9",
+      "norm": "EST-IG",
+      "pages": [
+        513
+      ],
+      "originalHash": "3f968fb1c8b33308bd480f7c65c07d904f0f1aecb7ad13c6162a2059ac8cda05",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 3º",
+          "candidateNumbers": [
+            3
+          ],
+          "contextPt": "Art. 3º, § 2º, e art. 8º, caput, da CI/IPB.",
+          "start": 0,
+          "end": 7
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 8º",
+          "candidateNumbers": [
+            8
+          ],
+          "contextPt": "Art. 3º, § 2º, e art. 8º, caput, da CI/IPB.",
+          "start": 17,
+          "end": 24
+        }
+      ],
+      "classificationStatus": "resolved-other-body"
+    },
+    {
+      "id": "EST-IG-nota-10",
+      "norm": "EST-IG",
+      "pages": [
+        513
+      ],
+      "originalHash": "700e54a9e7878c6abc32561dc34e4ed7b4ef8ff5499c734ecbf6ffac21bd5e58",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Arts. 3º, 4º, 8º, 9º, 50 a 52, 75, 83, 108, 110 a 114",
+          "candidateNumbers": [
+            3,
+            8
+          ],
+          "contextPt": "Arts. 3º, 4º, 8º, 9º, 50 a 52, 75, 83, 108, 110 a 114, da CI/IPB; arts. 26 a 30 do PL.",
+          "start": 0,
+          "end": 53
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "arts. 26 a 30 ",
+          "candidateNumbers": [
+            27
+          ],
+          "contextPt": "Arts. 3º, 4º, 8º, 9º, 50 a 52, 75, 83, 108, 110 a 114, da CI/IPB; arts. 26 a 30 do PL.",
+          "start": 66,
+          "end": 80
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "EST-IG-nota-56",
+      "norm": "EST-IG",
+      "pages": [
+        521
+      ],
+      "originalHash": "b4bee1a4ad66d48514906a4bb9c1fa19018cdd0710fb59f4e1b51df288afa1b1",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 54",
+          "candidateNumbers": [
+            54
+          ],
+          "contextPt": "Art. 54, caput, art. 110, e art. 111, da CI/IPB; arts. 26 a 30 do PL.",
+          "start": 0,
+          "end": 7
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "arts. 26 a 30 ",
+          "candidateNumbers": [
+            27
+          ],
+          "contextPt": "Art. 54, caput, art. 110, e art. 111, da CI/IPB; arts. 26 a 30 do PL.",
+          "start": 49,
+          "end": 63
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "EST-IG-nota-62",
+      "norm": "EST-IG",
+      "pages": [
+        522
+      ],
+      "originalHash": "ab045f5ca76a5ea97e13bbb3dded6568c2085b12ebc521f4dc85cd3fd1a7d7b4",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 84",
+          "candidateNumbers": [
+            84
+          ],
+          "contextPt": "Art. 84, caput e parágrafo único, da CI/IPB.",
+          "start": 0,
+          "end": 7
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "EST-IG-nota-70",
+      "norm": "EST-IG",
+      "pages": [
+        523
+      ],
+      "originalHash": "81edf6abffe1d27a3be077330ab7600144eb7bc376a5d56bddebca1e0e400e0a",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Arts. 88, 110, 111",
+          "candidateNumbers": [
+            88
+          ],
+          "contextPt": "Arts. 88, 110, 111, caput e parágrafo único, da CI/IPB, e arts. 26 a 30 do PL.",
+          "start": 0,
+          "end": 18
+        },
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "arts. 26 a 30 ",
+          "candidateNumbers": [
+            27
+          ],
+          "contextPt": "Arts. 88, 110, 111, caput e parágrafo único, da CI/IPB, e arts. 26 a 30 do PL.",
+          "start": 58,
+          "end": 72
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    },
+    {
+      "id": "EST-IG-nota-87",
+      "norm": "EST-IG",
+      "pages": [
+        526
+      ],
+      "originalHash": "aadc53160a7b7ff73d33098987f0caf4a4e6f6f6f2c5ecae532714e85e0ccb90",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "art. 8º",
+          "candidateNumbers": [
+            8
+          ],
+          "contextPt": "Art. 30, inciso I, deste modelo de estatuto; art. 8º e art. 83, alínea “a”, da CI/IPB.",
+          "start": 45,
+          "end": 52
+        }
+      ],
+      "classificationStatus": "resolved-other-body"
+    },
+    {
+      "id": "EST-IG-nota-88",
+      "norm": "EST-IG",
+      "pages": [
+        526
+      ],
+      "originalHash": "89bdb128f253264479db92ec5bf8712d639ba9fac7f575ccf45bbe20ec8bf81a",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 27",
+          "candidateNumbers": [
+            27
+          ],
+          "contextPt": "Art. 27, § 3º, inciso I, deste modelo de estatuto; art. 36, alínea “g”, e art. 80, da CI/IPB.",
+          "start": 0,
+          "end": 7
+        }
+      ],
+      "classificationStatus": "resolved-other-body"
+    },
+    {
+      "id": "EST-IG-nota-100",
+      "norm": "EST-IG",
+      "pages": [
+        529
+      ],
+      "originalHash": "ae86804662e169647c410a6f0e0f3979da1fde5aa17d8cf2374c974dadb87a95",
+      "hits": [
+        {
+          "method": "literal-number-list-or-range",
+          "citation": "Art. 8º",
+          "candidateNumbers": [
+            8
+          ],
+          "contextPt": "Art. 8º do CD.",
+          "start": 0,
+          "end": 7
+        }
+      ],
+      "classificationStatus": "resolved-other-body"
+    },
+    {
+      "id": "ATAS-nota-5",
+      "norm": "ATAS",
+      "pages": [
+        556,
+        557
+      ],
+      "originalHash": "f7f653be822d9c52335ae70ebea8a0891c6e343cb7bfe3becf50ba1e04337097",
+      "hits": [
+        {
+          "method": "topic-keyword",
+          "citation": "Secretário-Executivo",
+          "contextPt": "rágrafo 9º, do Regulamento para Confecção de Atas, no qual versa a obrigatoriedade da assinatura do Secretário-Executivo. CE – 2025 – DOC. CLXXXIV: “sobre a validade de assinatura digital em atas... deve ser observado o que rege a legislação nacional sobre a validade da assinatura digital”.",
+          "start": 367,
+          "end": 387
+        }
+      ],
+      "classificationStatus": "reviewed-reform-relation"
+    }
+  ],
+  "sourcePDFSHA256": {
+    "manual": "2d8b728004e32995ee5f1600a7e4e0da94a7124e253bf1fac5322a2b93a083a3",
+    "digesto": "e82955017938a555ab31a699d125b48fdfce686dd03d69b7b8dbbad1b03c2482"
+  },
+  "comparedReformRelatedNotes": 102,
+  "excludedOtherReferenceNotes": 40
+}

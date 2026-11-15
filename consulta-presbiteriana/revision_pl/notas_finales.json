@@ -1,0 +1,881 @@
+{
+  "reviewedIds": [
+    "PL-nota-15",
+    "PL-nota-18",
+    "PL-nota-23",
+    "PL-nota-24",
+    "PL-nota-25",
+    "PL-nota-26",
+    "PL-nota-27",
+    "PL-nota-28",
+    "PL-nota-29",
+    "PL-nota-30",
+    "PL-nota-31",
+    "PL-nota-32",
+    "PL-nota-33",
+    "PL-nota-35",
+    "PL-nota-40",
+    "PL-nota-50"
+  ],
+  "texts": {
+    "PL-nota-23": "Art. 51, letra “f”, de la CI/IPB. SC – 2018 – DOC. CVI: “Consulta del PCES Sobre Administración del Bautismo, de la Santa Cena, y de la Impetración de la bendición apostólica: Considerando: 1) Que el documento se restringe a la administración de los sacramentos y la bendición a los presbíteros regentes; 2) Que la cita de que Jesús no bautizó a nadie es irrelevante a la proposición; además, el texto referido es una explicación que está entre corchetes, lo que significa que no se encuentra en los manuscritos más antiguos; 3) Que afirmar que el texto de Mateo 28.18-20 se aplica a todos los discípulos de Cristo que se siguieron a los tiempos apostólicos es una falacia, considerando que los apóstoles eran una clase especial, distinta, y debidamente comisionada para esta tarea específica, cuyo grupo era “cerrado”, hecho este comprobable mediante la elección de Matías en el lugar de Judas, cuyas cualificaciones demuestran claramente esta especificidad (Hechos 1.21-22); 4) Que aquellos hombres (apóstoles) fueron llamados, comisionados extraordinariamente, y que hoy entendemos el llamado al ministerio de la Palabra como algo ordinario, siendo necesario un llamado interno, el cual debe ser reconocido por la iglesia; 5) Que el bautismo realizado por el diácono Felipe fue algo específico, ya que fue anunciado por un ángel y guiado por el Espíritu para encontrarse con el eunuco y llevarlo a los pies del Señor (At 8.26, 29, 38); no existen referencias bíblicas de que haya bautizado a otra persona o administrado la Santa Cena; 6) Que el bautismo de Pablo realizado por Ananías también fue algo especial, debidamente ordenado por el Señor (At 9.15-16); además de este, no hay registro de que Ananías haya bautizado a otra persona o administrado la Santa Cena; 7) Que en común todos (apóstoles, Felipe y Ananías) poseen un llamado específico, una comisión especial, y que bautizar o administrar la Cena no era algo común y habitual entre los cristianos primitivos, pero ya se anunciaba una clase de hombres elegidos por Dios, debidamente calificados y capacitados para administrar los sacramentos; 8) Que la iglesia en el transcurso de los siglos desarrolló su forma de gobierno separando a algunos hombres para la tarea de la ministración de los sacramentos y de la impetración de la bendición, distinguiéndolos de los demás cristianos no por mérito, sino por entender el llamado divino para este encargo; 9) Que la proposición de Martín Lutero sobre el “sacerdocio universal de los creyentes”, ampliamente aceptada y difundida por los reformados en general, de manera alguna retiró este encargo de esta clase especial, ni tampoco encomendó su administración a todos los creyentes; 10) Que la Confesión de Fe de Westminster, al tratar del tema “De los Sacramentos”, preconiza que “ninguno de estos sacramentos debe ser administrado sino por los ministros de la palabra legalmente ordenados” (CFW XXVII.IV). El SC/ IPB – 2018 resuelve: 1. Esclarecer que hay una clara distinción entre ministrar la Palabra y ministrar los sacramentos y la bendición apostólica; 2. Esclarecer que los presbíteros regentes, elegidos por la voluntad de Dios y revelados por la asamblea de los santos a través del sufragio libre y directo, son reconocidos como líderes con funciones específicas, siéndoles vedado por la constitución de la IPB y por los símbolos de fe la ministración de la Cena, bautismo e impetración de la bendición apostólica; 3. Esclarecer que la tarea de la ministración de la Santa Cena, bautismo e impetración de la bendición apostólica cabe a los presbíteros docentes, cuyo llamado específico debe ser acompañado del testimonio de la Iglesia, aunque haya falta de textos explícitos sobre este asunto”."
+  },
+  "replacements": {
+    "PL-nota-15": [
+      [
+        "batizar",
+        "bautizar"
+      ],
+      [
+        "batiza conversos",
+        "bautiza a los conversos"
+      ],
+      [
+        "Batizamos",
+        "Bautizamos"
+      ],
+      [
+        "oficioante",
+        "oficiante"
+      ],
+      [
+        "verifiquen cuidadosamente las convicciones doctrinas de la IPB.",
+        "verifiquen cuidadosamente las convicciones doctrinales de estos y no los reciban si no aceptan las doctrinas de la IPB."
+      ],
+      [
+        "Caso persistan",
+        "Si persisten"
+      ],
+      [
+        "Estranhar la posición teológica del Presbiterio licitador",
+        "Manifestar extrañeza ante la posición teológica del Presbiterio proponente"
+      ],
+      [
+        "profesados cumplen",
+        "personas que profesan su fe cumplan"
+      ],
+      [
+        "art. 12 del Principios",
+        "art. 12 de los Principios"
+      ],
+      [
+        "nos recuerda",
+        "recordamos"
+      ],
+      [
+        "Profissiones",
+        "Profesiones"
+      ],
+      [
+        "Camilo Cardoso de Jesús",
+        "Camilo Cardoso de Jesus"
+      ],
+      [
+        "Atas de la Iglesia",
+        "Actas de la Iglesia"
+      ],
+      [
+        "apostaba esencialmente la religión",
+        "apostató esencialmente de la religión"
+      ],
+      [
+        "meyo",
+        "medio"
+      ],
+      [
+        "Recomenda",
+        "Recomendar"
+      ],
+      [
+        "los Donatistas y los católicos, que eran anabatistas",
+        "los donatistas y los catabatistas, que eran anabatistas"
+      ],
+      [
+        "no viene del ministro, pero de Dios",
+        "no proviene del ministro, sino de Dios"
+      ],
+      [
+        "Nosotros no rebatizamos creyentes.",
+        "Nosotros bautizamos católicos. Nosotros no rebautizamos creyentes."
+      ],
+      [
+        "no crea que",
+        "no creía que"
+      ],
+      [
+        "de la ceia",
+        "de la Cena"
+      ],
+      [
+        "se firmió correctamente",
+        "se afirmó correctamente"
+      ],
+      [
+        "POR FIM",
+        "POR ÚLTIMO"
+      ],
+      [
+        "pronunciou",
+        "pronunció"
+      ],
+      [
+        "lenguaje veente y muy apropiada",
+        "lenguaje vehemente y muy apropiado"
+      ],
+      [
+        "el paso que dera",
+        "el paso que había dado"
+      ],
+      [
+        "Solenemente",
+        "Solemnemente"
+      ],
+      [
+        "CONCÍLIO",
+        "CONCILIO"
+      ],
+      [
+        "Resolver:",
+        "Resuelve:"
+      ],
+      [
+        "derecho a decisión",
+        "derecho la decisión"
+      ],
+      [
+        "Confisión",
+        "Confesión"
+      ]
+    ],
+    "PL-nota-18": [
+      [
+        "INTERPRETACIÓN DEL ART. 17 DE CI/IPB. PES- SOAS AUTORIZADAS A PRESENTAREM MENORES AL BATISMO. INTERPRE- TACIÓN SISTEMÁTICA DE ARTÍCULOS 13, § 3º, y 17, DE CI/IPB, EM HARMONIA CON EL ART. 11, CAPUT E §§ 1º E 3º, DO PL.",
+        "INTERPRETACIÓN DEL ART. 17 DE LA CI/IPB. PERSONAS AUTORIZADAS A PRESENTAR MENORES AL BAUTISMO. INTERPRETACIÓN SISTEMÁTICA DE LOS ARTÍCULOS 13, § 3º, Y 17, DE LA CI/IPB, EN ARMONÍA CON EL ART. 11, CAPUT Y §§ 1º Y 3º, DEL PL."
+      ],
+      [
+        "externa duda",
+        "expresa dudas"
+      ],
+      [
+        "Confissión",
+        "Confesión"
+      ],
+      [
+        "creación",
+        "crianza"
+      ],
+      [
+        "responsables por",
+        "responsables de"
+      ],
+      [
+        "llevarla regularmente",
+        "llevarlo regularmente"
+      ],
+      [
+        "educárla",
+        "educarlo"
+      ],
+      [
+        "adotivos",
+        "adoptivos"
+      ],
+      [
+        "zelando",
+        "velando"
+      ]
+    ],
+    "PL-nota-24": [
+      [
+        "mujeres serviren Santa Cena",
+        "mujeres que sirven la Santa Cena"
+      ],
+      [
+        "mujeres serviran Santa Cena",
+        "mujeres que sirven la Santa Cena"
+      ],
+      [
+        "conforme pronuncia art.",
+        "conforme dispone el art."
+      ],
+      [
+        "santa Cena. Capítulo",
+        "santa Cena”. Capítulo"
+      ],
+      [
+        "corrigir cualquier males",
+        "corregir cualesquiera males"
+      ],
+      [
+        "íntimo del compromiso de actuar servido del amor y firmeza cristiana",
+        "fiel al compromiso de actuar con amor y firmeza cristiana"
+      ],
+      [
+        "los enseñanzas expresados",
+        "las enseñanzas expresadas"
+      ],
+      [
+        "Remeter",
+        "Remitir"
+      ],
+      [
+        "piedosos",
+        "piadosos"
+      ],
+      [
+        "ministrar la ceia",
+        "administrar la Cena"
+      ],
+      [
+        "liderazgo eclesiástica",
+        "liderazgo eclesiástico"
+      ],
+      [
+        "Ressaltar",
+        "Destacar"
+      ],
+      [
+        "de presbíteros son preteridos",
+        "de que los presbíteros sean relegados"
+      ]
+    ],
+    "PL-nota-25": [
+      [
+        "Demisión de miembro comulgante, excluyendo el rol",
+        "baja de un miembro comulgante, excluyéndolo del registro"
+      ],
+      [
+        "rol separado",
+        "registro separado"
+      ],
+      [
+        "rol de miembros",
+        "registro de miembros"
+      ],
+      [
+        "debe ser aplicado a los miembros",
+        "debe ser aplicada a los miembros"
+      ],
+      [
+        "debe siempre observar el entendimiento",
+        "debe observarse siempre el criterio"
+      ]
+    ],
+    "PL-nota-26": [
+      [
+        "cáliz individuales",
+        "cálices individuales"
+      ],
+      [
+        "esos cáliz",
+        "esos cálices"
+      ],
+      [
+        "CONCÍLIO",
+        "CONCILIO"
+      ],
+      [
+        "doctrina esposada",
+        "doctrina sostenida"
+      ]
+    ],
+    "PL-nota-27": [
+      [
+        "acepta apenas",
+        "acepta únicamente"
+      ],
+      [
+        "Confisión",
+        "Confesión"
+      ],
+      [
+        "[.] CONSULTA SOBRE IMPLICCIONES ÉTICAS E LEGALES DEL CASAMIENTO REALIZADO NO EXTERIOR SIN EL DEVIDO RE- GISTRO PERANTE AS AUTORIDADES BRASILERAS",
+        "[..] CONSULTA SOBRE IMPLICACIONES ÉTICAS Y LEGALES DEL MATRIMONIO REALIZADO EN EL EXTRANJERO SIN EL DEBIDO REGISTRO ANTE LAS AUTORIDADES BRASILEÑAS"
+      ],
+      [
+        "institución divina ordenado",
+        "institución divina ordenada"
+      ],
+      [
+        "en el cartorio de su domicilio",
+        "en la oficina registral del domicilio respectivo"
+      ],
+      [
+        "quiebra del séptimo mandamiento",
+        "transgresión del séptimo mandamiento"
+      ],
+      [
+        "providencias disciplinares",
+        "medidas disciplinarias"
+      ]
+    ],
+    "PL-nota-28": [
+      [
+        "doctrinar suficientemente las iglesias",
+        "instruir suficientemente a las iglesias"
+      ],
+      [
+        "inconvenidencia",
+        "inconveniencia"
+      ],
+      [
+        "Confissión",
+        "Confesión"
+      ],
+      [
+        "Confisión",
+        "Confesión"
+      ],
+      [
+        "Son claras en lo que impide al Pastor impedir",
+        "son claras en lo que impide al Pastor invocar"
+      ],
+      [
+        "silencia si debe o no al Pastor",
+        "guarda silencio sobre si el Pastor debe o no"
+      ],
+      [
+        "un medio de la celebración de traer",
+        "un medio para que el celebrante acerque"
+      ],
+      [
+        "imprimira",
+        "imprima"
+      ],
+      [
+        "desde que ellos creían",
+        "siempre que ellos crean"
+      ],
+      [
+        "oficioante",
+        "oficiante"
+      ],
+      [
+        "matrimonial independiente del hecho",
+        "matrimonial no depende del hecho"
+      ],
+      [
+        "totalmente gracioso",
+        "totalmente gratuito"
+      ],
+      [
+        "reposición de los gastos",
+        "reembolso de los gastos"
+      ],
+      [
+        "culto inter accesorio",
+        "culto de intercesión"
+      ],
+      [
+        "la rigor",
+        "en rigor"
+      ],
+      [
+        "o no creyentes, siempre que",
+        "o también la pediremos para parejas “mixtas” o no creyentes, siempre que"
+      ],
+      [
+        "noivos",
+        "novios"
+      ],
+      [
+        "pero para el género humano",
+        "sino para el género humano"
+      ],
+      [
+        "eucaristia",
+        "eucaristía"
+      ],
+      [
+        "aunque no católica, incluso que no católica, aunque se respeten",
+        "aunque no sea católica. Por otra parte, respétense"
+      ],
+      [
+        "re-la-ciones",
+        "relaciones"
+      ],
+      [
+        "arrependida",
+        "arrepentida"
+      ],
+      [
+        "Dios acatado",
+        "Dios acatada"
+      ],
+      [
+        "núpcias",
+        "nupcias"
+      ],
+      [
+        "restaurálo",
+        "restaurarlo"
+      ],
+      [
+        "desde que el motivo",
+        "siempre que el motivo"
+      ],
+      [
+        "Refiriendo para conocimiento",
+        "Remitir, para conocimiento"
+      ],
+      [
+        "bodas realizados",
+        "bodas realizadas"
+      ],
+      [
+        "Ementa:",
+        "Sumario:"
+      ],
+      [
+        "membresia",
+        "membresía"
+      ],
+      [
+        "3) Que la comisión, en su propuesta al SC/IPB,",
+        "3) Que la comisión, en su exposición de motivos y, finalmente, en su propuesta al SC/IPB,"
+      ],
+      [
+        "aplica apenas",
+        "aplica únicamente"
+      ],
+      [
+        "parte decrente",
+        "parte no creyente"
+      ],
+      [
+        "criteriosa evaluación",
+        "cuidadosa evaluación"
+      ],
+      [
+        "Revogar",
+        "Revocar"
+      ],
+      [
+        "laudo médico",
+        "informe médico"
+      ],
+      [
+        "Ley no",
+        "Ley nº"
+      ],
+      [
+        "si esta expresamente afirmar",
+        "si esta afirma expresamente"
+      ],
+      [
+        "incompatibilidade legal",
+        "incompatibilidad jurídica"
+      ],
+      [
+        "a estas se sometiendo, mientras no contravienen",
+        "sometiéndose a estas mientras no contravengan"
+      ],
+      [
+        "sea por cual la apareamiento jurídico sea",
+        "sea cual fuere el mecanismo jurídico"
+      ],
+      [
+        "costumbres humanos",
+        "costumbres humanas"
+      ],
+      [
+        "tal sellado",
+        "tal prohibición"
+      ],
+      [
+        "pero decurre de",
+        "sino que deriva de"
+      ]
+    ],
+    "PL-nota-29": [
+      [
+        "desde que registrado",
+        "siempre que sea inscrito"
+      ],
+      [
+        "Efectos Civis",
+        "Efectos Civiles"
+      ],
+      [
+        "para que se casaran",
+        "para casarse"
+      ],
+      [
+        "mencionando el período legal",
+        "mencionando en dicho certificado el plazo legal"
+      ],
+      [
+        "Ley no",
+        "Ley nº"
+      ],
+      [
+        "oficial del cartorio",
+        "funcionario de la oficina registral"
+      ],
+      [
+        "contenerá",
+        "contendrá"
+      ],
+      [
+        "el cartorio",
+        "la oficina registral"
+      ],
+      [
+        "contraentes",
+        "contrayentes"
+      ],
+      [
+        "Redación",
+        "Redacción"
+      ],
+      [
+        "24 horas (vinte y cuatro)",
+        "24 (veinticuatro) horas"
+      ],
+      [
+        "La autoridad o ministro celebrará el certificado de habilitación que le ha sido presentada, y deberá anotar la fecha de celebración del matrimonio.",
+        "La autoridad o ministro celebrante archivará el certificado de habilitación que le haya sido presentado, debiendo anotar en él la fecha de celebración del matrimonio."
+      ],
+      [
+        "desde que presentados por los nubentes",
+        "siempre que los contrayentes presenten"
+      ],
+      [
+        "suprindo ellos eventual falta de requisitos en virtud de la celebración",
+        "supliendo estos la eventual falta de requisitos en el acta de celebración"
+      ],
+      [
+        "Procesa la habilitación",
+        "Tramitada la habilitación"
+      ],
+      [
+        "editales",
+        "edictos"
+      ]
+    ],
+    "PL-nota-30": [
+      [
+        "CONCÍLIO",
+        "CONCILIO"
+      ],
+      [
+        "Namoro",
+        "Noviazgo"
+      ],
+      [
+        "Confisión",
+        "Confesión"
+      ],
+      [
+        "Mandamento",
+        "Mandamiento"
+      ],
+      [
+        "Tesalesenses",
+        "Tesalonicenses"
+      ],
+      [
+        "Abstende-vos",
+        "Absteneos"
+      ],
+      [
+        "excónjuge",
+        "excónyuge"
+      ],
+      [
+        "las siguientes pasajes",
+        "los siguientes pasajes"
+      ],
+      [
+        "Lo que preceitua",
+        "Lo que dispone"
+      ],
+      [
+        "Divórcio",
+        "Divorcio"
+      ],
+      [
+        "los enseñanzas referidos",
+        "las enseñanzas referidas"
+      ],
+      [
+        "núpcias",
+        "nupcias"
+      ],
+      [
+        "Que en el caso de divorcio, nuevo divorcio y nuevo matrimonio",
+        "Que en el caso de divorcio, nuevo matrimonio, nuevo divorcio y nuevo matrimonio"
+      ],
+      [
+        "sin abrir mano de",
+        "sin renunciar a"
+      ],
+      [
+        "CONSEQUENTEMENTE",
+        "EN CONSECUENCIA"
+      ],
+      [
+        "Posto que",
+        "Aunque"
+      ],
+      [
+        "a buscar argumentos para deshondar a aquellos",
+        "a buscar argumentos para separar indebidamente a aquellos"
+      ],
+      [
+        "por el Consejo en tratarse",
+        "por el Consejo cuando se trate"
+      ],
+      [
+        "consistiéndose en prevaricación",
+        "constituyendo prevaricación"
+      ],
+      [
+        "Revogar",
+        "Revocar"
+      ]
+    ],
+    "PL-nota-32": [
+      [
+        "adota",
+        "adopta"
+      ],
+      [
+        "Confissión",
+        "Confesión"
+      ],
+      [
+        "Confisión",
+        "Confesión"
+      ],
+      [
+        "jejuns",
+        "ayunos"
+      ],
+      [
+        "oraciones y ofertas",
+        "oraciones y ofrendas"
+      ],
+      [
+        "ungindo-os",
+        "ungiéndolos"
+      ],
+      [
+        "Tiago",
+        "Santiago"
+      ],
+      [
+        "no unen personas",
+        "no unjan personas"
+      ],
+      [
+        "REVOGAR",
+        "REVOCAR"
+      ]
+    ],
+    "PL-nota-33": [
+      [
+        "defuntos",
+        "difuntos"
+      ],
+      [
+        "defunto",
+        "difunto"
+      ],
+      [
+        "Ementa:",
+        "Sumario:"
+      ],
+      [
+        "participación de Padres",
+        "participación de sacerdotes"
+      ],
+      [
+        "“capela”",
+        "“capilla”"
+      ],
+      [
+        "estendan",
+        "extiendan"
+      ],
+      [
+        "extensen",
+        "extendieran"
+      ],
+      [
+        "Confisión",
+        "Confesión"
+      ],
+      [
+        "CAP. XXI - DO CULTO RELIGIOSO Y DO DOMINGO",
+        "CAP. XXI - DEL CULTO RELIGIOSO Y DEL DOMINGO"
+      ],
+      [
+        "solicitar que a los presentes",
+        "solicitar que los presentes"
+      ],
+      [
+        "tenga enveredado por",
+        "haya incurrido en"
+      ],
+      [
+        "lo que preceitua",
+        "lo que dispone"
+      ]
+    ],
+    "PL-nota-35": [
+      [
+        "art. 114, la CI/IPB",
+        "art. 114, de la CI/IPB"
+      ],
+      [
+        "por ser privativas",
+        "por ser reservadas"
+      ],
+      [
+        "art. 72 la CI/IPB",
+        "art. 72 de la CI/IPB"
+      ],
+      [
+        "actos privados",
+        "actos exclusivos"
+      ],
+      [
+        "acto privado",
+        "acto exclusivo"
+      ],
+      [
+        "83, “d),",
+        "83, “d”),"
+      ],
+      [
+        "113-114 la CI/ IPB",
+        "113-114 de la CI/IPB"
+      ],
+      [
+        "envolviendo",
+        "que incluye"
+      ],
+      [
+        "Así como es regularmente y obligatoria y transcripción de la acta",
+        "Así como es habitual y obligatoria la transcripción del acta"
+      ],
+      [
+        "como subsidio y orientación",
+        "como apoyo y orientación"
+      ],
+      [
+        "Aprobando el informe",
+        "Aprobar el informe"
+      ],
+      [
+        "piedosas",
+        "piadosas"
+      ],
+      [
+        "Resolve:",
+        "Resuelve:"
+      ],
+      [
+        "modismos",
+        "modas"
+      ],
+      [
+        "funciones privativas",
+        "funciones exclusivas"
+      ],
+      [
+        "se convier",
+        "si conviene"
+      ]
+    ],
+    "PL-nota-40": [
+      [
+        "– la SC/IPB resuelve",
+        "– la CE-SC/IPB resuelve"
+      ],
+      [
+        "Cuánto al",
+        "En cuanto al"
+      ],
+      [
+        "después de instruido, aceptar",
+        "después de instruido, acepte"
+      ],
+      [
+        "no a otras denominaciones presbiteriana de Brasil y no a otras denominaciones presbiteriana de Brasil",
+        "no a otras denominaciones presbiterianas"
+      ]
+    ],
+    "PL-nota-50": [
+      [
+        "edital de convocatoria",
+        "edicto de convocatoria"
+      ],
+      [
+        "INFORME DE LA COMISIÓN PERMA- NENTE DEL MANUAL PRESBITERIANO, EM RESPUESA A LA DECISIÓN DE CE-SC/ IPB",
+        "INFORME DE LA COMISIÓN PERMANENTE DEL MANUAL PRESBITERIANO, EN RESPUESTA A LA DECISIÓN DE LA CE-SC/IPB"
+      ],
+      [
+        "CUANTO AL DOCUMENTO",
+        "EN CUANTO AL DOCUMENTO"
+      ],
+      [
+        "Sínodo Este Fluminense",
+        "Sínodo Leste Fluminense"
+      ],
+      [
+        "Acolher",
+        "Acoger"
+      ],
+      [
+        "en tesis",
+        "en términos generales"
+      ],
+      [
+        "cartorio de registro",
+        "oficina registral"
+      ],
+      [
+        "garantizado, en la forma de la ley, la protección",
+        "garantizada, conforme a la ley, la protección"
+      ],
+      [
+        "es refundible",
+        "puede reformarse"
+      ],
+      [
+        "obligan a la persona jurídica a los actos",
+        "Obligan a la persona jurídica los actos"
+      ],
+      [
+        "dispuser",
+        "dispusiere"
+      ],
+      [
+        "Redación",
+        "Redacción"
+      ],
+      [
+        "son refundables",
+        "pueden reformarse"
+      ],
+      [
+        "presentante",
+        "presentador"
+      ],
+      [
+        "ejemplares. 8.906/94:",
+        "ejemplares. Ley 8.906/94:"
+      ],
+      [
+        "admitidos el registro",
+        "admitidos a registro"
+      ],
+      [
+        "cuando son considerados por abogados",
+        "cuando estén visados por abogados"
+      ]
+    ]
+  }
+}

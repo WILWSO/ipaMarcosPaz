@@ -1,0 +1,39 @@
+{
+  "ids": [
+    "CE-2026-CX",
+    "CE-2026-CIX",
+    "CE-2026-CVIII",
+    "CE-2026-CVII",
+    "CE-2026-CVI",
+    "CE-2026-CV",
+    "CE-2026-CIV",
+    "CE-2026-CIII",
+    "CE-2026-CII",
+    "CE-2026-CI",
+    "CE-2026-C",
+    "CE-2026-XCIX",
+    "CE-2026-XCVIII",
+    "CE-2026-XCVII",
+    "CE-2026-XCVI",
+    "CE-2026-XCV",
+    "CE-2026-XCIV",
+    "CE-2026-XCIII",
+    "CE-2026-XCII",
+    "CE-2026-XCI"
+  ],
+  "pages": [
+    300,
+    301,
+    302,
+    303,
+    304,
+    305,
+    306,
+    307,
+    308,
+    309
+  ],
+  "pageScope": "Decisiones completas; las páginas pueden incluir decisiones fuera del lote",
+  "nextId": "CE-2026-XC",
+  "newTranslations": 20
+}

@@ -1,0 +1,188 @@
+{
+  "reviewedIds": [
+    "PL-nota-12",
+    "PL-nota-13",
+    "PL-nota-14",
+    "PL-nota-16",
+    "PL-nota-17",
+    "PL-nota-19",
+    "PL-nota-20",
+    "PL-nota-21",
+    "PL-nota-22",
+    "PL-nota-34",
+    "PL-nota-36",
+    "PL-nota-37",
+    "PL-nota-38",
+    "PL-nota-39",
+    "PL-nota-41",
+    "PL-nota-42",
+    "PL-nota-43",
+    "PL-nota-44",
+    "PL-nota-45",
+    "PL-nota-46",
+    "PL-nota-47",
+    "PL-nota-48",
+    "PL-nota-49",
+    "PL-nota-51",
+    "PL-nota-52",
+    "PL-nota-53",
+    "PL-nota-54",
+    "PL-nota-55",
+    "PL-nota-56",
+    "PL-nota-57",
+    "PL-nota-58",
+    "PL-nota-59"
+  ],
+  "replacements": {
+    "PL-nota-12": [
+      [
+        "posesión",
+        "toma de posesión"
+      ],
+      [
+        "cerimonia",
+        "ceremonia"
+      ]
+    ],
+    "PL-nota-13": [
+      [
+        "hagan mayor propaganda posible",
+        "hagan la mayor difusión posible"
+      ],
+      [
+        "prejudicial",
+        "perjudicial"
+      ],
+      [
+        "se encaminhe",
+        "se remita"
+      ],
+      [
+        "los son principios",
+        "los sanos principios"
+      ]
+    ],
+    "PL-nota-16": [
+      [
+        "oriente los padres",
+        "oriente a los padres"
+      ],
+      [
+        "deen énfasis",
+        "den énfasis"
+      ]
+    ],
+    "PL-nota-17": [
+      [
+        "Confisión",
+        "Confesión"
+      ],
+      [
+        "ministrarán",
+        "administración"
+      ],
+      [
+        "guardia",
+        "custodia"
+      ],
+      [
+        "arrolado",
+        "inscrito"
+      ],
+      [
+        "Rejeitar",
+        "Rechazar"
+      ]
+    ],
+    "PL-nota-21": [
+      [
+        "Ministra de la Santa Cena",
+        "administración de la Santa Cena"
+      ],
+      [
+        "ajuntamiento",
+        "reunión"
+      ],
+      [
+        "no desclasificación los miembros no presentes, dejando",
+        "no descalifica a los miembros ausentes, dejándolos"
+      ],
+      [
+        "Confisión",
+        "Confesión"
+      ],
+      [
+        "no le cabería en esta situación",
+        "no correspondería en esta situación"
+      ]
+    ],
+    "PL-nota-34": [
+      [
+        "Art. 69 la CI/IPB.",
+        "Art. 69 de la CI/IPB."
+      ]
+    ],
+    "PL-nota-37": [
+      [
+        "artículo 28 CE",
+        "artículo 28. CE"
+      ],
+      [
+        "cuando de su ordenación",
+        "al ser ordenados"
+      ],
+      [
+        "Si algún oficial modifique",
+        "Si algún oficial modifica"
+      ],
+      [
+        "lo que preceitua",
+        "lo que dispone"
+      ]
+    ],
+    "PL-nota-41": [
+      [
+        "oficiales a CE/SC informa",
+        "oficiales la CE/SC informa"
+      ],
+      [
+        "son privativas",
+        "son reservadas"
+      ],
+      [
+        "sino que se debe a esta",
+        "sino una consecuencia de esta"
+      ]
+    ],
+    "PL-nota-42": [
+      [
+        "Art. 108 la CI/IPB.",
+        "Art. 108 de la CI/IPB."
+      ]
+    ],
+    "PL-nota-47": [
+      [
+        "Resolve:",
+        "resuelve:"
+      ],
+      [
+        "cuando de su ordenación",
+        "al ser ordenados"
+      ],
+      [
+        "Si algún oficial modifique",
+        "Si algún oficial modifica"
+      ],
+      [
+        "lo que preceitua",
+        "lo que dispone"
+      ]
+    ],
+    "PL-nota-58": [
+      [
+        "Atas",
+        "Actas"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "reviewedIds": [
+    "CI-art-31",
+    "CI-art-32",
+    "CI-art-33",
+    "CI-art-34",
+    "CI-art-35",
+    "CI-art-36",
+    "CI-art-37",
+    "CI-art-38",
+    "CI-art-39",
+    "CI-art-40",
+    "CI-art-41",
+    "CI-art-42",
+    "CI-art-43",
+    "CI-art-44",
+    "CI-art-45",
+    "CI-art-46",
+    "CI-art-47",
+    "CI-art-48",
+    "CI-art-49",
+    "CI-art-50",
+    "CI-art-51",
+    "CI-art-52",
+    "CI-art-53",
+    "CI-art-54",
+    "CI-art-55",
+    "CI-art-56",
+    "CI-art-57",
+    "CI-art-58",
+    "CI-art-59",
+    "CI-art-60"
+  ],
+  "replacements": {
+    "CI-art-33": [
+      [
+        "Efetivo",
+        "Efectivo"
+      ],
+      [
+        "con voto, sin embargo en el Consejo",
+        "con voto, sin embargo, en el Consejo"
+      ],
+      [
+        "cuando invitado",
+        "cuando sea invitado"
+      ]
+    ],
+    "CI-art-34": [
+      [
+        "Efetivo",
+        "Efectivo"
+      ],
+      [
+        "a lo que abajo se preceitua",
+        "a lo que se establece a continuación"
+      ],
+      [
+        "compitiendo al Presbiterio juzgar de las elecciones",
+        "correspondiendo al Presbiterio juzgar las elecciones"
+      ],
+      [
+        "siendo emposionado por el pastor",
+        "siendo instalado por el pastor"
+      ],
+      [
+        "que superintende la obra",
+        "que supervisa la obra"
+      ],
+      [
+        "dando de todo informe al concilio",
+        "presentando al concilio un informe de todo"
+      ]
+    ],
+    "CI-art-35": [
+      [
+        "Efetivo",
+        "Efectivo"
+      ]
+    ],
+    "CI-art-36": [
+      [
+        "apascentárselo",
+        "apacentarlo"
+      ],
+      [
+        "aflitos",
+        "afligidos"
+      ],
+      [
+        "superintender",
+        "supervisar"
+      ]
+    ],
+    "CI-art-51": [
+      [
+        "advertencias particulares",
+        "amonestaciones privadas"
+      ],
+      [
+        "aflitos",
+        "afligidos"
+      ]
+    ],
+    "CI-art-52": [
+      [
+        "igual a de los ministros",
+        "igual a la de los ministros"
+      ]
+    ],
+    "CI-art-55": [
+      [
+        "irrepreensibles",
+        "irreprensibles"
+      ],
+      [
+        "son en la fe",
+        "sanos en la fe"
+      ]
+    ],
+    "CI-art-57": [
+      [
+        "veinte y cinco",
+        "veinticinco"
+      ]
+    ],
+    "CI-art-58": [
+      [
+        "regimiento",
+        "reglamento"
+      ]
+    ]
+  },
+  "texts": {
+    "CI-art-53": "Art. 53. El diácono[159] es el oficial elegido por la iglesia y ordenado por el Consejo para, bajo la supervisión de este,[160] dedicarse especialmente:\na) a la recaudación de ofrendas para fines piadosos;\nb) al cuidado de los pobres, enfermos e inválidos;\nc) al mantenimiento del orden y la reverencia en los lugares reservados al servicio divino;\nd) a ejercer la vigilancia para que haya buen orden en la Casa de Dios y sus dependencias.",
+    "CI-art-56": "Art. 56. Las funciones de presbítero o de diácono cesan cuando:\na) termina el mandato y no es reelegido;\nb) se muda a un lugar que le imposibilita ejercer el cargo;[164]\nc) es depuesto;[165]\nd) se ausenta, sin motivo justificado, durante seis meses, de las reuniones del Consejo, si es presbítero, y de la Junta Diaconal, si es diácono;[166]\ne) es exonerado administrativamente o a petición,[167], después de oír a la iglesia.[168]"
+  }
+}

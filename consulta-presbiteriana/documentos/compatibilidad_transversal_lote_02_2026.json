@@ -1,0 +1,767 @@
+{
+  "batch": 2,
+  "date": "2026-10-14",
+  "classifiedNotes": 40,
+  "excludedOtherReferenceNotes": 40,
+  "scope": "Texto completo de 40 notas leído para identificar el cuerpo normativo de las coincidencias del rastreo. No certifica vigencia general ni legislación civil actual.",
+  "items": [
+    {
+      "id": "CI-nota-5",
+      "classification": "coincidencia-en-otro-dispositivo",
+      "resolvedBodyEs": "Constitución IPB, art.3",
+      "resolvedBodyPt": "Constituição IPB, art.3",
+      "resolvedTargets": [
+        "CI-art-3"
+      ],
+      "evidencePt": "Art. 3",
+      "findingEs": "La remisión pertenece a la Constitución y no al artículo 3 del Reglamento de Actas modificado por CE2026-CII. Se identifica sólo el cuerpo y número del pasaje.",
+      "findingPt": "A remissão pertence à Constituição, não ao artigo 3 do Regulamento de Atas alterado por CE2026-CII. Identificados apenas o diploma e número da passagem.",
+      "originalHash": "16224588df2777e67c61ad84564fba73ff1c94fe528fcb9133575c610e536056",
+      "translationHash": "073d877699ef83d997985af904523494110a30473efbacc776465234daceb8cf",
+      "pages": [
+        16
+      ],
+      "requiresReformWarning": false,
+      "scope": "Identificación de cuerpo normativo y número en esta coincidencia; no certifica vigencia ni descarta relaciones implícitas."
+    },
+    {
+      "id": "CI-nota-23",
+      "classification": "coincidencia-en-otro-dispositivo",
+      "resolvedBodyEs": "Código Civil brasileño, art.44",
+      "resolvedBodyPt": "Código Civil brasileiro, art.44",
+      "resolvedTargets": [],
+      "evidencePt": "44",
+      "findingEs": "La cita nombra el Código Civil y personas jurídicas u organizaciones religiosas. No es CI art.44 sobre pastor emérito. Las transcripciones y opiniones jurídicas de las resoluciones históricas se conservan, sin verificarlas como legislación vigente ni brindar una conclusión jurídica actual.",
+      "findingPt": "A citação nomeia o Código Civil e pessoas jurídicas ou organizações religiosas. Não é CI art.44 sobre pastor emérito. Conservadas as transcrições e opiniões jurídicas das resoluções históricas, sem verificá-las como legislação vigente nem oferecer conclusão jurídica atual.",
+      "originalHash": "3144ba3ee2e4dbbb0d3e6ee307f5a77ebe5a9793a0233767f5fe4b536664b096",
+      "translationHash": "6f50d966dbf1651ddcadd9c153b523af0a084038c0853a0d0e86989be6dbc775",
+      "pages": [
+        20,
+        21,
+        22
+      ],
+      "requiresReformWarning": false,
+      "scope": "Identificación de cuerpo normativo y número en esta coincidencia; no certifica vigencia ni descarta relaciones implícitas."
+    },
+    {
+      "id": "CI-nota-36",
+      "classification": "coincidencia-en-otro-dispositivo",
+      "resolvedBodyEs": "Constitución IPB, art.3",
+      "resolvedBodyPt": "Constituição IPB, art.3",
+      "resolvedTargets": [
+        "CI-art-3"
+      ],
+      "evidencePt": "Art. 3",
+      "findingEs": "La remisión pertenece a la Constitución y no al artículo 3 del Reglamento de Actas modificado por CE2026-CII. Se identifica sólo el cuerpo y número del pasaje.",
+      "findingPt": "A remissão pertence à Constituição, não ao artigo 3 do Regulamento de Atas alterado por CE2026-CII. Identificados apenas o diploma e número da passagem.",
+      "originalHash": "b84fadac51a49da4812124a049615352d15519e04bdec5e516337814ba79d1a8",
+      "translationHash": "09130364d9a84a69ad5ba35ed93ff71a0ea0343319324fc96b37fca94faa102e",
+      "pages": [
+        26
+      ],
+      "requiresReformWarning": false,
+      "scope": "Identificación de cuerpo normativo y número en esta coincidencia; no certifica vigencia ni descarta relaciones implícitas."
+    },
+    {
+      "id": "CI-nota-39",
+      "classification": "coincidencia-en-otro-dispositivo",
+      "resolvedBodyEs": "Constitución IPB, art.3",
+      "resolvedBodyPt": "Constituição IPB, art.3",
+      "resolvedTargets": [
+        "CI-art-3"
+      ],
+      "evidencePt": "Art. 3",
+      "findingEs": "La remisión pertenece a la Constitución y no al artículo 3 del Reglamento de Actas modificado por CE2026-CII. Se identifica sólo el cuerpo y número del pasaje.",
+      "findingPt": "A remissão pertence à Constituição, não ao artigo 3 do Regulamento de Atas alterado por CE2026-CII. Identificados apenas o diploma e número da passagem.",
+      "originalHash": "c40f0b6fe91bcc31d472b5673bb1ce233f02770a72500a01255c46612e59fcdc",
+      "translationHash": "ffa3d2e2154f1b1de59cd5c2421c92c8c99789d9e26a1338a5552990cc635f2a",
+      "pages": [
+        27
+      ],
+      "requiresReformWarning": false,
+      "scope": "Identificación de cuerpo normativo y número en esta coincidencia; no certifica vigencia ni descarta relaciones implícitas."
+    },
+    {
+      "id": "CI-nota-40",
+      "classification": "coincidencia-en-otro-dispositivo",
+      "resolvedBodyEs": "Constitución IPB, art.3",
+      "resolvedBodyPt": "Constituição IPB, art.3",
+      "resolvedTargets": [
+        "CI-art-3"
+      ],
+      "evidencePt": "Art. 3",
+      "findingEs": "La remisión pertenece a la Constitución y no al artículo 3 del Reglamento de Actas modificado por CE2026-CII. Se identifica sólo el cuerpo y número del pasaje.",
+      "findingPt": "A remissão pertence à Constituição, não ao artigo 3 do Regulamento de Atas alterado por CE2026-CII. Identificados apenas o diploma e número da passagem.",
+      "originalHash": "da7f5c7ac601268581942ccdb34ae06125f416647095cb6973e123169e78d3e2",
+      "translationHash": "9d45b81e7648d5e8bd8a9390ae062090ce32681a8a37c37261b92518dcfdb29e",
+      "pages": [
+        27
+      ],
+      "requiresReformWarning": false,
+      "scope": "Identificación de cuerpo normativo y número en esta coincidencia; no certifica vigencia ni descarta relaciones implícitas."
+    },
+    {
+      "id": "CI-nota-51",
+      "classification": "coincidencia-en-otro-dispositivo",
+      "resolvedBodyEs": "Modelo de Estatuto de Iglesia Local, art.8",
+      "resolvedBodyPt": "Modelo de Estatuto de Igreja Local, art.8",
+      "resolvedTargets": [
+        "EST-IG-art-8"
+      ],
+      "evidencePt": "Art. 8",
+      "findingEs": "La nota nombra el modelo de estatuto; la revocación SC2026-CXXIII afecta RI-CE art.8 inciso X del cuerpo principal, no este art.8.",
+      "findingPt": "A nota nomeia o modelo de estatuto; a revogação SC2026-CXXIII alcança RI-CE art.8 inciso X do corpo principal, não este art.8.",
+      "originalHash": "4132df7724608d050fbae684fc8fabbd61bc025a4973dd750ec7cd2cb1df6ce4",
+      "translationHash": "e38846eb1af6ac071f1fa9809c0f39651c4584d5e47a03b3ab63767f8e93d6e6",
+      "pages": [
+        30
+      ],
+      "requiresReformWarning": false,
+      "scope": "Identificación de cuerpo normativo y número en esta coincidencia; no certifica vigencia ni descarta relaciones implícitas."
+    },
+    {
+      "id": "CI-nota-54",
+      "classification": "coincidencia-en-otro-dispositivo",
+      "resolvedBodyEs": "PL art.8; modelo de estatuto presbiterial art.27; modelo de iglesia art.8",
+      "resolvedBodyPt": "PL art.8; modelo de estatuto presbiterial art.27; modelo de igreja art.8",
+      "resolvedTargets": [
+        "PL-art-8",
+        "EST-PRE-art-27",
+        "EST-IG-art-8"
+      ],
+      "evidencePt": "Art. 8º do PL",
+      "findingEs": "Las tres coincidencias nombran sus respectivos cuerpos. No son CI art.27 ni RI-CE art.8. La referencia adicional al RI-CE dice art.10, no el art.8 reformado.",
+      "findingPt": "As três coincidências nomeiam os respectivos diplomas. Não são CI art.27 nem RI-CE art.8. A referência adicional ao RI-CE diz art.10, não o art.8 alterado.",
+      "originalHash": "a6f83a784c0abca8b5410cad95b0934a3b7cc4ee58f43f94fb3e295d133e2aca",
+      "translationHash": "ffae0bdf69c6274a44db23d1898a85419c6c20589ffc72fae3758e7c074d8c3f",
+      "pages": [
+        34
+      ],
+      "requiresReformWarning": false,
+      "scope": "Identificación de cuerpo normativo y número en esta coincidencia; no certifica vigencia ni descarta relaciones implícitas."
+    },
+    {
+      "id": "CI-nota-96",
+      "classification": "coincidencia-en-otro-dispositivo",
+      "resolvedBodyEs": "Modelo de Estatuto de Iglesia Local, art.8",
+      "resolvedBodyPt": "Modelo de Estatuto de Igreja Local, art.8",
+      "resolvedTargets": [
+        "EST-IG-art-8"
+      ],
+      "evidencePt": "Art. 8",
+      "findingEs": "La nota nombra el modelo de estatuto; la revocación SC2026-CXXIII afecta RI-CE art.8 inciso X del cuerpo principal, no este art.8.",
+      "findingPt": "A nota nomeia o modelo de estatuto; a revogação SC2026-CXXIII alcança RI-CE art.8 inciso X do corpo principal, não este art.8.",
+      "originalHash": "688cdc33b7b41655d26ceb0b3da9dbe21f1581542cd45cf2d1cbe808b1b5f4b3",
+      "translationHash": "7886f2f336908372724ae52c4c4b83c75a58f5addc20c4722183ee9e3839fb50",
+      "pages": [
+        48
+      ],
+      "requiresReformWarning": false,
+      "scope": "Identificación de cuerpo normativo y número en esta coincidencia; no certifica vigencia ni descarta relaciones implícitas."
+    },
+    {
+      "id": "CI-nota-157",
+      "classification": "coincidencia-en-otro-dispositivo",
+      "resolvedBodyEs": "Principios de Liturgia, art.27",
+      "resolvedBodyPt": "Princípios de Liturgia, art.27",
+      "resolvedTargets": [
+        "PL-art-27"
+      ],
+      "evidencePt": "PL",
+      "findingEs": "La abreviatura PL identifica Liturgia; EC3 modifica CI art.27 y no este artículo.",
+      "findingPt": "A abreviatura PL identifica Liturgia; EC3 altera CI art.27, não este artigo.",
+      "originalHash": "bb6bab7e02c9f7dc8a3a9db26c541e2f58f604d3650a41cba10a7b65f4e5768d",
+      "translationHash": "5e7c91a074862019d2e297d3d561d8ec172200e55254354f6c55929a4df798fc",
+      "pages": [
+        79
+      ],
+      "requiresReformWarning": false,
+      "scope": "Identificación de cuerpo normativo y número en esta coincidencia; no certifica vigencia ni descarta relaciones implícitas."
+    },
+    {
+      "id": "CI-nota-194",
+      "classification": "coincidencia-en-otro-dispositivo",
+      "resolvedBodyEs": "Constitución IPB, art.3",
+      "resolvedBodyPt": "Constituição IPB, art.3",
+      "resolvedTargets": [
+        "CI-art-3"
+      ],
+      "evidencePt": "Art. 3",
+      "findingEs": "La remisión pertenece a la Constitución y no al artículo 3 del Reglamento de Actas modificado por CE2026-CII. Se identifica sólo el cuerpo y número del pasaje.",
+      "findingPt": "A remissão pertence à Constituição, não ao artigo 3 do Regulamento de Atas alterado por CE2026-CII. Identificados apenas o diploma e número da passagem.",
+      "originalHash": "e4d2655490cc5cd0040d02ce57f9cc0dfacbcee20506515c5d44d5c0a631ed35",
+      "translationHash": "fda24750d4f16f7d8c61f4d85543a3cc5cd709a82f50f8fa76cbad0f6c20c579",
+      "pages": [
+        97
+      ],
+      "requiresReformWarning": false,
+      "scope": "Identificación de cuerpo normativo y número en esta coincidencia; no certifica vigencia ni descarta relaciones implícitas."
+    },
+    {
+      "id": "CI-nota-220",
+      "classification": "coincidencia-en-otro-dispositivo",
+      "resolvedBodyEs": "Constitución IPB, art.8",
+      "resolvedBodyPt": "Constituição IPB, art.8",
+      "resolvedTargets": [
+        "CI-art-8"
+      ],
+      "evidencePt": "Art. 8",
+      "findingEs": "La referencia versa sobre gobierno y Consejo en CI art.8; no corresponde al inciso X de RI-CE art.8. No se interpreta aquí la vigencia general de los criterios históricos de quórum.",
+      "findingPt": "A referência trata de governo e Conselho em CI art.8; não corresponde ao inciso X de RI-CE art.8. Não se interpreta aqui a vigência geral dos critérios históricos de quórum.",
+      "originalHash": "2caf6b3bd62e73429fcfc65f834d7147c8d76e7a5b8ebf7edfc25ba1c0bd0af7",
+      "translationHash": "f09f8c36099a1830dbf671d07fa0f5e087d18878734a0c46b88ed78d9f8bb984",
+      "pages": [
+        109
+      ],
+      "requiresReformWarning": false,
+      "scope": "Identificación de cuerpo normativo y número en esta coincidencia; no certifica vigencia ni descarta relaciones implícitas."
+    },
+    {
+      "id": "CI-nota-221",
+      "classification": "coincidencia-en-otro-dispositivo",
+      "resolvedBodyEs": "Modelo de Estatuto de Iglesia Local, art.27",
+      "resolvedBodyPt": "Modelo de Estatuto de Igreja Local, art.27",
+      "resolvedTargets": [
+        "EST-IG-art-27"
+      ],
+      "evidencePt": "Art. 27",
+      "findingEs": "La nota identifica el modelo de iglesia local; EC3 cambia CI art.27. La igualdad de número no demuestra modificación de este artículo del modelo.",
+      "findingPt": "A nota identifica o modelo de igreja local; EC3 altera CI art.27. A igualdade do número não comprova alteração desse artigo do modelo.",
+      "originalHash": "d3a9c28b0b33f58a30423c871ac1dd69b6daa48aaab1351777719da3b1dd2bd9",
+      "translationHash": "6edf4368903a470f02581f81891510ab9dc3dd7e3cc23aad7e80ecea6ac863df",
+      "pages": [
+        109
+      ],
+      "requiresReformWarning": false,
+      "scope": "Identificación de cuerpo normativo y número en esta coincidencia; no certifica vigencia ni descarta relaciones implícitas."
+    },
+    {
+      "id": "CI-nota-223",
+      "classification": "coincidencia-en-otro-dispositivo",
+      "resolvedBodyEs": "Modelo de Estatuto de Iglesia Local, art.27",
+      "resolvedBodyPt": "Modelo de Estatuto de Igreja Local, art.27",
+      "resolvedTargets": [
+        "EST-IG-art-27"
+      ],
+      "evidencePt": "Art. 27",
+      "findingEs": "La nota identifica el modelo de iglesia local; EC3 cambia CI art.27. La igualdad de número no demuestra modificación de este artículo del modelo.",
+      "findingPt": "A nota identifica o modelo de igreja local; EC3 altera CI art.27. A igualdade do número não comprova alteração desse artigo do modelo.",
+      "originalHash": "b2e386832c87753e2fb1ce8c0862afc360684ff5e1804f771b6b1b6d833cf1dc",
+      "translationHash": "8bdcf23e6d4815522a7b47f1aeb98c545629b0f91a1080e0a965c8d3b4ae76e6",
+      "pages": [
+        110
+      ],
+      "requiresReformWarning": false,
+      "scope": "Identificación de cuerpo normativo y número en esta coincidencia; no certifica vigencia ni descarta relaciones implícitas."
+    },
+    {
+      "id": "CI-nota-311",
+      "classification": "coincidencia-en-otro-dispositivo",
+      "resolvedBodyEs": "Modelo de Estatuto del Presbiterio, art.8",
+      "resolvedBodyPt": "Modelo de Estatuto do Presbitério, art.8",
+      "resolvedTargets": [
+        "EST-PRE-art-8"
+      ],
+      "evidencePt": "art. 8",
+      "findingEs": "La referencia identifica el modelo presbiterial, no RI-CE art.8. Las afirmaciones laborales citadas se mantienen como contenido histórico de la resolución, sin validación jurídica actual en este examen.",
+      "findingPt": "A referência identifica o modelo presbiterial, não RI-CE art.8. As afirmações trabalhistas citadas são conservadas como conteúdo histórico da resolução, sem validação jurídica atual neste exame.",
+      "originalHash": "6d58eccb8acc8aa90e2eb5b72d9ae4522ed60affeb116890e6c00f5219428b86",
+      "translationHash": "d276993b16433869365c4917c6d6dcbc3b052bfad8c26c68e7bacf4640d9958d",
+      "pages": [
+        136
+      ],
+      "requiresReformWarning": false,
+      "scope": "Identificación de cuerpo normativo y número en esta coincidencia; no certifica vigencia ni descarta relaciones implícitas."
+    },
+    {
+      "id": "CI-nota-313",
+      "classification": "coincidencia-en-otro-dispositivo",
+      "resolvedBodyEs": "Principios de Liturgia, art.27",
+      "resolvedBodyPt": "Princípios de Liturgia, art.27",
+      "resolvedTargets": [
+        "PL-art-27"
+      ],
+      "evidencePt": "PL",
+      "findingEs": "La abreviatura PL identifica Liturgia; EC3 modifica CI art.27 y no este artículo.",
+      "findingPt": "A abreviatura PL identifica Liturgia; EC3 altera CI art.27, não este artigo.",
+      "originalHash": "2d7a4c16eb8c3b7b95bbe0811f63cfe2acc9b25da122d61c506e6db84eb234bc",
+      "translationHash": "dd71df8cdca20c7c026c1fc3d2fba5e3d3fc155acc077777437ce7df6169e0cd",
+      "pages": [
+        137
+      ],
+      "requiresReformWarning": false,
+      "scope": "Identificación de cuerpo normativo y número en esta coincidencia; no certifica vigencia ni descarta relaciones implícitas."
+    },
+    {
+      "id": "CI-nota-356",
+      "classification": "coincidencia-en-otro-dispositivo",
+      "resolvedBodyEs": "Modelo histórico de Estatuto de Iglesia Local, art.3, cap.V, citado en SC1954-CVI",
+      "resolvedBodyPt": "Modelo histórico de Estatuto de Igreja Local, art.3, cap.V, citado em SC1954-CVI",
+      "resolvedTargets": [],
+      "evidencePt": "Cap. V",
+      "findingEs": "La cita de 1954 identifica un modelo histórico de estatuto, no el Reglamento de Actas. No se equipara ese art.3 histórico al art.3 de un modelo actual ni se declara actualizado todo el régimen de modelos.",
+      "findingPt": "A citação de 1954 identifica um modelo histórico de estatuto, não o Regulamento de Atas. Não se equipara esse art.3 histórico ao art.3 de um modelo atual nem se declara atualizado todo o regime dos modelos.",
+      "originalHash": "4cec4c6025fed439013617bd0b0dadec88badd89fd5c83ff88b77a4571fa6485",
+      "translationHash": "925ecb346249c729211c99bb1063aadc79e56b5f39889855dd2605eeb4bdb8c0",
+      "pages": [
+        154
+      ],
+      "requiresReformWarning": false,
+      "scope": "Identificación de cuerpo normativo y número en esta coincidencia; no certifica vigencia ni descarta relaciones implícitas."
+    },
+    {
+      "id": "CD-nota-4",
+      "classification": "coincidencia-en-otro-dispositivo",
+      "resolvedBodyEs": "Código de Disciplina, art.3",
+      "resolvedBodyPt": "Código de Disciplina, art.3",
+      "resolvedTargets": [
+        "CD-art-3"
+      ],
+      "evidencePt": "Art. 3",
+      "findingEs": "Remisión en la sección del CD y contexto de procedimiento disciplinar. No es art.3 del Reglamento de Actas. La cuestión histórica de admisión de menores no se reevalúa jurídicamente aquí.",
+      "findingPt": "Remissão na seção do CD e contexto de procedimento disciplinar. Não é art.3 do Regulamento de Atas. A questão histórica da admissão de menores não é reavaliada juridicamente aqui.",
+      "originalHash": "5c863abfceb5b99856e9f19bdd92a321d868e376a08ea3581e44896bac875901",
+      "translationHash": "4f9fe9b5a6a4a0719a3fd56adef1acbfb913627134093e6292fe10a714eb1040",
+      "pages": [
+        168
+      ],
+      "requiresReformWarning": false,
+      "scope": "Identificación de cuerpo normativo y número en esta coincidencia; no certifica vigencia ni descarta relaciones implícitas."
+    },
+    {
+      "id": "CD-nota-28",
+      "classification": "coincidencia-en-otro-dispositivo",
+      "resolvedBodyEs": "Código de Disciplina, art.8",
+      "resolvedBodyPt": "Código de Disciplina, art.8",
+      "resolvedTargets": [
+        "CD-art-8"
+      ],
+      "evidencePt": "Art. 8",
+      "findingEs": "La nota se encuentra en el CD y reproduce una sentencia sobre defensa procesal. La coincidencia con el número 8 no corresponde al RI-CE art.8 ni cambia la sentencia.",
+      "findingPt": "A nota está no CD e reproduz um julgamento sobre defesa processual. A coincidência com o número 8 não corresponde ao RI-CE art.8 nem altera o julgamento.",
+      "originalHash": "d35a5d90da521195f288e06e4119c2cdc42de08f92fdf60943945120559f509c",
+      "translationHash": "fc7a543579c3e7b4c27d797acf69d0749562a258ed721dba7f6bb99c38104199",
+      "pages": [
+        176
+      ],
+      "requiresReformWarning": false,
+      "scope": "Identificación de cuerpo normativo y número en esta coincidencia; no certifica vigencia ni descarta relaciones implícitas."
+    },
+    {
+      "id": "CD-nota-52",
+      "classification": "coincidencia-en-otro-dispositivo",
+      "resolvedBodyEs": "Código de Disciplina, art.27 §2",
+      "resolvedBodyPt": "Código de Disciplina, art.27 §2",
+      "resolvedTargets": [
+        "CD-art-27"
+      ],
+      "evidencePt": "Art. 27",
+      "findingEs": "Remisión interna del CD, junto con su art.36. No es CI art.27 ni su reforma de membresía conciliar.",
+      "findingPt": "Remissão interna do CD, junto com seu art.36. Não é CI art.27 nem sua alteração da membresia conciliar.",
+      "originalHash": "6930a99af4a62c5e798e7b787ba1f997dd8a0f40ce1ea19a2a99e5a8dc0483cd",
+      "translationHash": "65c4faa8a7f804fbedd460a166cd349600a7c975f1ff6e27761bf03bf05ecd9a",
+      "pages": [
+        189
+      ],
+      "requiresReformWarning": false,
+      "scope": "Identificación de cuerpo normativo y número en esta coincidencia; no certifica vigencia ni descarta relaciones implícitas."
+    },
+    {
+      "id": "CD-nota-62",
+      "classification": "coincidencia-en-otro-dispositivo",
+      "resolvedBodyEs": "Código de Disciplina, art.44",
+      "resolvedBodyPt": "Código de Disciplina, art.44",
+      "resolvedTargets": [
+        "CD-art-44"
+      ],
+      "evidencePt": "44",
+      "findingEs": "Remisiones internas del CD; no se refieren al pastor emérito regulado por CI art.44. La EC4 no modifica por igualdad numérica las normas procesales del CD.",
+      "findingPt": "Remissões internas do CD; não se referem ao pastor emérito regulado pela CI art.44. EC4 não altera, por igualdade numérica, as normas processuais do CD.",
+      "originalHash": "ebb95b32a11938381a898d47643f2b4f29e307c54250d0ff2fe70e0e1ed3a444",
+      "translationHash": "a1850d2cf8beb3b4f13fe1878900ded74eae142b89313eaf1283845c4d5cf844",
+      "pages": [
+        191
+      ],
+      "requiresReformWarning": false,
+      "scope": "Identificación de cuerpo normativo y número en esta coincidencia; no certifica vigencia ni descarta relaciones implícitas."
+    },
+    {
+      "id": "CD-nota-63",
+      "classification": "coincidencia-en-otro-dispositivo",
+      "resolvedBodyEs": "Código de Disciplina, art.44",
+      "resolvedBodyPt": "Código de Disciplina, art.44",
+      "resolvedTargets": [
+        "CD-art-44"
+      ],
+      "evidencePt": "44",
+      "findingEs": "Remisiones internas del CD; no se refieren al pastor emérito regulado por CI art.44. La EC4 no modifica por igualdad numérica las normas procesales del CD.",
+      "findingPt": "Remissões internas do CD; não se referem ao pastor emérito regulado pela CI art.44. EC4 não altera, por igualdade numérica, as normas processuais do CD.",
+      "originalHash": "e3cfb4a1505ed0925648411ea625d2b62f52802944011553e32d972e611fc799",
+      "translationHash": "27aa80761adeba0d85483090ad945fa8723dd53e232560467c0a178d4dd9a173",
+      "pages": [
+        191
+      ],
+      "requiresReformWarning": false,
+      "scope": "Identificación de cuerpo normativo y número en esta coincidencia; no certifica vigencia ni descarta relaciones implícitas."
+    },
+    {
+      "id": "CD-nota-68",
+      "classification": "coincidencia-en-otro-dispositivo",
+      "resolvedBodyEs": "Código de Disciplina, art.44",
+      "resolvedBodyPt": "Código de Disciplina, art.44",
+      "resolvedTargets": [
+        "CD-art-44"
+      ],
+      "evidencePt": "44",
+      "findingEs": "Remisiones internas del CD; no se refieren al pastor emérito regulado por CI art.44. La EC4 no modifica por igualdad numérica las normas procesales del CD.",
+      "findingPt": "Remissões internas do CD; não se referem ao pastor emérito regulado pela CI art.44. EC4 não altera, por igualdade numérica, as normas processuais do CD.",
+      "originalHash": "0f7d4b66308bc85066bbea165dfd674c4767101d9924d0f25857a87b3e4134fc",
+      "translationHash": "c80d89844f3ece18caaa495f512d1a3c01a2ff85a92f0008a4ceea9c65778ca5",
+      "pages": [
+        193
+      ],
+      "requiresReformWarning": false,
+      "scope": "Identificación de cuerpo normativo y número en esta coincidencia; no certifica vigencia ni descarta relaciones implícitas."
+    },
+    {
+      "id": "EST-SIN-nota-2",
+      "classification": "coincidencia-en-otro-dispositivo",
+      "resolvedBodyEs": "Modelo histórico de Estatuto de Iglesia Local, art.3, cap.V, citado en SC1954-CVI",
+      "resolvedBodyPt": "Modelo histórico de Estatuto de Igreja Local, art.3, cap.V, citado em SC1954-CVI",
+      "resolvedTargets": [],
+      "evidencePt": "Cap. V",
+      "findingEs": "La cita de 1954 identifica un modelo histórico de estatuto, no el Reglamento de Actas. No se equipara ese art.3 histórico al art.3 de un modelo actual ni se declara actualizado todo el régimen de modelos.",
+      "findingPt": "A citação de 1954 identifica um modelo histórico de estatuto, não o Regulamento de Atas. Não se equipara esse art.3 histórico ao art.3 de um modelo atual nem se declara atualizado todo o regime dos modelos.",
+      "originalHash": "93f357a858057708b91c9458133beb03a165256e476691f4773ae368edac80fc",
+      "translationHash": "9e64558d35a51adf64ae3c2129088fd00a20cb9b10103a8ed68e470cbd418d01",
+      "pages": [
+        357
+      ],
+      "requiresReformWarning": false,
+      "scope": "Identificación de cuerpo normativo y número en esta coincidencia; no certifica vigencia ni descarta relaciones implícitas."
+    },
+    {
+      "id": "EST-SIN-nota-9",
+      "classification": "coincidencia-en-otro-dispositivo",
+      "resolvedBodyEs": "Código Civil brasileño, art.44",
+      "resolvedBodyPt": "Código Civil brasileiro, art.44",
+      "resolvedTargets": [],
+      "evidencePt": "44",
+      "findingEs": "La cita nombra el Código Civil y personas jurídicas u organizaciones religiosas. No es CI art.44 sobre pastor emérito. Las transcripciones y opiniones jurídicas de las resoluciones históricas se conservan, sin verificarlas como legislación vigente ni brindar una conclusión jurídica actual.",
+      "findingPt": "A citação nomeia o Código Civil e pessoas jurídicas ou organizações religiosas. Não é CI art.44 sobre pastor emérito. Conservadas as transcrições e opiniões jurídicas das resoluções históricas, sem verificá-las como legislação vigente nem oferecer conclusão jurídica atual.",
+      "originalHash": "de6ea3bea25f8231d1a0c81658b5e50badcc60f365c1c4744dc39517bc153bb7",
+      "translationHash": "97adf0b41a2120c3b382176dd78aeec1c003992eeb004cf6cd6ab56029d2de14",
+      "pages": [
+        365,
+        366
+      ],
+      "requiresReformWarning": false,
+      "scope": "Identificación de cuerpo normativo y número en esta coincidencia; no certifica vigencia ni descarta relaciones implícitas."
+    },
+    {
+      "id": "EST-PRE-nota-1",
+      "classification": "coincidencia-en-otro-dispositivo",
+      "resolvedBodyEs": "Código Civil brasileño, art.44",
+      "resolvedBodyPt": "Código Civil brasileiro, art.44",
+      "resolvedTargets": [],
+      "evidencePt": "44",
+      "findingEs": "La cita nombra el Código Civil y personas jurídicas u organizaciones religiosas. No es CI art.44 sobre pastor emérito. Las transcripciones y opiniones jurídicas de las resoluciones históricas se conservan, sin verificarlas como legislación vigente ni brindar una conclusión jurídica actual.",
+      "findingPt": "A citação nomeia o Código Civil e pessoas jurídicas ou organizações religiosas. Não é CI art.44 sobre pastor emérito. Conservadas as transcrições e opiniões jurídicas das resoluções históricas, sem verificá-las como legislação vigente nem oferecer conclusão jurídica atual.",
+      "originalHash": "80d590b5c100d8893d9dc2d38c961c82a015cdb1368d0c5fc2eecfa49255a497",
+      "translationHash": "f622d4c5ed0f81cfbc9d7dc3dc4670e5ddd21e3cac9a8b3337b205957ad6d960",
+      "pages": [
+        421
+      ],
+      "requiresReformWarning": false,
+      "scope": "Identificación de cuerpo normativo y número en esta coincidencia; no certifica vigencia ni descarta relaciones implícitas."
+    },
+    {
+      "id": "EST-PRE-nota-5",
+      "classification": "coincidencia-en-otro-dispositivo",
+      "resolvedBodyEs": "Constitución IPB, art.3",
+      "resolvedBodyPt": "Constituição IPB, art.3",
+      "resolvedTargets": [
+        "CI-art-3"
+      ],
+      "evidencePt": "Art. 3",
+      "findingEs": "La remisión pertenece a la Constitución y no al artículo 3 del Reglamento de Actas modificado por CE2026-CII. Se identifica sólo el cuerpo y número del pasaje.",
+      "findingPt": "A remissão pertence à Constituição, não ao artigo 3 do Regulamento de Atas alterado por CE2026-CII. Identificados apenas o diploma e número da passagem.",
+      "originalHash": "4ae133047552fed679fe1c35cd3b453b1b2dfe170d97704e7fb854b27e8d515c",
+      "translationHash": "798256052c52254448577fe8938b267a7191e70237c9ee920d2dbf016a7f5892",
+      "pages": [
+        422
+      ],
+      "requiresReformWarning": false,
+      "scope": "Identificación de cuerpo normativo y número en esta coincidencia; no certifica vigencia ni descarta relaciones implícitas."
+    },
+    {
+      "id": "EST-PRE-nota-55",
+      "classification": "coincidencia-en-otro-dispositivo",
+      "resolvedBodyEs": "Modelo de Reglamento Interno del Presbiterio, art.3",
+      "resolvedBodyPt": "Modelo de Regimento Interno do Presbitério, art.3",
+      "resolvedTargets": [
+        "RI-PRE-art-3"
+      ],
+      "evidencePt": "art. 3",
+      "findingEs": "La nota identifica el modelo de RI del Presbiterio, no el art.3 del Reglamento de Actas.",
+      "findingPt": "A nota identifica o modelo de RI do Presbitério, não o art.3 do Regulamento de Atas.",
+      "originalHash": "c0d51300f64c6da3e31b7c3b2749d630eb171cbcf149793abfbd9bec9f8e6003",
+      "translationHash": "ea0e28f1f8cf234e13890b717979232d129944b99704e023ac4cdcf902321a5c",
+      "pages": [
+        430
+      ],
+      "requiresReformWarning": false,
+      "scope": "Identificación de cuerpo normativo y número en esta coincidencia; no certifica vigencia ni descarta relaciones implícitas."
+    },
+    {
+      "id": "EST-PRE-nota-58",
+      "classification": "coincidencia-en-otro-dispositivo",
+      "resolvedBodyEs": "Modelo de Reglamento Interno del Presbiterio, art.3",
+      "resolvedBodyPt": "Modelo de Regimento Interno do Presbitério, art.3",
+      "resolvedTargets": [
+        "RI-PRE-art-3"
+      ],
+      "evidencePt": "art. 3",
+      "findingEs": "La nota identifica el modelo de RI del Presbiterio, no el art.3 del Reglamento de Actas.",
+      "findingPt": "A nota identifica o modelo de RI do Presbitério, não o art.3 do Regulamento de Atas.",
+      "originalHash": "9a172488bf5b8551aef40dd7062427a5072214afafeab1c4088a52a710313e8e",
+      "translationHash": "4128bbe640ba4bfa26e7a7347718ae44b1962d3f0ee06e1e2e5b738237df6a51",
+      "pages": [
+        431
+      ],
+      "requiresReformWarning": false,
+      "scope": "Identificación de cuerpo normativo y número en esta coincidencia; no certifica vigencia ni descarta relaciones implícitas."
+    },
+    {
+      "id": "EST-PRE-nota-85",
+      "classification": "coincidencia-en-otro-dispositivo",
+      "resolvedBodyEs": "Reglamento Interno del Supremo Concilio, art.3, en la resolución de 1995",
+      "resolvedBodyPt": "Regimento Interno do Supremo Concílio, art.3, na resolução de 1995",
+      "resolvedTargets": [
+        "RI-SC-art-3"
+      ],
+      "evidencePt": "art. 3",
+      "findingEs": "El contexto identifica elección de la Mesa del Supremo Concilio y su RI. No es el art.3 del Reglamento de Actas. La vacancia descrita y las cifras del voto se conservan como caso histórico, sin extenderlo a una reforma general.",
+      "findingPt": "O contexto identifica eleição da Mesa do Supremo Concílio e seu RI. Não é o art.3 do Regulamento de Atas. A vacância descrita e os números da votação são conservados como caso histórico, sem estendê-lo a uma alteração geral.",
+      "originalHash": "9fabdffd77c2bc567e0b7bfdeff85a02e1e22331615b097cbbd3887d82f1f4a9",
+      "translationHash": "642bc377246599fbdf3ea69df386741fe67532aaff7509585065ff76227b1759",
+      "pages": [
+        436,
+        437
+      ],
+      "requiresReformWarning": false,
+      "scope": "Identificación de cuerpo normativo y número en esta coincidencia; no certifica vigencia ni descarta relaciones implícitas."
+    },
+    {
+      "id": "EST-PRE-nota-89",
+      "classification": "coincidencia-en-otro-dispositivo",
+      "resolvedBodyEs": "Modelo de Reglamento Interno del Presbiterio, art.8 §2",
+      "resolvedBodyPt": "Modelo de Regimento Interno do Presbitério, art.8 §2",
+      "resolvedTargets": [
+        "RI-PRE-art-8"
+      ],
+      "evidencePt": "Art. 8",
+      "findingEs": "La nota nombra el modelo de RI presbiterial; no es RI-CE art.8 ni su inciso X principal.",
+      "findingPt": "A nota nomeia o modelo de RI presbiterial; não é RI-CE art.8 nem seu inciso X principal.",
+      "originalHash": "8666f1753754e55a63ad5361df153d57fe5c1a30fea3187cb9429e2fb1201e63",
+      "translationHash": "feae1b024a4fca03d737873fe8ba22cd379ad18e2f6dd9ff5322125dcfb70182",
+      "pages": [
+        437
+      ],
+      "requiresReformWarning": false,
+      "scope": "Identificación de cuerpo normativo y número en esta coincidencia; no certifica vigencia ni descarta relaciones implícitas."
+    },
+    {
+      "id": "EST-PRE-nota-100",
+      "classification": "coincidencia-en-otro-dispositivo",
+      "resolvedBodyEs": "Modelo de Estatuto del Presbiterio, art.27 inciso I",
+      "resolvedBodyPt": "Modelo de Estatuto do Presbitério, art.27 inciso I",
+      "resolvedTargets": [
+        "EST-PRE-art-27"
+      ],
+      "evidencePt": "Art. 27",
+      "findingEs": "Remisión interna al art.27 inciso I del modelo presbiterial, cuyo esquema no es el de CI art.27. Se conserva la referencia; no se introduce EC3 en ese artículo por inferencia.",
+      "findingPt": "Remissão interna ao art.27 inciso I do modelo presbiterial, cujo esquema não é o da CI art.27. Conservada a referência; não se introduz EC3 nesse artigo por inferência.",
+      "originalHash": "a12acb90c5174a253453b01168735da656c8fa0762ac7bba3e7ba0c83b202cfe",
+      "translationHash": "a12acb90c5174a253453b01168735da656c8fa0762ac7bba3e7ba0c83b202cfe",
+      "pages": [
+        439
+      ],
+      "requiresReformWarning": false,
+      "scope": "Identificación de cuerpo normativo y número en esta coincidencia; no certifica vigencia ni descarta relaciones implícitas."
+    },
+    {
+      "id": "EST-PRE-nota-116",
+      "classification": "coincidencia-en-otro-dispositivo",
+      "resolvedBodyEs": "Código de Disciplina, art.8",
+      "resolvedBodyPt": "Código de Disciplina, art.8",
+      "resolvedTargets": [
+        "CD-art-8"
+      ],
+      "evidencePt": "CD",
+      "findingEs": "La abreviatura CD identifica el Código de Disciplina. No es RI-CE art.8.",
+      "findingPt": "A abreviatura CD identifica o Código de Disciplina. Não é RI-CE art.8.",
+      "originalHash": "85925ed6d595b45704ba1d56a8566f390fa48185baa6fdd175448cb4278080b5",
+      "translationHash": "b7d804dd8a662dccc8727aa0ef20841eb5b81a1ec62b6b43357c0c73415a4d26",
+      "pages": [
+        445
+      ],
+      "requiresReformWarning": false,
+      "scope": "Identificación de cuerpo normativo y número en esta coincidencia; no certifica vigencia ni descarta relaciones implícitas."
+    },
+    {
+      "id": "EST-PRE-nota-135",
+      "classification": "coincidencia-en-otro-dispositivo",
+      "resolvedBodyEs": "Código Civil brasileño, art.44",
+      "resolvedBodyPt": "Código Civil brasileiro, art.44",
+      "resolvedTargets": [],
+      "evidencePt": "44",
+      "findingEs": "La cita nombra el Código Civil y personas jurídicas u organizaciones religiosas. No es CI art.44 sobre pastor emérito. Las transcripciones y opiniones jurídicas de las resoluciones históricas se conservan, sin verificarlas como legislación vigente ni brindar una conclusión jurídica actual.",
+      "findingPt": "A citação nomeia o Código Civil e pessoas jurídicas ou organizações religiosas. Não é CI art.44 sobre pastor emérito. Conservadas as transcrições e opiniões jurídicas das resoluções históricas, sem verificá-las como legislação vigente nem oferecer conclusão jurídica atual.",
+      "originalHash": "620f13b6506b9a204c6fe296b146a000c22d2718f0df6deb0d41fe7009296dff",
+      "translationHash": "c13622f27c2b262e6bc083465ea2d04b65d6f269d912de6f1858c016d0e48c82",
+      "pages": [
+        448,
+        449
+      ],
+      "requiresReformWarning": false,
+      "scope": "Identificación de cuerpo normativo y número en esta coincidencia; no certifica vigencia ni descarta relaciones implícitas."
+    },
+    {
+      "id": "EST-IG-nota-1",
+      "classification": "coincidencia-en-otro-dispositivo",
+      "resolvedBodyEs": "Modelo histórico de Estatuto de Iglesia Local, art.3, cap.V, citado en SC1954-CVI",
+      "resolvedBodyPt": "Modelo histórico de Estatuto de Igreja Local, art.3, cap.V, citado em SC1954-CVI",
+      "resolvedTargets": [],
+      "evidencePt": "Cap. V",
+      "findingEs": "La cita de 1954 identifica un modelo histórico de estatuto, no el Reglamento de Actas. No se equipara ese art.3 histórico al art.3 de un modelo actual ni se declara actualizado todo el régimen de modelos.",
+      "findingPt": "A citação de 1954 identifica um modelo histórico de estatuto, não o Regulamento de Atas. Não se equipara esse art.3 histórico ao art.3 de um modelo atual nem se declara atualizado todo o regime dos modelos.",
+      "originalHash": "6bc8da5b762d59c3dc0e70513260e86cd925cd2f40b335c2f106dcea2db1f543",
+      "translationHash": "a864475ba4d0e4c8d230aca5d25744eb1d56aded2126bb23d6a0c2e9e116b81d",
+      "pages": [
+        511
+      ],
+      "requiresReformWarning": false,
+      "scope": "Identificación de cuerpo normativo y número en esta coincidencia; no certifica vigencia ni descarta relaciones implícitas."
+    },
+    {
+      "id": "EST-IG-nota-2",
+      "classification": "coincidencia-en-otro-dispositivo",
+      "resolvedBodyEs": "Código Civil brasileño, art.44",
+      "resolvedBodyPt": "Código Civil brasileiro, art.44",
+      "resolvedTargets": [],
+      "evidencePt": "44",
+      "findingEs": "La cita nombra el Código Civil y personas jurídicas u organizaciones religiosas. No es CI art.44 sobre pastor emérito. Las transcripciones y opiniones jurídicas de las resoluciones históricas se conservan, sin verificarlas como legislación vigente ni brindar una conclusión jurídica actual.",
+      "findingPt": "A citação nomeia o Código Civil e pessoas jurídicas ou organizações religiosas. Não é CI art.44 sobre pastor emérito. Conservadas as transcrições e opiniões jurídicas das resoluções históricas, sem verificá-las como legislação vigente nem oferecer conclusão jurídica atual.",
+      "originalHash": "9b2851fffc399850417fa5536366a98bb604b32133b78c8d809d3ddc283bf550",
+      "translationHash": "6a2f5f1dac4070095023a8323179832fa703cd5c0242d791878d6b0af4de60c3",
+      "pages": [
+        511,
+        512
+      ],
+      "requiresReformWarning": false,
+      "scope": "Identificación de cuerpo normativo y número en esta coincidencia; no certifica vigencia ni descarta relaciones implícitas."
+    },
+    {
+      "id": "EST-IG-nota-3",
+      "classification": "coincidencia-en-otro-dispositivo",
+      "resolvedBodyEs": "Código Civil brasileño, art.44",
+      "resolvedBodyPt": "Código Civil brasileiro, art.44",
+      "resolvedTargets": [],
+      "evidencePt": "44",
+      "findingEs": "La cita nombra el Código Civil y personas jurídicas u organizaciones religiosas. No es CI art.44 sobre pastor emérito. Las transcripciones y opiniones jurídicas de las resoluciones históricas se conservan, sin verificarlas como legislación vigente ni brindar una conclusión jurídica actual.",
+      "findingPt": "A citação nomeia o Código Civil e pessoas jurídicas ou organizações religiosas. Não é CI art.44 sobre pastor emérito. Conservadas as transcrições e opiniões jurídicas das resoluções históricas, sem verificá-las como legislação vigente nem oferecer conclusão jurídica atual.",
+      "originalHash": "f4fc36d380949ca3daaf16495685b10bf66c6f28f843a895c26646d43fe45e88",
+      "translationHash": "be9603ef7eae5d8cf63e200c32e0989f4fcf437773eef494c7958afcdce9c20d",
+      "pages": [
+        512
+      ],
+      "requiresReformWarning": false,
+      "scope": "Identificación de cuerpo normativo y número en esta coincidencia; no certifica vigencia ni descarta relaciones implícitas."
+    },
+    {
+      "id": "EST-IG-nota-9",
+      "classification": "coincidencia-en-otro-dispositivo",
+      "resolvedBodyEs": "Constitución IPB, arts.3 §2 y 8 caput",
+      "resolvedBodyPt": "Constituição IPB, arts.3 §2 e 8 caput",
+      "resolvedTargets": [
+        "CI-art-3",
+        "CI-art-8"
+      ],
+      "evidencePt": "da CI/IPB",
+      "findingEs": "Ambos cuerpos y números están identificados como CI: no son ATAS art.3 ni RI-CE art.8.",
+      "findingPt": "Ambos os números são identificados como CI: não são ATAS art.3 nem RI-CE art.8.",
+      "originalHash": "3f968fb1c8b33308bd480f7c65c07d904f0f1aecb7ad13c6162a2059ac8cda05",
+      "translationHash": "cea12d8975942dae64a3bb9e3483806d370d2f3f508e7cb6627065570cc21bde",
+      "pages": [
+        513
+      ],
+      "requiresReformWarning": false,
+      "scope": "Identificación de cuerpo normativo y número en esta coincidencia; no certifica vigencia ni descarta relaciones implícitas."
+    },
+    {
+      "id": "EST-IG-nota-87",
+      "classification": "coincidencia-en-otro-dispositivo",
+      "resolvedBodyEs": "Constitución IPB, art.8",
+      "resolvedBodyPt": "Constituição IPB, art.8",
+      "resolvedTargets": [
+        "CI-art-8"
+      ],
+      "evidencePt": "Art. 8",
+      "findingEs": "La referencia versa sobre gobierno y Consejo en CI art.8; no corresponde al inciso X de RI-CE art.8. No se interpreta aquí la vigencia general de los criterios históricos de quórum.",
+      "findingPt": "A referência trata de governo e Conselho em CI art.8; não corresponde ao inciso X de RI-CE art.8. Não se interpreta aqui a vigência geral dos critérios históricos de quórum.",
+      "originalHash": "aadc53160a7b7ff73d33098987f0caf4a4e6f6f6f2c5ecae532714e85e0ccb90",
+      "translationHash": "0de2f7116446ced033675f9d2633023a2edcb2ae7dc3f9b6b1f1ef61506bf8fd",
+      "pages": [
+        526
+      ],
+      "requiresReformWarning": false,
+      "scope": "Identificación de cuerpo normativo y número en esta coincidencia; no certifica vigencia ni descarta relaciones implícitas."
+    },
+    {
+      "id": "EST-IG-nota-88",
+      "classification": "coincidencia-en-otro-dispositivo",
+      "resolvedBodyEs": "Modelo de Estatuto de Iglesia Local, art.27",
+      "resolvedBodyPt": "Modelo de Estatuto de Igreja Local, art.27",
+      "resolvedTargets": [
+        "EST-IG-art-27"
+      ],
+      "evidencePt": "Art. 27",
+      "findingEs": "La nota identifica el modelo de iglesia local; EC3 cambia CI art.27. La igualdad de número no demuestra modificación de este artículo del modelo.",
+      "findingPt": "A nota identifica o modelo de igreja local; EC3 altera CI art.27. A igualdade do número não comprova alteração desse artigo do modelo.",
+      "originalHash": "89bdb128f253264479db92ec5bf8712d639ba9fac7f575ccf45bbe20ec8bf81a",
+      "translationHash": "0f7ef1874ce21384017b5bf32993af55b569384a6cef7c79beea51ea96dfe7bc",
+      "pages": [
+        526
+      ],
+      "requiresReformWarning": false,
+      "scope": "Identificación de cuerpo normativo y número en esta coincidencia; no certifica vigencia ni descarta relaciones implícitas."
+    },
+    {
+      "id": "EST-IG-nota-100",
+      "classification": "coincidencia-en-otro-dispositivo",
+      "resolvedBodyEs": "Código de Disciplina, art.8",
+      "resolvedBodyPt": "Código de Disciplina, art.8",
+      "resolvedTargets": [
+        "CD-art-8"
+      ],
+      "evidencePt": "CD",
+      "findingEs": "La abreviatura CD identifica el Código de Disciplina. No es RI-CE art.8.",
+      "findingPt": "A abreviatura CD identifica o Código de Disciplina. Não é RI-CE art.8.",
+      "originalHash": "ae86804662e169647c410a6f0e0f3979da1fde5aa17d8cf2374c974dadb87a95",
+      "translationHash": "41b267b3a5822100f3816ac7583def9760cc059b78e754164a17944231074a54",
+      "pages": [
+        529
+      ],
+      "requiresReformWarning": false,
+      "scope": "Identificación de cuerpo normativo y número en esta coincidencia; no certifica vigencia ni descarta relaciones implícitas."
+    }
+  ],
+  "globalCompatibilityReviewComplete": false,
+  "officialApproval": false,
+  "externalCertification": false,
+  "sourcePDFSHA256": {
+    "manual": "2d8b728004e32995ee5f1600a7e4e0da94a7124e253bf1fac5322a2b93a083a3",
+    "digesto": "e82955017938a555ab31a699d125b48fdfce686dd03d69b7b8dbbad1b03c2482"
+  }
+}
